@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: Here goes your business main value proposition
+      text: We are Rement
       color: text-dark
       styles:
         self:
@@ -349,7 +349,7 @@ sections:
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
-        subtitle: Maria Walters, Company
+        subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -378,7 +378,7 @@ sections:
           “Quote from some important person goes right here. I love using
           Stackbit.”
         tagline: Testimonial 2
-        subtitle: Jane Doe, Company
+        subtitle: 'Jane Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
