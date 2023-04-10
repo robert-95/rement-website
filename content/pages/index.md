@@ -226,6 +226,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+            borderWidth: 2
       - title: Skalierbar
         text: >
           Das Rement Verfahren kann flexibel und skalierbar auf die Bedürfnisse
