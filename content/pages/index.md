@@ -134,7 +134,7 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: Hochwertiges Recycling mit dem Rement Verfahren
+      text: Das Rement Verfahren
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
