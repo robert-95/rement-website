@@ -93,7 +93,7 @@ sections:
           width: full
           type: TextareaFormControl
       submitButton:
-        label: Submit
+        label: Absenden
         icon: arrowRight
         iconPosition: right
         style: primary
