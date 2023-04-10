@@ -13,7 +13,7 @@ sections:
           textAlign: right
     subtitle: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling'
     actions:
-      - label: Get started
+      - label: Das Rement Verfahren
         altText: ''
         url: /
         showIcon: false
