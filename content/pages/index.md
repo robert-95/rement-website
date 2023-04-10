@@ -117,7 +117,7 @@ sections:
               - pl-8
               - pb-3
               - pr-8
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
             borderColor: border-neutral
         type: FeaturedItem
