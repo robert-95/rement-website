@@ -105,7 +105,7 @@ sections:
           Kohlenstoffdioxid-Emissionen verantwortlich. Aktuell existieren keine
           skalierbaren Ansätze, dieses Kohlenstoffdioxid wieder zu binden. 
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
