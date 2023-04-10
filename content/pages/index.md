@@ -120,6 +120,7 @@ sections:
             borderRadius: medium
             flexDirection: row
             borderColor: border-neutral
+            borderWidth: 1
         type: FeaturedItem
     actions: []
     badge: null
