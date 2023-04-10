@@ -256,6 +256,7 @@ sections:
             flexDirection: row
             borderColor: border-neutral
             borderWidth: 1
+            textAlign: center
         type: FeaturedItem
     actions:
       - label: Gespräch vereinbaren
