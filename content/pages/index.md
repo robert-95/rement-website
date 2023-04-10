@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: WE dhhdbb REMENT
+      text: Für eine Betonindustrie im Kreislauf
       color: text-dark
       styles:
         self:
