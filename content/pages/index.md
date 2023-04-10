@@ -229,7 +229,6 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: 500k
-        tagline: This is the tagline
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
