@@ -4,16 +4,16 @@
 
 @font-face {
   font-family: 'Roboto Condensed';
-  src: url('../components/fonts/robotocondensed-regular.ttf') format('ttf'),
-       url('../components/fonts/robotocondensed-light.ttf') format('ttf'),
-       url('../components/fonts/robotocondensed-bold.ttf') format('ttf');
+  src: url('../components/fonts/Robotocondensed-regular.ttf') format('ttf'),
+       url('../components/fonts/Robotocondensed-light.ttf') format('ttf'),
+       url('../components/fonts/Robotocondensed-bold.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Staatliches';
-  src: url('../components/fonts/staatliches-regular.ttf') format('ttf');
+  src: url('../components/fonts/Staatliches-Regular.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
