@@ -3,7 +3,7 @@ title: Home2
 slug: /
 sections:
   - title:
-      text: WE ddddbb REMENT
+      text: WE ddbb REMENT
       color: text-dark
       styles:
         self:
