@@ -144,7 +144,7 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Hochwertiges Recycling mit dem Rement Verfahren
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
