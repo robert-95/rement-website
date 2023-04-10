@@ -1,5 +1,5 @@
 ---
-title: Home2
+title: Home
 slug: /
 sections:
   - title:
