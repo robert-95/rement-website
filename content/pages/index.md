@@ -223,7 +223,7 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
-            borderColor: border-dark
+            borderColor: border-primary
             borderWidth: 2
         type: FeaturedItem
       - title: Skalierbar
