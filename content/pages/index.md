@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/Rement-kreislauf.png
-      altText: Unblock your team boost your time to production preview
+      altText: Das Rement Verfahren in einer Skizze
       elementId: ''
       type: ImageBlock
     elementId: ''
