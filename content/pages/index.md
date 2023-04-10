@@ -177,7 +177,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Die Lösung
       color: text-primary
       type: Badge
     elementId: ''
