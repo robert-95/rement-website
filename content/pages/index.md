@@ -312,14 +312,6 @@ sections:
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
-    backgroundImage:
-      url: /images/bg.svg
-      altText: Shapes in the corners
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      type: BackgroundImage
     styles:
       self:
         justifyContent: center
