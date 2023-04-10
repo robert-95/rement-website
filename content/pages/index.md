@@ -162,7 +162,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/feature-image-two.svg
+      url: /images/rement-verfahren.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
