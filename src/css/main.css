@@ -4,9 +4,9 @@
 
 @font-face {
   font-family: 'Roboto Condensed';
-  src: url('../components/fonts/RobotoCondensed-regular.ttf') format('font/ttf'),
-       url('../components/fonts/RobotoCondensed-light.ttf') format('font/ttf'),
-       url('../components/fonts/RobotoCondensed-bold.ttf') format('font/ttf');
+  src: url('../components/fonts/RobotoCondensed-Regular.ttf') format('font/ttf'),
+       url('../components/fonts/RobotoCondensed-Light.ttf') format('font/ttf'),
+       url('../components/fonts/RobotoCondensed-Bold.ttf') format('font/ttf');
   font-weight: normal;
   font-style: normal;
 }
