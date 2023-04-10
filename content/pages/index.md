@@ -299,6 +299,7 @@ sections:
       - content/data/team/Tiya-Greenwood.json
       - content/data/team/Faizah-Chan.json
       - content/data/person-z7e0j5wgi.json
+      - content/data/person-7awggb1rp.json
     actions:
       - altText: ''
         url: /
