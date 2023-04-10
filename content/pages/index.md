@@ -303,7 +303,7 @@ sections:
     actions: []
     badge: null
     elementId: ''
-    variant: mixed-grid
+    variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
