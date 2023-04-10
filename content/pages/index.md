@@ -243,7 +243,7 @@ sections:
               - pt-8
               - pl-4
               - pb-8
-              - pr-8
+              - pr-20
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
