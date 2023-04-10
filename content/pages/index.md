@@ -300,6 +300,7 @@ sections:
       - content/data/team/Faizah-Chan.json
       - content/data/person-z7e0j5wgi.json
       - content/data/person-7awggb1rp.json
+      - content/data/person-srq137q5t.json
     actions:
       - altText: ''
         url: /
