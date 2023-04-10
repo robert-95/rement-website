@@ -39,34 +39,5 @@
     ],
     "copyrightText": "Copyright Rement 2023\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer",
-    "primaryLinks": {
-        "type": "FooterLinksGroup",
-        "title": "Company",
-        "links": [
-            {
-                "label": "About",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "altText": "",
-                "url": "/blog",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": "",
-                "type": "Link"
-            }
-        ],
-        "styles": null
-    }
+    "type": "Footer"
 }
