@@ -10,7 +10,8 @@
                 "borderRadius": "full",
                 "margin": [
                     "mb-6"
-                ]
+                ],
+                "borderWidth": 1
             }
         },
         "type": "ImageBlock"
