@@ -299,8 +299,7 @@ sections:
       - content/data/team/Tiya-Greenwood.json
       - content/data/team/Faizah-Chan.json
     actions:
-      - label: Check all team
-        altText: ''
+      - altText: ''
         url: /
         showIcon: true
         icon: arrowRight
