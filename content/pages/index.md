@@ -314,7 +314,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pl-9
+          - pl-20
           - pr-9
       subtitle:
         textAlign: center
