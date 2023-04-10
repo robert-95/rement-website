@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/android-chrome-192x192.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
