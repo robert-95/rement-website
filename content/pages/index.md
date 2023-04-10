@@ -79,6 +79,7 @@ sections:
             flexDirection: row
             justifyContent: center
             borderColor: border-neutral
+            borderWidth: 1
         type: FeaturedItem
       - title: Flächenverbrauch
         text: >
