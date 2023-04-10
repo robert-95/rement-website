@@ -163,7 +163,7 @@ sections:
         type: Link
     media:
       url: /images/rement-verfahren.svg
-      altText: Unblock your team boost your time to production preview
+      altText: Überblick über das Rement Verfahren
       elementId: ''
       type: ImageBlock
     badge:
