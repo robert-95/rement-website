@@ -164,6 +164,120 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: FeaturedItemsSection
+    title:
+      text: List of features/benefits/services
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Subtitle goes here
+    items:
+      - title: 500k
+        subtitle: Numbers Done
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          url: /images/icon-one.svg
+          altText: Featured icon one
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+        type: FeaturedItem
+      - title: 20x
+        subtitle: The Job Stuff
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          url: /images/icon-four.svg
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
+      - title: 200%
+        subtitle: Faster
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          url: /images/icon-two.svg
+          altText: Featured icon three
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
+    actions:
+      - label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Button
+    badge:
+      label: This is a badge
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    backgroundImage: null
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: Melden Sie sich gerne
       color: text-dark
