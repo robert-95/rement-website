@@ -172,7 +172,6 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
     items:
       - title: 500k
         subtitle: Numbers Done
