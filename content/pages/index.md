@@ -139,9 +139,9 @@ sections:
       color: text-dark
       type: TitleBlock
     text: >
-      A Stackbit website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Das Rement Verfahren ermöglicht die Zersetzung von Betonbruch unter
+      Bindung von Kohlenstoffdioxid. Neben den Ausgangsstoffen Sand und Kies
+      wird hochreines, wertvolles Calciumcarbonat gewonnen.
     actions: []
     media:
       url: /images/rement-verfahren.svg
