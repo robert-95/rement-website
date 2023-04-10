@@ -246,7 +246,7 @@ sections:
               - pl-4
               - pb-8
               - pr-20
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
         type: FeaturedItem
     actions:
