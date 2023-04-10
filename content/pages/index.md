@@ -86,7 +86,7 @@ sections:
           Füllmaterial bis auf unbestimmte Zeit im Straßenbau oder in Sand- und
           Kiesgruben eingesetzt. 
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
