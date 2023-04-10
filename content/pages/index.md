@@ -132,6 +132,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: Probleme vom
   - type: GenericSection
     title:
       text: Das Rement Verfahren
