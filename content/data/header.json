@@ -1,11 +1,12 @@
 {
-    "title": "Your Brand",
     "logo": {
         "url": "/images/logo-mark-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"],
+                "margin": [
+                    "mr-3"
+                ],
                 "opacity": 100
             }
         },
