@@ -64,11 +64,10 @@ sections:
       text: Melden Sie sich gerne
       color: text-dark
       type: TitleBlock
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Sie möchten mehr über das Rement Verfahren erfahren, uns genauer
+      kennenlernen oder sind an einer Zusammenarbeit interessiert? Schreiben Sie
+      uns gerne eine kurze Nachricht.
     media:
       fields:
         - name: name
