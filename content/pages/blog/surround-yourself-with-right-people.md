@@ -1,5 +1,5 @@
 ---
-title: Surround Yourself With the Right People
+title: Wir begrüßen Dr. Achim Stammer in unserem Advisory Board
 slug: surround-yourself-with-right-people
 date: '2022-10-10'
 author: content/data/team/Rhonda-Piper.json
