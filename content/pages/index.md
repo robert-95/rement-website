@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Rement-kreislauf.png
+      url: /images/rement-kreislauf.svg
       altText: Das Rement Verfahren in einer Skizze
       elementId: ''
       type: ImageBlock
