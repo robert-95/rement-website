@@ -199,7 +199,6 @@ sections:
             textAlign: left
         type: FeaturedItem
       - title: Wirtschaftlich
-        subtitle: The Job Stuff
         text: >
           Die Ausrichtung auf die Produktion von wertvollem, hochreinem und
           -feinem Calciumcarbonat ermöglicht hohe Margen. Der Verkauf von Sand,
