@@ -113,10 +113,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-3
-              - pl-8
-              - pb-3
-              - pr-8
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
             borderRadius: medium
             flexDirection: row
             borderColor: border-neutral
