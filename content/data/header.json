@@ -50,17 +50,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "type": "Link",
-            "label": null,
-            "altText": "LinkedIn",
-            "url": "linkedin.com/company/rement",
-            "showIcon": true,
-            "icon": "linkedin",
-            "iconPosition": "left",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],
