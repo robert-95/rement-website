@@ -253,7 +253,7 @@ sections:
             borderRadius: medium
             flexDirection: row
             borderColor: border-neutral
-            borderWidth: 2
+            borderWidth: 1
         type: FeaturedItem
     actions:
       - label: Kontakt aufnehmen
