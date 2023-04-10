@@ -232,7 +232,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
         type: FeaturedItem
-      - title: Skalierbar
+      - title: Flexibel
         text: >
           Das Rement Verfahren kann flexibel und skalierbar auf die Bedürfnisse
           verschiedener Anwender in der Betonindustrie wie Recyclinghöfe,
