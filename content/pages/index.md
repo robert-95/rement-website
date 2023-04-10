@@ -248,6 +248,7 @@ sections:
               - pr-20
             borderRadius: medium
             flexDirection: row
+            borderColor: border-dark
         type: FeaturedItem
     actions:
       - label: Kontakt aufnehmen
