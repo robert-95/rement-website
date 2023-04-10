@@ -198,6 +198,7 @@ sections:
             justifyContent: center
             textAlign: left
             borderColor: border-dark
+            borderWidth: 2
         type: FeaturedItem
       - title: Wirtschaftlich
         text: >
