@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: 'Roboto Condensed';
+  font-family: 'roboto-condensed-regular';
   src: url('../components/fonts/RobotoCondensed-Regular.ttf') format('font/ttf'),
        url('../components/fonts/RobotoCondensed-Light.ttf') format('font/ttf'),
        url('../components/fonts/RobotoCondensed-Bold.ttf') format('font/ttf');
