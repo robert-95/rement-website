@@ -23,8 +23,8 @@ module.exports = {
                 primary: themeStyle.primary
             },
             fontFamily: {
-                sans: ['Staatliches', 'sans-serif'],
-                serif: ['Roboto Condensed Staatliches', 'serif']
+                sans: ['Roboto Condensed ', 'sans-serif'],
+                serif: ['Staatliches', 'serif']
             },
             gridTemplateColumns: {
                 16: 'repeat(16, minmax(0, 1fr))'
