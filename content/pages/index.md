@@ -204,7 +204,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-            borderWidth: 2
+            borderWidth: 1
             borderColor: border-neutral
       - title: Wirtschaftlich
         text: >
