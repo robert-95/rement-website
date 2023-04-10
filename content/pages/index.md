@@ -301,15 +301,7 @@ sections:
       - content/data/person-z7e0j5wgi.json
       - content/data/person-7awggb1rp.json
       - content/data/person-srq137q5t.json
-    actions:
-      - altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     badge: null
     elementId: ''
     variant: three-col-grid
