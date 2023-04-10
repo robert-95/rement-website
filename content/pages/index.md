@@ -172,7 +172,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Kreislaufschluss als Wettbewerbsvorteil
+      text: Mit Rement zum Wettbewerbsvorteil
       color: text-dark
       styles:
         self:
