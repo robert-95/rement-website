@@ -138,7 +138,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    subtitle: Ungelöste Probleme von globalem Ausmaß
   - type: GenericSection
     title:
       text: Die Lösung für hochwertiges Betonrecycling
