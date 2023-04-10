@@ -71,10 +71,11 @@ sections:
     items:
       - title: Rohstoffknappheit
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          14 Milliarden Kubikmeter neues Beton pro Jahr lassen Sand und Kies
+          immer knapper werden. Sand und Kies muss in zahlreichen Gruben
+          gewonnen werden. Aufgrund der Korngröße ist Wüstensand nicht für die
+          Betonproduktion geeignet. 
         actions: []
         colors: bg-neutral-fg-dark
         styles:
