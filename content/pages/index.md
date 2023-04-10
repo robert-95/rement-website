@@ -246,7 +246,7 @@ sections:
               - pr-8
             borderRadius: medium
             flexDirection: row
-            borderColor: border-primary
+            borderColor: border-neutral
             borderWidth: 2
         type: FeaturedItem
     actions:
