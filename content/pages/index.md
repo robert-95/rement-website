@@ -197,6 +197,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+            borderColor: border-dark
         type: FeaturedItem
       - title: Wirtschaftlich
         text: >
