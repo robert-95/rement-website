@@ -6,8 +6,8 @@
 
 @font-face {
   font-family: 'Roboto Condensed';
-  src: url('./fonts/robotocondensed-regular.ttf') format('woff2'),
-       url('./fonts/roboto-condensed.woff') format('woff');
+  src: url('./fonts/robotocondensed-regular.ttf') format('ttf'),
+       url('./fonts/robotocondensed.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
