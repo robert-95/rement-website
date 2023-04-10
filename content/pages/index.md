@@ -200,10 +200,11 @@ sections:
         type: FeaturedItem
       - title: Wirtschaftlich
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Die Ausrichtung auf die Produktion von wertvollem, hochreinem und
+          -feinem Calciumcarbonat ermöglicht hohe Margen. Der Verkauf von Sand,
+          Kies und CO2 Emissionsrechten ermöglichen zusätzliche
+          Einkommensströme.
         image:
           url: /images/icon-four.svg
           altText: Featured icon two
