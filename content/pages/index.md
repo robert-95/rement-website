@@ -141,7 +141,7 @@ sections:
     subtitle: Ungelöste Probleme von globalem Ausmaß
   - type: GenericSection
     title:
-      text: Das Rement Verfahren für Betonrecycling
+      text: Das Rement Verfahren für hochwertiges Betonrecycling
       color: text-dark
       type: TitleBlock
     text: >
