@@ -110,10 +110,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: CO₂ Emissionen
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Die Zementproduktion ist für 8% der weltweiten
+          Kohlenstoffdioxid-Emissionen verantwortlich. Aktuell existieren keine
+          skalierbaren Ansätze, dieses Kohlenstoffdioxid wieder zu binden. 
         actions: []
         colors: bg-neutral-fg-dark
         styles:
