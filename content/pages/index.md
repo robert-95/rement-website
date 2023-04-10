@@ -7,6 +7,9 @@ sections:
       text: Für eine Betonindustrie im Kreislauf
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling'
     actions:
       - label: Get started
