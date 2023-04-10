@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 700
+          fontWeight: 400
           textAlign: left
     subtitle: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling'
     actions:
