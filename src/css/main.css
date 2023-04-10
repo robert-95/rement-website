@@ -6,14 +6,14 @@
   font-family: 'Roboto Condensed';
   src: url('../components/fonts/RobotoCondensed-regular.ttf') format('font/ttf'),
        url('../components/fonts/RobotoCondensed-light.ttf') format('font/ttf'),
-       url('../components/fonts/RobotoCondensed-bold.ttf') format('ttf');
+       url('../components/fonts/RobotoCondensed-bold.ttf') format('font/ttf');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Staatliches';
-  src: url('../components/fonts/Staatliches-Regular.ttf') format('ttf');
+  src: url('../components/fonts/Staatliches-Regular.ttf') format('font/ttf');
   font-weight: normal;
   font-style: normal;
 }
