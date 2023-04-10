@@ -179,6 +179,32 @@ sections:
           textAlign: center
       type: TitleBlock
     items:
+      - title: Wirtschaftlich
+        text: >
+          Die Ausrichtung auf die Produktion von wertvollem, hochreinem und
+          -feinem Calciumcarbonat ermöglicht hohe Margen. Der Verkauf von Sand,
+          Kies und CO2 Emissionsrechten ermöglichen zusätzliche
+          Einkommensströme.
+        image:
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: medium
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+            borderColor: border-neutral
+            borderWidth: 1
+        type: FeaturedItem
       - type: FeaturedItem
         title: Umweltfreundlich
         text: >
@@ -206,32 +232,6 @@ sections:
             textAlign: left
             borderWidth: 1
             borderColor: border-neutral
-      - title: Wirtschaftlich
-        text: >
-          Die Ausrichtung auf die Produktion von wertvollem, hochreinem und
-          -feinem Calciumcarbonat ermöglicht hohe Margen. Der Verkauf von Sand,
-          Kies und CO2 Emissionsrechten ermöglichen zusätzliche
-          Einkommensströme.
-        image:
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: medium
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-            borderColor: border-neutral
-            borderWidth: 1
-        type: FeaturedItem
       - title: Flexibel
         text: >
           Das Rement Verfahren kann flexibel und skalierbar auf die Bedürfnisse
