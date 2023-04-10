@@ -181,7 +181,6 @@ sections:
           und Kies aus dem Beton werden wieder nutzbar gemacht und der Füllung
           von Flächen mit Betonschutt wird entgegengewirkt.
         image:
-          url: /images/icon-one.svg
           altText: Featured icon one
           elementId: ''
           type: ImageBlock
