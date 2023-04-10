@@ -10,7 +10,8 @@
                 "opacity": 100
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "logo"
     },
     "primaryLinks": [
         {
