@@ -7,7 +7,10 @@
         "altText": "Tiya Greenwood",
         "styles": {
             "self": {
-                "borderRadius": "full"
+                "borderRadius": "full",
+                "margin": [
+                    "mb-6"
+                ]
             }
         },
         "type": "ImageBlock"
