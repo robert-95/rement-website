@@ -155,7 +155,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Die Lösung
+      label: Das Rement Verfahren
       color: text-primary
       type: Badge
     elementId: ''
