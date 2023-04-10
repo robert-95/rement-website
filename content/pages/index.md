@@ -89,7 +89,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Ihre Nachricht
           width: full
           type: TextareaFormControl
       submitButton:
