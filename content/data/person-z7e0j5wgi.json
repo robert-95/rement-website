@@ -12,7 +12,8 @@
                 "margin": [
                     "mb-6"
                 ],
-                "borderRadius": "full"
+                "borderRadius": "full",
+                "borderColor": "border-neutral"
             }
         },
         "type": "ImageBlock"
