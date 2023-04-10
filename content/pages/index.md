@@ -193,7 +193,7 @@ sections:
               - pl-4
               - pb-8
               - pr-20
-            borderRadius: xx-large
+            borderRadius: medium
             flexDirection: row
             justifyContent: center
             textAlign: left
