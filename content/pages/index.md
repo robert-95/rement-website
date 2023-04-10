@@ -173,33 +173,6 @@ sections:
           textAlign: center
       type: TitleBlock
     items:
-      - title: Wirtschaftlich
-        text: >
-          Die Ausrichtung auf die Produktion von wertvollem, hochreinem und
-          -feinem Calciumcarbonat ermöglicht hohe Margen. Der Verkauf von Sand,
-          Kies und CO2 Emissionsrechten ermöglichen zusätzliche
-          Einkommensströme.
-        image:
-          url: /images/icon-four.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: medium
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-            borderColor: border-dark
-            borderWidth: 2
-        type: FeaturedItem
       - type: FeaturedItem
         title: Umwelt
         text: >
@@ -228,6 +201,33 @@ sections:
             textAlign: left
             borderWidth: 2
             borderColor: border-primary
+      - title: Wirtschaftlich
+        text: >
+          Die Ausrichtung auf die Produktion von wertvollem, hochreinem und
+          -feinem Calciumcarbonat ermöglicht hohe Margen. Der Verkauf von Sand,
+          Kies und CO2 Emissionsrechten ermöglichen zusätzliche
+          Einkommensströme.
+        image:
+          url: /images/icon-four.svg
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: medium
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+            borderColor: border-dark
+            borderWidth: 2
+        type: FeaturedItem
       - title: Skalierbar
         text: >
           Das Rement Verfahren kann flexibel und skalierbar auf die Bedürfnisse
