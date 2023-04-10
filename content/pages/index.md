@@ -192,7 +192,7 @@ sections:
               - pt-8
               - pl-8
               - pb-8
-              - pr-20
+              - pr-8
             borderRadius: medium
             flexDirection: row
             textAlign: left
