@@ -312,7 +312,7 @@ sections:
         textAlign: center
   - type: RecentPostsSection
     title:
-      text: Recent posts
+      text: Neuigkeiten
       color: text-dark
       styles:
         self:
