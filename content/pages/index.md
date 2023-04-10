@@ -172,7 +172,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Vorteile
+      text: Kreislaufschluss als Wettbewerbsvorteil
       color: text-dark
       styles:
         self:
