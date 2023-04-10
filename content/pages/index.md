@@ -310,7 +310,7 @@ sections:
     badge: null
     elementId: ''
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
