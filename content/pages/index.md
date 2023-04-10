@@ -256,7 +256,7 @@ sections:
             borderWidth: 1
         type: FeaturedItem
     actions:
-      - label: Kontakt aufnehmen
+      - label: Gespräch vereinbaren
         altText: Kontakt aufnehmen
         url: /
         showIcon: false
