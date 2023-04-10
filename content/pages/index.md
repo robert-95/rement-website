@@ -166,7 +166,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: List of features/benefits/services
+      text: Vorteile
       color: text-dark
       styles:
         self:
