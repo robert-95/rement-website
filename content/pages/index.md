@@ -285,6 +285,46 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: FeaturedPeopleSection
+    title:
+      text: Meet our team
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: null
+    people:
+      - content/data/team/Drake-Garza.json
+      - content/data/team/Tiya-Greenwood.json
+      - content/data/team/Faizah-Chan.json
+    actions:
+      - label: Check all team
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    badge: null
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    backgroundImage:
+      url: /images/bg.svg
+      altText: Shapes in the corners
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      type: BackgroundImage
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title:
       text: Melden Sie sich gerne
       color: text-dark
