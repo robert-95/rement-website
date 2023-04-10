@@ -69,7 +69,7 @@ sections:
           textAlign: center
       type: TitleBlock
     items:
-      - title: Account Executive
+      - title: Rohstoffknappheit
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
