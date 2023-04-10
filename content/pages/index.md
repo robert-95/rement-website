@@ -202,7 +202,6 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Umweltfreundlich
-        subtitle: Numbers Done
         text: >
           Das Rement Verfahren schließt elementare Kreisläufe in der
           Betonindustrie. Klimaschädliches Kohlenstoffdioxid wird gebunden. Sand
