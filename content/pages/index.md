@@ -132,7 +132,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    subtitle: Probleme vom
+    subtitle: Ungelöste Probleme von globalem Ausmaß
   - type: GenericSection
     title:
       text: Das Rement Verfahren
