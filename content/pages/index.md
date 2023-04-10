@@ -225,6 +225,7 @@ sections:
             textAlign: left
             justifyContent: center
             borderColor: border-dark
+            borderWidth: 2
         type: FeaturedItem
       - title: Skalierbar
         text: >
