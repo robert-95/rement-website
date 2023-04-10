@@ -97,7 +97,7 @@ sections:
               - pb-3
               - pr-8
             textAlign: left
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
             justifyContent: center
             borderColor: border-neutral
