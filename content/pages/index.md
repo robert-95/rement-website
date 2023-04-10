@@ -228,10 +228,10 @@ sections:
               - pr-8
             borderRadius: medium
             flexDirection: row
+            textAlign: center
             justifyContent: center
-            textAlign: left
-            borderWidth: 1
             borderColor: border-neutral
+            borderWidth: 1
       - title: Flexibel
         text: >
           Das Rement Verfahren kann flexibel und skalierbar auf die Bedürfnisse
