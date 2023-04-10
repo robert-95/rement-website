@@ -1,5 +1,5 @@
 ---
-title: Top 20 Ways to Save Time at Work This Year
+title: Rement gewinnt Startupwettbewerb Grow
 slug: top-twenty-ways-to-save-time
 date: '2022-05-05'
 author: content/data/team/Harrison-Talley.json
