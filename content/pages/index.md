@@ -313,6 +313,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pl-9
       subtitle:
         textAlign: center
   - type: RecentPostsSection
