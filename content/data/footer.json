@@ -1,12 +1,6 @@
 {
     "socialLinks": [
         {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        },
-        {
             "type": "Social",
             "altText": "YouTube icon",
             "url": "/",
