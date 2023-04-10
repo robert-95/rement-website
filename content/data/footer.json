@@ -3,12 +3,6 @@
     "text": "Rethink. Recycle. Rement.\n",
     "socialLinks": [
         {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/stackbit",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "/",
             "icon": "mail",
