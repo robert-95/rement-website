@@ -17,6 +17,13 @@
             "url": "/",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "/",
+            "icon": "youtube",
+            "elementId": ""
         }
     ],
     "legalLinks": [
