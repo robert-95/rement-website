@@ -13,7 +13,8 @@
                     "mb-6"
                 ],
                 "borderRadius": "full",
-                "borderColor": "border-neutral"
+                "borderColor": "border-neutral",
+                "borderWidth": 1
             }
         },
         "type": "ImageBlock"
