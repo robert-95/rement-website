@@ -70,7 +70,6 @@ sections:
       type: TitleBlock
     items:
       - title: Rohstoffknappheit
-        subtitle: Sales
         text: >
           14 Milliarden Kubikmeter neues Beton pro Jahr lassen Sand und Kies
           immer knapper werden. Sand und Kies muss in zahlreichen Gruben
