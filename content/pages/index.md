@@ -48,6 +48,8 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      subtitle:
+        textAlign: left
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy_jcmigz.svg
