@@ -1,13 +1,5 @@
 {
-    "socialLinks": [
-        {
-            "type": "Social",
-            "altText": "YouTube icon",
-            "url": "/",
-            "icon": "youtube",
-            "elementId": ""
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Impressum",
