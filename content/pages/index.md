@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 700
+          textAlign: justify
     subtitle: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling'
     actions:
       - label: Get started
