@@ -230,7 +230,7 @@ sections:
             textAlign: left
             justifyContent: center
             borderColor: border-neutral
-            borderWidth: 2
+            borderWidth: 1
         type: FeaturedItem
       - title: Skalierbar
         text: >
