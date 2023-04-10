@@ -11,7 +11,8 @@
                 "margin": [
                     "mb-6"
                 ],
-                "borderWidth": 1
+                "borderWidth": 1,
+                "borderColor": "border-neutral"
             }
         },
         "type": "ImageBlock"
