@@ -66,7 +66,7 @@ sections:
           gewonnen werden. Aufgrund der Korngröße ist Wüstensand nicht für die
           Betonproduktion geeignet. 
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
