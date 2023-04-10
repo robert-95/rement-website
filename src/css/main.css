@@ -5,15 +5,15 @@
 @font-face {
   font-family: 'Roboto Condensed';
   src: url('../components/fonts/robotocondensed-regular.ttf') format('ttf'),
-       url('../fonts/robotocondensed-light.ttf') format('ttf'),
-       url('../fonts/robotocondensed-bold.ttf') format('ttf');
+       url('../components/fonts/robotocondensed-light.ttf') format('ttf'),
+       url('../components/fonts/robotocondensed-bold.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Staatliches';
-  src: url('../fonts/staatliches-regular.ttf') format('ttf');
+  src: url('../components/fonts/staatliches-regular.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
