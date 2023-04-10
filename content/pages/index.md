@@ -248,7 +248,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Kontakt aufnehmen
         altText: ''
         url: /
         showIcon: false
