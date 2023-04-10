@@ -227,6 +227,33 @@ sections:
             borderColor: border-dark
             borderWidth: 2
         type: FeaturedItem
+      - type: FeaturedItem
+        title: 500k
+        tagline: This is the tagline
+        subtitle: Numbers Done
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          url: /images/icon-one.svg
+          altText: Featured icon one
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        elementId: null
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
       - title: Skalierbar
         text: >
           Das Rement Verfahren kann flexibel und skalierbar auf die Bedürfnisse
