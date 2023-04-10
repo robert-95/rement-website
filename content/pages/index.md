@@ -199,7 +199,7 @@ sections:
             justifyContent: center
             textAlign: left
             borderWidth: 2
-            borderColor: border-primary
+            borderColor: border-neutral
       - title: Wirtschaftlich
         text: >
           Die Ausrichtung auf die Produktion von wertvollem, hochreinem und
