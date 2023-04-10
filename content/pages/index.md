@@ -224,6 +224,7 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
+            borderColor: border-dark
         type: FeaturedItem
       - title: Skalierbar
         text: >
