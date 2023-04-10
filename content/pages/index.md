@@ -126,16 +126,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Apply now
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge: null
     elementId: ''
     variant: toggle-list
