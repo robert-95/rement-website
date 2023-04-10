@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'REMENT: Für eine Betonindustrie im Kreislauf'
+      text: Für eine Betonindustrie im Kreislauf
       color: text-dark
       type: TitleBlock
     subtitle: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling'
