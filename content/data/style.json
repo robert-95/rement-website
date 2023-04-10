@@ -84,5 +84,6 @@
         "letterSpacing": "normal",
         "type": "ThemeStyleLink"
     },
-    "type": "ThemeStyle"
+    "type": "ThemeStyle",
+    "fontBody": "sans"
 }
