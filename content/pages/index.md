@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Für eine Betonindustrie im Kreislauf
-      color: text-dark
+      color: text-neutral
       type: TitleBlock
       styles:
         self:
