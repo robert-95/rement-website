@@ -15,7 +15,6 @@
 @font-face {
   font-family: 'Staatliches';
   src: url('./fonts/staatliches-regular.ttf') format('ttf'),
-       url('./fonts/staatliches.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
