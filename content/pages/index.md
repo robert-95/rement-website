@@ -287,7 +287,7 @@ sections:
         textAlign: center
   - type: FeaturedPeopleSection
     title:
-      text: Meet our team
+      text: Das ist Rement
       color: text-dark
       styles:
         self:
