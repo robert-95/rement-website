@@ -225,9 +225,9 @@ sections:
         type: FeaturedItem
       - title: Flexibel und skalierbar
         text: >
-          Das Rement Verfahren kann flexibel auf die Bedürfnisse verschiedener
-          Anwender in der Betonindustrie wie Recyclinghöfe, Bauunternehmen oder
-          Zementwerke ausgerichtet werden.
+          Das Rement Verfahren kann flexibel und skalierbar auf die Bedürfnisse
+          verschiedener Anwender in der Betonindustrie wie Recyclinghöfe,
+          Bauunternehmen oder Zementwerke ausgerichtet werden.
         image:
           url: /images/icon-two.svg
           altText: Featured icon three
