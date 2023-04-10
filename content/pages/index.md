@@ -62,7 +62,7 @@ sections:
     type: DividerSection
   - type: FeaturedItemsSection
     title:
-      text: Open positions
+      text: Warum Betonrecycling?
       color: text-dark
       styles:
         self:
