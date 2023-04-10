@@ -111,7 +111,6 @@ sections:
           borderRadius: large
       type: FormBlock
     badge:
-      label: Contact Us
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
