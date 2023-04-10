@@ -83,7 +83,7 @@ sections:
               - pt-8
               - pl-8
               - pb-8
-              - pr-5
+              - pr-8
             textAlign: left
             borderRadius: x-large
             flexDirection: row
