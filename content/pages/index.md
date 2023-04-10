@@ -315,7 +315,7 @@ sections:
         justifyContent: center
         padding:
           - pl-8
-          - pr-9
+          - pr-8
       subtitle:
         textAlign: center
   - type: RecentPostsSection
