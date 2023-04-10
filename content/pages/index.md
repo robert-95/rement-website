@@ -249,7 +249,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Kontakt aufnehmen
-        altText: ''
+        altText: Kontakt aufnehmen
         url: /
         showIcon: false
         icon: arrowRight
