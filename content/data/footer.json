@@ -1,8 +1,4 @@
 {
-    "logo": {
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
     "title": "Rement",
     "text": "Rethink. Recycle. Rement.\n",
     "socialLinks": [
