@@ -180,11 +180,12 @@ sections:
       type: TitleBlock
     items:
       - title: Wirtschaftlich
-        text: >
-          Die Ausrichtung auf die Produktion von wertvollem, hochreinem und
-          -feinem Calciumcarbonat ermöglicht hohe Margen. Der Verkauf von Sand,
-          Kies und CO2 Emissionsrechten ermöglichen zusätzliche
-          Einkommensströme.
+        text: >+
+          <div style="text-align: center">Die Ausrichtung auf die Produktion von
+          wertvollem, hochreinem und -feinem Calciumcarbonat ermöglicht hohe
+          Margen. Der Verkauf von Sand, Kies und CO2 Emissionsrechten
+          ermöglichen zusätzliche Einkommensströme.</div>
+
         image:
           altText: Featured icon two
           elementId: ''
@@ -200,7 +201,7 @@ sections:
               - pr-8
             borderRadius: medium
             flexDirection: row
-            textAlign: left
+            textAlign: center
             justifyContent: center
             borderColor: border-neutral
             borderWidth: 1
@@ -235,10 +236,12 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
       - title: Flexibel
-        text: >
-          Das Rement Verfahren kann flexibel und skalierbar auf die Bedürfnisse
-          verschiedener Anwender in der Betonindustrie wie Recyclinghöfe,
-          Bauunternehmen oder Zementwerke ausgerichtet werden.
+        text: >+
+          <div style="text-align: center">Das Rement Verfahren kann flexibel und
+          skalierbar auf die Bedürfnisse verschiedener Anwender in der
+          Betonindustrie wie Recyclinghöfe, Bauunternehmen oder Zementwerke
+          ausgerichtet werden.</div>
+
         image:
           altText: Featured icon three
           elementId: ''
