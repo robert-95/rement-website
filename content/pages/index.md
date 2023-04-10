@@ -100,6 +100,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
+            borderColor: border-neutral
         type: FeaturedItem
       - title: CO₂ Emissionen
         text: >
