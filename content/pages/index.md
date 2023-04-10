@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: We are Rement
+      text: WE ARE REMENT
       color: text-dark
       styles:
         self:
