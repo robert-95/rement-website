@@ -323,7 +323,7 @@ sections:
     showThumbnail: true
     showExcerpt: false
     showDate: true
-    showAuthor: true
+    showAuthor: false
     actions: []
     badge: null
     elementId: ''
