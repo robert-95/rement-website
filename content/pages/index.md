@@ -207,7 +207,6 @@ sections:
           Kies und CO2 Emissionsrechten ermöglichen zusätzliche
           Einkommensströme.
         image:
-          url: /images/icon-four.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -233,7 +232,6 @@ sections:
           verschiedener Anwender in der Betonindustrie wie Recyclinghöfe,
           Bauunternehmen oder Zementwerke ausgerichtet werden.
         image:
-          url: /images/icon-two.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
