@@ -2,55 +2,6 @@
 title: Home
 slug: /
 sections:
-  - title:
-      text: Für eine Betonindustrie im Kreislauf
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: >-
-      This is the best place to go for all your branding needs! From logo design
-      to social media marketing, we can help get your business noticed.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
-      - label: Learn more
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    elementId: homepage-hero
-    colors: bg-light-fg-dark
-    backgroundImage:
-      url: /images/shapes-in-the-corners-bg.svg
-      altText: Bg image corners
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      type: BackgroundImage
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        justifyContent: center
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
