@@ -227,6 +227,7 @@ sections:
             justifyContent: center
             textAlign: left
             borderWidth: 2
+            borderColor: border-primary
       - title: Skalierbar
         text: >
           Das Rement Verfahren kann flexibel und skalierbar auf die Bedürfnisse
