@@ -1,5 +1,5 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: Partner für Experteninterviews gesucht
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 author: content/data/team/Rhonda-Piper.json
