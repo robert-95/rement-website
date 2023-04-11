@@ -447,7 +447,7 @@ sections:
       type: VideoBlock
     badge: null
     elementId: ''
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     backgroundImage: null
     styles:
       self:
