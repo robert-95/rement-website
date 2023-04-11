@@ -352,7 +352,7 @@ sections:
         justifyContent: center
         padding:
           - pt-36
-          - pb-36
+          - pb-24
   - type: GenericSection
     title:
       text: Unser Pitch Im Video
