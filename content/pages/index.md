@@ -398,7 +398,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Unser Pitch
+      text: Unser Pitch Im
       color: text-dark
       styles:
         self:
