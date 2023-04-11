@@ -316,6 +316,7 @@ sections:
         padding:
           - pl-8
           - pr-8
+          - pt-4
       subtitle:
         textAlign: center
   - type: RecentPostsSection
