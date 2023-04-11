@@ -58,7 +58,7 @@
             "url": "https://www.linkedin.com/company/rement/",
             "showIcon": true,
             "icon": "linkedin",
-            "iconPosition": "left",
+            "iconPosition": "right",
             "style": "primary",
             "elementId": ""
         }
