@@ -343,7 +343,7 @@ sections:
         justifyContent: center
         padding:
           - pt-36
-          - pb-24
+          - pb-36
   - title:
       text: Melden Sie sich gerne
       color: text-dark
