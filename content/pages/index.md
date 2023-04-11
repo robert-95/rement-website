@@ -441,7 +441,11 @@ sections:
     media:
       title: Title of the video
       url: >-
-        https://res.cloudinary.com/stackbit-com/video/upload/c_scale,f_auto,w_1200/v1662491281/Home_page_header_V2_launch_V.2_2_fdyqq7.mp4
+        <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/enZfdcR0HsA?start=3134"
+        title="YouTube video player" frameborder="0" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture; web-share" allowfullscreen></iframe>
       autoplay: false
       loop: false
       muted: false
