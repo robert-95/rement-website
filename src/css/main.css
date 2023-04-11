@@ -15,6 +15,7 @@
 @font-face {
   font-family: 'staatliches-regular';
   src: url('../components/fonts/Staatliches-Regular.ttf') format('truetpye');
+  src: url('../components/fonts/Staatliches-Regular.ttf') format('truetpye');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
