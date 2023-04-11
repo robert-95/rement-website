@@ -12,7 +12,6 @@ module.exports = {
     ],
     theme: {
         extend: {
-
             fontFamily: {
                 sans: ['roboto-condensed-regular'],
                 serif: ['staatliches-regular']
