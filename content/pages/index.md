@@ -343,7 +343,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-36
+          - pt-48
           - pb-24
   - type: GenericSection
     title:
