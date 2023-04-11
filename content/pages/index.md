@@ -399,6 +399,13 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    styles:
+      self:
+        padding:
+          - pt-24
+          - pl-24
+          - pb-24
+          - pr-24
   - type: GenericSection
     title:
       text: Unser Pitch Im Video
