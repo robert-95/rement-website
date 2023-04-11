@@ -7,7 +7,7 @@ excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
 featuredImage:
-  url: /images/post-image-4.svg
+  url: /images/achim-stammer-rement.webp
   altText: Post image 4
   type: ImageBlock
 seo:
