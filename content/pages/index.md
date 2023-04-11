@@ -405,7 +405,7 @@ sections:
     text: >
       Sie möchten mehr über das Rement Verfahren erfahren, uns genauer
       kennenlernen oder sind an einer Zusammenarbeit interessiert? Schreiben Sie
-      uns gerne eine kurze Nachricht.
+      uns gerne eine kurze Nachricht und wir melden uns zeitnah zurück.
     media:
       fields:
         - name: name
