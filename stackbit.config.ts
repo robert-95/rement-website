@@ -21,6 +21,11 @@ export const config = defineStackbitConfig({
     },
     pageLayoutKey: 'type',
     styleObjectModelName: 'ThemeStyle'
+              name: 'styles',
+          type: 'style',
+          styles: {
+            self: { fontSize: ['medium', 'large'] },
+            title: { fontSize: '*' },
 });
 
 export default config;
