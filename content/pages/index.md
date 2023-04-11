@@ -204,7 +204,6 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
         type: FeaturedItem
-        tagline: '1.'
       - type: FeaturedItem
         title: Umweltfreundlich
         text: >+
