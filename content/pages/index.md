@@ -342,7 +342,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-24
+          - pt-36
           - pb-24
   - title:
       text: Melden Sie sich gerne
