@@ -8,7 +8,7 @@ excerpt: >-
   aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
   consequatur cum inventore voluptas sed impedit asperiores!
 featuredImage:
-  url: /images/grow.webp
+  url: /images/rement-gewinnt-grow.webp
   altText: Post image 3
   type: ImageBlock
 seo:
