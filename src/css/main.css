@@ -4,7 +4,7 @@
 @charset "UTF-8";
 
 @font-face {
-  font-family: 'roboto-condensed-regular';
+  font-family: 'robotocondensed-regular';
   src: url('../components/fonts/RobotoCondensed-Regular.ttf') format('font/ttf');
   font-weight: normal;
   font-style: normal;
