@@ -22,10 +22,6 @@ module.exports = {
                 neutralAlt: themeStyle.neutralAlt,
                 primary: themeStyle.primary
             },
-            fontFamily: {
-                sans: ['roboto-condensed-regular'],
-                serif: ['staatliches-regular']
-            },
             gridTemplateColumns: {
                 16: 'repeat(16, minmax(0, 1fr))'
             },
