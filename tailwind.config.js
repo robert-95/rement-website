@@ -13,7 +13,7 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['roboto-condensed-regular', 'sans],
+                sans: ['roboto-condensed-regular', 'sans-serif'],
                 serif: ['staatliches-regular']
             },            
             boxShadow: {
