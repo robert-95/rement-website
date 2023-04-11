@@ -8,7 +8,7 @@ excerpt: >-
   aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
   consequatur cum inventore voluptas sed impedit asperiores!
 featuredImage:
-  url: /images/post-image-3.svg
+  url: /images/grow.webp
   altText: Post image 3
   type: ImageBlock
 seo:
