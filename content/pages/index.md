@@ -334,7 +334,7 @@ sections:
     showAuthor: false
     actions:
       - type: Button
-        label: Folg
+        label: 'Folgt '
         altText: ''
         url: 'https://www.linkedin.com/company/rement/'
         showIcon: false
