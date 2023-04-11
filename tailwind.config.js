@@ -23,7 +23,7 @@ module.exports = {
                 primary: themeStyle.primary
             },
             fontFamily: {
-                sans: ['Roboto Condensed'],
+                sans: ['roboto-condensed'],
                 serif: ['Staatliches']
             },
             gridTemplateColumns: {
