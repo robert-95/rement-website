@@ -304,6 +304,7 @@ sections:
       - content/data/team/Faizah-Chan.json
       - content/data/person-z7e0j5wgi.json
       - content/data/person-7awggb1rp.json
+      - content/data/person-z4boamx4z.json
     actions: []
     badge: null
     elementId: ''
