@@ -344,6 +344,60 @@ sections:
         padding:
           - pt-36
           - pb-36
+  - type: GenericSection
+    title:
+      text: Unser Pitch Im Video
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+      type: TitleBlock
+    subtitle: Grow Wettbewerb 2023
+    text: >
+      Wir haben Deutschlands größten studentischen Startup Wettbewerb gewonnen.
+      Schauen Sie sich gerne unseren Gewinner-Pitch im Video an.
+    actions: []
+    media:
+      title: Title of the video
+      url: >-
+        <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/enZfdcR0HsA?start=3134"
+        title="YouTube video player" frameborder="0" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture; web-share" allowfullscreen></iframe>
+      autoplay: false
+      loop: false
+      muted: false
+      controls: true
+      aspectRatio: '16:9'
+      elementId: ''
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+    badge: null
+    elementId: ''
+    colors: bg-light-fg-dark
+    backgroundImage: null
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+      subtitle:
+        textAlign: left
   - title:
       text: Melden Sie sich gerne
       color: text-dark
@@ -406,60 +460,6 @@ sections:
           - pl-36
           - pb-36
           - pr-36
-  - type: GenericSection
-    title:
-      text: Unser Pitch Im Video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Grow Wettbewerb 2023
-    text: >
-      Wir haben Deutschlands größten studentischen Startup Wettbewerb gewonnen.
-      Schauen Sie sich gerne unseren Gewinner-Pitch im Video an.
-    actions: []
-    media:
-      title: Title of the video
-      url: >-
-        <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/enZfdcR0HsA?start=3134"
-        title="YouTube video player" frameborder="0" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture; web-share" allowfullscreen></iframe>
-      autoplay: false
-      loop: false
-      muted: false
-      controls: true
-      aspectRatio: '16:9'
-      elementId: ''
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    badge: null
-    elementId: ''
-    colors: bg-light-fg-dark
-    backgroundImage: null
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-      subtitle:
-        textAlign: left
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Stackbit
