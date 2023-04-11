@@ -458,7 +458,7 @@ sections:
         padding:
           - pt-36
           - pl-36
-          - pb-36
+          - pb-0
           - pr-36
 seo:
   metaTitle: Home - Demo site
