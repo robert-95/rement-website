@@ -334,7 +334,7 @@ sections:
     showAuthor: false
     actions:
       - type: Button
-        label: Folgt uns
+        label: Folgt uns auf LinkedIn
         altText: ''
         url: 'https://www.linkedin.com/company/rement/'
         showIcon: false
