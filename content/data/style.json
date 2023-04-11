@@ -85,6 +85,6 @@
         "type": "ThemeStyleLink"
     },
     "type": "ThemeStyle",
-    "fontBody": "serif",
-    "fontHeadlines": "serif"
+    "fontBody": "sans",
+    "fontHeadlines": "sans"
 }
