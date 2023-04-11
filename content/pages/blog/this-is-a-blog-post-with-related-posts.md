@@ -7,7 +7,7 @@ excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
 featuredImage:
-  url: /images/post-image-4.svg
+  url: /images/maranda-vandergriff-7aakZdIl4vg-unsplash.webp
   altText: Post image 4
   elementId: ''
   styles:
