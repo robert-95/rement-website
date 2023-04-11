@@ -23,21 +23,3 @@ export const config = defineStackbitConfig({
     styleObjectModelName: 'ThemeStyle'
 });
 // export default config;
-
-export default {
-  models: {
-    MySection: {
-      fields: [
-        { name: 'title', type: 'string', required: true },
-        {
-          name: 'styles',
-          type: 'style',
-          styles: {
-            self: { fontSize: ['medium', 'large'] },
-            title: { fontSize: '*' },
-          },
-        },
-      ],
-    },
-  },
-}
