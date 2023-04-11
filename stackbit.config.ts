@@ -22,4 +22,4 @@ export const config = defineStackbitConfig({
     pageLayoutKey: 'type',
     styleObjectModelName: 'ThemeStyle'
 });
-// export default config;
+export default config;
