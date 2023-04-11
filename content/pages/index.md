@@ -405,11 +405,38 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
+    text: >+
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+
+
+      ```
+
+      ```
+
+
+      https://www.youtube.com/watch?v=enZfdcR0HsA\&t=3133s
+
+
+
+
+      `xcxcxcxcxc`
+
+
+      ``
+
+
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/enZfdcR0HsA?start=3134" title="YouTube
+      video player" frameborder="0" allow="accelerometer; autoplay;
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+      web-share" allowfullscreen></iframe>
+
     actions: []
     media:
       title: Title of the video
