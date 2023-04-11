@@ -14,7 +14,7 @@ module.exports = {
         extend: {
             fontFamily: {
                 sans: ['roboto-condensed-regular', sans],
-                serif: ['staatliches-regular', sans-serif]
+                serif: ['staatliches-regular']
             },            
             boxShadow: {
                 header: '0px 2px 8px rgba(27, 32, 50, .08)'
