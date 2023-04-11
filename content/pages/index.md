@@ -342,7 +342,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-7
+          - pt-24
   - title:
       text: Melden Sie sich gerne
       color: text-dark
