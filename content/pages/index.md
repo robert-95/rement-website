@@ -332,16 +332,7 @@ sections:
     showExcerpt: false
     showDate: true
     showAuthor: false
-    actions:
-      - type: Button
-        label: Mehr auf LinkedIn
-        altText: ''
-        url: 'https://www.linkedin.com/company/rement/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     badge: null
     elementId: ''
     variant: three-col-grid
