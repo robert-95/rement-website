@@ -171,7 +171,6 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Mit Rement zum Wettbewerbsvorteil
       color: text-dark
       styles:
         self:
