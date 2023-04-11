@@ -19,6 +19,6 @@
         }
     ],
     "copyrightText": "Copyright Rement 2023\n",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-neutral-fg-dark",
     "type": "Footer"
 }
