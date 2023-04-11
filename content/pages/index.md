@@ -408,10 +408,9 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Grow Wettbewerb 2023
-    text: |
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat.
+    text: >
+      Wir haben Deutschlands größten studentischen Startup Wettbewerb gewonnen.
+      Schauen Sie sich gerne unseren Gewinner-Pitch im Video an.
     actions: []
     media:
       title: Title of the video
