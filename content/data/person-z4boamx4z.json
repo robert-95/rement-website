@@ -2,20 +2,6 @@
     "type": "Person",
     "name": "Vielleicht du?",
     "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    "image": {
-        "url": "/images/person-one-small.jpg",
-        "altText": "First Last",
-        "elementId": "",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mb-6"
-                ],
-                "borderRadius": "full"
-            }
-        },
-        "type": "ImageBlock"
-    },
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
