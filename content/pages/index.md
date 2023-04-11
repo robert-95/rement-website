@@ -402,10 +402,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-24
-          - pl-24
-          - pb-24
-          - pr-24
+          - pt-36
+          - pl-36
+          - pb-36
+          - pr-36
   - type: GenericSection
     title:
       text: Unser Pitch Im Video
