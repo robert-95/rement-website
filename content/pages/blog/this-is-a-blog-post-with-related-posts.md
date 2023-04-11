@@ -7,7 +7,7 @@ excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
 featuredImage:
-  url: /images/maranda-vandergriff-7aakZdIl4vg-unsplash.webp
+  url: /images/rement-sucht-experteninterviews.webp
   altText: Post image 4
   elementId: ''
   styles:
