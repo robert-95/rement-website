@@ -461,6 +461,7 @@ sections:
           - pl-36
           - pb-0
           - pr-36
+    elementId: '7'
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Stackbit
