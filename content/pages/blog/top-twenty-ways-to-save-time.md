@@ -1,6 +1,6 @@
 ---
 title: Rement gewinnt Startupwettbewerb Grow
-slug: top-twenty-ways-to-save-time
+slug: rement-gewinnt-grow
 date: '2023-01-22'
 excerpt: >-
   Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
