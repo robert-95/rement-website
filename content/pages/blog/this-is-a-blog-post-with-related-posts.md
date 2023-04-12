@@ -4,8 +4,9 @@ title: Partner für Experteninterviews gesucht
 slug: experteninterviews-gesucht
 date: '2023-04-01'
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Für die weitere Optimierung des Rement Verfahrens und unseres Geschäftsmodells
+  sind wir auf Ihre Unterstützung angewiesen. Wir suchen aktuell nach Experten
+  und Expertinnen für Interviews.
 featuredImage:
   url: /images/rement-sucht-experteninterviews.webp
   altText: Post image 4
