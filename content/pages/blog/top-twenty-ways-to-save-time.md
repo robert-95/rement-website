@@ -11,7 +11,7 @@ featuredImage:
   altText: Post image 3
   type: ImageBlock
 seo:
-  metaTitle: Top 20 Ways to Save Time at Work This Year
+  metaTitle: Rement gewinnt Startupwettbewerb Grow
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/rement-gewinnt-grow.webp
   type: Seo
