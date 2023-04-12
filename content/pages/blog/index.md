@@ -47,7 +47,7 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Rement - Neuigkeiten
+  metaTitle: Neuigkeiten
   metaDescription: >-
     Hier berichten wir über aktuelle Entwicklungen bei Rement und in der
     Betonindustrie. 
