@@ -100,7 +100,7 @@ bottomSections:
 isFeatured: false
 isDraft: false
 seo:
-  metaTitle: Blog post vertical card
+  metaTitle: Partner aus der Betonindustrie für Experteninterviews gesucht
   metaDescription: Write here your new posts's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/rement-sucht-experteninterviews.webp
