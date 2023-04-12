@@ -16,7 +16,7 @@
     "primaryLinks": [
         {
             "label": "Rement Verfahren",
-            "url": "/pricing",
+            "url": "/#3",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
