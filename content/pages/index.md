@@ -124,7 +124,7 @@ sections:
         type: FeaturedItem
     actions: []
     badge: null
-    elementId: ''
+    elementId: '2'
     variant: toggle-list
     colors: bg-light-fg-dark
     backgroundImage: null
