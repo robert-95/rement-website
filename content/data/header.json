@@ -45,7 +45,7 @@
         {
             "label": "Kontakt",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/#7",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
