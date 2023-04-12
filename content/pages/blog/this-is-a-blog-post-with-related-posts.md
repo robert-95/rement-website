@@ -81,7 +81,7 @@ bottomSections:
     styles:
       self:
         padding:
-          - pt-48
+          - pt-10
           - pl-36
           - pb-0
           - pr-36
