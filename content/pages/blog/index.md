@@ -19,7 +19,7 @@ topSections:
       text: 'Hallo, wir sind Rement'
       color: text-dark
       type: TitleBlock
-    subtitle: 'Unsere Vision:'
+    subtitle: Hier erfahren Sie
     text: >
       Wir wollen Betonrecycling zur Selbstverständlichkeit machen. Ein Haus soll
       aus seinem eigenen Schutt wieder aufgebaut werden können. Wir möchten der
