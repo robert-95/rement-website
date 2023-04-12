@@ -25,7 +25,30 @@ type: PostLayout
 author: content/data/team/Tiya-Greenwood.json
 content: |+
 
-
+bottomSections:
+  - type: RecentPostsSection
+    title:
+      text: Recent posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: null
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    badge: null
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    backgroundImage: null
+    styles:
+      self:
+        justifyContent: center
 ---
 ![](/images/rement-gewinnt-grow.webp)
 
