@@ -465,7 +465,7 @@ sections:
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Stackbit
-  socialImage: /images/soc-feature-image.png
+  socialImage: /images/rement-kreislauf.svg
   type: Seo
 type: PageLayout
 ---
