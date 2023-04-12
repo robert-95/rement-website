@@ -18,6 +18,7 @@ seo:
     Senior Manager in der Verfahrenstechnikforschung zurück. 
   socialImage: /images/rement-achim-stammer.webp
   type: Seo
+  addTitleSuffix: false
 colors: bg-light-fg-dark
 type: PostLayout
 author: content/data/person-z7e0j5wgi.json

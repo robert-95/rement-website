@@ -62,7 +62,7 @@ isDraft: false
 seo:
   metaTitle: Impressum
   metaDescription: Impressum von Rement.
-  addTitleSuffix: true
+  addTitleSuffix: false
   metaTags: []
   type: Seo
 ---

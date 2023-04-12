@@ -115,7 +115,7 @@ seo:
     Um das Rement Verfahren weiter zu verbessern benötigen wir Ihre
     Unterstützung. Melden Sie sich gerne bei uns, wenn Sie für ein Interview
     bereitstehen.
-  addTitleSuffix: true
+  addTitleSuffix: false
   socialImage: /images/rement-sucht-experteninterviews.webp
   metaTags: []
   type: Seo
