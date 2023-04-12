@@ -5,7 +5,7 @@ slug: /erfolg
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Ihre Nachricht wurde gesendet
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
