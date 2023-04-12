@@ -385,7 +385,7 @@ sections:
           borderRadius: large
       type: VideoBlock
     badge: null
-    elementId: ''
+    elementId: '6'
     colors: bg-light-fg-dark
     backgroundImage: null
     styles:
