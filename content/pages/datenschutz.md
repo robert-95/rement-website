@@ -73,7 +73,6 @@ seo:
   metaTitle: Datenschutzerklärung
   metaDescription: Datenschutzerklärung von Rement.
   addTitleSuffix: true
-  socialImage: /images/soc-feature-image.png
   metaTags: []
   type: Seo
 ---
