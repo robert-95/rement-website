@@ -20,8 +20,8 @@ topSections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      Wir möchten die Baubranche nachhaltig verändern. Begleiten Sie uns gerne
-      auf unserem Weg
+      Wir möchten die Baubranche nachhaltig verändern. Bleiben Sie aufBegleiten
+      Sie uns gerne auf unserem Weg
     text: >
       Wir wollen Betonrecycling zur Selbstverständlichkeit machen. Ein Haus soll
       aus seinem eigenen Schutt wieder aufgebaut werden können. Wir möchten der
