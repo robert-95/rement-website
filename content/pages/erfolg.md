@@ -33,7 +33,7 @@ sections:
 isDraft: false
 seo:
   metaTitle: Nachricht gesendet
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: Vielen Dank für Ihre Anfrage.
   addTitleSuffix: true
   socialImage: /images/soc-feature-image.png
   metaTags: []
