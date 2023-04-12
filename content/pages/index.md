@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Das Rement Verfahren
         altText: ''
-        url: /
+        url: '/#3'
         showIcon: false
         icon: arrowRight
         iconPosition: right
