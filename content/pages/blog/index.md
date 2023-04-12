@@ -23,10 +23,9 @@ topSections:
       Wir möchten die Baubranche nachhaltig verändern. Begleiten Sie uns auf
       unserem Weg.
     text: >
-      Wir wollen Betonrecycling zur Selbstverständlichkeit machen. Ein Haus soll
-      aus seinem eigenen Schutt wieder aufgebaut werden können. Wir möchten der
-      Baubranche echte Alternativen anbieten, die ökonomische und ökologische
-      Vorteile in Einklang bringen.
+      Hier berichten wir über aktuelle Entwicklungen bei Rement und in der
+      Betonindustrie. Sie sind interessiert an einem Presse-Kit? Melden Sie sich
+      gerne unter info@rement.tech.
     actions: []
     badge:
       label: Neuigkeiten
