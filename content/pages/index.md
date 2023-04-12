@@ -262,7 +262,7 @@ sections:
     actions:
       - label: Gespräch vereinbaren
         altText: Kontakt aufnehmen
-        url: '#7'
+        url: '/#7'
         showIcon: false
         icon: arrowRight
         iconPosition: right
