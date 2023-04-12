@@ -36,7 +36,7 @@ sections:
       altText: Das Rement Verfahren in einer Skizze
       elementId: ''
       type: ImageBlock
-    elementId: ''
+    elementId: '1'
     colors: bg-light-fg-dark
     backgroundImage: null
     styles:
