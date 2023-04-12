@@ -26,7 +26,7 @@ content: |+
 
 
 ---
-
+![](/images/rement-gewinnt-grow.webp)
 
 Wir sind immer noch total überwältigt.
 
