@@ -13,7 +13,7 @@ seo:
   metaTitle: Dr. Achim Stammer unterstützt Rement als Advisor
   metaDescription: >-
     Uns ist es gelungen Dr. Achim Stammer für unser Advisory Board zu gewinnen.
-    Dr. Stammer  
+    Der promovierte Chemienigenie
   socialImage: /images/rement-achim-stammer.webp
   type: Seo
 colors: bg-light-fg-dark
