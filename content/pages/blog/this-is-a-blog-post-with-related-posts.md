@@ -103,7 +103,7 @@ seo:
   metaTitle: Blog post vertical card
   metaDescription: Write here your new posts's description including most relevant keywords.
   addTitleSuffix: true
-  socialImage: /images/soc-post-image-2.png
+  socialImage: /images/rement-sucht-experteninterviews.webp
   metaTags: []
   type: Seo
 colors: bg-light-fg-dark
