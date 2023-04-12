@@ -8,7 +8,6 @@ sections:
       text: Unblock your team boost your time to production
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
     text: >
       Wir, Rement, nehmen den Schutz Ihrer persönlichen Daten sehr ernst und
       halten uns strikt an die Regeln der Datenschutzgesetze. Personenbezogene
