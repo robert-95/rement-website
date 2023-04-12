@@ -3,7 +3,7 @@ title: Rement gewinnt Startupwettbewerb Grow
 slug: rement-gewinnt-grow
 date: '2023-01-22'
 excerpt: >-
-  Wir sind immer noch total überwältigt.Wir haben in den vergangenen Wochen am
+  Wir sind immer noch total überwältigt. Wir haben in den vergangenen Wochen am
   Wettbewerb GROW X teilgenommen. GROW ist der größte studentische
   Startupwettbewerb Deutschlands und wird von der Pioniergarage, einer
   Hochschulgruppe des Karlsruher Instituts für Technologie (KIT) veranstaltet.
