@@ -7,7 +7,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   url: /images/rement-achim-stammer.webp
-  altText: Post image 4
+  altText: Bild von Achim Stammer
   type: ImageBlock
 seo:
   metaTitle: Dr. Achim Stammer unterstützt Rement als Advisor
