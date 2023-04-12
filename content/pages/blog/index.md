@@ -47,7 +47,7 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Rement - Neuigkeiten
   metaDescription: >-
     This is the blog of the demo site where we post about technology, product,
     and design.
