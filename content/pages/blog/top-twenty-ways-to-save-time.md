@@ -2,7 +2,6 @@
 title: Rement gewinnt Startupwettbewerb Grow
 slug: top-twenty-ways-to-save-time
 date: '2022-05-05'
-author: content/data/team/Harrison-Talley.json
 excerpt: >-
   Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
   aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
