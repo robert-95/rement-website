@@ -157,7 +157,7 @@ sections:
       label: Das Rement Verfahren
       color: text-primary
       type: Badge
-    elementId: ''
+    elementId: '3'
     colors: bg-light-fg-dark
     backgroundImage: null
     styles:
