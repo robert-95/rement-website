@@ -51,7 +51,7 @@ seo:
   metaDescription: >-
     This is the blog of the demo site where we post about technology, product,
     and design.
-  socialImage: /images/soc-blog.jpg
+  socialImage: /images/Rement-kreislauf.png
   type: Seo
 type: PostFeedLayout
 ---
