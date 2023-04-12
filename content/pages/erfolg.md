@@ -35,7 +35,6 @@ seo:
   metaTitle: Nachricht gesendet
   metaDescription: Vielen Dank für Ihre Anfrage.
   addTitleSuffix: true
-  socialImage: /images/soc-feature-image.png
   metaTags: []
   type: Seo
 ---
