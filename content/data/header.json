@@ -35,7 +35,7 @@
             "type": "Link",
             "label": "Neuigkeiten",
             "altText": "",
-            "url": "/",
+            "url": "/blog",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
