@@ -103,7 +103,8 @@ seo:
   metaTitle: Partner aus der Betonindustrie für Experteninterviews gesucht
   metaDescription: >-
     Um das Rement Verfahren weiter zu verbessern benötigen wir Ihre
-    unterstützung. Melden 
+    Unterstützung. Melden Sie sich gerne bei uns, wenn Sie für ein Interview
+    bereitstehen.
   addTitleSuffix: true
   socialImage: /images/rement-sucht-experteninterviews.webp
   metaTags: []
