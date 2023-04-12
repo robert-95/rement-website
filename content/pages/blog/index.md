@@ -49,8 +49,8 @@ styles:
 seo:
   metaTitle: Rement - Neuigkeiten
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    Hier berichten wir über aktuelle Entwicklungen bei Rement und in der
+    Betonindustrie. 
   socialImage: /images/Rement-kreislauf.png
   type: Seo
 type: PostFeedLayout
