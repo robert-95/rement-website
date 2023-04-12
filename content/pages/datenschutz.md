@@ -71,7 +71,7 @@ sections:
 isDraft: false
 seo:
   metaTitle: Datenschutzerklärung
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: Datenschutzerk
   addTitleSuffix: true
   socialImage: /images/soc-feature-image.png
   metaTags: []
