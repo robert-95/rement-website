@@ -12,7 +12,7 @@ featuredImage:
   type: ImageBlock
 seo:
   metaTitle: Rement gewinnt Startupwettbewerb Grow
-  metaDescription: Wir
+  metaDescription: Wi
   socialImage: /images/rement-gewinnt-grow.webp
   type: Seo
 colors: bg-light-fg-dark
