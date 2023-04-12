@@ -107,7 +107,6 @@ seo:
   metaTags: []
   type: Seo
 colors: bg-light-fg-dark
-author: content/data/team/Asher-Schmitt.json
 styles:
   self:
     padding:
