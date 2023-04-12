@@ -70,7 +70,7 @@ sections:
           - pr-16
 isDraft: false
 seo:
-  metaTitle: Landing Page
+  metaTitle: Datenschutzerklärung
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/soc-feature-image.png
