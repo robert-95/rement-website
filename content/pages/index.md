@@ -14,7 +14,7 @@ sections:
     subtitle: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling'
     actions:
       - label: Das Rement Verfahren
-        altText: ''
+        altText: Link zum Rement Verfahren
         url: '/#3'
         showIcon: false
         icon: arrowRight
