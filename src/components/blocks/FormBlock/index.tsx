@@ -61,8 +61,8 @@ export default class FormBlock extends React.Component<any> {
                 data-netlify="true"
                 ref={this.formRef}
                 action="/erfolg"
-                netlify-honeypot="bot-field"
-                data-netlify-recaptcha="true"
+                // netlify-honeypot="bot-field"
+                // data-netlify-recaptcha="true"
                 data-sb-field-path={annotation}
             >
                 <div
@@ -83,7 +83,6 @@ export default class FormBlock extends React.Component<any> {
                         return <FormControl key={index} {...field} data-sb-field-path={`.${index}`} />;
                     })}
                 </div>
-                <div data-netlify-recaptcha="true"></div>
                 {submitButton && (
                     <div className={classNames('mt-8', 'flex', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}>
                         <SubmitButtonFormControl {...submitButton} data-sb-field-path=".submitButton" />
