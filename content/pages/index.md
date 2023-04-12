@@ -468,5 +468,6 @@ seo:
   socialImage: /images/rement-kreislauf.svg
   type: Seo
   metaTags: []
+  addTitleSuffix: false
 type: PageLayout
 ---
