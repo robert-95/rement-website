@@ -1,7 +1,7 @@
 ---
 title: Wir begrüßen Dr. Achim Stammer in unserem Advisory Board
 slug: achim-stammer-im-advisory-board
-date: '2023-10-12'
+date: '2023-04-12'
 excerpt: >-
   Wir freuen uns sehr, Dr. Achim Stammer in unserem Advisory Board begrüßen zu
   dürfen.Der promovierte Chemieengenieur blickt auf eine langjährige Karriere
