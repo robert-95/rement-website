@@ -12,7 +12,7 @@ featuredImage:
 seo:
   metaTitle: Surround Yourself With the Right People
   metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/soc-post-image-2.png
+  socialImage: /images/rement-achim-stammer.webp
   type: Seo
 colors: bg-light-fg-dark
 type: PostLayout
