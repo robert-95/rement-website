@@ -61,7 +61,7 @@ sections:
 isDraft: false
 seo:
   metaTitle: Impressum
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: Impressum von Rement.
   addTitleSuffix: true
   socialImage: /images/soc-feature-image.png
   metaTags: []
