@@ -467,5 +467,9 @@ seo:
   metaDescription: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling.'
   socialImage: /images/rement-kreislauf.svg
   type: Seo
+  metaTags:
+    - type: MetaTag
+      property: 'og:title'
+      content: lorem-ipsum
 type: PageLayout
 ---
