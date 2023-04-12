@@ -16,7 +16,7 @@ sections:
       anderen Gründen an Dritte weitergegeben.
 
 
-      Kontaktformular
+      **Kontaktformular**
 
 
       Auf unserer Webseite bieten wir Ihnen ein Kontaktformular an, über das Sie
@@ -25,13 +25,13 @@ sections:
       Weitergabe an Dritte erfolgt nicht.
 
 
-      Cookies
+      **Cookies**
 
 
       Unsere Webseite verwendet keine Cookies.
 
 
-      Auskunftsrecht
+      **Auskunftsrecht**
 
 
       Sie haben jederzeit das Recht auf Auskunft über die bezüglich Ihrer Person
@@ -40,7 +40,7 @@ sections:
       gerne auf Anfrage.
 
 
-      Weitere Informationen
+      **Weitere Informationen**
 
 
       Ihr Vertrauen ist uns wichtig. Daher möchten wir Ihnen jederzeit Rede und
