@@ -11,7 +11,7 @@ featuredImage:
   type: ImageBlock
 seo:
   metaTitle: Dr. Achim Stammer unterstützt Rement als Advisor
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: 'Uns ist es gelungen den '
   socialImage: /images/rement-achim-stammer.webp
   type: Seo
 colors: bg-light-fg-dark
