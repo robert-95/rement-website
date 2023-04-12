@@ -464,7 +464,7 @@ sections:
     elementId: '7'
 seo:
   metaTitle: Rement - Für eine Betonindustrie im Kreislauf
-  metaDescription: This demo site is built with Stackbit
+  metaDescription: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling'
   socialImage: /images/rement-kreislauf.svg
   type: Seo
 type: PageLayout
