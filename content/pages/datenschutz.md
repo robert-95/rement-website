@@ -5,7 +5,7 @@ slug: /datenschutz
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Datenschutzerklärung
       color: text-dark
       type: TitleBlock
     text: >
