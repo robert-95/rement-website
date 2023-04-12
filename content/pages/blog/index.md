@@ -21,10 +21,10 @@ topSections:
       type: TitleBlock
     subtitle: 'Unsere Vision:'
     text: >
-      Wir wollen Betonrecycling zur Selbstverständlichkeit machen. Unsere Vision
-      ist es, dass ein Haus aus seinem eigenen Schutt wieder aufgebaut werden
-      kann. Wir möchten der Baubranche echte Alternativen anbieten, die
-      ökonomische und ökologische Vorteile in Einklang bringen.
+      Wir wollen Betonrecycling zur Selbstverständlichkeit machen. Ein Haus soll
+      aus seinem eigenen Schutt wieder aufgebaut werden können. Wir möchten der
+      Baubranche echte Alternativen anbieten, die ökonomische und ökologische
+      Vorteile in Einklang bringen.
     actions: []
     badge:
       label: Neuigkeiten
