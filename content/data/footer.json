@@ -12,7 +12,7 @@
         },
         {
             "label": "Datenschutz",
-            "url": "/",
+            "url": "/datenscjutz",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
