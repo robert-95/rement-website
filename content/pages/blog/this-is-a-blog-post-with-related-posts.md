@@ -2,7 +2,7 @@
 type: PostLayout
 title: Partner für Experteninterviews gesucht
 slug: experteninterviews-gesucht
-date: '2022-10-10'
+date: '2022-04-01'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
