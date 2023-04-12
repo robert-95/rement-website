@@ -307,7 +307,7 @@ sections:
       - content/data/person-3ik7wgwai.json
     actions: []
     badge: null
-    elementId: ''
+    elementId: '4'
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
