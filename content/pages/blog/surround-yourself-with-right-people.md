@@ -1,6 +1,6 @@
 ---
 title: Wir begrüßen Dr. Achim Stammer in unserem Advisory Board
-slug: surround-yourself-with-right-people
+slug: achim-stammer-im-advisory-board
 date: '2023-10-12'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
