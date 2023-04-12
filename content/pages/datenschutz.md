@@ -50,7 +50,6 @@ sections:
       wünschen, wenden Sie sich bitte jederzeit an uns.
     actions: []
     media:
-      url: /images/feature-image-two.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
