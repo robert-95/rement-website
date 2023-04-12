@@ -359,7 +359,7 @@ sections:
       Schauen Sie sich gerne unseren Gewinner-Pitch im Video an.
     actions: []
     media:
-      title: Title of the video
+      title: Rement Pitch beim Grow Finale 2023
       url: >-
         <iframe width="560" height="315"
         src="https://www.youtube-nocookie.com/embed/enZfdcR0HsA?start=3133"
