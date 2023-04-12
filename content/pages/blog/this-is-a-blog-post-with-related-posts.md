@@ -118,6 +118,72 @@ bottomSections:
           - pl-16
           - pb-16
           - pr-16
+  - type: GenericSection
+    title:
+      text: Melden Sie sich gerne
+      color: text-dark
+      type: TitleBlock
+    subtitle: null
+    text: >
+      Sie möchten mehr über das Rement Verfahren erfahren, uns genauer
+      kennenlernen oder sind an einer Zusammenarbeit interessiert? Schreiben Sie
+      uns gerne eine kurze Nachricht und wir melden uns zeitnah zurück.
+    actions: []
+    media:
+      fields:
+        - name: name
+          label: Name
+          hideLabel: true
+          placeholder: Ihr Name
+          isRequired: true
+          width: full
+          type: TextFormControl
+        - name: email
+          label: Email
+          hideLabel: true
+          placeholder: Ihre Emailadresse
+          isRequired: true
+          width: full
+          type: EmailFormControl
+        - name: message
+          label: Message
+          hideLabel: true
+          placeholder: Ihre Nachricht
+          width: full
+          type: TextareaFormControl
+      submitButton:
+        label: Absenden
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        type: SubmitButtonFormControl
+      action: /.netlify/functions/submission_created
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: FormBlock
+    badge:
+      color: text-primary
+      type: Badge
+    elementId: '7'
+    colors: bg-light-fg-dark
+    backgroundImage: null
+    styles:
+      self:
+        padding:
+          - pt-48
+          - pl-36
+          - pb-0
+          - pr-36
 isFeatured: false
 isDraft: false
 seo:
