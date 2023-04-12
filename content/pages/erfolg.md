@@ -11,7 +11,7 @@ sections:
     subtitle: Wir werden uns in Kürze bei Ihnen melden
     actions: []
     media:
-      url: /images/Rement-kreislauf.png
+      url: /images/rement-kreislauf.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
