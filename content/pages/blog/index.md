@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Neuigkeiten
 slug: /blog
 postFeed:
   showThumbnail: true
