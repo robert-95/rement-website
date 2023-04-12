@@ -359,10 +359,10 @@ sections:
       Schauen Sie sich gerne unseren Gewinner-Pitch im Video an.
     actions: []
     media:
-      title: Title of the video
+      title: Rement Pitch beim Grow Finale 2023
       url: >-
         <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/enZfdcR0HsA?start=3134"
+        src="https://www.youtube-nocookie.com/embed/enZfdcR0HsA?start=3133"
         title="YouTube video player" frameborder="0" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture; web-share" allowfullscreen></iframe>
@@ -463,9 +463,10 @@ sections:
           - pr-36
     elementId: '7'
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Stackbit
-  socialImage: /images/soc-feature-image.png
+  metaTitle: 'Rement - Für eine Betonindustrie im Kreislauf '
+  metaDescription: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling.'
+  socialImage: /images/rement-kreislauf.svg
   type: Seo
+  metaTags: []
 type: PageLayout
 ---

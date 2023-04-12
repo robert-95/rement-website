@@ -1,8 +1,8 @@
 ---
 type: PostLayout
 title: Partner für Experteninterviews gesucht
-slug: this-is-a-blog-post-with-related-posts
-date: '2022-10-10'
+slug: experteninterviews-gesucht
+date: '2023-04-01'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
@@ -100,14 +100,16 @@ bottomSections:
 isFeatured: false
 isDraft: false
 seo:
-  metaTitle: Blog post vertical card
-  metaDescription: Write here your new posts's description including most relevant keywords.
+  metaTitle: Partner aus der Betonindustrie für Experteninterviews gesucht
+  metaDescription: >-
+    Um das Rement Verfahren weiter zu verbessern benötigen wir Ihre
+    Unterstützung. Melden Sie sich gerne bei uns, wenn Sie für ein Interview
+    bereitstehen.
   addTitleSuffix: true
-  socialImage: /images/soc-post-image-2.png
+  socialImage: /images/rement-sucht-experteninterviews.webp
   metaTags: []
   type: Seo
 colors: bg-light-fg-dark
-author: content/data/team/Asher-Schmitt.json
 styles:
   self:
     padding:
@@ -119,6 +121,7 @@ styles:
     borderStyle: none
     borderWidth: 1
     borderRadius: none
+author: content/data/person-z7e0j5wgi.json
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
 

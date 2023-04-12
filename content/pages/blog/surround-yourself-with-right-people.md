@@ -1,8 +1,7 @@
 ---
 title: Wir begrüßen Dr. Achim Stammer in unserem Advisory Board
-slug: surround-yourself-with-right-people
-date: '2022-10-10'
-author: content/data/team/Rhonda-Piper.json
+slug: achim-stammer-im-advisory-board
+date: '2023-10-12'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
@@ -11,12 +10,16 @@ featuredImage:
   altText: Post image 4
   type: ImageBlock
 seo:
-  metaTitle: Surround Yourself With the Right People
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/soc-post-image-2.png
+  metaTitle: Dr. Achim Stammer unterstützt Rement als Advisor
+  metaDescription: >-
+    Uns ist es gelungen Dr. Achim Stammer für unser Advisory Board zu gewinnen.
+    Der promovierte Chemieengenieur blickt auf eine langjährige Karriere als
+    Senior Manager in der Verfahrenstechnikforschung zurück. 
+  socialImage: /images/rement-achim-stammer.webp
   type: Seo
 colors: bg-light-fg-dark
 type: PostLayout
+author: content/data/person-z7e0j5wgi.json
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.

@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Neuigkeiten
 slug: /blog
 postFeed:
   showThumbnail: true
@@ -47,11 +47,11 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Neuigkeiten
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
-  socialImage: /images/soc-blog.jpg
+    Hier berichten wir über aktuelle Entwicklungen bei Rement und in der
+    Betonindustrie. Begleiten Sie uns gerne auf unserem Weg.
+  socialImage: /images/Rement-kreislauf.png
   type: Seo
 type: PostFeedLayout
 ---

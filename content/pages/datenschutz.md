@@ -70,10 +70,9 @@ sections:
           - pr-16
 isDraft: false
 seo:
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: Datenschutzerklärung
+  metaDescription: Datenschutzerklärung von Rement.
   addTitleSuffix: true
-  socialImage: /images/soc-feature-image.png
   metaTags: []
   type: Seo
 ---
