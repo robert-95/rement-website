@@ -21,9 +21,10 @@ topSections:
       type: TitleBlock
     subtitle: 'Unsere Vision:'
     text: >
-      A Stackbit website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Wir wollen Betonrecycling zur Selbstverständlichkeit machen. Unsere Vision
+      ist es, dass ein Haus aus seinem eigenen Schutt wieder aufgebaut werden
+      kann. Wir möchten der Baubranche echte Alternativen anbieten, die
+      ökonomische und ökologische Vorteile in Einklang bringen.
     actions: []
     badge:
       label: Neuigkeiten
