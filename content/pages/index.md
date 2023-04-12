@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: Kontakt
         altText: ''
-        url: /
+        url: '/#7'
         showIcon: true
         icon: arrowRight
         iconPosition: right
