@@ -26,7 +26,7 @@ topSections:
       git commit, git workflows and collaboration just work.
     actions: []
     badge:
-      label: This is a badge
+      label: Neuigkeiten
       color: text-primary
       type: Badge
     elementId: ''
