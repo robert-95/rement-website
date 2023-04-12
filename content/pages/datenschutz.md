@@ -71,7 +71,7 @@ sections:
 isDraft: false
 seo:
   metaTitle: Datenschutzerklärung
-  metaDescription: Datenschutzerk
+  metaDescription: Datenschutzerklärung von Rement
   addTitleSuffix: true
   socialImage: /images/soc-feature-image.png
   metaTags: []
