@@ -10,7 +10,7 @@ featuredImage:
   altText: Post image 4
   type: ImageBlock
 seo:
-  metaTitle: Surround Yourself With the Right People
+  metaTitle: Dr. Achim Stammer unterstützt Rement als Advisor
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/rement-achim-stammer.webp
   type: Seo
