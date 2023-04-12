@@ -8,7 +8,7 @@ sections:
       text: Ihre Nachricht wurde gesendet
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Wir werden uns in Kürze bei Ihnen melden
     actions: []
     media:
       url: /images/feature-image-two.svg
