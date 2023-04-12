@@ -34,7 +34,7 @@ isDraft: false
 seo:
   metaTitle: Nachricht gesendet
   metaDescription: Vielen Dank für Ihre Anfrage.
-  addTitleSuffix: true
+  addTitleSuffix: false
   metaTags: []
   type: Seo
 ---
