@@ -13,7 +13,7 @@ featuredImage:
 seo:
   metaTitle: Top 20 Ways to Save Time at Work This Year
   metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/soc-post-image.png
+  socialImage: /images/rement-gewinnt-grow.webp
   type: Seo
 colors: bg-light-fg-dark
 type: PostLayout
