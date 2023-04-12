@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
       - label: Kontakt
-        altText: ''
+        altText: Link zum Kontaktformular
         url: '/#7'
         showIcon: true
         icon: arrowRight
