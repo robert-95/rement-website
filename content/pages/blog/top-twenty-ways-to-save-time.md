@@ -16,7 +16,7 @@ seo:
     Rement hat Deutschlands größten studentischen Startupwettbewerb Grow
     gewonnen. Ausgerichtet wurde der Wettbewerb von der Pioniergarage, einer
     Hochschulgruppe des Karlsruher Instituts für Technologie (KIT). Wir bedanken
-    uns herzlich bei den Organisatoren, Sponsoren, 
+    uns herzlich bei den Organisatoren, Sponsoren, der Jury und den Zuschauern.
   socialImage: /images/rement-gewinnt-grow.webp
   type: Seo
 colors: bg-light-fg-dark
