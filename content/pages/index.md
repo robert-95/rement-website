@@ -463,7 +463,7 @@ sections:
           - pr-36
     elementId: '7'
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Rement
   metaDescription: This demo site is built with Stackbit
   socialImage: /images/rement-kreislauf.svg
   type: Seo
