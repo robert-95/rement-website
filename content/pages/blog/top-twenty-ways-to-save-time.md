@@ -20,6 +20,7 @@ seo:
     uns herzlich bei den Organisatoren, Sponsoren, der Jury und den Zuschauern.
   socialImage: /images/rement-gewinnt-grow.webp
   type: Seo
+  addTitleSuffix: false
 colors: bg-light-fg-dark
 type: PostLayout
 author: content/data/team/Tiya-Greenwood.json
