@@ -44,7 +44,7 @@
         },
         {
             "label": "Kontakt",
-            "altText": "Careers page",
+            "altText": "Link zum Kontaktformular",
             "url": "/#7",
             "icon": "arrowRight",
             "iconPosition": "right",
