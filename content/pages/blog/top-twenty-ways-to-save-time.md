@@ -21,11 +21,21 @@ seo:
   type: Seo
 colors: bg-light-fg-dark
 type: PostLayout
-author: content/data/person-z7e0j5wgi.json
+author: content/data/team/Tiya-Greenwood.json
+content: |+
+
+
 ---
+![](/images/rement-gewinnt-grow.webp)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo laoreet sit. Tincidunt id aliquet risus feugiat in ante. Non diam phasellus vestibulum lorem sed. Morbi quis commodo odio aenean. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Vel eros donec ac odio tempor orci dapibus ultrices. Facilisi morbi tempus iaculis urna id volutpat. Luctus accumsan tortor posuere ac. Sagittis orci a scelerisque purus semper eget. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Dolor purus non enim praesent. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Aliquam vestibulum morbi blandit cursus risus.
+Wir sind immer noch total überwältigt.
 
-Scelerisque fermentum dui faucibus in ornare quam viverra orci. Libero justo laoreet sit amet cursus. Gravida rutrum quisque non tellus orci. Ut sem nulla pharetra diam sit amet nisl suscipit. Lorem ipsum dolor sit amet consectetur adipiscing elit. Urna porttitor rhoncus dolor purus. Quisque non tellus orci ac auctor augue mauris augue. Consectetur adipiscing elit duis tristique sollicitudin. Vitae semper quis lectus nulla at volutpat. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Porta nibh venenatis cras sed felis eget velit. Ullamcorper malesuada proin libero nunc consequat interdum. Enim sed faucibus turpis in eu mi bibendum neque egestas. Facilisi morbi tempus iaculis urna. Rhoncus est pellentesque elit ullamcorper dignissim. Aenean et tortor at risus viverra adipiscing at in. Cursus euismod quis viverra nibh cras pulvinar mattis nunc sed. Sit amet aliquam id diam. Ut tristique et egestas quis ipsum suspendisse. Congue quisque egestas diam in arcu cursus.
+Wir haben in den vergangenen Wochen am Wettbewerb GROW X teilgenommen. GROW ist der größte studentische Startupwettbewerb Deutschlands und wird von der Pioniergarage, einer Hochschulgruppe des Karlsruher Instituts für Technologie (KIT) veranstaltet. Motiviert durch die massiven CO2-Emissionen der Bauindustrie, die es drastisch zu reduzieren gilt, haben wir unsere Idee des chemischen Betonrecyclings entwickelt. Nach 11 Wochen präsentierten wir einen funktionierenden Demonstrator. 🔬
 
-Mattis enim ut tellus elementum sagittis. At volutpat diam ut venenatis tellus in metus vulputate eu. Habitant morbi tristique senectus et. Id aliquet lectus proin nibh nisl condimentum id venenatis. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Lectus vestibulum mattis ullamcorper velit sed. Semper viverra nam libero justo. Purus sit amet luctus venenatis. Massa id neque aliquam vestibulum morbi blandit cursus risus at. Feugiat nibh sed pulvinar proin gravida.
+Am Samstag hatten wir die Ehre, im GROW-Finale zu stehen. Aber das ist noch nicht alles: Wir haben tatsächlich den ersten Platz gewonnen! 🏆 Puh.
+
+Wir sind sehr dankbar für die Unterstützung von KIT Innovation Hub, Maral Merve Emir und vielen anderen. Ein großes Dankeschön an die Jury & das gesamte Orga-Team des GROW X Contests. Herzlichen Glückwunsch an alle über 70 Teams, die in den letzten Wochen Unglaubliches archiviert haben!
+
+Wir freuen uns auf die kommenden Tage und Wochen. Es gibt viel zu tun!
+
+[Zum Pitch im Video](https://www.youtube.com/live/enZfdcR0HsA?feature=share\&t=3133)
