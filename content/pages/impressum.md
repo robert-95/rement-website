@@ -8,7 +8,6 @@ sections:
       text: Impressum
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
     text: >
       Verantwortlich für den Inhalt dieser Website:
 
