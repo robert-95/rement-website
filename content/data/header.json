@@ -25,7 +25,7 @@
         {
             "label": "Team",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/#4",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
