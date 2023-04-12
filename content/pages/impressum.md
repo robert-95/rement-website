@@ -44,7 +44,6 @@ sections:
       Dritter beachtet und als solche gekennzeichnet.
     actions: []
     badge:
-      label: This is a badge
       color: text-primary
       type: Badge
     elementId: ''
