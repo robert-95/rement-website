@@ -3,9 +3,10 @@ title: Rement gewinnt Startupwettbewerb Grow
 slug: rement-gewinnt-grow
 date: '2023-01-22'
 excerpt: >-
-  Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
-  aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
-  consequatur cum inventore voluptas sed impedit asperiores!
+  Wir sind immer noch total überwältigt. Wir haben in den vergangenen Wochen am
+  Wettbewerb GROW X teilgenommen. GROW ist der größte studentische
+  Startupwettbewerb Deutschlands und wird von der Pioniergarage, einer
+  Hochschulgruppe des Karlsruher Instituts für Technologie (KIT) veranstaltet.
 featuredImage:
   url: /images/rement-gewinnt-grow.webp
   altText: Post image 3
@@ -24,7 +25,30 @@ type: PostLayout
 author: content/data/team/Tiya-Greenwood.json
 content: |+
 
-
+bottomSections:
+  - type: RecentPostsSection
+    title:
+      text: Recent posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: null
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    badge: null
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    backgroundImage: null
+    styles:
+      self:
+        justifyContent: center
 ---
 ![](/images/rement-gewinnt-grow.webp)
 
