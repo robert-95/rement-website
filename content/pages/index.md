@@ -337,10 +337,8 @@ sections:
       subtitle:
         textAlign: center
   - type: GenericSection
-    text: >
-      A Stackbit website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      Du möchtest uns im Engineering oder Business Development unterstützen? 
     actions:
       - label: See Tutorials
         altText: ''
