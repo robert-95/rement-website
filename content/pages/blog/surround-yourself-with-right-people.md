@@ -46,6 +46,8 @@ bottomSections:
     styles:
       self:
         justifyContent: center
+isFeatured: true
+isDraft: true
 ---
 ![](/images/rement-achim-stammer.webp)
 
