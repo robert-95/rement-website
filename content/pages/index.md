@@ -337,10 +337,6 @@ sections:
       subtitle:
         textAlign: center
   - type: GenericSection
-    title:
-      text: Unblock your team boost your time to production
-      color: text-dark
-      type: TitleBlock
     subtitle: Subtitle goes here
     text: >
       A Stackbit website is a git repo that you own. Every code commit is
