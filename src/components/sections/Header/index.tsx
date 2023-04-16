@@ -56,7 +56,7 @@ function HeaderVariants(props) {
 function HeaderLogoLeftPrimaryLeft(props) {
     const { title, logo, primaryLinks = [], secondaryLinks = [], colors = 'bg-light-fg-dark' } = props;
     return (
-        <div className="flex items-center relative">
+        <div className="flex items-center relative max-h-1">
             {(title || logo?.url) && (
                 <div className="mr-10">
                     <SiteLogoLink title={title} logo={logo} />
