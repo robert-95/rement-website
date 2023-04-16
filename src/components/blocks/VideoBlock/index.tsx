@@ -307,3 +307,15 @@ function stripParameters(shortcodeString: string) {
 
     return shortcodeString;
 }
+
+
+function setVideoFrame(){
+  document.getElementById('videoFrame').src = 'http://example.com/';
+}
+if (window.addEventListener)  // W3C DOM
+  window.addEventListener('load', setVideoFrame, false);
+else if (window.attachEvent) { // IE DOM
+  window.attachEvent('onload', setVideoFrame);
+}else{ //NO SUPPORT, lauching right now
+  setVideoFrame();
+}
