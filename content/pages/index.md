@@ -43,6 +43,11 @@ sections:
             - ml-6
             - mb-6
             - mr-6
+          padding:
+            - pt-5
+            - pl-5
+            - pb-5
+            - pr-5
     elementId: '1'
     colors: bg-light-fg-dark
     backgroundImage: null
