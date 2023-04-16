@@ -50,7 +50,7 @@ sections:
           - pr-16
         margin:
           - mt-0
-          - mb-16
+          - mb-1
       subtitle:
         textAlign: left
   - type: FeaturedItemsSection
