@@ -15,7 +15,8 @@
                 "borderWidth": 1
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "felix"
     },
     "colors": "bg-light-fg-dark",
     "styles": {
