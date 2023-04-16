@@ -323,7 +323,16 @@ sections:
       - content/data/team/Tiya-Greenwood.json
       - content/data/team/Faizah-Chan.json
       - content/data/person-z7e0j5wgi.json
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     badge: null
     elementId: '4'
     variant: four-col-grid
