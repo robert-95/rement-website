@@ -325,9 +325,6 @@ sections:
       - content/data/person-z7e0j5wgi.json
     actions:
       - type: Button
-        label: >-
-          Du kennst dich mit Verfahrenstechnik oder der Baubranche aus? Bewirb
-          dich gerne.
         altText: ''
         url: /
         showIcon: false
