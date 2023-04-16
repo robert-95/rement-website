@@ -343,7 +343,7 @@ sections:
 
     actions:
       - label: Schreib uns eine Nachricht
-        altText: Link zu
+        altText: Link zu Kontaktformular
         url: '/#7'
         showIcon: true
         icon: arrowRight
