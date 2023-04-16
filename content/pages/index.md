@@ -359,6 +359,7 @@ sections:
           - pt-48
           - pb-24
           - pl-16
+          - pr-16
   - type: GenericSection
     title:
       text: Unser Pitch Im Video
