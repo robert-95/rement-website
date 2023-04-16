@@ -22,7 +22,7 @@ sections:
       Kontakt:
 
       E-Mail:
-      [robert.schleinhege@rement.tech](mailto:robert.schleinhege@example.com)
+      [robert.schleinhege@rement.tech](mailto:robert.schleinhege@rement.tech.com)
 
 
       Haftungshinweis:
