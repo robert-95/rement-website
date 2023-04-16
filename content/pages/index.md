@@ -198,9 +198,9 @@ sections:
       - title: Wirtschaftlich
         text: >+
           <div style="text-align: center">Die Ausrichtung auf die Produktion von
-          wertvollem, hochreinem und -feinem Calciumcarbonat ermöglicht hohe
-          Margen. Der Verkauf von Sand, Kies und CO2 Emissionsrechten
-          ermöglichen zusätzliche Einkommensströme.</div>
+          hochreinem und -feinem Calciumcarbonat ermöglicht hohe Margen.
+          Zusätzliche Einkommensströme werden durch den Verkauf von Sand, Kies
+          und CO2 Emissionsrechten ermöglicht.</div>
 
         image:
           altText: Featured icon two
