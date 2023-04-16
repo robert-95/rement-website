@@ -16,7 +16,7 @@ export default function FeaturedItemToggle(props) {
             id={elementId}
             className={classNames(
                 'sb-card',
-                'h-full',
+                // 'h-full',
                 colors,
                 styles?.self?.margin ? mapStyles({ margin: styles?.self?.margin }) : undefined,
                 styles?.self?.padding ? mapStyles({ padding: styles?.self?.padding }) : undefined,
