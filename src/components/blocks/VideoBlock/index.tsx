@@ -307,15 +307,3 @@ function stripParameters(shortcodeString: string) {
 
     return shortcodeString;
 }
-
-
-function setVideoFrame(){
-  document.getElementById('videoFrame').src = 'https://www.youtube.com/watch?v=enZfdcR0HsA&t=3170s';
-}
-if (window.addEventListener)  // W3C DOM
-  window.addEventListener('load', setVideoFrame, false);
-else if (window.attachEvent) { // IE DOM
-  window.attachEvent('onload', setVideoFrame);
-}else{ //NO SUPPORT, lauching right now
-  setVideoFrame();
-}
