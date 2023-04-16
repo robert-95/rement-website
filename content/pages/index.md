@@ -380,7 +380,14 @@ sections:
     actions: []
     media:
       title: Rement Pitch beim Grow Finale 2023
-      url: '        <iframe            style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"            src="https://tube.rvere.com/embed?v=enZfdcR0HsA&start=52:50"            title="YouTube video player"            frameBorder="0"            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"            allowFullScreen>        </iframe>'
+      url: >-
+        <iframe            style="position: absolute; top: 0px; left: 0px;
+        width: 100%; height: 100%;"           
+        src="https://tube.rvere.com/embed?v=enZfdcR0HsA&start=52:50"           
+        title="YouTube video player"            frameBorder="0"           
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+        gyroscope; picture-in-picture"            allowFullScreen>       
+        </iframe>
       autoplay: false
       loop: false
       muted: false
