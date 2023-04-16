@@ -137,7 +137,7 @@ function FeaturedPerson(props) {
             id={elementId}
             className={classNames(
                 'sb-card',
-                'h-full',
+                // 'h-full',
                 colors,
                 className,
                 'overflow-hidden',
