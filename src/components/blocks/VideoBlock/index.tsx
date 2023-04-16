@@ -308,7 +308,7 @@ function stripParameters(shortcodeString: string) {
     return shortcodeString;
 }
 
-<script>
+
 function setVideoFrame(){
   document.getElementById('videoFrame').src = 'http://example.com/';
 }
