@@ -336,42 +336,6 @@ sections:
           - pt-6
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      text: Unblock your team boost your time to production
-      color: text-dark
-      type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Stackbit website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    backgroundImage: null
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: RecentPostsSection
     title:
       text: Neuigkeiten
