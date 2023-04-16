@@ -103,10 +103,13 @@ sections:
         elementId: box1
       - title: Flächenverbrauch
         text: >
-          2,2 Milliarden Tonnen Bauschutt müssen ab 2025 jährlich verwertet
-          werden. Der Großteil des Betonschutts wird zerkleinert und als
-          Füllmaterial bis auf unbestimmte Zeit im Straßenbau oder in Sand- und
-          Kiesgruben eingesetzt. 
+          2,2 Milliarden Tonnen Bauschutt fallen ab 2025 jährlich bei
+          Gebäudeabriss und Straßenbau an. Die Verwertungsquoten von Bauschutt
+          sind zwar hoch, der Anteil an Bauschutt der in seine ursprünglichen
+          Ausgangsstoffe zurückversetzt wird jedoch gering. Der Großteil des
+          Betonschutts wird lediglich zerkleinert und als Füllmaterial bis auf
+          unbestimmte Zeit im Straßenbau oder in Sand- und Kiesgruben eingesetzt
+          oder als Abdeckung von Deponien verwendet.
         actions: []
         colors: bg-light-fg-dark
         styles:
