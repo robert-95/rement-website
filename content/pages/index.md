@@ -39,10 +39,10 @@ sections:
       styles:
         self:
           margin:
-            - mt-5
-            - ml-5
-            - mb-5
-            - mr-5
+            - mt-10
+            - ml-10
+            - mb-10
+            - mr-10
     elementId: '1'
     colors: bg-light-fg-dark
     backgroundImage: null
