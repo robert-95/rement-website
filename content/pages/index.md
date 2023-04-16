@@ -183,7 +183,7 @@ sections:
           - pt-24
           - pl-8
           - pb-16
-          - pr-16
+          - pr-8
   - type: FeaturedItemsSection
     title:
       color: text-dark
