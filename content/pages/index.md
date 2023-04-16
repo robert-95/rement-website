@@ -358,6 +358,7 @@ sections:
         padding:
           - pt-48
           - pb-24
+          - pl-16
   - type: GenericSection
     title:
       text: Unser Pitch Im Video
