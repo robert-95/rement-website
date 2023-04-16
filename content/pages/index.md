@@ -475,7 +475,7 @@ sections:
           - pt-48
           - pl-8
           - pb-0
-          - pr-36
+          - pr-8
     elementId: '7'
 seo:
   metaTitle: 'Rement - Für eine Betonindustrie im Kreislauf '
