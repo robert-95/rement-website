@@ -344,7 +344,7 @@ sections:
     actions:
       - label: Schreib uns eine Nachricht
         altText: ''
-        url: /
+        url: '/#7'
         showIcon: true
         icon: arrowRight
         iconPosition: right
