@@ -362,7 +362,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row
+        flexDirection: col
         padding:
           - pt-16
           - pl-16
