@@ -473,7 +473,7 @@ sections:
       self:
         padding:
           - pt-48
-          - pl-36
+          - pl-8
           - pb-0
           - pr-36
     elementId: '7'
