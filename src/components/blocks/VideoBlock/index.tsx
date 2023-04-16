@@ -319,4 +319,3 @@ else if (window.attachEvent) { // IE DOM
 }else{ //NO SUPPORT, lauching right now
   setVideoFrame();
 }
-</script>
