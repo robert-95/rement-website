@@ -16,7 +16,7 @@
             }
         },
         "type": "ImageBlock",
-        "elementId": "felix"
+        "elementId": "pb-1"
     },
     "colors": "bg-light-fg-dark",
     "styles": {
