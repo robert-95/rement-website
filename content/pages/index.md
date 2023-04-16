@@ -129,9 +129,13 @@ sections:
         elementId: box2
       - title: Emissionen
         text: >
-          Die Zementproduktion ist für 8% der weltweiten
+          Zur Herstellung von Zement wird zunächst Kalkstein gebrannt, um dann
+          ein Kalkstein-Ton-Gemisch bei sehr hohen Temperaturen im Ofen zu
+          Zement zu brennen. Der Energieverbrauch dieses Verfahrens und die
+          damit einhergehenden Kohlenstoffdioxid-Emissionen sind hoch. Die
+          Zementproduktion ist für 8% der weltweiten
           Kohlenstoffdioxid-Emissionen verantwortlich. Aktuell existieren keine
-          skalierbaren Ansätze, dieses Kohlenstoffdioxid wieder zu binden. 
+          skalierbaren Ansätze, dieses Kohlenstoffdioxid wieder zu binden.
         actions: []
         colors: bg-light-fg-dark
         styles:
