@@ -4,7 +4,7 @@
     "bio": "Doktorand Vincent bringt wichtige Expertise im Bereich Nanotechnologie ins Team\n",
     "image": {
         "url": "/images/Vincent (1).svg",
-        "altText": "Tiya Greenwood",
+        "altText": "Vincent Gottwald",
         "styles": {
             "self": {
                 "borderRadius": "full",
@@ -15,7 +15,8 @@
                 "borderWidth": 1
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "pb-2"
     },
     "colors": "bg-light-fg-dark",
     "styles": {

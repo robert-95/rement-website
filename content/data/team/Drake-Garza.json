@@ -4,7 +4,7 @@
     "bio": "Felix ist der Erfinder des Rement Verfahrens und der Kopf des Teams\n",
     "image": {
         "url": "/images/Felix (3).svg",
-        "altText": "Drake Garza",
+        "altText": "Felix Baur",
         "styles": {
             "self": {
                 "borderRadius": "full",
@@ -15,7 +15,8 @@
                 "borderWidth": 1
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "pb-1"
     },
     "colors": "bg-light-fg-dark",
     "styles": {

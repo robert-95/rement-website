@@ -346,3 +346,12 @@
 #box1, #box2, #box3, #benefit1, #benefit2, #benefit3 {
   -webkit-mask-image: -webkit-radial-gradient(white, black);
 }
+
+#logo {
+ height: 55px;
+}
+
+#pb-1, #pb-2, #pb-3, #pb-4 {
+ height: 200px;
+ width: 200px;
+}

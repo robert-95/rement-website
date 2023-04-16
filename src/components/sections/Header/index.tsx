@@ -20,6 +20,7 @@ export default function Header(props) {
                 colors,
                 'relative',
                 'shadow-header',
+
                 styles?.self?.margin ? mapStyles({ padding: styles?.self?.margin }) : undefined,
                 styles?.self?.padding ? mapStyles({ padding: styles?.self?.padding }) : 'p-4',
                 'z-50'
