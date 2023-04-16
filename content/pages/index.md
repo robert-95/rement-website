@@ -297,18 +297,16 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: null
+    subtitle: Du möchtest Teil von Rement sein? Melde dich gerne
     people:
       - content/data/team/Drake-Garza.json
       - content/data/team/Tiya-Greenwood.json
       - content/data/team/Faizah-Chan.json
       - content/data/person-z7e0j5wgi.json
-      - content/data/person-7awggb1rp.json
-      - content/data/person-3ik7wgwai.json
     actions: []
     badge: null
     elementId: '4'
-    variant: three-col-grid
+    variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
@@ -465,7 +463,7 @@ sections:
 seo:
   metaTitle: 'Rement - Für eine Betonindustrie im Kreislauf '
   metaDescription: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling.'
-  socialImage: /images/rement-kreislauf.svg
+  socialImage: /images/Rement-kreislauf.png
   type: Seo
   metaTags: []
   addTitleSuffix: false
