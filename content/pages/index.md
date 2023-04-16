@@ -342,7 +342,7 @@ sections:
       Business Development unterstützen?*</div>
 
     actions:
-      - label: See Tutorials
+      - label: Schreib uns eine Nachricht
         altText: ''
         url: /
         showIcon: true
