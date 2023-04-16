@@ -399,7 +399,7 @@ sections:
           borderRadius: large
       type: VideoBlock
       url: >-
-        <iframe loading="lazy" width="560" height="315"
+        <iframe  width="560" height="315" loading="lazy"
         src="https://www.youtube-nocookie.com/embed/enZfdcR0HsA?start=3171"
         title="YouTube video player" frameborder="0" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
