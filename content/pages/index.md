@@ -327,7 +327,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pl-16
+          - pl-8
           - pr-16
           - pt-6
       subtitle:
