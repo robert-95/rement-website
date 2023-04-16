@@ -149,7 +149,7 @@ sections:
           - pb-16
           - pt-24
           - pl-16
-          - pr-3
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
