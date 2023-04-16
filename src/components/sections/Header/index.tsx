@@ -396,7 +396,7 @@ function LinkWithSubnav(props) {
                         : 'sb-component-link-primary',
                     'inline-flex',
                     'items-center',
-                    inMobileMenu ? 'w-full' : 'text-sm',
+                    inMobileMenu ? 'w-full' : 'text-base',
                     {
                         'group-hover:no-underline hover:no-underline':
                             !inMobileMenu && (link.labelStyle ?? 'primary') === 'primary',
