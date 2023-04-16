@@ -36,6 +36,18 @@ sections:
       altText: Das Rement Verfahren in einer Skizze
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          margin:
+            - mt-6
+            - ml-6
+            - mb-6
+            - mr-6
+          padding:
+            - pt-0
+            - pl-0
+            - pb-0
+            - pr-0
     elementId: '1'
     colors: bg-light-fg-dark
     backgroundImage: null
@@ -44,10 +56,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-8
+          - pl-8
+          - pb-8
+          - pr-8
         margin:
           - mt-0
           - mb-0
@@ -136,8 +148,8 @@ sections:
         padding:
           - pb-16
           - pt-24
-          - pl-3
-          - pr-3
+          - pl-8
+          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
@@ -169,9 +181,9 @@ sections:
         flexDirection: row-reverse
         padding:
           - pt-24
-          - pl-16
+          - pl-8
           - pb-16
-          - pr-16
+          - pr-8
   - type: FeaturedItemsSection
     title:
       color: text-dark
@@ -287,8 +299,8 @@ sections:
         padding:
           - pb-32
           - pt-1
-          - pl-16
-          - pr-16
+          - pl-8
+          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
@@ -346,6 +358,8 @@ sections:
         padding:
           - pt-48
           - pb-24
+          - pl-8
+          - pr-8
   - type: GenericSection
     title:
       text: Unser Pitch Im Video
@@ -363,7 +377,7 @@ sections:
       title: Rement Pitch beim Grow Finale 2023
       url: >-
         <iframe width="560" height="315"
-        src="https://www.youtube-nocookie.com/embed/enZfdcR0HsA?start=3163"
+        src="https://www.youtube-nocookie.com/embed/enZfdcR0HsA?start=3169"
         title="YouTube video player" frameborder="0" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
         picture-in-picture; web-share" allowfullscreen></iframe>
@@ -395,9 +409,9 @@ sections:
         justifyContent: center
         padding:
           - pt-16
-          - pl-16
+          - pl-8
           - pb-16
-          - pr-16
+          - pr-8
       subtitle:
         textAlign: left
   - title:
@@ -459,9 +473,9 @@ sections:
       self:
         padding:
           - pt-48
-          - pl-36
-          - pb-0
-          - pr-36
+          - pl-8
+          - pb-1
+          - pr-8
     elementId: '7'
 seo:
   metaTitle: 'Rement - Für eine Betonindustrie im Kreislauf '
