@@ -222,6 +222,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
         type: FeaturedItem
+        elementId: benefit1
       - type: FeaturedItem
         title: Umweltfreundlich
         text: >+
