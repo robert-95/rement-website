@@ -332,7 +332,7 @@ function ListOfLinks(props) {
                                 {...link}
                                 className={classNames(
                                     'whitespace-nowrap',
-                                    inMobileMenu ? 'w-full' : 'text-sm',
+                                    inMobileMenu ? 'w-full' : 'text-base',
                                     {
                                         'justify-start py-3':
                                             inMobileMenu && link.__metadata.modelName === 'Link'
@@ -396,7 +396,7 @@ function LinkWithSubnav(props) {
                         : 'sb-component-link-primary',
                     'inline-flex',
                     'items-center',
-                    inMobileMenu ? 'w-full' : 'text-sm',
+                    inMobileMenu ? 'w-full' : 'text-base',
                     {
                         'group-hover:no-underline hover:no-underline':
                             !inMobileMenu && (link.labelStyle ?? 'primary') === 'primary',
@@ -441,7 +441,7 @@ function ListOfSubNavLinks({ links = [], inMobileMenu = false }) {
                 <li key={index}>
                     <Action
                         {...link}
-                        className={classNames(inMobileMenu ? 'w-full justify-start' : 'text-sm')}
+                        className={classNames(inMobileMenu ? 'w-full justify-start' : 'text-base')}
                         data-sb-field-path={`.${index}`}
                     />
                 </li>

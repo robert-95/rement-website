@@ -383,7 +383,7 @@ sections:
       autoplay: false
       loop: false
       muted: false
-      controls: true
+      controls: false
       aspectRatio: '16:9'
       elementId: ''
       styles:
