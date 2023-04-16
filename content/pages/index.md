@@ -44,10 +44,10 @@ sections:
             - mb-6
             - mr-6
           padding:
-            - pt-5
-            - pl-5
-            - pb-5
-            - pr-5
+            - pt-0
+            - pl-0
+            - pb-0
+            - pr-0
     elementId: '1'
     colors: bg-light-fg-dark
     backgroundImage: null
