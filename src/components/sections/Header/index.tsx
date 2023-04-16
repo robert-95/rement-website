@@ -27,7 +27,7 @@ export default function Header(props) {
             )}
             data-sb-object-id={props['data-sb-object-id']}
         >
-            <div className="max-w-7xl mx-auto max-h">
+            <div className="max-w-7xl mx-auto max-h-1">
                 <Link href="#main" className="sr-only">
                     Skip to main content
                 </Link>
