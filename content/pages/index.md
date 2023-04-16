@@ -278,6 +278,7 @@ sections:
             borderWidth: 1
             textAlign: center
         type: FeaturedItem
+        elementId: benefit3
     actions:
       - label: Gespräch vereinbaren
         altText: Kontakt aufnehmen
