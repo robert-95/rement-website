@@ -61,7 +61,7 @@ sections:
           - pb-0
           - pr-8
         margin:
-          - mt-0
+          - mt-10
           - mb-10
       subtitle:
         textAlign: left
