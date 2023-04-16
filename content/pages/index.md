@@ -338,8 +338,8 @@ sections:
         textAlign: center
   - type: GenericSection
     text: >+
-      <div style="text-align: center">Du möchtest uns im Engineering oder
-      Business Development unterstützen?</div>
+      <div style="text-align: center">*Du möchtest uns im Engineering oder
+      Business Development unterstützen?*</div>
 
     actions:
       - label: See Tutorials
