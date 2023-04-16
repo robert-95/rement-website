@@ -303,7 +303,6 @@ sections:
       - content/data/team/Tiya-Greenwood.json
       - content/data/team/Faizah-Chan.json
       - content/data/person-z7e0j5wgi.json
-      - content/data/person-3ik7wgwai.json
     actions: []
     badge: null
     elementId: '4'
