@@ -15,8 +15,7 @@
                 "borderColor": "border-neutral"
             }
         },
-        "type": "ImageBlock",
-        "elementId": "pb-3"
+        "type": "ImageBlock"
     },
     "colors": "bg-light-fg-dark",
     "styles": {
