@@ -300,7 +300,7 @@ sections:
           - pb-32
           - pt-1
           - pl-8
-          - pr-16
+          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
