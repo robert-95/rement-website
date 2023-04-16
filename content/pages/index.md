@@ -76,10 +76,14 @@ sections:
     items:
       - title: Rohstoffknappheit
         text: >
-          14 Milliarden Kubikmeter neues Beton pro Jahr lassen Sand und Kies
-          immer knapper werden. Sand und Kies muss in zahlreichen Gruben
-          gewonnen werden. Aufgrund der Korngröße ist Wüstensand nicht für die
-          Betonproduktion geeignet. 
+          Beton besteht aus einer zahlreicher vieler natürlicher, fossiler
+          Rohstoffe wie Sand, Kies, Kalkstein und Ton. Der weltweite Bedarf von
+          14 Milliarden Kubikmeter Beton im Jahr - Tendenz steigend - lässt
+          diese Rohstoffe immer knapper werden. Naturräume und Ihre Ökosysteme
+          sind durch den vermehrten Abbau dieser Rohstoffe gefährdet. Für Sand,
+          der nach Wasser am zweit meisten verwendete Rohstoff, werden Küsten-
+          und Flusslandschaften ausgebaggert. Die Vereinten Nationen warnen vor
+          einer drohenden globalen Krise. 
         actions: []
         colors: bg-light-fg-dark
         styles:
@@ -99,10 +103,13 @@ sections:
         elementId: box1
       - title: Flächenverbrauch
         text: >
-          2,2 Milliarden Tonnen Bauschutt müssen ab 2025 jährlich verwertet
-          werden. Der Großteil des Betonschutts wird zerkleinert und als
-          Füllmaterial bis auf unbestimmte Zeit im Straßenbau oder in Sand- und
-          Kiesgruben eingesetzt. 
+          2,2 Milliarden Tonnen Bauschutt fallen ab 2025 jährlich bei
+          Gebäudeabriss und Straßenbau an. Die Verwertungsquoten von Bauschutt
+          sind zwar hoch, der Anteil an Bauschutt der in seine ursprünglichen
+          Ausgangsstoffe zurückversetzt wird jedoch gering. Der Großteil des
+          Betonschutts wird lediglich zerkleinert und als Füllmaterial bis auf
+          unbestimmte Zeit im Straßenbau oder in Sand- und Kiesgruben eingesetzt
+          oder als Abdeckung von Deponien verwendet.
         actions: []
         colors: bg-light-fg-dark
         styles:
@@ -122,9 +129,13 @@ sections:
         elementId: box2
       - title: Emissionen
         text: >
-          Die Zementproduktion ist für 8% der weltweiten
+          Zur Herstellung von Zement wird zunächst Kalkstein gebrannt, um dann
+          ein Kalkstein-Ton-Gemisch bei sehr hohen Temperaturen im Ofen zu
+          Zement zu brennen. Der Energieverbrauch dieses Verfahrens und die
+          damit einhergehenden Kohlenstoffdioxid-Emissionen sind hoch. Die
+          Zementproduktion ist für 8% der weltweiten
           Kohlenstoffdioxid-Emissionen verantwortlich. Aktuell existieren keine
-          skalierbaren Ansätze, dieses Kohlenstoffdioxid wieder zu binden. 
+          skalierbaren Ansätze, dieses Kohlenstoffdioxid wieder zu binden.
         actions: []
         colors: bg-light-fg-dark
         styles:
@@ -198,9 +209,9 @@ sections:
       - title: Wirtschaftlich
         text: >+
           <div style="text-align: center">Die Ausrichtung auf die Produktion von
-          wertvollem, hochreinem und -feinem Calciumcarbonat ermöglicht hohe
-          Margen. Der Verkauf von Sand, Kies und CO2 Emissionsrechten
-          ermöglichen zusätzliche Einkommensströme.</div>
+          hochreinem und -feinem Calciumcarbonat ermöglicht hohe Margen.
+          Zusätzliche Einkommensströme werden durch den Verkauf von Sand, Kies
+          und CO2 Emissionsrechten ermöglicht.</div>
 
         image:
           altText: Featured icon two
@@ -317,7 +328,6 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Du möchtest Teil von Rement sein? Melde dich gerne
     people:
       - content/data/team/Drake-Garza.json
       - content/data/team/Tiya-Greenwood.json
@@ -335,6 +345,39 @@ sections:
           - pl-8
           - pr-8
           - pt-6
+      subtitle:
+        textAlign: center
+  - type: GenericSection
+    text: >+
+      <div style="text-align: center">*Du möchtest uns im Engineering oder
+      Business Development unterstützen?*</div>
+
+    actions:
+      - label: Schreib uns eine Nachricht
+        altText: Link zu Kontaktformular
+        url: '/#7'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    badge:
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    backgroundImage: null
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col
+        padding:
+          - pt-8
+          - pl-16
+          - pb-8
+          - pr-16
+        justifyContent: center
       subtitle:
         textAlign: center
   - type: RecentPostsSection
@@ -361,7 +404,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-48
+          - pt-32
           - pb-24
           - pl-8
           - pr-8
