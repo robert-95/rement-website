@@ -139,6 +139,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
         type: FeaturedItem
+        elementId: box3
     actions: []
     badge: null
     elementId: '2'
