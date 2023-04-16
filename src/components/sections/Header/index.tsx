@@ -332,7 +332,7 @@ function ListOfLinks(props) {
                                 {...link}
                                 className={classNames(
                                     'whitespace-nowrap',
-                                    inMobileMenu ? 'w-full' : 'text-sm',
+                                    inMobileMenu ? 'w-full' : 'text-base',
                                     {
                                         'justify-start py-3':
                                             inMobileMenu && link.__metadata.modelName === 'Link'
