@@ -76,10 +76,14 @@ sections:
     items:
       - title: Rohstoffknappheit
         text: >
-          14 Milliarden Kubikmeter neues Beton pro Jahr lassen Sand und Kies
-          immer knapper werden. Sand und Kies muss in zahlreichen Gruben
-          gewonnen werden. Aufgrund der Korngröße ist Wüstensand nicht für die
-          Betonproduktion geeignet. 
+          Beton besteht aus einer zahlreicher vieler natürlicher, fossiler
+          Rohstoffe wie Sand, Kies, Kalkstein und Ton. Der weltweite Bedarf von
+          14 Milliarden Kubikmeter Beton im Jahr - Tendenz steigend - lässt
+          diese Rohstoffe immer knapper werden. Naturräume und Ihre Ökosysteme
+          sind durch den vermehrten Abbau dieser Rohstoffe gefährdet. Für Sand,
+          der nach Wasser am zweit meisten verwendete Rohstoff, werden Küsten-
+          und Flusslandschaften ausgebaggert. Die Vereinten Nationen warnen vor
+          einer drohenden globalen Krise. 
         actions: []
         colors: bg-light-fg-dark
         styles:
