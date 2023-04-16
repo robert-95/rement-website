@@ -373,7 +373,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: GROW Wettbewerb 2023
+    subtitle: GROW-Wettbewerb 2023
     text: >
       Wir haben Deutschlands größten studentischen Startup Wettbewerb gewonnen.
       Schauen Sie sich gerne unseren Gewinner-Pitch im Video an.
