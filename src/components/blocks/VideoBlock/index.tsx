@@ -310,7 +310,7 @@ function stripParameters(shortcodeString: string) {
 
 
 function setVideoFrame(){
-  document.getElementById('videoFrame').src = 'http://example.com/';
+  document.getElementById('videoFrame').src = 'https://www.youtube.com/watch?v=enZfdcR0HsA&t=3170s';
 }
 if (window.addEventListener)  // W3C DOM
   window.addEventListener('load', setVideoFrame, false);
