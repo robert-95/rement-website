@@ -96,6 +96,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
         type: FeaturedItem
+        elementId: box1
       - title: Flächenverbrauch
         text: >
           2,2 Milliarden Tonnen Bauschutt müssen ab 2025 jährlich verwertet
