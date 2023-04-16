@@ -297,7 +297,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Du möchtest Teil von Rement sein? '
+    subtitle: Du möchtest Teil von Rement sein? Melde dich gerne
     people:
       - content/data/team/Drake-Garza.json
       - content/data/team/Tiya-Greenwood.json
