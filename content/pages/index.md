@@ -119,6 +119,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
         type: FeaturedItem
+        elementId: box2
       - title: Emissionen
         text: >
           Die Zementproduktion ist für 8% der weltweiten
