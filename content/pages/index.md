@@ -365,11 +365,6 @@ sections:
         style: primary
         elementId: ''
         type: Link
-    media:
-      url: /images/feature-image-two.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: This is a badge
       color: text-primary
