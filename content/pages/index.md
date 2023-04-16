@@ -96,6 +96,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
         type: FeaturedItem
+        elementId: box1
       - title: Flächenverbrauch
         text: >
           2,2 Milliarden Tonnen Bauschutt müssen ab 2025 jährlich verwertet
@@ -118,6 +119,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
         type: FeaturedItem
+        elementId: box2
       - title: Emissionen
         text: >
           Die Zementproduktion ist für 8% der weltweiten
@@ -137,6 +139,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
         type: FeaturedItem
+        elementId: box3
     actions: []
     badge: null
     elementId: '2'
@@ -219,6 +222,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
         type: FeaturedItem
+        elementId: benefit1
       - type: FeaturedItem
         title: Umweltfreundlich
         text: >+
@@ -233,7 +237,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        elementId: null
+        elementId: benefit2
         colors: bg-light-fg-dark
         styles:
           self:
@@ -274,6 +278,7 @@ sections:
             borderWidth: 1
             textAlign: center
         type: FeaturedItem
+        elementId: benefit3
     actions:
       - label: Gespräch vereinbaren
         altText: Kontakt aufnehmen
