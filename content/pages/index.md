@@ -325,7 +325,7 @@ sections:
       - content/data/person-z7e0j5wgi.json
     actions:
       - type: Button
-        label: Get started
+        label: Verfahrenstechik und
         altText: ''
         url: /
         showIcon: false
