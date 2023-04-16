@@ -237,7 +237,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        elementId: null
+        elementId: benefit2
         colors: bg-light-fg-dark
         styles:
           self:
