@@ -49,7 +49,7 @@ sections:
           - pb-16
           - pr-16
         margin:
-          - mt-16
+          - mt-0
           - mb-16
       subtitle:
         textAlign: left
