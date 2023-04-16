@@ -328,7 +328,7 @@ sections:
         justifyContent: center
         padding:
           - pl-16
-          - pr-8
+          - pr-16
           - pt-6
       subtitle:
         textAlign: center
