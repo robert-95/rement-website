@@ -76,14 +76,14 @@ sections:
     items:
       - title: Rohstoffknappheit
         text: >
-          Beton besteht aus einer zahlreicher vieler natürlicher, fossiler
-          Rohstoffe wie Sand, Kies, Kalkstein und Ton. Der weltweite Bedarf von
-          14 Milliarden Kubikmeter Beton im Jahr - Tendenz steigend - lässt
-          diese Rohstoffe immer knapper werden. Naturräume und Ihre Ökosysteme
-          sind durch den vermehrten Abbau dieser Rohstoffe gefährdet. Für Sand,
-          der nach Wasser am zweit meisten verwendete Rohstoff, werden Küsten-
-          und Flusslandschaften ausgebaggert. Die Vereinten Nationen warnen vor
-          einer drohenden globalen Krise. 
+          Beton besteht aus einer Vielzahl natürlicher, fossiler Rohstoffe wie
+          Sand, Kies, Kalkstein und Ton. Der weltweite Bedarf von 14 Milliarden
+          Kubikmeter Beton im Jahr - Tendenz steigend - lässt diese Rohstoffe
+          immer knapper werden. Naturräume und Ihre Ökosysteme sind durch den
+          vermehrten Abbau dieser Rohstoffe gefährdet. Für Sand, der nach Wasser
+          am zweitmeisten verwendete Rohstoff, werden Küsten- und
+          Flusslandschaften ausgebaggert. Die Vereinten Nationen warnen vor
+          einer drohenden globalen Krise.
         actions: []
         colors: bg-light-fg-dark
         styles:
