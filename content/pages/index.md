@@ -173,9 +173,9 @@ sections:
       color: text-dark
       type: TitleBlock
     text: >
-      Das Rement Verfahren ermöglicht die Zersetzung von Betonbruch unter
-      Bindung von Kohlenstoffdioxid. Neben den Ausgangsstoffen Sand und Kies
-      wird hochreines, wertvolles Calciumcarbonat gewonnen.
+      Das Rement Verfahren zersetzt Betonbruch unter Bindung von
+      Kohlenstoffdioxid. Neben den Ausgangsstoffen Sand und Kies wird
+      hochreines, wertvolles Calciumcarbonat gewonnen.
     actions: []
     media:
       url: /images/rement-verfahren.svg
