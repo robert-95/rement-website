@@ -11,7 +11,7 @@ sections:
         self:
           fontWeight: 400
           textAlign: left
-    subtitle: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling'
+    subtitle: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling.'
     actions:
       - label: Das Rement Verfahren
         altText: Link zum Rement Verfahren
@@ -76,14 +76,14 @@ sections:
     items:
       - title: Rohstoffknappheit
         text: >
-          Beton besteht aus einer zahlreicher vieler natürlicher, fossiler
-          Rohstoffe wie Sand, Kies, Kalkstein und Ton. Der weltweite Bedarf von
-          14 Milliarden Kubikmeter Beton im Jahr - Tendenz steigend - lässt
-          diese Rohstoffe immer knapper werden. Naturräume und Ihre Ökosysteme
-          sind durch den vermehrten Abbau dieser Rohstoffe gefährdet. Für Sand,
-          der nach Wasser am zweit meisten verwendete Rohstoff, werden Küsten-
-          und Flusslandschaften ausgebaggert. Die Vereinten Nationen warnen vor
-          einer drohenden globalen Krise. 
+          Beton besteht aus einer Vielzahl natürlicher, fossiler Rohstoffe wie
+          Sand, Kies, Kalkstein und Ton. Der weltweite Bedarf von 14 Milliarden
+          Kubikmeter Beton im Jahr - Tendenz steigend - lässt diese Rohstoffe
+          immer knapper werden. Naturräume und ihre Ökosysteme sind durch den
+          vermehrten Abbau dieser Rohstoffe gefährdet. Für Sand, der nach Wasser
+          am zweitmeisten verwendete Rohstoff, werden Küsten- und
+          Flusslandschaften ausgebaggert. Die Vereinten Nationen warnen vor
+          einer drohenden globalen Krise.
         actions: []
         colors: bg-light-fg-dark
         styles:
@@ -173,12 +173,12 @@ sections:
       color: text-dark
       type: TitleBlock
     text: >
-      Das Rement Verfahren ermöglicht die Zersetzung von Betonbruch unter
-      Bindung von Kohlenstoffdioxid. Neben den Ausgangsstoffen Sand und Kies
-      wird hochreines, wertvolles Calciumcarbonat gewonnen.
+      Das Rement Verfahren zersetzt Betonbruch unter Bindung von
+      Kohlenstoffdioxid. Neben den Ausgangsstoffen Sand und Kies wird
+      hochreines, wertvolles Calciumcarbonat gewonnen.
     actions: []
     media:
-      url: /images/rement-verfahren.svg
+      url: /images/rement-verfahren-2816a9bd.svg
       altText: Überblick über das Rement Verfahren
       elementId: ''
       type: ImageBlock
@@ -210,8 +210,8 @@ sections:
         text: >+
           <div style="text-align: center">Die Ausrichtung auf die Produktion von
           hochreinem und -feinem Calciumcarbonat ermöglicht hohe Margen.
-          Zusätzliche Einkommensströme werden durch den Verkauf von Sand, Kies
-          und CO2 Emissionsrechten ermöglicht.</div>
+          Zusätzliche Einkommensströme entstehen durch den Verkauf von Sand,
+          Kies und CO2 Emissionsrechten.</div>
 
         image:
           altText: Featured icon two
