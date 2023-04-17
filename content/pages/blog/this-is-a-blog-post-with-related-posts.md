@@ -84,7 +84,7 @@ bottomSections:
           - pt-10
           - pl-8
           - pb-0
-          - pr-36
+          - pr-8
   - title:
       text: Latest posts
       color: text-dark
