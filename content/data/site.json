@@ -2,7 +2,7 @@
     "favicon": "/images/rement-logo-64.png",
     "header": "content/data/header.json",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
+    "titleSuffix": "Re",
     "defaultSocialImage": "/images/soc.png",
     "type": "Config"
 }
