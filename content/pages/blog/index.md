@@ -40,9 +40,9 @@ topSections:
         flexDirection: row
         padding:
           - pt-16
-          - pl-16
+          - pl-8
           - pb-16
-          - pr-16
+          - pr-8
 styles:
   title:
     textAlign: center
