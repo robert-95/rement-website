@@ -210,8 +210,8 @@ sections:
         text: >+
           <div style="text-align: center">Die Ausrichtung auf die Produktion von
           hochreinem und -feinem Calciumcarbonat ermöglicht hohe Margen.
-          Zusätzliche Einkommensströme werden durch den Verkauf von Sand, Kies
-          und CO2 Emissionsrechten ermöglicht.</div>
+          Zusätzliche Einkommensströme entstehen durch den Verkauf von Sand,
+          Kies und CO2 Emissionsrechten.</div>
 
         image:
           altText: Featured icon two
