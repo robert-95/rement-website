@@ -1,8 +1,8 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/rement-logo-64.png",
     "header": "content/data/header.json",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/soc.png",
+    "titleSuffix": "Rement",
+    "defaultSocialImage": "/images/rement-kreislauf.webp",
     "type": "Config"
 }
