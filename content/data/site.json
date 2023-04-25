@@ -4,5 +4,11 @@
     "footer": "content/data/footer.json",
     "titleSuffix": "Rement",
     "defaultSocialImage": "/images/rement-kreislauf.webp",
-    "type": "Config"
+    "type": "Config",
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "content": "<meta name=\"google-site-verification\" content=\"QxO03R5kblCWRLwf0Nz23ZLZtymP2z3y8aVPa9HE_fE\" />"
+        }
+    ]
 }
