@@ -5,11 +5,5 @@
     "titleSuffix": "Rement",
     "defaultSocialImage": "/images/rement-kreislauf.webp",
     "type": "Config",
-    "defaultMetaTags": [
-        {
-            "type": "MetaTag",
-            "property": "og:title",
-            "content": "lorem-ipsum"
-        }
-    ]
+    "defaultMetaTags": []
 }
