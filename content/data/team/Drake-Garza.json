@@ -33,5 +33,6 @@
             "justifyContent": "center"
         }
     },
-    "type": "Person"
+    "type": "Person",
+    "bio": "[LinkedIn](https://www.linkedin.com/in/felix-baur-6a702b258/)\n"
 }
