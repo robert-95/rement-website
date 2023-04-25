@@ -11,7 +11,7 @@
                 "margin": [
                     "mb-6"
                 ],
-                "borderRadius": "full",
+                "borderRadius": "none",
                 "borderColor": "border-neutral",
                 "borderWidth": 1
             }
