@@ -2,18 +2,17 @@
     "type": "Person",
     "name": "Robert Schleinhege",
     "role": "Business Development",
-    "bio": "Wirtschaftsingenieur Robert bringt Erfahrung in Marketing und Produktmanagement mit\n",
     "image": {
-        "url": "/images/robert-pb.png",
+        "url": "/images/robert (1).webp",
         "altText": "Robert Schleinhege",
         "styles": {
             "self": {
                 "margin": [
                     "mb-6"
                 ],
-                "borderRadius": "full",
+                "borderRadius": "none",
                 "borderColor": "border-neutral",
-                "borderWidth": 1
+                "borderWidth": 0
             }
         },
         "type": "ImageBlock"

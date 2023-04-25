@@ -1,17 +1,16 @@
 {
     "name": "Adrian Neukirch",
     "role": "Research & Tech",
-    "bio": "Chemiker Adrian ist die treibende Kraft unserer Laborforschung\n",
     "image": {
-        "url": "/images/adrian-pb.png",
+        "url": "/images/adrian (1).webp",
         "altText": "Adrian Neukirch",
         "styles": {
             "self": {
-                "borderRadius": "full",
+                "borderRadius": "none",
                 "margin": [
                     "mb-6"
                 ],
-                "borderWidth": 1,
+                "borderWidth": 0,
                 "borderColor": "border-neutral"
             }
         },

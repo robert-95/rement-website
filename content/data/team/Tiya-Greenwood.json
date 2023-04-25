@@ -1,18 +1,17 @@
 {
     "name": "Vincent Gottwald",
     "role": "Research & Tech",
-    "bio": "Doktorand Vincent bringt wichtige Expertise im Bereich Nanotechnologie ins Team\n",
     "image": {
-        "url": "/images/vincent-pb.png",
+        "url": "/images/vincent (1).webp",
         "altText": "Vincent Gottwald",
         "styles": {
             "self": {
-                "borderRadius": "full",
+                "borderRadius": "none",
                 "margin": [
                     "mb-6"
                 ],
                 "borderColor": "border-neutral",
-                "borderWidth": 1
+                "borderWidth": 0
             }
         },
         "type": "ImageBlock"
