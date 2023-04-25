@@ -13,7 +13,7 @@
                 ],
                 "borderRadius": "none",
                 "borderColor": "border-neutral",
-                "borderWidth": 1
+                "borderWidth": 0
             }
         },
         "type": "ImageBlock"
