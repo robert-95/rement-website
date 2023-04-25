@@ -25,6 +25,7 @@ export default function DefaultBaseLayout(props) {
                         return <meta key={metaTag.property} name={metaTag.property} content={metaTag.content} />;
                     })}
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
+                    <meta name="google-site-verification" content="QxO03R5kblCWRLwf0Nz23ZLZtymP2z3y8aVPa9HE_fE" />
                     {site.favicon && <link rel="icon" href={site.favicon} />}
                 </Head>
                 {site.header && <Header {...site.header} data-sb-object-id={site.header?.__metadata?.id} />}
