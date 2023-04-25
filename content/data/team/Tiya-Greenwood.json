@@ -7,7 +7,7 @@
         "altText": "Vincent Gottwald",
         "styles": {
             "self": {
-                "borderRadius": "full",
+                "borderRadius": "none",
                 "margin": [
                     "mb-6"
                 ],
