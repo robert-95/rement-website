@@ -8,7 +8,7 @@
     "defaultMetaTags": [
         {
             "type": "MetaTag",
-            "content": "lorem-ipsum"
+            "content": "<meta name=\"google-site-verification\" content=\"QxO03R5kblCWRLwf0Nz23ZLZtymP2z3y8aVPa9HE_fE\" />"
         }
     ]
 }
