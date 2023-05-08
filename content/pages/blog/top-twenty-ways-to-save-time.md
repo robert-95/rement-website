@@ -63,4 +63,3 @@ Wir sind sehr dankbar für die Unterstützung von KIT Innovation Hub, Maral Merv
 
 Wir freuen uns auf die kommenden Tage und Wochen. Es gibt viel zu tun!
 
-[Zum Pitch im Video](https://www.youtube.com/live/enZfdcR0HsA?feature=share\&t=3133)
