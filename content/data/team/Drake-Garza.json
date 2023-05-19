@@ -20,10 +20,10 @@
     "styles": {
         "self": {
             "padding": [
-                "pt-3",
-                "pb-3",
-                "pl-3",
-                "pr-3"
+                "pt-6",
+                "pb-6",
+                "pl-6",
+                "pr-6"
             ],
             "textAlign": "center",
             "borderColor": "border-neutral",
