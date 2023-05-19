@@ -337,7 +337,7 @@ sections:
     actions: []
     badge: null
     elementId: '4'
-    variant: three-col-grid
+    variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
