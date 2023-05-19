@@ -12,7 +12,7 @@
                 "margin": [
                     "mb-6"
                 ],
-                "borderRadius": "full"
+                "borderRadius": "none"
             }
         },
         "type": "ImageBlock"
