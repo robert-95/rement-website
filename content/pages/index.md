@@ -333,10 +333,11 @@ sections:
       - content/data/team/Tiya-Greenwood.json
       - content/data/team/Faizah-Chan.json
       - content/data/person-z7e0j5wgi.json
+      - content/data/person-f6up4hjar.json
     actions: []
     badge: null
     elementId: '4'
-    variant: four-col-grid
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:

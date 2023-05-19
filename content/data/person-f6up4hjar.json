@@ -1,22 +1,24 @@
 {
-    "name": "Felix Baur",
-    "role": "CEO & Co-Founder",
+    "type": "Person",
+    "name": "Achim Stammer",
+    "role": "CTO & Co-Founder",
+    "bio": "[LinkedIn](https://www.linkedin.com/in/achim-stammer-95061249/)\n",
     "image": {
-        "url": "/images/felix (1).webp",
-        "altText": "Felix Baur",
+        "url": "/images/achim.webp",
+        "altText": "First Last",
+        "elementId": "",
         "styles": {
             "self": {
-                "borderRadius": "none",
                 "margin": [
                     "mb-6"
                 ],
-                "borderColor": "border-neutral",
-                "borderWidth": 0
+                "borderRadius": "none"
             }
         },
         "type": "ImageBlock"
     },
     "colors": "bg-light-fg-dark",
+    "elementId": null,
     "styles": {
         "self": {
             "padding": [
@@ -29,10 +31,8 @@
             "borderColor": "border-neutral",
             "borderStyle": "solid",
             "borderWidth": 0,
-            "borderRadius": "none",
+            "borderRadius": "xx-large",
             "justifyContent": "center"
         }
-    },
-    "type": "Person",
-    "bio": "[LinkedIn](https://www.linkedin.com/in/felix-baur-6a702b258/)\n"
+    }
 }
