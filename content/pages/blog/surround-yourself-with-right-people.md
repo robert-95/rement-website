@@ -4,7 +4,7 @@ slug: achim-stammer-im-advisory-board
 date: '2023-05-20'
 excerpt: >-
   Wir freuen uns sehr, Dr. Achim Stammer in unserem Advisory Board begrüßen zu
-  dürfen.Der promovierte Chemieengenieur blickt auf eine langjährige Karriere
+  dürfen. Der promovierte Chemieengenieur blickt auf eine langjährige Karriere
   als Senior Manager in der Verfahrenstechnikforschung zurück. 
 featuredImage:
   url: /images/rement-achim-stammer.webp
