@@ -1,5 +1,5 @@
 ---
-title: Rement gewinnt Dr. Achim Stammer in unserem Advisory Board
+title: Rement gewinnt Dr. Achim Stammer als CTO
 slug: achim-stammer-im-advisory-board
 date: '2023-04-12'
 excerpt: >-
