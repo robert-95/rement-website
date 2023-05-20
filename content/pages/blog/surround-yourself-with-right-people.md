@@ -1,5 +1,5 @@
 ---
-title: Wir begrüßen Dr. Achim Stammer in unserem Advisory Board
+title: Rement gewinnt Dr. Achim Stammer in unserem Advisory Board
 slug: achim-stammer-im-advisory-board
 date: '2023-04-12'
 excerpt: >-
