@@ -11,7 +11,7 @@ featuredImage:
   altText: Bild von Achim Stammer
   type: ImageBlock
 seo:
-  metaTitle: Dr. Achim Stammer unterstützt Rement als Advisor
+  metaTitle: Rement gewinnt Dr. Achim Stammer als CTO
   metaDescription: >-
     Uns ist es gelungen Dr. Achim Stammer für unser Advisory Board zu gewinnen.
     Der promovierte Chemieengenieur blickt auf eine langjährige Karriere als
