@@ -12,7 +12,7 @@ seo:
     Uns ist es gelungen Dr. Achim Stammer als CTO zu gewinnen. Der promovierte
     Chemieengenieur blickt auf eine langjährige Karriere als Senior Manager in
     der Verfahrenstechnikforschung zurück. 
-  socialImage: /images/rement-achim-stammer.webp
+  socialImage: /images/achim-pb.webp
   type: Seo
   addTitleSuffix: false
 colors: bg-light-fg-dark
