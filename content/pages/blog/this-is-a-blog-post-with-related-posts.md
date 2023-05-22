@@ -68,7 +68,7 @@ styles:
     borderRadius: none
 author: content/data/person-z7e0j5wgi.json
 ---
-Für die weitere Optimierung des Rement Verfahrens und unseres Geschäftsmodells sind wir auf Ihre Unterstützung angewiesen. Wir suchen aktuell nach Experten und Expertinnen für Interviews. 
+Für die weitere Optimierung des Rement Verfahrens und unseres Geschäftsmodells sind wir auf Ihre Unterstützung angewiesen. Wir suchen aktuell nach Experten und Expertinnen für Interviews.
 
 ## Wen suchen wir?
 
@@ -82,9 +82,11 @@ Für die weitere Optimierung des Rement Verfahrens und unseres Geschäftsmodells
 
 ## Unsere Ziele
 
-*   Die Branche verstehen: Wie wird Baustoffrecycling aktuell in der Branche umgesetzt? 
+*   Die Branche verstehen: Wie wird Baustoffrecycling aktuell in der Branche umgesetzt?
 
 *   Unsere Mehrwerte herausarbeiten: Auf welche Vorteile unseres Verfahrens sollen wir uns fokussieren?
 
 *   Hürden abbauen: Wie können wir Hürden in der Anwendung unseres Verfahrens abbauen?
+
+Sie möchten uns unterstützen? Melden sie sich gerne an info@rement.tech.
 
