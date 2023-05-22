@@ -42,7 +42,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-isFeatured: true
+isFeatured: false
 isDraft: true
 featuredImage:
   type: ImageBlock
