@@ -20,71 +20,6 @@ featuredImage:
         - pr-0
   type: ImageBlock
 bottomSections:
-  - type: GenericSection
-    title:
-      text: Melden Sie sich gerne
-      color: text-dark
-      type: TitleBlock
-    subtitle: null
-    text: >
-      Sie möchten uns mit einem Interview unterstützen oder kennen jemanden, der
-      uns weiterhelfen könnte? Wir freuen uns sehr über Ihre Rückmeldung.
-    actions: []
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Ihr Name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Ihre Emailadresse
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Ihre Nachricht
-          width: full
-          type: TextareaFormControl
-      submitButton:
-        label: Absenden
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: SubmitButtonFormControl
-      action: /.netlify/functions/submission_created
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-    badge:
-      color: text-primary
-      type: Badge
-    elementId: '7'
-    colors: bg-light-fg-dark
-    backgroundImage: null
-    styles:
-      self:
-        padding:
-          - pt-10
-          - pl-8
-          - pb-0
-          - pr-8
   - title:
       text: Latest posts
       color: text-dark
@@ -133,7 +68,7 @@ styles:
     borderRadius: none
 author: content/data/person-z7e0j5wgi.json
 ---
-Für die weitere Optimierung des Rement Verfahrens und unseres Geschäftsmodells sind wir auf Ihre Unterstützung angewiesen. Wir suchen aktuell nach Experten und Expertinnen für Interviews. 
+Für die weitere Optimierung des Rement Verfahrens und unseres Geschäftsmodells sind wir auf Ihre Unterstützung angewiesen. Wir suchen aktuell nach Experten und Expertinnen für Interviews.
 
 ## Wen suchen wir?
 
@@ -147,9 +82,11 @@ Für die weitere Optimierung des Rement Verfahrens und unseres Geschäftsmodells
 
 ## Unsere Ziele
 
-*   Die Branche verstehen: Wie wird Baustoffrecycling aktuell in der Branche umgesetzt? 
+*   Die Branche verstehen: Wie wird Baustoffrecycling aktuell in der Branche umgesetzt?
 
 *   Unsere Mehrwerte herausarbeiten: Auf welche Vorteile unseres Verfahrens sollen wir uns fokussieren?
 
 *   Hürden abbauen: Wie können wir Hürden in der Anwendung unseres Verfahrens abbauen?
+
+Sie möchten uns unterstützen? Melden sie sich gerne an info@rement.tech.
 
