@@ -43,7 +43,7 @@ bottomSections:
       self:
         justifyContent: center
 isFeatured: false
-isDraft: true
+isDraft: false
 featuredImage:
   type: ImageBlock
   altText: 'Achim Stammer, CTO Rement'
