@@ -48,7 +48,7 @@ featuredImage:
   type: ImageBlock
   altText: Lightning bolt symbol on red background
   elementId: ''
-  url: /images/post-two.svg
+  url: /images/achim-pb.webp
   styles:
     self:
       borderRadius: x-large
