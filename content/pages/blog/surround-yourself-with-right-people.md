@@ -48,7 +48,7 @@ featuredImage:
   type: ImageBlock
   altText: 'Achim Stammer, CTO Rement'
   elementId: ''
-  url: /images/achim-pb.webp
+  url: /images/achim-post.webp
   styles:
     self:
       borderRadius: x-large
