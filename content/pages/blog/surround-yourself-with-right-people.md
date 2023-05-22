@@ -1,7 +1,7 @@
 ---
 title: Rement gewinnt Dr. Achim Stammer als CTO
 slug: achim-stammer-im-advisory-board
-date: '2023-05-20'
+date: '2023-05-22'
 excerpt: >-
   Wir freuen uns sehr, Dr. Achim Stammer als CTO von Rement begrüßen zu dürfen.
   Der promovierte Chemieengenieur blickt auf eine langjährige Karriere als
