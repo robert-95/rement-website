@@ -51,7 +51,7 @@ featuredImage:
   url: /images/achim-post.webp
   styles:
     self:
-      borderRadius: x-large
+      borderRadius: none
 ---
 ![](/images/achim-pb.webp)
 
