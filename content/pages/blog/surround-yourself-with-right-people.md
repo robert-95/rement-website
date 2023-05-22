@@ -10,7 +10,7 @@ seo:
   metaTitle: Rement gewinnt Dr. Achim Stammer als CTO
   metaDescription: >-
     Uns ist es gelungen Dr. Achim Stammer als CTO zu gewinnen. Der promovierte
-    Chemieengenieur blickt auf eine langjährige Karriere als Senior Manager in
+    Chemieingenieur blickt auf eine langjährige Karriere als Senior Manager in
     der verfahrenstechnischen Forschung und Pilotierung zurück. 
   socialImage: /images/achim-pb.webp
   type: Seo
