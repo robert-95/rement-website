@@ -46,7 +46,7 @@ isFeatured: true
 isDraft: true
 featuredImage:
   type: ImageBlock
-  altText: Lightning bolt symbol on red background
+  altText: 'Achim Stammer, CTO Rement'
   elementId: ''
   url: /images/achim-pb.webp
   styles:
