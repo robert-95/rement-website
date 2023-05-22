@@ -4,7 +4,7 @@ slug: achim-stammer-cto
 date: '2023-05-22'
 excerpt: >-
   Uns ist es gelungen Dr. Achim Stammer als CTO zu gewinnen. Der promovierte
-  Chemieengenieur blickt auf eine langjährige Karriere als Senior Manager in der
+  Chemieingenieur blickt auf eine langjährige Karriere als Senior Manager in der
   verfahrenstechnischen Forschung und Pilotierung zurück. 
 seo:
   metaTitle: Rement gewinnt Dr. Achim Stammer als CTO
