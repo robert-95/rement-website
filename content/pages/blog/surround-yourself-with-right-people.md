@@ -6,10 +6,6 @@ excerpt: >-
   Wir freuen uns sehr, Dr. Achim Stammer als CTO von Rement begrüßen zu dürfen.
   Der promovierte Chemieengenieur blickt auf eine langjährige Karriere als
   Senior Manager in der Verfahrenstechnikforschung zurück. 
-featuredImage:
-  url: /images/rement-achim-stammer.webp
-  altText: Bild von Achim Stammer
-  type: ImageBlock
 seo:
   metaTitle: Rement gewinnt Dr. Achim Stammer als CTO
   metaDescription: >-
