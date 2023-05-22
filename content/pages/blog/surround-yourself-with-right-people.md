@@ -44,6 +44,14 @@ bottomSections:
         justifyContent: center
 isFeatured: true
 isDraft: true
+featuredImage:
+  type: ImageBlock
+  altText: Lightning bolt symbol on red background
+  elementId: ''
+  url: /images/post-two.svg
+  styles:
+    self:
+      borderRadius: x-large
 ---
 ![](/images/achim-pb.webp)
 
