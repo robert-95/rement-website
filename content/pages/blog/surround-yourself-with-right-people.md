@@ -49,12 +49,13 @@ bottomSections:
 isFeatured: true
 isDraft: true
 ---
-![](/images/rement-achim-stammer.webp)
+![](/images/achim-pb.webp)
 
 Wir freuen uns sehr, Dr. Achim Stammer als Chief Technology Officer (CTO) bei Rement zu begrüßen.
 
-Der am Karlsruher Institut für Technologie (KIT) promovierte Chemieengenieur blickt auf eine langjährige Karriere als Senior Manager in der Verfahrenstechnikforschung zurück. Neben seiner Erfahrung in der Patentanmeldung und Entwicklungsbudgetplanung verfügt Dr. Stammer über tiefgehende Expertise im chemischen Recycling.
 
-Dr. Stammer wird gemeinsam mit unserem Research & Tech Team am Aufbau eines Labors, Patentierungen und der iterativen Entwicklung einer Pilotanlage arbeiten.
+Der am Karlsruher Institut für Technologie (KIT) promovierte Chemieengenieur blickt auf eine langjährige Karriere als Senior
+Manager in der verfahrenstechnischen Forschung und Pilotierung zurück. Neben seiner Erfahrung in der Projektierung, Budgetierung und Patentierung von Entwicklungsprojekten verfügt Dr. Stammer über tiefgehende Expertise im chemischen Recycling.
 
-Als CTO komplettiert Dr. Stammer unser Leadership-Team rund um Felix Baur (Chief Executive Officer) und Robert Schleinhege (Chief Business Development Officer). 
+
+Dr. Stammer wird gemeinsam mit unserem Research & Tech Team am Aufbau eines Labors, Patentierungen und der iterativen Entwicklung einer Pilotanlage arbeiten. Als CTO komplettiert Dr. Stammer unser Leadership-Team rund um Felix Baur (Chief Executive Officer) und Robert Schleinhege (Chief Business Development Officer).
