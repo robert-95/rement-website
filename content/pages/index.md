@@ -107,11 +107,11 @@ sections:
         text: >
           2,2 Milliarden Tonnen Bauschutt fallen ab 2025 jährlich bei
           Gebäudeabriss und Straßenbau an. Die Verwertungsquoten von Bauschutt
-          sind zwar hoch, der Anteil an Bauschutt der in seine ursprünglichen
-          Ausgangsstoffe zurückversetzt wird jedoch gering. Der Großteil des
-          Betonschutts wird lediglich zerkleinert und als Füllmaterial bis auf
-          unbestimmte Zeit im Straßenbau oder in Sand- und Kiesgruben eingesetzt
-          oder als Abdeckung von Deponien verwendet.
+          sind zwar hoch, der funktionale Wert des Betons sinkt jedoch im
+          Vergleich zum Ausgangsmaterial erheblich. Der Großteil des
+          Betonschutts wird  zerkleinert und als Füllmaterial im Straßenbau oder
+          in Sand- und Kiesgruben eingesetzt oder als Abdeckung von Deponien
+          verwendet.
         actions: []
         colors: bg-light-fg-dark
         styles:
