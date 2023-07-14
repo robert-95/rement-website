@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Für eine Betonindustrie im Kreislauf
+      text: Vom Zementrest zum Recycling-Füllstoff
       color: text-dark
       type: TitleBlock
       styles:
