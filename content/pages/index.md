@@ -477,7 +477,7 @@ sections:
 seo:
   metaTitle: 'Rement - Für eine Betonindustrie im Kreislauf '
   metaDescription: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling.'
-  socialImage: /images/Rement-kreislauf.png
+  socialImage: /images/rement-cover.webp
   type: Seo
   metaTags: []
   addTitleSuffix: false
