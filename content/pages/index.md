@@ -11,7 +11,9 @@ sections:
         self:
           fontWeight: 400
           textAlign: left
-    subtitle: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling.'
+    subtitle: >-
+      Wir entwickeln und lizenzieren Verfahren für klimapositives
+      Betonrecycling.
     actions:
       - label: Das Rement Verfahren
         altText: Link zum Rement Verfahren
