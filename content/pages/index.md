@@ -1,17 +1,19 @@
 ---
-title: Home
+title: Vom Zementrest zum Recycling-Füllstoff
 slug: /
 sections:
   - type: GenericSection
     title:
-      text: Für eine Betonindustrie im Kreislauf
+      text: Vom Zementrest zum Recycling-Füllstoff
       color: text-dark
       type: TitleBlock
       styles:
         self:
           fontWeight: 400
           textAlign: left
-    subtitle: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling.'
+    subtitle: >-
+      Wir entwickeln und lizenzieren Verfahren für klimapositives
+      Betonrecycling.
     actions:
       - label: Das Rement Verfahren
         altText: Link zum Rement Verfahren
@@ -32,17 +34,17 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/rement-kreislauf.webp
+      url: /images/rement-cover.webp
       altText: Das Rement Verfahren in einer Skizze
       elementId: ''
       type: ImageBlock
       styles:
         self:
           margin:
-            - mt-6
-            - ml-6
-            - mb-6
-            - mr-6
+            - mt-0
+            - ml-0
+            - mb-0
+            - mr-0
           padding:
             - pt-0
             - pl-0
@@ -56,9 +58,9 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-0
+          - pt-14
           - pl-8
-          - pb-0
+          - pb-8
           - pr-8
         margin:
           - mt-10
@@ -105,11 +107,11 @@ sections:
         text: >
           2,2 Milliarden Tonnen Bauschutt fallen ab 2025 jährlich bei
           Gebäudeabriss und Straßenbau an. Die Verwertungsquoten von Bauschutt
-          sind zwar hoch, der Anteil an Bauschutt der in seine ursprünglichen
-          Ausgangsstoffe zurückversetzt wird jedoch gering. Der Großteil des
-          Betonschutts wird lediglich zerkleinert und als Füllmaterial bis auf
-          unbestimmte Zeit im Straßenbau oder in Sand- und Kiesgruben eingesetzt
-          oder als Abdeckung von Deponien verwendet.
+          sind zwar hoch, der funktionale Wert des Betons sinkt jedoch im
+          Vergleich zum Ausgangsmaterial erheblich. Der Großteil des
+          Betonschutts wird  zerkleinert und als Füllmaterial im Straßenbau oder
+          in Sand- und Kiesgruben eingesetzt oder als Abdeckung von Deponien
+          verwendet.
         actions: []
         colors: bg-light-fg-dark
         styles:
@@ -174,11 +176,11 @@ sections:
       type: TitleBlock
     text: >
       Das Rement Verfahren zersetzt Betonbruch unter Bindung von
-      Kohlenstoffdioxid. Neben den Ausgangsstoffen Sand und Kies wird
-      hochreines, wertvolles Calciumcarbonat gewonnen.
+      Kohlenstoffdioxid. Neben dem Ausgangsstoff Sand wird hochreines,
+      wertvolles Calciumcarbonat gewonnen.
     actions: []
     media:
-      url: /images/rement-verfahren-2816a9bd.svg
+      url: /images/rement-verfahren-2fa2ca86.webp
       altText: Überblick über das Rement Verfahren
       elementId: ''
       type: ImageBlock
@@ -206,12 +208,14 @@ sections:
           textAlign: center
       type: TitleBlock
     items:
-      - title: Wirtschaftlich
+      - title: Bindung von CO2
         text: >+
-          <div style="text-align: center">Die Ausrichtung auf die Produktion von
-          hochreinem und -feinem Calciumcarbonat ermöglicht hohe Margen.
-          Zusätzliche Einkommensströme entstehen durch den Verkauf von Sand,
-          Kies und CO2 Emissionsrechten.</div>
+          <div style="text-align: center">Die Zementproduktion ist für 8% der
+          globalen  CO2-Emissionen verantwortlich. Der stoffliche Anteil der
+          Emissionen kann im Rement Verfahren zurückgewonnen und dauerhaft
+          gebunden werden. 
+
+          </div>
 
         image:
           altText: Featured icon two
@@ -235,13 +239,11 @@ sections:
         type: FeaturedItem
         elementId: benefit1
       - type: FeaturedItem
-        title: Umweltfreundlich
+        title: Rückgewinnung von Sand
         text: >+
-          <div style="text-align: center">Das Rement Verfahren schließt
-          elementare Kreisläufe in der Betonindustrie. Klimaschädliches
-          Kohlenstoffdioxid wird gebunden. Sand und Kies aus dem Beton werden
-          wieder nutzbar gemacht und der Füllung von Flächen mit Betonschutt
-          wird entgegengewirkt.</div>
+          <div style="text-align: center">Die immense Nachfrage nach Beton lässt
+          Sand lokal immer knapper werden. Mit dem Rement-Verfahren kann Sand
+          von Zementverbindungen befreit und wieder eingesetzt werden.</div>
 
         image:
           altText: Featured icon one
@@ -263,12 +265,12 @@ sections:
             justifyContent: center
             borderColor: border-neutral
             borderWidth: 1
-      - title: Flexibel
+      - title: Fällung von PCC
         text: >+
-          <div style="text-align: center">Das Rement Verfahren kann flexibel auf
-          die Bedürfnisse verschiedener Anwender in der Betonindustrie wie
-          Recyclinghöfe, Bauunternehmen oder Zementwerke ausgerichtet und
-          beliebig skaliert werden.</div>
+          <div style="text-align: center">Die Fällung von hochreinem
+          Calciumcarbonat (PCC) ist zentraler Treiber der Wirtschaftlichkeit des
+          Verfahrens. Recycling-PCC wird  zur nachhaltigen Füllstoff-Alternative
+          für Papier, Kunststoffe, Lacke, Farben und Klebstoffe.</div>
 
         image:
           altText: Featured icon three
@@ -330,10 +332,10 @@ sections:
       type: TitleBlock
     people:
       - content/data/team/Drake-Garza.json
-      - content/data/team/Tiya-Greenwood.json
-      - content/data/team/Faizah-Chan.json
       - content/data/person-z7e0j5wgi.json
       - content/data/person-f6up4hjar.json
+      - content/data/team/Tiya-Greenwood.json
+      - content/data/team/Faizah-Chan.json
     actions: []
     badge: null
     elementId: '4'
