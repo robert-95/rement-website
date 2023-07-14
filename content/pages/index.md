@@ -242,7 +242,7 @@ sections:
         title: Rückgewinnung von Sand
         text: >+
           <div style="text-align: center">Die immense Nachfrage nach Beton lässt
-          Sand lokal immer knapper werden. Mit dem Rement-Verfahren kann Sand
+          Sand lokal immer knapper werden. Mit dem Rement Verfahren kann Sand
           von Zementverbindungen befreit und wieder eingesetzt werden.</div>
 
         image:
