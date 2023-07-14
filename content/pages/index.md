@@ -180,7 +180,7 @@ sections:
       hochreines, wertvolles Calciumcarbonat gewonnen.
     actions: []
     media:
-      url: /images/rement-verfahren-2816a9bd.svg
+      url: /images/rement-verfahren.webp
       altText: Überblick über das Rement Verfahren
       elementId: ''
       type: ImageBlock
