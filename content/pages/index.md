@@ -265,7 +265,7 @@ sections:
             justifyContent: center
             borderColor: border-neutral
             borderWidth: 1
-      - title: Flexibel
+      - title: Fällung von PCC
         text: >+
           <div style="text-align: center">Das Rement Verfahren kann flexibel auf
           die Bedürfnisse verschiedener Anwender in der Betonindustrie wie
