@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Vom Zementrest zum Recycling-Füllstoff
 slug: /
 sections:
   - type: GenericSection
