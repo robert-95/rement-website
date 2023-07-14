@@ -239,11 +239,9 @@ sections:
       - type: FeaturedItem
         title: Rückgewinnung von Sand
         text: >+
-          <div style="text-align: center">Das Rement Verfahren schließt
-          elementare Kreisläufe in der Betonindustrie. Klimaschädliches
-          Kohlenstoffdioxid wird gebunden. Sand und Kies aus dem Beton werden
-          wieder nutzbar gemacht und der Füllung von Flächen mit Betonschutt
-          wird entgegengewirkt.</div>
+          <div style="text-align: center">Die immense Nachfrage nach Beton lässt
+          Sand lokal immer knapper werden. Mit dem Rement-Verfahren kann Sand
+          von Zementverbindungen befreit und wieder eingesetzt werden.</div>
 
         image:
           altText: Featured icon one
