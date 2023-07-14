@@ -39,10 +39,10 @@ sections:
       styles:
         self:
           margin:
-            - mt-6
-            - ml-6
-            - mb-6
-            - mr-6
+            - mt-1
+            - ml-1
+            - mb-1
+            - mr-1
           padding:
             - pt-0
             - pl-0
