@@ -210,10 +210,8 @@ sections:
     items:
       - title: Bindung von CO2
         text: >+
-          <div style="text-align: center">Die Ausrichtung auf die Produktion von
-          hochreinem und -feinem Calciumcarbonat ermöglicht hohe Margen.
-          Zusätzliche Einkommensströme entstehen durch den Verkauf von Sand,
-          Kies und CO2 Emissionsrechten.</div>
+          <div style="text-align: center">Pro Tonne Betonrecyclat bindet das
+          Rement-Verfahren 150kg CO2 dauerhaft.</div>
 
         image:
           altText: Featured icon two
