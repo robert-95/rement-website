@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/rement-kreislauf.webp
+      url: /images/rement-cover.webp
       altText: Das Rement Verfahren in einer Skizze
       elementId: ''
       type: ImageBlock
