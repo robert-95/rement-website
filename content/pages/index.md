@@ -475,7 +475,7 @@ sections:
           - pr-8
     elementId: '7'
 seo:
-  metaTitle: 'Rement - Für eine Betonindustrie im Kreislauf '
+  metaTitle: Rement - Vom Zementrest zum Recycling-Füllstoff
   metaDescription: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling.'
   socialImage: /images/rement-cover.webp
   type: Seo
