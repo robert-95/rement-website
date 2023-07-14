@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 500
+          fontWeight: 400
           textAlign: left
     subtitle: >-
       Wir entwickeln und lizenzieren Verfahren für klimapositives
