@@ -237,7 +237,7 @@ sections:
         type: FeaturedItem
         elementId: benefit1
       - type: FeaturedItem
-        title: Umweltfreundlich
+        title: Rückgewinnung von Sand
         text: >+
           <div style="text-align: center">Das Rement Verfahren schließt
           elementare Kreisläufe in der Betonindustrie. Klimaschädliches
