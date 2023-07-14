@@ -208,7 +208,7 @@ sections:
           textAlign: center
       type: TitleBlock
     items:
-      - title: Wirtschaftlich
+      - title: Bindung von CO2
         text: >+
           <div style="text-align: center">Die Ausrichtung auf die Produktion von
           hochreinem und -feinem Calciumcarbonat ermöglicht hohe Margen.
