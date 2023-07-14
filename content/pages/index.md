@@ -211,7 +211,9 @@ sections:
       - title: Bindung von CO2
         text: >+
           <div style="text-align: center">Pro Tonne Betonrecyclat bindet das
-          Rement-Verfahren dauerhaft 150kg CO2. </div>
+          Rement-Verfahren dauerhaft bis zu 150kg CO2. Hierdurch können
+          Emissionen lokal gebunden und Umsätze durch den Verkauf von
+          Emissionsrechten erzielt werden.</div>
 
         image:
           altText: Featured icon two
