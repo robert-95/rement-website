@@ -267,10 +267,10 @@ sections:
             borderWidth: 1
       - title: Fällung von PCC
         text: >+
-          <div style="text-align: center">Das Rement Verfahren kann flexibel auf
-          die Bedürfnisse verschiedener Anwender in der Betonindustrie wie
-          Recyclinghöfe, Bauunternehmen oder Zementwerke ausgerichtet und
-          beliebig skaliert werden.</div>
+          <div style="text-align: center">Die Fällung von hochreinem
+          Calciumcarbonat (PCC) ist zentraler Treiber der Wirtschaftlichkeit des
+          Verfahrens. Recycling-PCC wird  zur nachhaltigen Füllstoff-Alternative
+          für Papier, Kunststoffe, Lacke, Farben und Klebstoffe.</div>
 
         image:
           altText: Featured icon three
