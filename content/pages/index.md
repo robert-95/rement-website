@@ -476,7 +476,7 @@ sections:
     elementId: '7'
 seo:
   metaTitle: Rement - Vom Zementrest zum Recycling-Füllstoff
-  metaDescription: 'Wir entwickeln Verfahren für hochwertiges, nachhaltiges Betonrecycling.'
+  metaDescription: Wir entwickeln und lizenzieren Verfahren für klimapositives Betonrecycling.
   socialImage: /images/rement-cover.webp
   type: Seo
   metaTags: []
