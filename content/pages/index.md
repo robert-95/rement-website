@@ -69,7 +69,7 @@ sections:
         textAlign: left
   - type: FeaturedItemsSection
     title:
-      text: Warum Betonrecycling mit Rement?
+      text: Warum Betonrecycling?
       color: text-dark
       styles:
         self:
