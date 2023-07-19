@@ -1,5 +1,5 @@
 ---
-title: BEton-Upcycling zum Indudstriemineral
+title: Beton-Upcycling zum Indudstriemineral
 slug: /
 sections:
   - type: GenericSection
