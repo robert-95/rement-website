@@ -477,7 +477,7 @@ sections:
 seo:
   metaTitle: Beton-Upcycling zum Industriemineral
   metaDescription: Wir entwickeln und lizenzieren Verfahren für die lokale Kreislaufwirtschaft.
-  socialImage: /images/Isometric Overview Background.png
+  socialImage: /images/Rement Kreislaufschluss.webp
   type: Seo
   metaTags: []
   addTitleSuffix: false
