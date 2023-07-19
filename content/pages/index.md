@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: BEton-Upcycling zum Indudstriemineral
+      text: Beton-Upcycling zum Indudstriemineral
       color: text-dark
       type: TitleBlock
       styles:
