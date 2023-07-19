@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Vom Zementrest zum Recycling-Füllstoff
+      text: BEton-Upcycling zum Indudstriemineral
       color: text-dark
       type: TitleBlock
       styles:
@@ -12,8 +12,8 @@ sections:
           fontWeight: 400
           textAlign: left
     subtitle: >-
-      Wir entwickeln und lizenzieren Verfahren für klimapositives
-      Betonrecycling.
+      Wir entwickeln und lizenzieren Verfahren für die lokale
+      Kreislaufwirtschaft.
     actions:
       - label: Das Rement Verfahren
         altText: Link zum Rement Verfahren
@@ -34,7 +34,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/rement-cover.webp
+      url: /images/rement-im-netzwerk.webp
       altText: Das Rement Verfahren in einer Skizze
       elementId: ''
       type: ImageBlock
