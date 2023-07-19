@@ -1,5 +1,5 @@
 ---
-title: Vom Zementrest zum Recycling-Füllstoff
+title: BEton-Upcycling zum Indudstriemineral
 slug: /
 sections:
   - type: GenericSection
