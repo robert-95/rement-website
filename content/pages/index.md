@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Vom Zementrest zum Recycling-Füllstoff
+      text: BEton-Upcycling zum Indudstriemineral
       color: text-dark
       type: TitleBlock
       styles:
