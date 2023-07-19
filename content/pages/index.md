@@ -1,10 +1,10 @@
 ---
-title: Vom Zementrest zum Recycling-Füllstoff
+title: Beton-Upcycling zum Indudstriemineral
 slug: /
 sections:
   - type: GenericSection
     title:
-      text: BEton-Upcycling zum Indudstriemineral
+      text: Beton-Upcycling zum Industriemineral
       color: text-dark
       type: TitleBlock
       styles:
@@ -475,9 +475,9 @@ sections:
           - pr-8
     elementId: '7'
 seo:
-  metaTitle: Rement - Vom Zementrest zum Recycling-Füllstoff
-  metaDescription: Wir entwickeln und lizenzieren Verfahren für klimapositives Betonrecycling.
-  socialImage: /images/rement-cover.webp
+  metaTitle: Beton-Upcycling zum Indudstriemineral
+  metaDescription: Wir entwickeln und lizenzieren Verfahren für die lokale Kreislaufwirtschaft.
+  socialImage: /images/Isometric Overview Background.png
   type: Seo
   metaTags: []
   addTitleSuffix: false
