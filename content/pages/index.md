@@ -34,7 +34,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/rement-cover.webp
+      url: /images/rement-im-netzwerk.webp
       altText: Das Rement Verfahren in einer Skizze
       elementId: ''
       type: ImageBlock
