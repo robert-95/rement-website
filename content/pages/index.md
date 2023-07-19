@@ -12,8 +12,8 @@ sections:
           fontWeight: 400
           textAlign: left
     subtitle: >-
-      Wir entwickeln und lizenzieren Verfahren für klimapositives
-      Betonrecycling.
+      Wir entwickeln und lizenzieren Verfahren für die lokale
+      Kreislaufwirtschaft.
     actions:
       - label: Das Rement Verfahren
         altText: Link zum Rement Verfahren
