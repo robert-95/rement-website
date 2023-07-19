@@ -476,7 +476,7 @@ sections:
     elementId: '7'
 seo:
   metaTitle: Beton-Upcycling zum Indudstriemineral
-  metaDescription: Wir entwickeln und lizenzieren Verfahren für klimapositives Betonrecycling.
+  metaDescription: Wir entwickeln und lizenzieren Verfahren für die lokale Kreislaufwirtschaft.
   socialImage: /images/rement-cover.webp
   type: Seo
   metaTags: []
