@@ -475,7 +475,7 @@ sections:
           - pr-8
     elementId: '7'
 seo:
-  metaTitle: Beton-Upcycling zum Indudstriemineral
+  metaTitle: Beton-Upcycling zum Industriemineral
   metaDescription: Wir entwickeln und lizenzieren Verfahren für die lokale Kreislaufwirtschaft.
   socialImage: /images/Isometric Overview Background.png
   type: Seo
