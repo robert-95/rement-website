@@ -475,7 +475,7 @@ sections:
           - pr-8
     elementId: '7'
 seo:
-  metaTitle: Rement - Vom Zementrest zum Recycling-Füllstoff
+  metaTitle: Beton-Upcycling zum Indudstriemineral
   metaDescription: Wir entwickeln und lizenzieren Verfahren für klimapositives Betonrecycling.
   socialImage: /images/rement-cover.webp
   type: Seo
