@@ -20,14 +20,7 @@ featuredImage:
         - pr-0
   type: ImageBlock
 bottomSections:
-  - title:
-      text: Weitere Neuigkeiten
-      color: text-dark
-      type: TitleBlock
-      styles:
-        self:
-          textAlign: left
-    recentCount: 3
+  - recentCount: 3
     showThumbnail: true
     showExcerpt: false
     showDate: true
