@@ -69,4 +69,4 @@ Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu nachhaltigeren 
 
 Im Rahmen der Kooperation unterstützen uns HUB und IFG mit Forschungsinfrastruktur und Arbeitsplätzen. Des Weiteren bietet der KIT Innovation HUB Zugang zu Mentoren für den Bereich Unternehmertum und bietet über das im Rahmen des BMBF-Projekts „TRANSFORM“ entwickelte Format „Young Innovators HUB“ Workshops zu Entrepreneurship-Kompetenzen.
 
-Prof. Dr. Gerdes, Leiter des KIT Innovation HUBs, wird Rement als Mentor zur Seite stehen. Herr Gerdes verfügt über langjährige Erfahrungen im Bereich Baustoffe, Werkstoffchemie und Ausgründungen aus dem Forschungskontext. Wird danken Prof. Gerdes herzlich für seine uns schon entgegengebrachte und zukünftige Unterstützung.
+Prof. Dr. Gerdes, Leiter des KIT Innovation HUBs, wird Rement als Mentor zur Seite stehen. Herr Gerdes verfügt über langjährige Erfahrungen im Bereich Baustoffe, Werkstoffchemie und Ausgründungen aus dem Forschungskontext. Wird danken Professor Gerdes herzlich für seine uns schon entgegengebrachte und zukünftige Unterstützung.
