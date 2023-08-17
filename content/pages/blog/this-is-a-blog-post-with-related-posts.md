@@ -24,6 +24,9 @@ bottomSections:
       text: Weitere Neuigkeiten
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     recentCount: 3
     showThumbnail: true
     showExcerpt: false
