@@ -20,13 +20,6 @@ type: PostLayout
 author: content/data/person-z7e0j5wgi.json
 bottomSections:
   - type: RecentPostsSection
-    title:
-      text: Recent posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
     subtitle: null
     recentCount: 3
     showThumbnail: true
