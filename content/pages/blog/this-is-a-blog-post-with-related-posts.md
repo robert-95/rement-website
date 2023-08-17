@@ -36,14 +36,6 @@ bottomSections:
     elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
-    backgroundImage:
-      url: /images/bg.svg
-      altText: Squares pattern
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      type: BackgroundImage
     type: RecentPostsSection
 isFeatured: false
 isDraft: false
