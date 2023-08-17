@@ -27,7 +27,7 @@ bottomSections:
       type: TitleBlock
     recentCount: 3
     showThumbnail: true
-    showExcerpt: false
+    showExcerpt: true
     showDate: true
     showAuthor: false
     actions: []
