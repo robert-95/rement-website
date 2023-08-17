@@ -49,7 +49,7 @@ styles:
 author: content/data/person-hghxpf3a8.json
 featuredImage:
   type: ImageBlock
-  altText: Lightning bolt symbol on red background
+  altText: Logos von Rement und KIT Innovation HUB
   elementId: ''
   url: /images/Rement- Kooperation HUBx2-36e30cc7.webp
   styles:
