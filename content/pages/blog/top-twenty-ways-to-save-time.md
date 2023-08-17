@@ -40,7 +40,7 @@ bottomSections:
     showThumbnail: true
     showExcerpt: true
     showDate: true
-    showAuthor: true
+    showAuthor: false
     actions: []
     badge: null
     elementId: ''
