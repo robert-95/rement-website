@@ -23,7 +23,7 @@ content: "Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu nachh
 bottomSections:
   - recentCount: 3
     showThumbnail: true
-    showExcerpt: true
+    showExcerpt: false
     showDate: true
     showAuthor: false
     actions: []
