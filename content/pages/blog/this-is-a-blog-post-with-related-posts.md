@@ -26,7 +26,7 @@ bottomSections:
       type: TitleBlock
       styles:
         self:
-          textAlign: center
+          textAlign: left
     recentCount: 3
     showThumbnail: true
     showExcerpt: false
