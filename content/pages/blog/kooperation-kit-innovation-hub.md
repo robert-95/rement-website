@@ -20,7 +20,7 @@ bottomSections:
     subtitle: null
     recentCount: 3
     showThumbnail: true
-    showExcerpt: true
+    showExcerpt: false
     showDate: true
     showAuthor: true
     actions: []
