@@ -21,7 +21,7 @@ featuredImage:
   type: ImageBlock
 bottomSections:
   - title:
-      text: Latest posts
+      text: Weitere Neuigkeiten
       color: text-dark
       type: TitleBlock
     recentCount: 3
