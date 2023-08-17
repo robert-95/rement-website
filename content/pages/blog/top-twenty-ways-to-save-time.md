@@ -29,7 +29,7 @@ content: |+
 bottomSections:
   - type: RecentPostsSection
     title:
-      text: Recent posts
+      text: Weitere Neuigkeiten
       color: text-dark
       styles:
         self:
