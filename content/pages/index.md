@@ -399,7 +399,7 @@ sections:
     showAuthor: false
     actions:
       - type: Button
-        label: Get started
+        label: Weitere Neuigkeiten
         altText: ''
         url: /blog
         showIcon: false
