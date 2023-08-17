@@ -33,7 +33,7 @@ bottomSections:
       color: text-dark
       styles:
         self:
-          textAlign: center
+          textAlign: left
       type: TitleBlock
     subtitle: null
     recentCount: 3
