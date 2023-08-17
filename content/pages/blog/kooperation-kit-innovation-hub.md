@@ -31,7 +31,6 @@ bottomSections:
     variant: three-col-grid
     colors: bg-light-fg-dark
     backgroundImage:
-      url: /images/bg.svg
       altText: Squares pattern
       backgroundSize: cover
       backgroundPosition: center
