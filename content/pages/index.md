@@ -402,7 +402,7 @@ sections:
         label: Weitere Neuigkeiten
         altText: Link zum Blog
         url: /blog
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
