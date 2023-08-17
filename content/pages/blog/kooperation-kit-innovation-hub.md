@@ -29,7 +29,10 @@ isFeatured: false
 isDraft: false
 seo:
   metaTitle: Kooperation mit dem KIT Innovation HUB
-  metaDescription: Write here your new posts's description including most relevant keywords.
+  metaDescription: >-
+    Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu
+    nachhaltigeren Wertschöpfungsketten im Bereich Bau und Mineralik in Zukunft
+    eng mit dem KIT Innovation HUB - Prävention im Bauwesen zusammenarbeitet. 
   addTitleSuffix: true
   socialImage: /images/soc-post-image-2.png
   metaTags: []
