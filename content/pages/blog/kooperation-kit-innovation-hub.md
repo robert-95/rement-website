@@ -65,7 +65,7 @@ styles:
     borderRadius: small
 author: content/data/person-hghxpf3a8.json
 ---
-Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu nachhaltigeren Wertschöpfungsketten im Bereich Bau und Mineral in Zukunft eng mit dem KIT Innovation HUB - Prävention im Bauwesen zusammenarbeitet. Der am Institut für Funktionale Grenzflächen (IFG) des Karlsruher Instituts für Technologie (KIT) beheimatete Innovation Hub hat es sich zum Ziel gemacht, im Dialog mit Industrie, Wissenschaft, Verwaltung und Forschung, innovative Technologien für ein nachhaltigeres Bauwesen zu entwickeln. 
+Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu nachhaltigeren Wertschöpfungsketten im Bereich Bau und Mineralik in Zukunft eng mit dem KIT Innovation HUB - Prävention im Bauwesen zusammenarbeitet. Der am Institut für Funktionale Grenzflächen (IFG) des Karlsruher Instituts für Technologie (KIT) beheimatete Innovation Hub hat es sich zum Ziel gemacht, im Dialog mit Industrie, Wissenschaft, Verwaltung und Forschung, innovative Technologien für ein nachhaltigeres Bauwesen zu entwickeln. 
 
 Im Rahmen der Kooperation unterstützen uns HUB und IFG mit Forschungsinfrastruktur und Arbeitsplätzen. Des Weiteren bietet der KIT Innovation HUB Zugang zu Mentoren für den Bereich Unternehmertum und bietet über das im Rahmen des BMBF-Projekts „TRANSFORM“ entwickelte Format „Young Innovators HUB“ Workshops zu Entrepreneurship-Kompetenzen.
 
