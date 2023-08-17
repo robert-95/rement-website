@@ -400,7 +400,7 @@ sections:
     actions:
       - type: Button
         label: Weitere Neuigkeiten
-        altText: ''
+        altText: Link zum Blog
         url: /blog
         showIcon: false
         icon: arrowRight
