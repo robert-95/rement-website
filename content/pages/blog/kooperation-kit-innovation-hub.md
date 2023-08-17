@@ -51,7 +51,7 @@ featuredImage:
   type: ImageBlock
   altText: Lightning bolt symbol on red background
   elementId: ''
-  url: /images/post-two.svg
+  url: /images/Rement- Kooperation HUBx2-36e30cc7.webp
   styles:
     self:
       borderRadius: none
