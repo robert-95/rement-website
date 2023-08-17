@@ -28,7 +28,7 @@ bottomSections:
 isFeatured: false
 isDraft: false
 seo:
-  metaTitle: Blog post vertical card
+  metaTitle: Kooperation mit dem KIT Innovation HUB
   metaDescription: Write here your new posts's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: /images/soc-post-image-2.png
