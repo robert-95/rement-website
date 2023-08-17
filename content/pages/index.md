@@ -405,7 +405,7 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
     badge: null
     elementId: '5'
