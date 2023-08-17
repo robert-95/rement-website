@@ -8,7 +8,7 @@ excerpt: >-
   Wertschöpfungsketten im Bereich Bau und Mineralik in Zukunft eng mit dem KIT
   Innovation HUB - Prävention im Bauwesen zusammenarbeitet. 
 featuredImage:
-  url: /images/Kooperation Rement - HUB.webp
+  url: /images/Rement- Kooperation HUBx2.webp
   altText: Post image 4
   elementId: ''
   styles:
