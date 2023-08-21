@@ -59,8 +59,8 @@ featuredImage:
     self:
       borderRadius: none
 ---
-Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu nachhaltigeren Wertschöpfungsketten im Bereich Bau und Mineralik in Zukunft eng mit dem **KIT Innovation HUB - Prävention im Bauwesen** zusammenarbeitet. Der am **Institut für Funktionale Grenzflächen (IFG) des Karlsruher Instituts für Technologie (KIT)** beheimatete Innovation Hub hat es sich zum Ziel gemacht, im Dialog mit Industrie, Wissenschaft, Verwaltung und Forschung, innovative Technologien für ein nachhaltigeres Bauwesen zu entwickeln. 
+Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu nachhaltigeren Wertschöpfungsketten im Bereich Bau und Mineralik in Zukunft eng mit dem [**KIT Innovation HUB - Prävention im Bauwesen**](https://www.hub-bau.kit.edu/) zusammenarbeitet. Der am **Institut für Funktionale Grenzflächen (IFG) des Karlsruher Instituts für Technologie (KIT)** beheimatete Innovation Hub hat es sich zum Ziel gemacht, im Dialog mit Industrie, Wissenschaft, Verwaltung und Forschung, innovative Technologien für ein nachhaltigeres Bauwesen zu entwickeln. 
 
 Im Rahmen der Kooperation unterstützen uns HUB und IFG mit **Forschungsinfrastruktur** und **Arbeitsplätzen**. Des Weiteren bietet der KIT Innovation HUB Zugang zu Mentoren für den Bereich Unternehmertum und bietet über das im Rahmen des BMBF-Projekts „TRANSFORM“ entwickelte Format „Young Innovators HUB“ Workshops zu Entrepreneurship-Kompetenzen.
 
-Prof. Dr. Gerdes, Leiter des KIT Innovation HUBs, wird Rement als Mentor zur Seite stehen. Herr Gerdes verfügt über langjährige Erfahrungen im Bereich Baustoffe, Werkstoffchemie und Ausgründungen aus dem Forschungskontext. Wir danken Professor Gerdes herzlich für seine uns schon entgegengebrachte und zukünftige Unterstützung.
+Prof. Dr. Gerdes, Leiter des KIT Innovation HUBs, wird Rement als Mentor zur Seite stehen. Herr Gerdes verfügt über langjährige Erfahrungen im Bereich Baustoffe, Werkstoffchemie und Ausgründungen aus dem universtitären Forschungsumfeld. Wir danken Professor Gerdes und seinem Team herzlich für die uns schon entgegengebrachte und zukünftige Unterstützung.
