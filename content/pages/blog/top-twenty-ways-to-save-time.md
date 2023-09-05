@@ -29,18 +29,18 @@ content: |+
 bottomSections:
   - type: RecentPostsSection
     title:
-      text: Recent posts
+      text: Weitere Neuigkeiten
       color: text-dark
       styles:
         self:
-          textAlign: center
+          textAlign: left
       type: TitleBlock
     subtitle: null
     recentCount: 3
     showThumbnail: true
     showExcerpt: true
     showDate: true
-    showAuthor: true
+    showAuthor: false
     actions: []
     badge: null
     elementId: ''

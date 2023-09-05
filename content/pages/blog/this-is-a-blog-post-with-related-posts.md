@@ -20,27 +20,15 @@ featuredImage:
         - pr-0
   type: ImageBlock
 bottomSections:
-  - title:
-      text: Latest posts
-      color: text-dark
-      type: TitleBlock
-    recentCount: 3
+  - recentCount: 3
     showThumbnail: true
     showExcerpt: false
     showDate: true
-    showAuthor: false
+    showAuthor: true
     actions: []
     elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
-    backgroundImage:
-      url: /images/bg.svg
-      altText: Squares pattern
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      type: BackgroundImage
     type: RecentPostsSection
 isFeatured: false
 isDraft: false

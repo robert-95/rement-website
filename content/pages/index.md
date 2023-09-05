@@ -324,7 +324,7 @@ sections:
         textAlign: center
   - type: FeaturedPeopleSection
     title:
-      text: Das ist Rement
+      text: Die Köpfe hinter dem Projekt
       color: text-dark
       styles:
         self:
@@ -397,7 +397,16 @@ sections:
     showExcerpt: false
     showDate: true
     showAuthor: false
-    actions: []
+    actions:
+      - type: Button
+        label: Weitere Neuigkeiten
+        altText: Link zum Blog
+        url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     badge: null
     elementId: '5'
     variant: three-col-grid
