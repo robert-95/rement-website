@@ -324,7 +324,7 @@ sections:
         textAlign: center
   - type: FeaturedPeopleSection
     title:
-      text: Das ist Rement
+      text: Die Köpfe hinter dem Projekt
       color: text-dark
       styles:
         self:
