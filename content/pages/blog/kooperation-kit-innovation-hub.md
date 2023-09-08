@@ -2,7 +2,6 @@
 type: PostLayout
 title: Kooperation mit dem KIT Innovation HUB
 slug: kooperation-kit-innovation-hub
-date: '2023-08-17'
 excerpt: >-
   Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu nachhaltigeren
   Wertschöpfungsketten im Bereich Bau und Mineralik in Zukunft eng mit dem KIT
