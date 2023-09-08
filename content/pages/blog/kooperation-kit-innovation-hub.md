@@ -25,7 +25,7 @@ bottomSections:
       self:
         justifyContent: center
 isFeatured: false
-isDraft: true
+isDraft: false
 seo:
   metaTitle: Kooperation mit dem KIT Innovation HUB
   metaDescription: >-
