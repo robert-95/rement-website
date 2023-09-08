@@ -54,7 +54,7 @@ featuredImage:
   type: ImageBlock
   altText: Logos von Rement und KIT Innovation HUB
   elementId: ''
-  url: /images/Rement- Kooperation HUBx2-36e30cc7.webp
+  url: /images/Banner-InnovationHub+Rement.png
   styles:
     self:
       borderRadius: none
