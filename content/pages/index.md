@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 400
+          fontWeight: 500
           textAlign: left
     subtitle: >-
       Wir entwickeln und lizenzieren Verfahren für die lokale
