@@ -199,9 +199,12 @@ title: Greentech Startup sucht (Bau)Chemiker*in
 slug: stellenanzeige-bauchemie
 date: '2023-10-16'
 excerpt: >-
-  Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu nachhaltigeren
-  Wertschöpfungsketten im Bereich Bau und Mineralik in Zukunft eng mit dem KIT
-  Innovation HUB - Prävention im Bauwesen zusammenarbeitet. 
+  Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für
+  diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n (Bau)Chemiker*in
+  als Verstärkung für unser Team in Karlsruhe. Mit unserem
+  Betonrecycling-Verfahren möchten wir Zementverbindungen in Betonresten unter
+  Bindung von CO2 lösen, um daraus anschließend wertvolles Calciumcarbonat zu
+  fällen. Deine Welt dreht sich rund um die Umsetzung dieses Verfahrens.
 featuredImage:
   type: ImageBlock
   altText: Bild des Rement Teams
