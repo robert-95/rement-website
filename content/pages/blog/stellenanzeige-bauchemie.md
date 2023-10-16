@@ -206,7 +206,7 @@ featuredImage:
   type: ImageBlock
   altText: Logos von Rement und KIT Innovation HUB
   elementId: ''
-  url: /images/rement-kit-kollaboration-7be0058d.webp
+  url: /images/rement-sucht-bau-chemiker-in.webp
   styles:
     self:
       borderRadius: none
