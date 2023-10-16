@@ -256,5 +256,15 @@ author: content/data/person-hghxpf3a8.json
 ---
 ![](/images/rement-sucht-bau-chemiker-in.webp)
 
-Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n **(Bau)Chemiker*in** als Verstärkung für unser Team. 
+Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n **(Bau)Chemiker*in** als Verstärkung für unser Team. Mit unserem Betonrecycling-Verfahren möchten wir Zementverbindungen in Betonresten unter Bindung von CO2 lösen, um daraus anschließend wertvolles Calciumcarbonat zu fällen. Deine Welt dreht sich rund um die Umsetzung dieses Verfahrens. 
+
+## Deine Aufgaben
+
+*
+
+## So kannst du dir die Arbeit bei Rement vorstellen
+
+## Das bieten wir dir
+
+## Das bringst du mit
 
