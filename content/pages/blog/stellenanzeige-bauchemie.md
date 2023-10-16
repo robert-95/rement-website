@@ -210,6 +210,7 @@ featuredImage:
   styles:
     self:
       borderRadius: none
+      borderWidth: 0
 bottomSections:
   - type: RecentPostsSection
     subtitle: null
