@@ -1,5 +1,5 @@
 {
-    "name": "Harrison Talley",
+    "name": "Achim Stammer",
     "role": "Developer",
     "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n\n",
     "image": {
@@ -15,7 +15,12 @@
     "colors": "bg-light-fg-dark",
     "styles": {
         "self": {
-            "padding": ["pt-6", "pb-6", "pl-6", "pr-6"],
+            "padding": [
+                "pt-6",
+                "pb-6",
+                "pl-6",
+                "pr-6"
+            ],
             "textAlign": "center",
             "borderColor": "border-neutral",
             "borderStyle": "solid",
