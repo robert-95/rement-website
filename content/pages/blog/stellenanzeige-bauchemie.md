@@ -233,9 +233,9 @@ isDraft: true
 seo:
   metaTitle: Kooperation mit dem KIT Innovation HUB
   metaDescription: >-
-    Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu
-    nachhaltigeren Wertschöpfungsketten im Bereich Bau und Mineralik in Zukunft
-    eng mit dem KIT Innovation HUB - Prävention im Bauwesen zusammenarbeitet. 
+    Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für
+    diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n
+    (Bau)Chemiker*in als Verstärkung für unser Team in Karlsruhe.
   addTitleSuffix: true
   socialImage: /images/rement-sucht-bau-chemiker-in.webp
   metaTags: []
