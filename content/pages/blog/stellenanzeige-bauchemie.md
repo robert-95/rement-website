@@ -258,6 +258,8 @@ author: content/data/person-hghxpf3a8.json
 
 Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n **(Bau)Chemiker*in** als Verstärkung für unser Team in Karlsruhe. Mit unserem Betonrecycling-Verfahren möchten wir Zementverbindungen in Betonresten unter Bindung von CO2 lösen, um daraus anschließend wertvolles Calciumcarbonat zu fällen. Deine Welt dreht sich rund um die Umsetzung dieses Verfahrens.
 
+*English version below*
+
 ### Deine Aufgaben
 
 *   Erforschung der idealen Extraktions- und Fällbedingungen in unserem Labor
@@ -288,9 +290,9 @@ Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für die
 *   Lerne die Welt der Greentech-Startups mit all ihren Chancen und Herausforderungen kennen
 *   Flexible Arbeitszeiten aus dem Home-Office und unserem Labor oder Co-Working-Space am KIT Campus Nord
 *   Aktuell erhält das Rement-Team noch keine Gehälter - mit deiner Unterstützung gewinnen wir Fördermittel um dies bald zu ändern :-)
+*   Wenn du neben der Arbeit bei Rement promovieren möchtest untersützen wir dies über unsere Kontakte zum KIT
 *   Anteile an Rement
 
 ### So tickt Rement
 
-Unser Technik-Team besteht aus 
-
+In unserem Technik-Team arbeitest du zusammen mit unserem CTO Achim, Masterand Adrian und Doktorand Vincent. Unser CEO Felix ist ebenfalls aktiv in unsere Laborforschung und verfahrentechnische Planung eingebunden. Alle gemeinsam eint die Leidenschaft für Technik und Nachhaltigkeit. Bei Rement leben wir offene Diskussionen, Transparenz und flache Hierarchien. Unsere quartalsweisen [Objectives und Key Results](https://www.forbes.com/advisor/business/what-is-an-okr-definition-examples/#:~:text=OKRs%20(Objectives%20and%20Key%20Results,progress%20is%20measured%20or%20monitored.) definieren wir in gemeinsamen Workshops. Einmal pro Woche schauen wir gemeinsam auf unser [Kanban Board ](https://en.wikipedia.org/wiki/Kanban_board)und besprechen To Do's. Wir sind ein unabhängiges und dynamisches Startup, arbeiten gleichzeitig aber auch eng mit dem Institut für Funktionelle Grenzflächen (IFG) des KIT zusammen, dessen Laborräumlichkeiten und Messanaltik wir aktuell nutzen. Auf unserem Weg begleiten uns spannende Startupwettbewerbe und Accelerator-Programme, bei denen du dich bei Interesse gerne einrbringen kannst.
