@@ -299,6 +299,10 @@ In unserem Technik-Team arbeitest du zusammen mit unserem CTO Achim, Masterand A
 
 ##### **Du hast Interesse und möchtest mehr über uns erfahren? Melde dich gerne mit einer kurzen Mail über dich an** [**achim.stammer@rement.tech**](mailto:achim.stammer@rement.tech)
 
+
+
+
+
 ### English version
 
 At Rement, we want to work together to make the construction industry more sustainable. For this mission, we are looking for a (construction) chemist to join our team in Karlsruhe as soon as possible. With our concrete recycling process, we want to dissolve cement compounds in concrete residues while binding CO2 in order to subsequently precipitate valuable calcium carbonate. Your world revolves around the implementation of this process.
@@ -341,8 +345,7 @@ At Rement, we want to work together to make the construction industry more susta
 
 ### About Rement
 
-In our technical team you will work together with our CTO Achim, Masterand Adrian and PhD student Vincent. Our CEO Felix is also actively involved in our lab research and procedural planning. CBDO Robert is responsible for business topics, but is also interested in technical insights. Everyone is united by a passion for technology and sustainability. At Rement, we live open discussions, transparency and flat hierarchies. We define our quarterly [Objectives and Key Results](https\://www\.forbes.com/advisor/business/what-is-an-okr-definition-examples/#:\~:text=OKRs%20(Objectives%20and%20Key%20Results,progress%20is%20measured%20or%20monitored.) in joint workshops. Once a week we look together at our Kanban Board and discuss To Do's. We are an independent and dynamic startup, but at the same time we work closely with the Institute for Functional Interfaces (IFG) of KIT, whose lab space and measurement analytics we currently use. On our way, we are accompanied by exciting startup competitions and accelerator programs, where you are welcome to get involved if you are interested.
+In our technical team you will work together with our CTO Achim, Masterand Adrian and PhD student Vincent. Our CEO Felix is also actively involved in our lab research and procedural planning. CBDO Robert is responsible for business topics, but is also interested in technical insights. Everyone is united by a passion for technology and sustainability. At Rement, we live open discussions, transparency and flat hierarchies. We define our quarterly [Objectives and Key Results](<https://www.forbes.com/advisor/business/what-is-an-okr-definition-examples/#:~:text=OKRs%20(Objectives%20and%20Key%20Results,progress%20is%20measured%20or%20monitored.)> in joint workshops. Once a week we look together at our Kanban Board and discuss To Do's. We are an independent and dynamic startup, but at the same time we work closely with the Institute for Functional Interfaces (IFG) of KIT, whose lab space and measurement analytics we currently use. On our way, we are accompanied by exciting startup competitions and accelerator programs, where you are welcome to get involved if you are interested.
 
-
-##### You are interested and want to learn more about us? Feel free to contact us with a short mail about yourself to achim.stammer\@rement.tech
+##### You are interested and want to learn more about us? Feel free to contact us with a short mail about yourself to <achim.stammer@rement.tech>
 
