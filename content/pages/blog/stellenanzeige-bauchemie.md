@@ -204,7 +204,7 @@ excerpt: >-
   Innovation HUB - Prävention im Bauwesen zusammenarbeitet. 
 featuredImage:
   type: ImageBlock
-  altText: Logos von Rement und KIT Innovation HUB
+  altText: Bild des Rement Teams
   elementId: ''
   url: /images/rement-sucht-bau-chemiker-in.webp
   styles:
