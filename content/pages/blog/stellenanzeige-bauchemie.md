@@ -195,7 +195,7 @@
   label: Content
   description: Page content
 type: PostLayout
-title: (Bau)Chemiker*in für unser Gründungsteam gesucht
+title: (Bau)Chemiker*in für unser Greentech Startup gesucht
 slug: stellenanzeige-bauchemie
 date: '2023-09-08'
 excerpt: >-
