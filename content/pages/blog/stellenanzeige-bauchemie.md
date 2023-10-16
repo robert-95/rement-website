@@ -231,7 +231,7 @@ bottomSections:
 isFeatured: false
 isDraft: true
 seo:
-  metaTitle: Kooperation mit dem KIT Innovation HUB
+  metaTitle: Greentech Startup sucht (Bau)Chemiker*in
   metaDescription: >-
     Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für
     diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n
