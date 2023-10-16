@@ -202,14 +202,6 @@ excerpt: >-
   Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu nachhaltigeren
   Wertschöpfungsketten im Bereich Bau und Mineralik in Zukunft eng mit dem KIT
   Innovation HUB - Prävention im Bauwesen zusammenarbeitet. 
-featuredImage:
-  type: ImageBlock
-  altText: Logos von Rement und KIT Innovation HUB
-  elementId: ''
-  url: /images/rement-kit-kollaboration-7be0058d.webp
-  styles:
-    self:
-      borderRadius: none
 bottomSections:
   - type: RecentPostsSection
     subtitle: null
