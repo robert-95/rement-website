@@ -1,15 +1,5 @@
 {
     "name": "Achim Stammer",
-    "image": {
-        "url": "/images/person-seven.jpg",
-        "altText": "Harrison Talley",
-        "styles": {
-            "self": {
-                "borderRadius": "full"
-            }
-        },
-        "type": "ImageBlock"
-    },
     "colors": "bg-light-fg-dark",
     "styles": {
         "self": {
