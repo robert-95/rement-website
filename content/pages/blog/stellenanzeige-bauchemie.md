@@ -229,7 +229,7 @@ bottomSections:
       self:
         justifyContent: center
 isFeatured: false
-isDraft: true
+isDraft: false
 seo:
   metaTitle: Greentech Startup sucht (Bau)Chemiker*in
   metaDescription: >-
