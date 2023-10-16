@@ -39,7 +39,7 @@ styles:
   self:
     flexDirection: row
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Das Rement-Team sucht Verstärkung.
 
 > Vestibulum ullamcorper risus auctor eleifend consequat.
 
