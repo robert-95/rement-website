@@ -295,7 +295,54 @@ Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für die
 
 ### So tickt Rement
 
-In unserem Technik-Team arbeitest du zusammen mit unserem CTO Achim, Masterand Adrian und Doktorand Vincent. Unser CEO Felix ist ebenfalls aktiv in unsere Laborforschung und verfahrentechnische Planung eingebunden. Alle gemeinsam eint die Leidenschaft für Technik und Nachhaltigkeit. Bei Rement leben wir offene Diskussionen, Transparenz und flache Hierarchien. Unsere quartalsweisen [Objectives und Key Results](<https://www.forbes.com/advisor/business/what-is-an-okr-definition-examples/#:~:text=OKRs%20(Objectives%20and%20Key%20Results,progress%20is%20measured%20or%20monitored>.) definieren wir in gemeinsamen Workshops. Einmal pro Woche schauen wir gemeinsam auf unser [Kanban Board ](https://en.wikipedia.org/wiki/Kanban_board)und besprechen To Do's. Wir sind ein unabhängiges und dynamisches Startup, arbeiten gleichzeitig aber auch eng mit dem Institut für Funktionelle Grenzflächen (IFG) des KIT zusammen, dessen Laborräumlichkeiten und Messanaltik wir aktuell nutzen. Auf unserem Weg begleiten uns spannende Startupwettbewerbe und Accelerator-Programme, bei denen du dich bei Interesse gerne einrbringen kannst.
+In unserem Technik-Team arbeitest du zusammen mit unserem CTO Achim, Masterand Adrian und Doktorand Vincent. Unser CEO Felix ist ebenfalls aktiv in unsere Laborforschung und verfahrentechnische Planung eingebunden. CBDO Robert ist für wirtschaftliche Themen zuständig, ist aber auch an technischen Einblicken interessiert. Alle gemeinsam eint die Leidenschaft für Technik und Nachhaltigkeit. Bei Rement leben wir offene Diskussionen, Transparenz und flache Hierarchien. Unsere quartalsweisen [Objectives und Key Results](<https://www.forbes.com/advisor/business/what-is-an-okr-definition-examples/#:~:text=OKRs%20(Objectives%20and%20Key%20Results,progress%20is%20measured%20or%20monitored>.) definieren wir in gemeinsamen Workshops. Einmal pro Woche schauen wir gemeinsam auf unser [Kanban Board ](https://en.wikipedia.org/wiki/Kanban_board)und besprechen To Do's. Wir sind ein unabhängiges und dynamisches Startup, arbeiten gleichzeitig aber auch eng mit dem Institut für Funktionelle Grenzflächen (IFG) des KIT zusammen, dessen Laborräumlichkeiten und Messanaltik wir aktuell nutzen. Auf unserem Weg begleiten uns spannende Startupwettbewerbe und Accelerator-Programme, bei denen du dich bei Interesse gerne einrbringen kannst.
 
-##### **Du hast Interesse und möchtest mehr über uns erfahren? Melde dich gerne mit einer kurzen Mail über dich an achim.stammer\@rement.tech** 
+##### **Du hast Interesse und möchtest mehr über uns erfahren? Melde dich gerne mit einer kurzen Mail über dich an** [**achim.stammer@rement.tech**](mailto:achim.stammer@rement.tech)
+
+### English version
+
+At Rement, we want to work together to make the construction industry more sustainable. For this mission, we are looking for a (construction) chemist to join our team in Karlsruhe as soon as possible. With our concrete recycling process, we want to dissolve cement compounds in concrete residues while binding CO2 in order to subsequently precipitate valuable calcium carbonate. Your world revolves around the implementation of this process.
+
+### Your tasks
+
+*   Researching the ideal extraction and precipitation conditions in our laboratory
+
+*   Analysis of material properties of products and reactants
+
+*   Support in the construction and extension of our badge and contiprototypes
+
+*   Elaboration of experimental roadmaps and logging
+
+*   Contribution of research results to process engineering discussions
+
+### What you bring with you
+
+*   You support us full time or start part time and can imagine a full entry in the next months
+
+*   You are about to complete your master's degree or doctorate in chemistry or related fields of study or already have professional experience
+
+*   You have practical experience in laboratory research, ideally also in the field of measurement analysis
+
+*   Experience in scientific work or specialization in the field of construction chemistry is an advantageYou are enthusiastic about startups and sustainability
+
+### What we offer you
+
+*   You have the opportunity to actively shape our roadmap and vision
+
+*   Get to know the world of greentech startups with all its opportunities and challenges
+
+*   Flexible working hours from home office and our lab or co-working space at KIT Campus North
+
+*   Currently, the Rement team does not yet receive salaries - with your support we will gain funding to change this soon :-)
+
+*   If you want to do your PhD while working at Rement, we support this through our contacts to KIT
+
+*   Shares in Rement
+
+### About Rement
+
+In our technical team you will work together with our CTO Achim, Masterand Adrian and PhD student Vincent. Our CEO Felix is also actively involved in our lab research and procedural planning. CBDO Robert is responsible for business topics, but is also interested in technical insights. Everyone is united by a passion for technology and sustainability. At Rement, we live open discussions, transparency and flat hierarchies. We define our quarterly [Objectives and Key Results](https\://www\.forbes.com/advisor/business/what-is-an-okr-definition-examples/#:\~:text=OKRs%20(Objectives%20and%20Key%20Results,progress%20is%20measured%20or%20monitored.) in joint workshops. Once a week we look together at our Kanban Board and discuss To Do's. We are an independent and dynamic startup, but at the same time we work closely with the Institute for Functional Interfaces (IFG) of KIT, whose lab space and measurement analytics we currently use. On our way, we are accompanied by exciting startup competitions and accelerator programs, where you are welcome to get involved if you are interested.
+
+
+##### You are interested and want to learn more about us? Feel free to contact us with a short mail about yourself to achim.stammer\@rement.tech
 
