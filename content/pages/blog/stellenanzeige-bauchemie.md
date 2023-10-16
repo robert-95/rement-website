@@ -260,7 +260,13 @@ Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für die
 
 ### Deine Aufgaben
 
-*
+*   Erforschung der idealen Extraktions- und Fällbedingungen in unserem Labor
+
+*   Analyse der Materialeigenschaften von Produkten und Edukten
+
+*   Unterstützung bei Aufbau und Erweiterung unseres Badge- und Contiprototypen
+
+*   Ausarbeitung von Versuchsroadmaps und Protokollierung
 
 ### So tickt Rement
 
