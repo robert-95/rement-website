@@ -197,7 +197,7 @@
 type: PostLayout
 title: Greentech Startup sucht (Bau)Chemiker*in
 slug: stellenanzeige-bauchemie
-date: '2023-09-01'
+date: '2023-10-16'
 excerpt: >-
   Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu nachhaltigeren
   Wertschöpfungsketten im Bereich Bau und Mineralik in Zukunft eng mit dem KIT
