@@ -262,7 +262,7 @@ Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für die
 
 *
 
-### So kannst du dir die Arbeit bei Rement vorstellen
+### So tickt Rement
 
 ### Das bieten wir dir
 
