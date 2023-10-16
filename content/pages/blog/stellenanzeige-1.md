@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'Wir suchen dich: (Bau-)Chemiker*in'
+title: 'Wir suchen dich: (Bau)Chemiker*in'
 slug: stellenanzeige-1
 date: '2023-10-16'
 excerpt: >-
