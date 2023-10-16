@@ -274,17 +274,23 @@ Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für die
 
 *   Du unterstützt uns in Vollzeit oder startest in Teilzeit und kannst dir in den nächsten Monaten einen Volleinstieg vorstellen
 
-*   Du befindest dich kurz vor oder nach dem Abschluss deines Masters oder Promotion in Chemie oder verwandten Studiengängen
+*   Du befindest dich kurz vor oder nach dem Abschluss deines Masters oder Promotion in Chemie oder verwandten Studiengängen oder bist schon berufserfahren
 
 *   Du verfügst über praktische Erfahrungen in der Laborforschung, idealerweise auch im Bereich Messanalytik
 
-*   Berufliche oder wissenschaftliche Erfahrungen oder Vertiefungen im Bereich Bauchemie sind von Vorteil
+*   Erfahrungen im wissenschaftlichen Arbeiten oder Vertiefungen im Bereich Bauchemie sind von Vorteil
 
 *   Du begeisterst dich für Startups und Nachhaltigkeit
 
 ### Das bieten wir dir
 
-*
+*   Du hast die Möglichkeit, unsere Roadmap und Vision aktiv mitzugestalten
+*   Lerne die Welt der Greentech-Startups mit all ihren Chancen und Herausforderungen kennen
+*   Flexible Arbeitszeiten aus dem Home-Office und unserem Labor oder Co-Working-Space am KIT Campus Nord
+*   Aktuell erhält das Rement-Team noch keine Gehälter - mit deiner Unterstützung gewinnen wir Fördermittel um dies bald zu ändern :-)
+*   Anteile an Rement
 
-### Das bringst du mit
+### So tickt Rement
+
+Unser Technik-Team besteht aus 
 
