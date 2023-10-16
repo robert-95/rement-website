@@ -195,7 +195,7 @@
   label: Content
   description: Page content
 type: PostLayout
-title: Kooperation mit dem KIT Innovation HUB
+title: Greentech Startup sucht (Bau)Chemiker*in
 slug: stellenanzeige-bauchemie
 date: '2023-09-08'
 excerpt: >-
