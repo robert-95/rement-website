@@ -229,7 +229,7 @@ bottomSections:
       self:
         justifyContent: center
 isFeatured: false
-isDraft: false
+isDraft: true
 seo:
   metaTitle: Kooperation mit dem KIT Innovation HUB
   metaDescription: >-
