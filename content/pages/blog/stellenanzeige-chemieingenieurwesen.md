@@ -231,7 +231,7 @@ bottomSections:
 isFeatured: false
 isDraft: false
 seo:
-  metaTitle: Greentech Startup sucht (Bau)Chemiker*in
+  metaTitle: Greentech Startup sucht Verfahrenstechniker*in / Chemieingenieur*in
   metaDescription: >-
     Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für
     diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n
