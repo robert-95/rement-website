@@ -195,7 +195,7 @@
   label: Content
   description: Page content
 type: PostLayout
-title: Greentech Startup sucht (Bau)Chemiker*in
+title: Greentech Startup sucht Verfahrenstechniker*in / Chemieingenieur*in
 slug: stellenanzeige-bauchemie
 date: '2023-10-16'
 excerpt: >-
