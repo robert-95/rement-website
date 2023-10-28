@@ -279,7 +279,7 @@ Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für die
 
   
 
-*   Einbringen von Forschungsergebnissen in verfahrenstechnische Diskussionen 
+*   Aufbereitung und Präsentation von Forschungsergebnissen in verfahrenstechnischen Diskussionen 
 
 
 ### Das bringst du mit 
@@ -318,7 +318,7 @@ Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für die
 
 *  Dein Gehalt wird aus Fördermitteln bestritten, die wir gerade beantragen. Hier kannst du dich selbst direkt einbringen 
 
-*   Wenn du neben der Arbeit bei Rement promovieren möchtest unterstützen wir dies 
+*   Wenn du neben der Arbeit bei Rement promovieren möchtest, unterstützen wir dies 
 
 *   Eine finanzielle Beteiligung an dem Erfolg des Startups
 
@@ -333,39 +333,39 @@ In unserem Technik-Team arbeitest du zusammen mit unserem CTO Achim, Masterand A
 
 ## English version 
 
-At Rement, we want to work together to change the construction industry for the long term. For this mission, we are looking for a **Process Engineer/Chemical Engineer** to join our team in Karlsruhe as soon as possible. With our concrete recycling process, we want to dissolve cement compounds in concrete residues while binding CO2 in order to subsequently precipitate valuable calcium carbonate. Your world revolves around the concretization of this process in laboratory tests and prototypes.   
+At Rement, we are striving to work together to change the construction industry for the long term. For this mission, we are looking for a **Process Engineer/Chemical Engineer** to join our team in Karlsruhe as soon as possible. With our concrete recycling process, we want to dissolve cement compounds in concrete residues while binding CO2 in order to subsequently precipitate valuable calcium carbonate. Your mission is to further develop and implement our lab process and upcoming protoypes
 
 ### Your tasks  
 
-* Researching the ideal extraction and precipitation conditions in our laboratory  
+* Researching the ideal extraction and precipitation conditions in our lab setup  
 
 * Analysis of the material properties of products and reactants  
 
-* Supporting the set-up and expansion of our batch and contiprototypes  
+* Supporting the set-up and expansion of our batch and continuous process prototypes  
 
 * Elaboration of experimental roadmaps and record keeping  
 
-* Contributing research results to process engineering discussions  
+* Analyzing and presenting research results to process engineering discussions  
 
 
-### What you bring with you  
+### Your skills are 
 
 * You support us full time or start part time and can imagine a full entry in the next months  
 
-* Access to chemical high-tech analytics 
+* You are about to or after completing your master's or doctorate studies in process or chemical engineering or already have professional experience  
 
-* You are about to or after completing your master's or doctorate in process or chemical engineering or already have professional experience  
+* You have practical experience in a laboratory research environment, ideally also in the field of measurement analytics and plant engineering on a lab-scale 
 
-* You have practical experience in laboratory research, ideally also in the field of measurement analytics and plant engineering on a lab-scale 
-
-* Experience in scientific work or majors in inorganic chemistry, crystallization, precipitation, or construction chemistry is a plus  
+* Experience in scientific work or majors in inorganic chemistry, crystallization, precipitation, or construction chemistry is a beneficial  
 
 * You are enthusiastic about startups and sustainability  
 
 
 ### This is what we offer you  
 
-* You have the opportunity to actively help shape our roadmap and vision  
+* You have the opportunity to actively help shape our roadmap and vision
+
+* Access to chemical high-tech analytics  
 
 * Get to know the world of greentech startups with all its opportunities and challenges  
 
@@ -378,9 +378,9 @@ At Rement, we want to work together to change the construction industry for the 
 * A financial share in the success of the startup
   
 
-### About Rement
+### This is Rement
 
-In our technical team, you will work together with our CTO Achim, master student Adrian and PhD student Vincent. Our CEO Felix is also actively involved in our lab research and process engineering planning. Together, everyone is united by a passion for technology and sustainability. At Rement, we live open discussions, transparency and flat hierarchies. We define our quarterly [Objectives and Key Results](<https://www.forbes.com/advisor/business/what-is-an-okr-definition-examples/#:~:text=OKRs%20(Objectives%20and%20Key%20Results,progress%20is%20measured%20or%20monitored>.) in joint workshops. Once a week we look together at our [Kanban Board ](https://en.wikipedia.org/wiki/Kanban_board)and discuss To Do's. We are an independent and dynamic startup and at the same time work closely with the Institute for Functional Interfaces (IFG) of the KIT, whose laboratory facilities and measurement analytics we currently use. On our way we are accompanied by exciting startup competitions and accelerator programs, where you are welcome to get involved if you are interested.  
+In our technical team, you will work together with our CTO Achim, master student Adrian and PhD student Vincent. Our CEO Felix is also actively involved in our lab research and process engineering planning. Together, everyone is united by a passion for technology and sustainability. At Rement, we live open discussions, transparency and flat hierarchies. We define our quarterly [Objectives and Key Results](<https://www.forbes.com/advisor/business/what-is-an-okr-definition-examples/#:~:text=OKRs%20(Objectives%20and%20Key%20Results,progress%20is%20measured%20or%20monitored>.) in joint workshops. Once a week we look together at our [Kanban Board ](https://en.wikipedia.org/wiki/Kanban_board)and discuss To Do's. We are an independent and dynamic startup and at the same time work closely with the Institute for Functional Interfaces (IFG) of the KIT, whose laboratory facilities and measurement analytics we currently use. On our way we are accompanied by exciting startup competitions and accelerator programs, where you are welcome to get involved.
   
 
-**You are interested and want to learn more about us? Feel free to contact us with a short mail about yourself** [**jobs@rement.tech**](mailto:jobs@rement.tech) 
+**You are interested and want to learn more about us? Feel free to contact us with a short mail introducing yourself to** [**jobs@rement.tech**](mailto:jobs@rement.tech) 
