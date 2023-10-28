@@ -196,7 +196,7 @@
   description: Page content
 type: PostLayout
 title: Greentech Startup sucht Verfahrenstechniker*in / Chemieingenieur*in
-slug: stellenanzeige-bauchemie
+slug: stellenanzeige-chemieingenieurwesen-verfahrenstechnik
 date: '2023-10-28'
 excerpt: >-
   Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für
