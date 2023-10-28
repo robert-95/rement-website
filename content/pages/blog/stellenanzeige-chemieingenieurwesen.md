@@ -260,11 +260,8 @@ Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für die
  
 
 *English version below* 
-
   
 ### Deine Aufgaben 
-
-  
 
 *   Erforschung der idealen Extraktions- und Fällungsbedingungen in unserem Labor 
 
@@ -325,13 +322,12 @@ Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für die
 
 *   Eine finanzielle Beteiligung an dem Erfolg des Startups 
 
-  
-### So tickt Rement 
+### So tickt Rement
 
 In unserem Technik-Team arbeitest du zusammen mit unserem CTO Achim, Masterand Adrian und Doktorand Vincent. Unser CEO Felix ist ebenfalls aktiv in unsere Laborforschung und verfahrenstechnische Planung eingebunden. Alle gemeinsam eint die Leidenschaft für Technik und Nachhaltigkeit. Bei Rement leben wir offene Diskussionen, Transparenz und flache Hierarchien. Unsere quartalsweisen [Objectives und Key Results](<https://www.forbes.com/advisor/business/what-is-an-okr-definition-examples/#:~:text=OKRs%20(Objectives%20and%20Key%20Results,progress%20is%20measured%20or%20monitored>.) definieren wir in gemeinsamen Workshops. Einmal pro Woche schauen wir gemeinsam auf unser [Kanban Board ](https://en.wikipedia.org/wiki/Kanban_board)und besprechen To Do's. Wir sind ein unabhängiges und dynamisches Startup und arbeiten gleichzeitig eng mit dem Institut für Funktionelle Grenzflächen (IFG) des KIT zusammen, dessen Laborräumlichkeiten und Messanalytik wir aktuell nutzen. Auf unserem Weg begleiten uns spannende Startupwettbewerbe und Accelerator-Programme, bei denen du dich bei Interesse gerne einbringen kannst. 
 
 
-##### **Du hast Interesse und möchtest mehr über uns erfahren? Melde dich gerne mit einer kurzen Mail über dich an** [**jobs@rement.tech**](mailto:jobs@rement.tech) 
+**Du hast Interesse und möchtest mehr über uns erfahren? Melde dich gerne mit einer kurzen Mail über dich an** [**jobs@rement.tech**](mailto:jobs@rement.tech) 
 
 
 ### English version 
@@ -380,9 +376,9 @@ At Rement, we want to work together to change the construction industry for the 
 
 * A financial share in the success of the startup 
 
-### This is what makes Rement tick   
+### About Rement
 
 In our technical team, you will work together with our CTO Achim, master student Adrian and PhD student Vincent. Our CEO Felix is also actively involved in our lab research and process engineering planning. Together, everyone is united by a passion for technology and sustainability. At Rement, we live open discussions, transparency and flat hierarchies. We define our quarterly [Objectives and Key Results](<https://www.forbes.com/advisor/business/what-is-an-okr-definition-examples/#:~:text=OKRs%20(Objectives%20and%20Key%20Results,progress%20is%20measured%20or%20monitored>.) in joint workshops. Once a week we look together at our [Kanban Board ](https://en.wikipedia.org/wiki/Kanban_board)and discuss To Do's. We are an independent and dynamic startup and at the same time work closely with the Institute for Functional Interfaces (IFG) of the KIT, whose laboratory facilities and measurement analytics we currently use. On our way we are accompanied by exciting startup competitions and accelerator programs, where you are welcome to get involved if you are interested.  
   
 
-##### **You are interested and want to learn more about us? Feel free to contact us with a short mail about yourself** [**jobs@rement.tech**](mailto:jobs@rement.tech) 
+**You are interested and want to learn more about us? Feel free to contact us with a short mail about yourself** [**jobs@rement.tech**](mailto:jobs@rement.tech) 
