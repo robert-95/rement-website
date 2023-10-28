@@ -302,7 +302,7 @@ Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für die
 
   
 
-*   Du begeisterst dich für Startups und Nachhaltigkeit 
+*   Du begeisterst dich für Startups und Nachhaltigkeit
 
 
 ### Das bieten wir dir 
@@ -320,7 +320,8 @@ Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für die
 
 *   Wenn du neben der Arbeit bei Rement promovieren möchtest unterstützen wir dies 
 
-*   Eine finanzielle Beteiligung an dem Erfolg des Startups 
+*   Eine finanzielle Beteiligung an dem Erfolg des Startups
+
 
 ### So tickt Rement
 
@@ -374,7 +375,8 @@ At Rement, we want to work together to change the construction industry for the 
 
 * If you want to do your PhD while working at Rement, we will support this  
 
-* A financial share in the success of the startup 
+* A financial share in the success of the startup
+  
 
 ### About Rement
 
