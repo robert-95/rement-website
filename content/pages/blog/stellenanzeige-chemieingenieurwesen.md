@@ -333,7 +333,7 @@ In unserem Technik-Team arbeitest du zusammen mit unserem CTO Achim, Masterand A
 
 ## English version 
 
-At Rement, we want to work together to change the construction industry for the long term. For this mission, we are looking for a **Process Engineer*/Chemical Engineer** to join our team in Karlsruhe as soon as possible. With our concrete recycling process, we want to dissolve cement compounds in concrete residues while binding CO2 in order to subsequently precipitate valuable calcium carbonate. Your world revolves around the concretization of this process in laboratory tests and prototypes.   
+At Rement, we want to work together to change the construction industry for the long term. For this mission, we are looking for a **Process Engineer/Chemical Engineer** to join our team in Karlsruhe as soon as possible. With our concrete recycling process, we want to dissolve cement compounds in concrete residues while binding CO2 in order to subsequently precipitate valuable calcium carbonate. Your world revolves around the concretization of this process in laboratory tests and prototypes.   
 
 ### Your tasks  
 
