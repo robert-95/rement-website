@@ -263,4 +263,4 @@ Von September bis November nahm Rement am ACCELERATE Programm des Freiburger [Sm
 
 Durch intensive Vortragssessions und Feedbackgespräche mit externen Industrie- und Finanzexperten und -expertinnen konnten wir unser Werteversprechen, Geschäftsmodell und die Finanzierungsstrategie weiter schärfen und validieren.
 
-Wir bedanken uns beim gesamtem Smart Green Team für die tolle Unterstützung während der Workshoptage und darüber hinaus und empfehlen jedem Green Tech Startup einen Blick auf die vielfältigen [Programme](https://smartgreen-accelerator.de/programme/) des Accelerators zu werfen.
+Wir bedanken uns beim gesamten Smart Green Team für die tolle Unterstützung während der Workshoptage und darüber hinaus und empfehlen jedem Green Tech Startup einen Blick auf die vielfältigen [Programme](https://smartgreen-accelerator.de/programme/) des Accelerators zu werfen.
