@@ -105,6 +105,13 @@ sections:
         altText: Contentful logo
         elementId: ''
         type: ImageBlock
+        styles:
+          self:
+            padding:
+              - pt-2
+              - pl-2
+              - pb-2
+              - pr-2
     badge: null
     elementId: ''
     motion: static
