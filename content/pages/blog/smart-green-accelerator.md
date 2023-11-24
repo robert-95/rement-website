@@ -199,9 +199,10 @@ title: SMART GREEN Accelerator unterstützt Rement auf dem Weg zum nachhaltigen 
 slug: smartgreen-accelerator
 date: '2023-11-24'
 excerpt: >-
-  Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu nachhaltigeren
-  Wertschöpfungsketten im Bereich Bau und Mineralik in Zukunft eng mit dem KIT
-  Innovation HUB - Prävention im Bauwesen zusammenarbeitet. 
+  Von September bis November nahm Rement am ACCELERATE Programm des Freiburger
+  Smart Green Accelerators statt. Smart Green unterstützt Green Tech Startups
+  verschiedener Phasen auf ihrem Weg, nachhaltige Geschäftsmodelle erfolgreich
+  am Markt zu etablieren.
 featuredImage:
   type: ImageBlock
   altText: Logos von Rement und KIT Innovation HUB
