@@ -195,7 +195,7 @@
   label: Content
   description: Page content
 type: PostLayout
-title: 'Rement bedankt sich bei '
+title: Smart Green Accele
 slug: smart-green-accelerator
 date: '2023-09-08'
 excerpt: >-
