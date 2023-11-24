@@ -205,7 +205,7 @@ excerpt: >-
   am Markt zu etablieren.
 featuredImage:
   type: ImageBlock
-  altText: Logos von Rement und KIT Innovation HUB
+  altText: Foto von Rement auf dem Smart Green Accelerator Workshop
   elementId: ''
   url: /images/rement-smartgreen.webp
   styles:
