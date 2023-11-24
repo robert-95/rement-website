@@ -195,7 +195,7 @@
   label: Content
   description: Page content
 type: PostLayout
-title: SMARTGREEN Accelerator unterstützt Rement auf dem Weg zum nachhaltigen Erfolg
+title: SMART GREEN Accelerator unterstützt Rement auf dem Weg zum nachhaltigen Erfolg
 slug: smartgreen-accelerator
 date: '2023-11-24'
 excerpt: >-
