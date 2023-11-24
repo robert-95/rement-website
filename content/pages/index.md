@@ -78,10 +78,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-3
-              - pl-3
-              - pb-3
-              - pr-3
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
       - url: /images/smartgreen-logo-neu-40f46a63.svg
         altText: Wellster logo
         elementId: ''
