@@ -207,7 +207,7 @@ featuredImage:
   type: ImageBlock
   altText: Foto von Rement auf dem Smart Green Accelerator Workshop
   elementId: ''
-  url: /images/cover-smartgreen-rement.webp
+  url: /images/cover-rement-smartgreen.webp
   styles:
     self:
       borderRadius: none
