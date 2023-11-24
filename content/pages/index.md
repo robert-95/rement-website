@@ -75,6 +75,13 @@ sections:
         altText: Empathy logo
         elementId: ''
         type: ImageBlock
+        styles:
+          self:
+            padding:
+              - pt-3
+              - pl-3
+              - pb-3
+              - pr-3
       - url: /images/smartgreen-logo-neu-40f46a63.svg
         altText: Wellster logo
         elementId: ''
