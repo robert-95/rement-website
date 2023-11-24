@@ -86,7 +86,7 @@ sections:
         altText: Wellster logo
         elementId: ''
         type: ImageBlock
-      - url: /images/vise.svg
+      - url: /images/kit-innovation-hub-logo.png
         altText: Vise logo
         elementId: ''
         type: ImageBlock
