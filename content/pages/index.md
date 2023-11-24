@@ -97,7 +97,7 @@ sections:
               - pl-2
               - pb-2
               - pr-2
-      - url: /images/telus.svg
+      - url: /images/pioniergarage-logo-50.svg
         altText: Telus logo
         elementId: ''
         type: ImageBlock
