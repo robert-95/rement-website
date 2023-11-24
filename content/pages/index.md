@@ -69,7 +69,7 @@ sections:
         textAlign: left
   - type: ImageGallerySection
     title: null
-    subtitle: Unterstützt durch
+    subtitle: unterstützt durch
     images:
       - url: /images/smartgreen-logo-50.svg
         altText: Smartgreen Logo
