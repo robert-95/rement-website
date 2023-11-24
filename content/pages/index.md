@@ -71,7 +71,7 @@ sections:
     title: null
     subtitle: Unterstützt durch
     images:
-      - url: /images/smartgreen-logo-neu-15907da8.svg
+      - url: /images/smartgreen-logo-neu 1.svg
         altText: Empathy logo
         elementId: ''
         type: ImageBlock
