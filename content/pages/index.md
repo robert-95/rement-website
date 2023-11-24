@@ -101,7 +101,7 @@ sections:
         altText: Telus logo
         elementId: ''
         type: ImageBlock
-      - url: /images/gruenderschmiede-logo-50.svg
+      - url: /images/gruenderschmiede-logo-45.svg
         altText: Contentful logo
         elementId: ''
         type: ImageBlock
