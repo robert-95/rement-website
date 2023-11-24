@@ -197,7 +197,7 @@
 type: PostLayout
 title: SMARTGREEN Accelerator unterstützt Rement auf dem Weg zum nachhaltigen Erfolg
 slug: smartgreen-accelerator
-date: '2023-09-24'
+date: '2023-01-24'
 excerpt: >-
   Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu nachhaltigeren
   Wertschöpfungsketten im Bereich Bau und Mineralik in Zukunft eng mit dem KIT
