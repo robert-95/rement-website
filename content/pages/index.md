@@ -82,10 +82,6 @@ sections:
               - pl-2
               - pb-2
               - pr-2
-      - url: /images/smartgreen-logo-neu-40f46a63.svg
-        altText: Wellster logo
-        elementId: ''
-        type: ImageBlock
       - url: /images/kit-innovation-hub-50.svg
         altText: Kit Innovation Hub Logo
         elementId: ''
