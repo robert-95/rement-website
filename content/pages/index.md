@@ -67,6 +67,74 @@ sections:
           - mb-10
       subtitle:
         textAlign: left
+  - type: ImageGallerySection
+    title: null
+    subtitle: Unterstützt durch
+    images:
+      - url: /images/smartgreen-logo-50.svg
+        altText: Smartgreen Logo
+        elementId: ''
+        type: ImageBlock
+        styles:
+          self:
+            padding:
+              - pt-2
+              - pl-2
+              - pb-2
+              - pr-2
+      - url: /images/kit-innovation-hub-50.svg
+        altText: Kit Innovation Hub Logo
+        elementId: ''
+        type: ImageBlock
+        styles:
+          self:
+            padding:
+              - pt-2
+              - pl-2
+              - pb-2
+              - pr-2
+      - url: /images/pioniergarage-logo-50.svg
+        altText: Pioniergarage Logo
+        elementId: ''
+        type: ImageBlock
+        styles:
+          self:
+            padding:
+              - pt-2
+              - pl-2
+              - pb-2
+              - pr-2
+      - url: /images/gruenderschmiede-logo-45.svg
+        altText: KIT Gründerschmiede Logo
+        elementId: ''
+        type: ImageBlock
+        styles:
+          self:
+            padding:
+              - pt-2
+              - pl-2
+              - pb-2
+              - pr-2
+    badge: null
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    backgroundImage: null
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-11
+          - pl-11
+          - pb-11
+          - pr-11
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Warum Betonrecycling?
