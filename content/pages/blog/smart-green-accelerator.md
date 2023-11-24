@@ -231,7 +231,9 @@ bottomSections:
 isFeatured: false
 isDraft: false
 seo:
-  metaTitle: Kooperation mit dem KIT Innovation HUB
+  metaTitle: >-
+    SMART GREEN Accelerator unterstützt Rement auf dem Weg zum nachhaltigen
+    Erfolg
   metaDescription: >-
     Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu
     nachhaltigeren Wertschöpfungsketten im Bereich Bau und Mineralik in Zukunft
