@@ -90,6 +90,13 @@ sections:
         altText: Vise logo
         elementId: ''
         type: ImageBlock
+        styles:
+          self:
+            padding:
+              - pt-2
+              - pl-2
+              - pb-2
+              - pr-2
       - url: /images/telus.svg
         altText: Telus logo
         elementId: ''
