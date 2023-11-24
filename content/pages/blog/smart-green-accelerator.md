@@ -255,9 +255,8 @@ author: content/data/person-hghxpf3a8.json
 ---
 ![](/images/rement-smartgreen.webp)
 
-
 Von September bis November nahm Rement am ACCELERATE Programm des Freiburger [Smart Green Accelerators](https://smartgreen-accelerator.de/) statt. Smart Green unterstützt Green Tech Startups verschiedener Phasen auf ihrem Weg, nachhaltige Geschäftsmodelle erfolgreich am Markt zu etablieren.
 
-Durch intensive Vortragssessions und Feedbackgesprächen mit externen Industrie- und Finanzexperten und -expertinnen konnten wir unser Werteversprechen, Geschäftsmodell und die Finanzierungsstrategie weiter schärfen und validieren. 
+Durch intensive Vortragssessions und Feedbackgespräche mit externen Industrie- und Finanzexperten und -expertinnen konnten wir unser Werteversprechen, Geschäftsmodell und die Finanzierungsstrategie weiter schärfen und validieren.
 
 Wir bedanken uns beim gesamtem Smart Green Team für die tolle Unterstützung während der Workshoptage und empfehlen jedem Green Tech Startup einen Blick auf die vielfältigen [Programme](https://smartgreen-accelerator.de/programme/) des Accelerators zu werfen.
