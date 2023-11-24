@@ -67,6 +67,58 @@ sections:
           - mb-10
       subtitle:
         textAlign: left
+  - type: ImageGallerySection
+    title: null
+    subtitle: Our customers
+    images:
+      - url: /images/empathy_jcmigz.svg
+        altText: Empathy logo
+        elementId: ''
+        type: ImageBlock
+      - url: /images/wellster.svg
+        altText: Wellster logo
+        elementId: ''
+        type: ImageBlock
+      - url: /images/vise.svg
+        altText: Vise logo
+        elementId: ''
+        type: ImageBlock
+      - url: /images/telus.svg
+        altText: Telus logo
+        elementId: ''
+        type: ImageBlock
+      - url: /images/contenful.svg
+        altText: Contentful logo
+        elementId: ''
+        type: ImageBlock
+      - url: /images/sanity.svg
+        altText: Sanity logo
+        elementId: ''
+        type: ImageBlock
+      - url: /images/rangle.svg
+        altText: Rangle logo
+        elementId: ''
+        type: ImageBlock
+    badge: null
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    backgroundImage: null
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Warum Betonrecycling?
