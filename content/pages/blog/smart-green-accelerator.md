@@ -195,7 +195,9 @@
   label: Content
   description: Page content
 type: PostLayout
-title: Smart Green Accele
+title: >-
+  >SMART> GREEN Accelerator unterstützt Rement auf dem Weg zum nachhaltigen
+  Erfolg
 slug: smart-green-accelerator
 date: '2023-09-08'
 excerpt: >-
