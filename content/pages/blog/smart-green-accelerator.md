@@ -195,7 +195,7 @@
   label: Content
   description: Page content
 type: PostLayout
-title: Kooperation mit dem KIT Innovation HUB
+title: 'Rement bedankt sich bei '
 slug: smart-green-accelerator
 date: '2023-09-08'
 excerpt: >-
