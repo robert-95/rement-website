@@ -109,10 +109,6 @@ sections:
         altText: Sanity logo
         elementId: ''
         type: ImageBlock
-      - url: /images/rangle.svg
-        altText: Rangle logo
-        elementId: ''
-        type: ImageBlock
     badge: null
     elementId: ''
     motion: static
