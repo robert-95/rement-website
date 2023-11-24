@@ -105,10 +105,6 @@ sections:
         altText: Contentful logo
         elementId: ''
         type: ImageBlock
-      - url: /images/sanity.svg
-        altText: Sanity logo
-        elementId: ''
-        type: ImageBlock
     badge: null
     elementId: ''
     motion: static
