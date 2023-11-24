@@ -87,7 +87,7 @@ sections:
         elementId: ''
         type: ImageBlock
       - url: /images/kit-innovation-hub-50.svg
-        altText: Vise logo
+        altText: Kit Innovation Hub Logo
         elementId: ''
         type: ImageBlock
         styles:
