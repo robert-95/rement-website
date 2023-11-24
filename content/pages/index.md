@@ -109,7 +109,7 @@ sections:
               - pb-2
               - pr-2
       - url: /images/gruenderschmiede-logo-45.svg
-        altText: Contentful logo
+        altText: KIT Gründerschmiede Logo
         elementId: ''
         type: ImageBlock
         styles:
