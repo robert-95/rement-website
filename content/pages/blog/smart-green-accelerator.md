@@ -207,7 +207,7 @@ featuredImage:
   type: ImageBlock
   altText: Foto von Rement auf dem Smart Green Accelerator Workshop
   elementId: ''
-  url: /images/rement-smartgreen.webp
+  url: /images/cover-rement-smartgreen.webp
   styles:
     self:
       borderRadius: none
@@ -240,7 +240,7 @@ seo:
     verschiedener Phasen auf ihrem Weg, nachhaltige Geschäftsmodelle erfolgreich
     am Markt zu etablieren.
   addTitleSuffix: true
-  socialImage: /images/rement-smartgreen.webp
+  socialImage: /images/cover-rement-smartgreen.webp
   metaTags: []
   type: Seo
 colors: bg-light-fg-dark
@@ -257,7 +257,7 @@ styles:
     borderRadius: small
 author: content/data/person-hghxpf3a8.json
 ---
-![](/images/rement-smartgreen.webp)
+![](/images/cover-rement-smartgreen.webp)
 
 Von September bis November nahm Rement am ACCELERATE Programm des Freiburger [Smart Green Accelerators](https://smartgreen-accelerator.de/) statt. Smart Green unterstützt Green Tech Startups verschiedener Phasen auf ihrem Weg, nachhaltige Geschäftsmodelle erfolgreich am Markt zu etablieren.
 
