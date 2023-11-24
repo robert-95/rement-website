@@ -240,7 +240,7 @@ seo:
     verschiedener Phasen auf ihrem Weg, nachhaltige Geschäftsmodelle erfolgreich
     am Markt zu etablieren.
   addTitleSuffix: true
-  socialImage: /images/rement-smartgreen.webp
+  socialImage: /images/cover-rement-smartgreen.webp
   metaTags: []
   type: Seo
 colors: bg-light-fg-dark
