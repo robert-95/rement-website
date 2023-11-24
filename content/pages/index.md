@@ -69,7 +69,7 @@ sections:
         textAlign: left
   - type: ImageGallerySection
     title: null
-    subtitle: Our customers
+    subtitle: Unterstützt durch
     images:
       - url: /images/empathy_jcmigz.svg
         altText: Empathy logo
