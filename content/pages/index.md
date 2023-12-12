@@ -126,7 +126,7 @@ sections:
               - pl-3
               - pb-2
               - pr-2
-        url: /images/futury-logo-50.png
+        url: /images/futury-logo-50-e7bf9b50.svg
     badge: null
     elementId: ''
     motion: static
