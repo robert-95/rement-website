@@ -121,6 +121,7 @@ sections:
         styles:
           self:
             borderRadius: x-large
+        url: /images/futury-logo-50.svg
     badge: null
     elementId: ''
     motion: static
