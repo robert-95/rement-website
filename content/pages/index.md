@@ -116,7 +116,7 @@ sections:
               - pb-2
               - pr-2
       - type: ImageBlock
-        altText: Lightning bolt symbol on red background
+        altText: Futury logo
         elementId: ''
         styles:
           self:
