@@ -93,17 +93,6 @@ sections:
               - pl-2
               - pb-2
               - pr-2
-      - url: /images/pioniergarage-logo-50.svg
-        altText: Pioniergarage Logo
-        elementId: ''
-        type: ImageBlock
-        styles:
-          self:
-            padding:
-              - pt-2
-              - pl-2
-              - pb-2
-              - pr-2
       - url: /images/gruenderschmiede-logo-45.svg
         altText: KIT Gründerschmiede Logo
         elementId: ''
@@ -115,6 +104,29 @@ sections:
               - pl-2
               - pb-2
               - pr-2
+      - url: /images/pioniergarage-logo-50.svg
+        altText: Pioniergarage Logo
+        elementId: ''
+        type: ImageBlock
+        styles:
+          self:
+            padding:
+              - pt-2
+              - pl-2
+              - pb-2
+              - pr-2
+      - type: ImageBlock
+        altText: Futury logo
+        elementId: ''
+        styles:
+          self:
+            borderRadius: none
+            padding:
+              - pt-2
+              - pl-3
+              - pb-2
+              - pr-2
+        url: /images/futury-logo-50-e7bf9b50.svg
     badge: null
     elementId: ''
     motion: static
