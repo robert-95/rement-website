@@ -93,8 +93,8 @@ sections:
               - pl-2
               - pb-2
               - pr-2
-      - url: /images/pioniergarage-logo-50.svg
-        altText: Pioniergarage Logo
+      - url: /images/gruenderschmiede-logo-45.svg
+        altText: KIT Gründerschmiede Logo
         elementId: ''
         type: ImageBlock
         styles:
@@ -104,8 +104,8 @@ sections:
               - pl-2
               - pb-2
               - pr-2
-      - url: /images/gruenderschmiede-logo-45.svg
-        altText: KIT Gründerschmiede Logo
+      - url: /images/pioniergarage-logo-50.svg
+        altText: Pioniergarage Logo
         elementId: ''
         type: ImageBlock
         styles:
