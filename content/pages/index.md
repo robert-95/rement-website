@@ -120,7 +120,7 @@ sections:
         elementId: ''
         styles:
           self:
-            borderRadius: x-large
+            borderRadius: none
             padding:
               - pt-2
               - pl-2
