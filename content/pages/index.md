@@ -118,7 +118,6 @@ sections:
       - type: ImageBlock
         altText: Lightning bolt symbol on red background
         elementId: ''
-        url: /images/post-two.svg
         styles:
           self:
             borderRadius: x-large
