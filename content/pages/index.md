@@ -121,6 +121,11 @@ sections:
         styles:
           self:
             borderRadius: x-large
+            padding:
+              - pt-2
+              - pl-2
+              - pb-2
+              - pr-2
         url: /images/futury-logo-50.svg
     badge: null
     elementId: ''
