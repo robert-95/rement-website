@@ -155,7 +155,7 @@ sections:
           - pt-11
           - pl-8
           - pb-11
-          - pr-11
+          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
