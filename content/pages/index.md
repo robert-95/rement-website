@@ -136,7 +136,7 @@ sections:
             borderRadius: none
             padding:
               - pt-2
-              - pl-0
+              - pl-1
               - pb-2
               - pr-0
     badge: null
