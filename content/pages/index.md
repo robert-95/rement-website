@@ -138,7 +138,7 @@ sections:
               - pt-2
               - pl-1
               - pb-2
-              - pr-1
+              - pr-0
     badge: null
     elementId: ''
     motion: static
