@@ -153,7 +153,7 @@ sections:
           - mr-0
         padding:
           - pt-11
-          - pl-4
+          - pl-3
           - pb-11
           - pr-4
         justifyContent: center
