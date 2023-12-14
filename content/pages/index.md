@@ -128,7 +128,7 @@ sections:
               - pr-2
         url: /images/futury-logo-50-e7bf9b50.svg
       - type: ImageBlock
-        altText: Lightning bolt symbol on red background
+        altText: Helmholtz logo
         elementId: ''
         url: /images/helmholtz-logo-50.svg
         styles:
