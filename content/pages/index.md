@@ -130,7 +130,7 @@ sections:
       - type: ImageBlock
         altText: Helmholtz logo
         elementId: ''
-        url: /images/helmholtz-logo-40.svg
+        url: /images/helmholtz-logo-28.svg
         styles:
           self:
             borderRadius: none
