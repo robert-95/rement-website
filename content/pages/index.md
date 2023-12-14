@@ -126,7 +126,7 @@ sections:
               - pl-3
               - pb-2
               - pr-2
-        url: /images/futury-logo-50-e7bf9b50.svg
+        url: /images/futury-logo-40.svg
       - type: ImageBlock
         altText: Helmholtz logo
         elementId: ''
