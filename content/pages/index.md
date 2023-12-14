@@ -79,7 +79,7 @@ sections:
           self:
             padding:
               - pt-2
-              - pl-2
+              - pl-0
               - pb-2
               - pr-2
       - url: /images/kit-innovation-hub-50.svg
@@ -90,10 +90,10 @@ sections:
           self:
             padding:
               - pt-2
-              - pl-2
+              - pl-1
               - pb-2
-              - pr-2
-      - url: /images/gruenderschmiede-logo-45.svg
+              - pr-0
+      - url: /images/gruenderschmiede-logo-40.svg
         altText: KIT Gründerschmiede Logo
         elementId: ''
         type: ImageBlock
@@ -101,7 +101,7 @@ sections:
           self:
             padding:
               - pt-2
-              - pl-2
+              - pl-0
               - pb-2
               - pr-2
       - url: /images/pioniergarage-logo-50.svg
@@ -123,22 +123,22 @@ sections:
             borderRadius: none
             padding:
               - pt-2
-              - pl-3
+              - pl-1
               - pb-2
               - pr-2
-        url: /images/futury-logo-50-e7bf9b50.svg
+        url: /images/futury-logo-40.svg
       - type: ImageBlock
         altText: Helmholtz logo
         elementId: ''
-        url: /images/helmholtz-logo-50-d04965c5.svg
+        url: /images/helmholtz-logo-28.svg
         styles:
           self:
             borderRadius: none
             padding:
               - pt-2
-              - pl-2
+              - pl-1
               - pb-2
-              - pr-2
+              - pr-0
     badge: null
     elementId: ''
     motion: static
