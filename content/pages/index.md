@@ -116,18 +116,6 @@ sections:
               - pb-2
               - pr-2
       - type: ImageBlock
-        altText: Helmholtz logo
-        elementId: ''
-        url: /images/helmholtz-logo-28.svg
-        styles:
-          self:
-            borderRadius: none
-            padding:
-              - pt-2
-              - pl-1
-              - pb-2
-              - pr-0
-      - type: ImageBlock
         altText: Futury logo
         elementId: ''
         styles:
@@ -139,6 +127,18 @@ sections:
               - pb-2
               - pr-2
         url: /images/futury-logo-40.svg
+      - type: ImageBlock
+        altText: Helmholtz logo
+        elementId: ''
+        url: /images/helmholtz-logo-28.svg
+        styles:
+          self:
+            borderRadius: none
+            padding:
+              - pt-2
+              - pl-1
+              - pb-2
+              - pr-0
     badge: null
     elementId: ''
     motion: static
