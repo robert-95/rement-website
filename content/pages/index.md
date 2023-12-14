@@ -133,7 +133,7 @@ sections:
         url: /images/helmholtz-logo-50.svg
         styles:
           self:
-            borderRadius: x-large
+            borderRadius: none
             padding:
               - pt-2
               - pl-2
