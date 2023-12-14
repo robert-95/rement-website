@@ -93,7 +93,7 @@ sections:
               - pl-2
               - pb-2
               - pr-2
-      - url: /images/gruenderschmiede-logo-45.svg
+      - url: /images/gruenderschmiede-logo-40.svg
         altText: KIT Gründerschmiede Logo
         elementId: ''
         type: ImageBlock
