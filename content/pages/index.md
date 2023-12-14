@@ -127,6 +127,13 @@ sections:
               - pb-2
               - pr-2
         url: /images/futury-logo-50-e7bf9b50.svg
+      - type: ImageBlock
+        altText: Lightning bolt symbol on red background
+        elementId: ''
+        url: /images/post-two.svg
+        styles:
+          self:
+            borderRadius: x-large
     badge: null
     elementId: ''
     motion: static
