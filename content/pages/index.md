@@ -79,7 +79,7 @@ sections:
           self:
             padding:
               - pt-2
-              - pl-2
+              - pl-0
               - pb-2
               - pr-2
       - url: /images/kit-innovation-hub-50.svg
