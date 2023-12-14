@@ -123,7 +123,7 @@ sections:
             borderRadius: none
             padding:
               - pt-2
-              - pl-0
+              - pl-2
               - pb-2
               - pr-1
         url: /images/futury-logo-40.svg
