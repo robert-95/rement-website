@@ -259,95 +259,41 @@ Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für die
 
 Wir möchten uns gemeinsam mit dir auf Ausgründungsförderungen bewerben. Mit diesen stünde ab Herbst eine E13-Vollzeitstelle für dich zur Verfügung. Du kannst entscheiden, ob du erst mit dem ersten Gehalt oder schon vorher bei uns starten möchtest.
  
-
 *English version below* 
   
 ### Deine Aufgaben
-  
 
 *   Analyse von Materialeigenschaften wie Calciumoxidgehalt, Carbonisierungsgrad und Verunreinigungen von Betonproben unterschiedlicher Art
-
-
-
 *   Analyse der Feinheit, Reinheit und Weißheit des Produkts PCC
-
-
-
 *   Prüfung der Wiederverwendbarkeit des zementbefreiten Sands
- 
-
-
 *   Ausarbeitung von Versuchsroadmaps und Protokollierung 
-
-  
-
 *   Aufbereitung und Präsentation von Forschungsergebnissen in technischen und betriebswirtschaftlichen Diskussionen
-
-
-
 *   Recherchieren des Standes der Technik in wissenschaftlichen Veröffentlichungen und Patenten
-
-
-
 *   Bei Interesse Unterstützung bei Aufbau und Erweiterung unseres Batch- und Contiprototypen 
-
-
-
 *   Bei Interesse Ausarbeitung unseres Werteversprechens im Hinblick auf die Bedürfnisse der Baubranche als potenzielle Lizenzkunden und der Bauchemie als Abnehmer des PCCs für Farben, Lacke, Dichtungen und Beschichtungen
-
-
 
 ### Das bringst du mit 
 
-
 *   Du begeisterst dich für Startups und Nachhaltigkeit
-  
-
-
 *   Die Bereitschaft, dich gemeinsam mit uns auf Ausgründungsförderungen (EXIST, Helmholtz Enterprise) zu bewerben, um erste Gehälter für dich und das Team zu ermöglichen
-
-
-
 *   Ab Förderbeginn (ca. September 2024) bist du in Vollzeit verfügbar. Vorher freuen wir uns über jegliche Unterstützung, auch in Teilzeit.
-
-  
-
 *   Du befindest dich kurz vor oder nach dem Abschluss deines Masters oder Promotion in Bauingenieurwesen oder Bauchemie oder bist schon berufserfahren 
-
-  
-
 *   Du verfügst über praktische Erfahrungen in der Laborforschung, idealerweise auch im Bereich Messanalytik
-
-  
-
 *   Erfahrungen im wissenschaftlichen Arbeiten oder Vertiefungen im Bereich Baumaterialien, Bauverfahren oder Bauchemie sind von Vorteil
-
-
-
 *   Du sprichst flüssig Englisch und hast eine Arbeitsgenehmigung in Deutschland
-
-
 
 ### Das bieten wir dir 
 
-
 *   Du hast die Möglichkeit, unsere Roadmap und Vision aktiv mitzugestalten 
-
 *   Zugang zu (bau)chemischer Hightech-Analytik 
-
 *   Lerne die Welt der Greentech-Startups mit all ihren Chancen und Herausforderungen kennen 
-
 *   Flexible Arbeitszeiten aus dem Home-Office und unserem Labor oder Co-Working-Space am KIT Campus Nord 
-
 *   Dein Gehalt wird aus Fördermitteln bestritten, die wir gerade beantragen (bei EXIST-Bewilligung: 100% E13 TVöD)
-
 *   Eine finanzielle Beteiligung an dem Erfolg des Startups
-
 
 ### So tickt Rement
 
 In unserem Technik-Team arbeitest du zusammen mit unserem CTO Achim, Masterand Adrian und Doktorand Vincent. Unser CEO Felix ist ebenfalls aktiv in unsere Laborforschung und verfahrenstechnische Planung eingebunden. Alle gemeinsam eint die Leidenschaft für Technik und Nachhaltigkeit. Bei Rement leben wir offene Diskussionen, Transparenz und flache Hierarchien. Unsere quartalsweisen [Objectives und Key Results](<https://www.forbes.com/advisor/business/what-is-an-okr-definition-examples/#:~:text=OKRs%20(Objectives%20and%20Key%20Results,progress%20is%20measured%20or%20monitored>.) definieren wir in gemeinsamen Workshops. Einmal pro Woche schauen wir gemeinsam auf unser [Kanban Board ](https://en.wikipedia.org/wiki/Kanban_board)und besprechen To Do's. Wir sind ein unabhängiges und dynamisches Startup und arbeiten gleichzeitig eng mit dem Institut für Funktionelle Grenzflächen (IFG) des KIT zusammen, dessen Laborräumlichkeiten und Messanalytik am KIT Campus Nord wir aktuell nutzen. Auf unserem Weg begleiten uns spannende Startupwettbewerbe und Accelerator-Programme, bei denen du dich bei Interesse gerne einbringen kannst. 
-
 
 **Du hast Interesse und möchtest mehr über uns erfahren? Melde dich gerne mit einer kurzen Mail über dich an** [**jobs@rement.tech**](mailto:jobs@rement.tech) 
 
@@ -361,75 +307,31 @@ We would like to apply for spin-off funding together with you. With these, a ful
 ### Your tasks 
 
 * Analysis of material properties such as calcium oxide content, degree of carbonation and impurities of concrete samples of various types
- 
-
-
 * Analyzing the fineness, purity and whiteness of the PCC product
-
-
-
 * Testing the reusability of the cement-free sand
- 
-
-
 * Elaboration of experimental roadmaps and record keeping
-
-  
-
 * Preparation and presentation of research results in technical and business discussions
-
-
-
 * Researching the current states of related scientific publications and patents
-
-
-
 * If interested, support in setting up and expanding our batch and continuous prototypes 
-
-
 * If interested, elaboration of our value proposition with regard to the needs of the construction industry as potential license customers and the construction chemicals industry as customers of the PCC for use in paints, varnishes, sealants and coatings
-
 
 ### Your skills are 
 
 * You are enthusiastic about start-ups and sustainability
-  
-
-
 * Willingness to apply for spin-off funding (EXIST, Helmholtz Enterprise) together with us to enable initial salaries for you and the team
-
-
-
 * You will be available full-time from the start of funding (approx. September 2024). Before that, we are happy about any support, also part-time.
-
-  
-
 * You are shortly before or after completing your master's degree or doctorate in civil engineering or construction chemistry or already have professional experience 
-
-  
-
 * You have practical experience in laboratory research, ideally also in the field of measurement analysis
-
-  
-
 * Experience in scientific work or specialization in the field of construction materials, construction processes or construction chemistry is an advantage 
-
 
 ### This is what we offer you  
 
 * You have the opportunity to actively shape our roadmap and vision 
-
 * Access to (construction) chemical high-tech analytics 
-
 * Get to know the world of greentech start-ups with all its opportunities and challenges 
-
 * Flexible working hours from your home office and our lab or co-working space at KIT Campus North 
-
 * Your salary will be covered by funding that we are currently applying for (with EXIST approval: 100% E13 TVöD)
-
 * Financial participation in the success of the start-up
-
-  
 
 ### This is Rement
 
