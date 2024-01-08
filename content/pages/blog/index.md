@@ -11,7 +11,7 @@ postFeed:
   styles:
     self: {}
   type: PagedPostsSection
-numOfPostsPerPage: 12
+numOfPostsPerPage: 24
 enableSearch: false
 topSections:
   - type: GenericSection
@@ -49,9 +49,9 @@ styles:
 seo:
   metaTitle: Neuigkeiten
   metaDescription: >-
-    Hier berichten wir über aktuelle Entwicklungen bei Rement und in der
-    Betonindustrie. Begleiten Sie uns gerne auf unserem Weg.
-  socialImage: /images/Rement-kreislauf.png
+    Hier berichten wir über aktuelle Entwicklungen bei und um Rement. Begleiten
+    Sie uns gerne auf unserem Weg.
   type: Seo
+  socialImage: /images/Rement LinkedIn Cover Texture.png
 type: PostFeedLayout
 ---
