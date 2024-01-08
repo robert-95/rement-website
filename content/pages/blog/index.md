@@ -52,6 +52,6 @@ seo:
     Hier berichten wir über aktuelle Entwicklungen bei Rement und in der
     Betonindustrie. Begleiten Sie uns gerne auf unserem Weg.
   type: Seo
-  socialImage: /images/linkedin-cover-rement.png
+  socialImage: /images/Rement LinkedIn Cover Texture.png
 type: PostFeedLayout
 ---
