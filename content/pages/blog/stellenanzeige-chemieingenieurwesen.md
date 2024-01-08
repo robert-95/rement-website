@@ -202,6 +202,9 @@ excerpt: >-
   Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für
   diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n Verfahrenstechniker*in oder Chemieingenieur*in
   als Verstärkung für unser Team in Karlsruhe.
+
+  Wir möchten uns gemeinsam mit dir auf Ausgründungsförderungen bewerben. Mit diesen stünde ab Herbst eine E13-Vollzeitstelle für dich zur Verfügung. Du kannst entscheiden, ob du erst mit dem ersten Gehalt oder schon vorher bei uns starten möchtest.
+  
 featuredImage:
   type: ImageBlock
   altText: Bild des Rement Teams
