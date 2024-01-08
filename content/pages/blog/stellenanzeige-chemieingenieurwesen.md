@@ -202,8 +202,6 @@ excerpt: >-
   Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für
   diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n Verfahrenstechniker*in oder Chemieingenieur*in
   als Verstärkung für unser Team in Karlsruhe.
-
-  Wir möchten uns gemeinsam mit dir auf Ausgründungsförderungen bewerben. Mit diesen stünde ab Herbst eine E13-Vollzeitstelle für dich zur Verfügung. Du kannst entscheiden, ob du erst mit dem ersten Gehalt oder schon vorher bei uns starten möchtest.
   
 featuredImage:
   type: ImageBlock
@@ -260,7 +258,8 @@ author: content/data/person-hghxpf3a8.json
 ![](/images/rement-sucht-bau-chemiker-in.webp)
 
 Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n **Verfahrenstechniker*in/Chemieingenieur*in** als Verstärkung für unser Team in Karlsruhe. Mit unserem Betonrecycling-Verfahren möchten wir Zementverbindungen in Betonresten unter Bindung von CO2 lösen, um daraus anschließend wertvolles Calciumcarbonat zu fällen. Deine Welt dreht sich rund um die Konkretisierung dieses Verfahrens in Laborversuchen und Prototypen. 
- 
+
+Wir möchten uns gemeinsam mit dir auf Ausgründungsförderungen bewerben. Mit diesen stünde ab Herbst eine E13-Vollzeitstelle für dich zur Verfügung. Du kannst entscheiden, ob du erst mit dem ersten Gehalt oder schon vorher bei uns starten möchtest.
 
 *English version below* 
   
@@ -336,7 +335,9 @@ In unserem Technik-Team arbeitest du zusammen mit unserem CTO Achim, Masterand A
 
 ## English version 
 
-At Rement, we are striving to work together to change the construction industry for the long term. For this mission, we are looking for a **Process Engineer/Chemical Engineer** to join our team in Karlsruhe as soon as possible. With our concrete recycling process, we want to dissolve cement compounds in concrete residues while binding CO2 in order to subsequently precipitate valuable calcium carbonate. Your mission is to further develop and implement our lab process and upcoming protoypes
+At Rement, we are striving to work together to change the construction industry for the long term. For this mission, we are looking for a **Process Engineer/Chemical Engineer** to join our team in Karlsruhe as soon as possible. With our concrete recycling process, we want to dissolve cement compounds in concrete residues while binding CO2 in order to subsequently precipitate valuable calcium carbonate. Your mission is to further develop and implement our lab process and upcoming protoypes.
+
+We would like to apply for spin-off funding together with you. With these, a full-time E13 position would be available for you from the fall. You can decide whether you would like to start with us with your first salary or before.
 
 ### Your tasks  
 
