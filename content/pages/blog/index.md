@@ -51,7 +51,6 @@ seo:
   metaDescription: >-
     Hier berichten wir über aktuelle Entwicklungen bei Rement und in der
     Betonindustrie. Begleiten Sie uns gerne auf unserem Weg.
-  socialImage: /images/Rement-kreislauf.png
   type: Seo
 type: PostFeedLayout
 ---
