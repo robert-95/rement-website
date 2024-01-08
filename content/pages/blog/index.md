@@ -11,7 +11,7 @@ postFeed:
   styles:
     self: {}
   type: PagedPostsSection
-numOfPostsPerPage: 12
+numOfPostsPerPage: 24
 enableSearch: false
 topSections:
   - type: GenericSection
