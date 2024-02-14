@@ -255,7 +255,7 @@ author: content/data/person-hghxpf3a8.json
 ---
 ![](/images/rement-sucht-bau-chemiker-in.webp)
 
-Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n **Bauingenieur*in oder Bauchemiker*in** als Verstärkung für unser Team in Karlsruhe. Mit unserem Betonrecycling-Verfahren möchten wir Zementverbindungen in Betonresten unter Bindung von CO2 lösen, um daraus anschließend wertvolles Calciumcarbonat (PCC) zu fällen. Deine Welt dreht sich rund um die technische Konkretisierung dieses Verfahrens und die Anpassung an die Bedürfnisse der Baubranche.
+Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n **Bauingenieur*in oder Bauchemiker*in** als Verstärkung für unser Team in Karlsruhe. Mit unserem Betonrecycling-Verfahren möchten wir Zementverbindungen in Betonresten unter Bindung von CO2 lösen, um daraus anschließend wertvolles Calciumcarbonat zu fällen. Deine Welt dreht sich rund um die technische Konkretisierung dieses Verfahrens und die Anpassung an die Bedürfnisse der Baubranche.
 
 Wir möchten uns gemeinsam mit dir auf Ausgründungsförderungen bewerben. Mit diesen stünde ab Herbst eine E13-Vollzeitstelle für dich zur Verfügung. Du kannst entscheiden, ob du erst mit dem ersten Gehalt oder schon vorher bei uns starten möchtest.
  
