@@ -1,0 +1,44 @@
+{
+    "name": "Shabnam Mursalova",
+    "role": "M. Sc. Chemical Engineering",
+    "image": {
+        "url": "/images/shabnam.webp",
+        "altText": "Shabnam Mursalova",
+        "styles": {
+            "self": {
+                "borderRadius": "none",
+                "margin": [
+                    "mb-6"
+                ],
+                "borderWidth": 0,
+                "borderColor": "border-neutral",
+                "padding": [
+                    "pt-3",
+                    "pl-3",
+                    "pb-3",
+                    "pr-3"
+                ]
+            }
+        },
+        "type": "ImageBlock"
+    },
+    "colors": "bg-light-fg-dark",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-5",
+                "pb-12",
+                "pl-12",
+                "pr-12"
+            ],
+            "textAlign": "center",
+            "borderColor": "border-neutral",
+            "borderStyle": "solid",
+            "borderWidth": 0,
+            "borderRadius": "none",
+            "justifyContent": "center"
+        }
+    },
+    "type": "Person",
+    "bio": "[LinkedIn](https://www.linkedin.com/in/shabnam-mursalova-075773106/)\n"
+}
