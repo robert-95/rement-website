@@ -428,6 +428,7 @@ sections:
       - content/data/person-f6up4hjar.json
       - content/data/team/Tiya-Greenwood.json
       - content/data/team/Faizah-Chan.json
+      - content/data/team/shabnam.json
     actions: []
     badge: null
     elementId: '4'
