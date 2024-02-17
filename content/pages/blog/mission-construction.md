@@ -259,9 +259,11 @@ Das Accelerator-Programm The Mission Construction von FUTURY bringt die aufstreb
 Am 7. und 8. Februar fand der Kickoff des The Mission Construction Accelerators in den schönen Räumlichkeiten von Schüco in Bielefeld statt. Zu Beginn machte Dr.-Ing. Thomas Schlenker, SVP of Digitalisation & Smart Building bei SCHÜCO, direkt deutlich, dass der Wandel zur Kreislaufwirtschaft eine der zentralsten gegenwärtigen Aufgaben der Baubranche ist. Die anschließende Podiumsdiskussion von Konstantina Kanellopoulos, CHRO & Co-Managing Director GOLDBECK, Michael Koch, CEO Byldis
 und Michael Meyer, Partner Bain & Company und Thomas Schlenker macht deutlich, dass die Branche 2024 den Kriesenmodus verlassen und die Zukunft wieder aktiv gestalten möchte.
 
-![](/images/futury-presentation.webp)
+![](/images/futury-overview.webp)
 
 Im Anschluss durfte Rement gemeinsam mit den Startups Sustainaccount, Taskrunner, Grundsteine, Kolula, ContainerGrid, N1 Trading und Kestrix ihren Ansatz vorstellen. Robert und Felix gingen dabei auch darauf ein, welche Schnittstellen die teilnehmenden Corporates im Publikum mit dem Rement Verfahren haben könnten.
+
+![](/images/futury-presentation.webp)
 
 ## Spannende Kollaborationen in Sicht
 
