@@ -199,8 +199,7 @@ title: Rement ist Teil von The Mission Construction
 slug: the-mission-construction
 date: '2024-02-10'
 excerpt: >-
-  Das Accelerator-Programm The Mission Construction von FUTURY bringt die aufstrebende Startups mit Konzernen wie Schüco, Vonovia, Goldbeck, Schwarz oder PreZero zusammen. 
-  Ziel sind gemeinsame Pilotprojekte.
+  Das Accelerator-Programm The Mission Construction von FUTURY bringt die aufstrebende Startups mit Konzernen wie Schüco, Vonovia, Goldbeck, Schwarz oder PreZero zusammen. Ziel sind gemeinsame Pilotprojekte.
 featuredImage:
   type: ImageBlock
   altText: Bild des Rement Teams
@@ -232,8 +231,7 @@ isDraft: false
 seo:
   metaTitle: Rement ist Teil von The Mission Construction
   metaDescription: >-
-    Das Accelerator-Programm The Mission Construction von FUTURY bringt die aufstrebende Startups mit Konzernen wie Schüco, Vonovia, Goldbeck, Schwarz oder PreZero zusammen. 
-  Ziel sind gemeinsame Pilotprojekte.
+    Das Accelerator-Programm The Mission Construction von FUTURY bringt die aufstrebende Startups mit Konzernen wie Schüco, Vonovia, Goldbeck, Schwarz oder PreZero zusammen. Ziel sind gemeinsame Pilotprojekte.
   addTitleSuffix: true
   socialImage: /images/futury.webp
   metaTags: []
