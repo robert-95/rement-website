@@ -199,7 +199,7 @@ title: Rement ist Teil von The Mission Construction
 slug: the-mission-construction
 date: '2024-02-10'
 excerpt: >-
-  Das Accelerator-Programm The Mission Construction von FUTURY bringt die aufstrebende Startups mit Konzernen wie Schüco, Vonovia, Goldbeck, Schwarz oder PreZero zusammen. Ziel sind gemeinsame Pilotprojekte.
+  Das Accelerator-Programm The Mission Construction von FUTURY bringt aufstrebende Startups mit Konzernen wie Schüco, Vonovia, Goldbeck, Schwarz oder PreZero zusammen. Ziel sind gemeinsame Pilotprojekte.
 featuredImage:
   type: ImageBlock
   altText: Bild des Rement Teams
@@ -251,4 +251,23 @@ styles:
 author: content/data/person-hghxpf3a8.json
 ---
 ![](/images/futury.webp)
+
+Das Accelerator-Programm The Mission Construction von FUTURY bringt die aufstrebende Startups mit Konzernen wie Schüco, Vonovia, Goldbeck, Schwarz oder PreZero zusammen. Ziel des Programms ist die Initiierung gemeinsamer Pilotprojekte.
+
+## Kickoff bei Schüco Bielefeld
+
+Am 7. und 8. Februar fand der Kickoff des The Mission Construction Accelerators in den schönen Räumlichkeiten von Schüco in Bielefeld statt. Zu Beginn machte Dr.-Ing. Thomas Schlenker, SVP of Digitalisation & Smart Building bei SCHÜCO, direkt deutlich, dass der Wandel zur Kreislaufwirtschaft eine der zentralsten gegenwärtigen Aufgaben der Baubranche ist. Die anschließende Podiumsdiskussion von Konstantina Kanellopoulos, CHRO & Co-Managing Director GOLDBECK, Michael Koch, CEO Byldis
+und Michael Meyer, Partner Bain & Company und Thomas Schlenker macht deutlich, dass die Branche 2024 den Kriesenmodus verlassen und die Zukunft wieder aktiv gestalten möchte.
+
+![](/images/futury-presentation.webp)
+
+Im Anschluss durfte Rement gemeinsam mit den Startups Sustainaccount, Taskrunner, Grundsteine, Kolula, ContainerGrid, N1 Trading und Kestrix ihren Ansatz vorstellen. Robert und Felix gingen dabei auch darauf ein, welche Schnittstellen die teilnehmenden Corporates im Publikum mit dem Rement Verfahren haben könnten.
+
+## Spannende Kollaborationen in Sicht
+
+In den nächsten 3 Monaten fokussiert sich The Mission auf die Initiierung von Pilotprojekten zwischen den Startups und Construction Corporates. Wir haben bereits auf und nach dem Kickoff viele spannende Gespräche führen dürften und freuen uns auf alles was kommt. 
+
+Wir sind davon überzeugt, dass Kollaborationen zwischen Startups und Corporates, zwischen Forschung und Anwendung und zwischen Stakeholdern der gesamten Wertschöpfungskette notwendig sind, um mehr Kreislaufwirtschaft im Bau zu ermöglichen.
+
+![](/images/futury-team.webp)
 
