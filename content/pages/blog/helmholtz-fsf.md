@@ -197,7 +197,7 @@
 type: PostLayout
 title: Helmholtz unterstützt Rement mit der Field Study Fellowship
 slug: helmholtz-fsf
-date: '2024-02-10'
+date: '2024-02-19'
 excerpt: >-
   Das Ausgründungsprogramm Helmholtz Enterprise (HE) fördert den Transfer forschungsintensiver Innovationen in die Praxis. Ziel der Field Study ist eine Marktvalidierung unseres Verfahrens.
 featuredImage:
