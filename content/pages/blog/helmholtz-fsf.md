@@ -265,6 +265,8 @@ Gemeinsam mit unserem Coach Dr. Susanne Perner, an den wir uns hier herzlich bed
 über unseren Markt wissen. Es entstehen Arbeitshypothesen, die während der Field Study durch Expert'innen-Interviews weiter validiert werden. Im Ergebnis entsteht
 ein fundierter Blick auf die "Jobs to get done" im Betonrecycling und wie Rement bei der Erledigung dieser Nutzen stiftet.
 
+Sie sehen sich als potentieller Anwender unseres Verfahrens und hätten Lust, mit uns über Betonrecycling zu sprechen? Melden Sie sich gerne bei uns unter robert.schleinhege@rement.tech.
+
 Wir können jedem Forschenden das Programm bisher herzlich empfehlen. Vielen Dank an Julian Alexandrakis und Andre Schafft von Helmholtz für die freundliche und strukturierte Organisation!
  
 
