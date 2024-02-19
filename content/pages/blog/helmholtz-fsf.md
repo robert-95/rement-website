@@ -261,7 +261,7 @@ Dabei werden sie von einem erfahrenen Coach begleitet und erhalten Unterstützun
 
 ## Ziele der nächsten Wochen
 
-Gemeinsam mit unserem Coach Dr. Susanne Perner, an den wir uns hier herzlich bedanken möchten, machen wir im ersten Schritt alles sichtbar, was wir bereits
+Gemeinsam mit unserem Coach Dr. Susanne Perner, bei dem wir uns an diesr Stelle herzlich bedanken möchten, machen wir im ersten Schritt alles sichtbar, was wir bereits
 über unseren Markt wissen. Es entstehen Arbeitshypothesen, die während der Field Study durch Expert'innen-Interviews weiter validiert werden. Im Ergebnis entsteht
 ein fundierter Blick auf die "Jobs to get done" im Betonrecycling und wie Rement bei der Erledigung dieser Nutzen stiftet.
 
