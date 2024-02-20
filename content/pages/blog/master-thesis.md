@@ -200,7 +200,7 @@ slug: masterarbeit-bauingenieurwesen
 date: '2024-02-20'
 excerpt: >-
   Wir suchen nach einem motivierten Teammitglied für eine Masterarbeit im Bereich Bauingenieurwesen ab März oder April mit anschließender Übernahmemöglichkeit.
-featuredImage: /images/HelmholtzEnterpriseFSF.webp
+featuredImage: /images/masterthesis.webp
   type: ImageBlock
   altText: Dekoratives Bild
   elementId: ''
