@@ -252,22 +252,25 @@ author: content/data/person-hghxpf3a8.json
 ---
 ![](/images/masterthesis.png)
 
-Wir suchen nach einem motivierten Teammitglied für eine Masterarbeit im Bereich Bauingenieurwesen ab März oder April mit anschließender Übernahmemöglichkeit. Wir sind Rement und entwickeln ein innovatives Betonrecyclingverfahren und würden gerne mit dir und deiner Arbeit herausfinden, wie wir uns am besten in den Markt integrieren.
+Wir suchen nach einem motivierten Teammitglied für eine Masterarbeit im Bereich Bauingenieurwesen ab März oder April mit anschließender Übernahmemöglichkeit. Wir sind Rement und entwickeln ein innovatives, klimapositives Betonrecyclingverfahren und würden gerne mit dir und deiner Arbeit herausfinden, wie wir uns am besten in den Markt integrieren.
  
 Wie genau dein Thema definiert ist möchten wir gerne mit dir gemeinsam überlegen. Du kannst uns hierzu auch gerne einen Vorschlag machen. Unten findest du beispielhaft zwei Themenfelder beschrieben.
  
 *Themenschwerpunkt: Produkt- und Edukteigenschaften*
-Wenn du dich für die Arbeit im Labor begeisterst kannst du hier praktisch Tätig werden
-Du kannst Analysieren welche Betoneingenschaften wie Verunreinigungen, Carbonatisierungsgrad und Feinheit unseren Prozess beeinflussen
-Du kannst analysieren, ob sich der zurückgewonnene Sand wieder bedenkenlos für neuen Beton einsetzen lässt
+
+- Wenn du dich für die Arbeit im Labor begeisterst kannst du hier praktisch Tätig werden
+- Analysiere, welche Betoneingenschaften wie Verunreinigungen, Carbonatisierungsgrad und Feinheit unseren Prozess beeinflussen
+- Analysiere, ob sich der zurückgewonnene Sand wieder bedenkenlos für neuen Beton einsetzen lässt
  
 *Themenschwerpunkt: Stroffströme und Standortfaktoren*
-Analysiere, wo Betonabbruch in welchen Mengen anfällt und was damit passiert
-Skizziere weitere Standortfaktoren für Rement-Anlagen
-Versuche Empfehlungen aus belastbaren Datenquellen herzuleiten
-Beschreibe die Stoffströme im Zielbild und evaluiere Wertschöpfungsgrade und Emissionsersparnis
+
+-Analysiere, wo Betonabbruch in welchen Mengen anfällt und was damit passiert
+- Skizziere weitere Standortfaktoren für Rement-Anlagen
+- Leite Empfehlungen aus belastbaren Datenquellen her
+- Beschreibe die Stoffströme im Zielbild und evaluiere Wertschöpfungsgrade und Emissionsersparnis
 
 Bei Interesse würden wir uns gerne mit dir gemeinsam auf Ausgründungs-Förderungen bewerben. Das bedeutet: Während du deine Masterarbeit schreibst, wird unser Fördergeldantrag bearbeitet. Bei einer Zusage könntest du direkt nach deiner Arbeit bei uns Einsteigen und würdest über eine Wis.-Mit.-Stelle an der Uni finanziert werden.
  
-Wir freuen uns sehr auf deine Bewerbung an robert.schleinhege@rement.tech
-Team Rement
+Wir freuen uns auf eine kurze Rückmeldung an robert.schleinhege@rement.tech und wir vereinbaren zeitnah einen Kennenlerntermin!
+
+Dein Team Rement
