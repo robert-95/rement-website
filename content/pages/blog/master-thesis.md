@@ -264,10 +264,12 @@ Wie genau dein Thema definiert ist möchten wir gerne mit dir gemeinsam überleg
  
 *Themenschwerpunkt: Stroffströme und Standortfaktoren*
 
--Analysiere, wo Betonabbruch in welchen Mengen anfällt und was damit passiert
+- Analysiere, wo Betonabbruch in welchen Mengen anfällt und was damit passiert
 - Skizziere weitere Standortfaktoren für Rement-Anlagen
 - Leite Empfehlungen aus belastbaren Datenquellen her
 - Beschreibe die Stoffströme im Zielbild und evaluiere Wertschöpfungsgrade und Emissionsersparnis
+
+Werde gerne kreativ! Wir sind offen um Themenvorschläge rund um unsere Recyclingverfahren.
 
 Bei Interesse würden wir uns gerne mit dir gemeinsam auf Ausgründungs-Förderungen bewerben. Das bedeutet: Während du deine Masterarbeit schreibst, wird unser Fördergeldantrag bearbeitet. Bei einer Zusage könntest du direkt nach deiner Arbeit bei uns Einsteigen und würdest über eine Wis.-Mit.-Stelle an der Uni finanziert werden.
  
