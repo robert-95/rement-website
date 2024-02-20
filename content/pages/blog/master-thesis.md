@@ -258,14 +258,12 @@ Wie genau dein Thema definiert ist möchten wir gerne mit dir gemeinsam überleg
 
 
 *Themenschwerpunkt: Produkt- und Edukteigenschaften*
-
 - Wenn du dich für die Arbeit im Labor begeisterst kannst du hier praktisch Tätig werden
 - Analysiere, welche Betoneingenschaften wie Verunreinigungen, Carbonatisierungsgrad und Feinheit unseren Prozess beeinflussen
 - Analysiere, ob sich der zurückgewonnene Sand wieder bedenkenlos für neuen Beton einsetzen lässt
-  
-  
-*Themenschwerpunkt: Stroffströme und Standortfaktoren*
 
+
+*Themenschwerpunkt: Stroffströme und Standortfaktoren*
 - Analysiere, wo Betonabbruch in welchen Mengen anfällt und was damit passiert
 - Skizziere weitere Standortfaktoren für Rement-Anlagen
 - Leite Empfehlungen aus belastbaren Datenquellen her
