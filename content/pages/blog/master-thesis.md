@@ -252,7 +252,7 @@ author: content/data/person-hghxpf3a8.json
 ---
 ![](/images/masterthesis.png)
 
-Wir suchen nach einem motivierten Teammitglied für eine Masterarbeit im Bereich Bauingenieurwesen ab März oder April mit anschließender Übernahmemöglichkeit. Wir sind Rement, ein junges uni-nahes Startup am Campus Nord, und entwickeln ein innovatives, klimapositives Betonrecyclingverfahren und würden gerne mit dir und deiner Arbeit herausfinden, wie wir uns am besten in den Markt integrieren.
+Wir suchen nach einem motivierten Teammitglied für eine Masterarbeit im Bereich Bauingenieurwesen ab März oder April mit anschließender Übernahmemöglichkeit. Wir sind Rement, ein junges uni-nahes Startup am Campus Nord, und entwickeln ein innovatives, klimapositives Betonrecyclingverfahren. Wir würden gerne mit dir und deiner Arbeit herausfinden, wie wir uns am besten in den Markt integrieren.
  
 Wie genau dein Thema definiert ist möchten wir gerne mit dir gemeinsam überlegen. Du kannst uns hierzu auch gerne einen Vorschlag machen. Unten findest du beispielhaft zwei Themenfelder beschrieben.
 
