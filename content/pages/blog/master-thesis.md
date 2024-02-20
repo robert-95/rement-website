@@ -195,7 +195,7 @@
   label: Content
   description: Page content
 type: PostLayout
-title: Masterarbeit Bauingenieurwesen - Fokus Materialeigenschaften oder Stoffströme und Standortfaktoren
+title: Masterarbeit Bauingenieurwesen - Breites Themenspektrum rund um Betonrecycling - Übernahmemöglichkeit
 slug: masterarbeit-bauingenieurwesen
 date: '2024-02-20'
 excerpt: >-
