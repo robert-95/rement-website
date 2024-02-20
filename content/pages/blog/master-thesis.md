@@ -257,13 +257,13 @@ Wir suchen nach einem motivierten Teammitglied für eine Masterarbeit im Bereich
 Wie genau dein Thema definiert ist möchten wir gerne mit dir gemeinsam überlegen. Du kannst uns hierzu auch gerne einen Vorschlag machen. Unten findest du beispielhaft zwei Themenfelder beschrieben.
 
 
-*Themenschwerpunkt: Produkt- und Edukteigenschaften*
+**Themenschwerpunkt: Produkt- und Edukteigenschaften**
 - Wenn du dich für die Arbeit im Labor begeisterst kannst du hier praktisch Tätig werden
 - Analysiere, welche Betoneingenschaften wie Verunreinigungen, Carbonatisierungsgrad und Feinheit unseren Prozess beeinflussen
 - Analysiere, ob sich der zurückgewonnene Sand wieder bedenkenlos für neuen Beton einsetzen lässt
 
 
-*Themenschwerpunkt: Stroffströme und Standortfaktoren*
+**Themenschwerpunkt: Stroffströme und Standortfaktoren**
 - Analysiere, wo Betonabbruch in welchen Mengen anfällt und was damit passiert
 - Skizziere weitere Standortfaktoren für Rement-Anlagen
 - Leite Empfehlungen aus belastbaren Datenquellen her
@@ -274,6 +274,6 @@ Werde gerne kreativ! Wir sind offen um Themenvorschläge rund um unsere Recyclin
 
 Bei Interesse würden wir uns gerne mit dir gemeinsam auf Ausgründungs-Förderungen bewerben. Das bedeutet: Während du deine Masterarbeit schreibst, wird unser Fördergeldantrag bearbeitet. Bei einer Zusage könntest du direkt nach deiner Arbeit bei uns Einsteigen und würdest über eine Wis.-Mit.-Stelle an der Uni finanziert werden.
  
-Wir freuen uns auf eine kurze Rückmeldung an robert.schleinhege@rement.tech und wir vereinbaren zeitnah einen Kennenlerntermin!
+Wir freuen uns auf eine kurze Rückmeldung an **robert.schleinhege@rement.tech** und wir vereinbaren zeitnah einen Kennenlerntermin!
 
 Dein Team Rement
