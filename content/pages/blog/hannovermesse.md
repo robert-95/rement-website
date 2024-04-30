@@ -254,7 +254,7 @@ author: content/data/person-hghxpf3a8.json
 
 ## Spannende Gespräche auf der Hannover Messe
 
-Am Abschlusstag der Hannover Messe durften wir mit Rement unser Betonrecycling-Verfahren der Öffentlichkeit vorstellen. In Halle 2 waren neben uns vorallem Startups und Transferprojekte aus verschiedensten Forschungs- und Entwicklungsdisziplinen vertreten.
+Am Freitag durften wir mit Rement unser Betonrecycling-Verfahren auf der Hannover Messe der Öffentlichkeit vorstellen. In Halle 2 waren neben uns vorallem Startups und Transferprojekte aus verschiedensten Forschungs- und Entwicklungsdisziplinen vertreten.
 Ähnlich bunt war auch der Mix an Besuchern und Besucherinnen. Wir durften sowohl spannende Fachgespräche mit anderen Vertretern der Beton- und Zementwertschöpfungskette führen als auch mit Interessenten außerhalb der Branche über die Herausforderungen und Lösungsansätze 
 im Betonrecycling ins Gespräch kommen. Zusätzlich nutzten wir die Gelegenheit, um uns einen Überblick über mögliche Kooperationspartner im Bereich Anlagenbau und nachhaltige Materialien zu verschaffen.
 
