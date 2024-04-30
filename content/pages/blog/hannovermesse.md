@@ -196,7 +196,7 @@
   description: Page content
 type: PostLayout
 title: Hannover Messe 2024 - unser erster Messeauftritt
-slug: helmholtz-fsf
+slug: hannover-messe
 date: '2024-04-30'
 excerpt: >-
   Gemeinsam mit der KIT Gründerschmiede durften wir unser Recycling-Verfahren auf der Hannover Messe präsentieren.
