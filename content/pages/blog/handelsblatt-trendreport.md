@@ -232,7 +232,6 @@ seo:
   metaTitle: Handelsblatt - 11 Trends & 7 Start-ups im Bausektor
   metaDescription: >-
     Das Handelsblatt stellt die Zukunftsfelder der Bauwirtschaft vor - und 7 Start-ups, die in diesen aktiv sind.
-featuredImage:
   addTitleSuffix: true
   socialImage: /images/handelsblatt.webp
   metaTags: []
