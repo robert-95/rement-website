@@ -264,5 +264,5 @@ Die sieben Start-ups der "Mission Construction 2024" – N1 Circular, Sustainacc
 
 ![](/images/trendreport.webp)
 
-Den vollständigen Report des Handelsblatt können Sie [hier herunterladen](https://www.handelsblatt.com/downloads/29795798/4/trendreport-mission-construction-2024.pdf).
+Den vollständigen Report des Handelsblatts können Sie [hier herunterladen](https://www.handelsblatt.com/downloads/29795798/4/trendreport-mission-construction-2024.pdf).
  
