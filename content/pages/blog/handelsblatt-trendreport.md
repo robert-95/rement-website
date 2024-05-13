@@ -195,7 +195,7 @@
   label: Content
   description: Page content
 type: PostLayout
-title: Handelsblatt: 11 Trends & 7 Start-ups im Bausektor
+title: Handelsblatt - 11 Trends & 7 Start-ups im Bausektor
 slug: handelsblatt-trendreport
 date: '2024-05-13'
 excerpt: >-
