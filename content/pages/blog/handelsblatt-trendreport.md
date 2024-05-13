@@ -231,7 +231,7 @@ isDraft: false
 seo:
   metaTitle: Handelsblatt - 11 Trends & 7 Start-ups im Bausektor
   metaDescription: >-
-    Digitalisierung, Recycling, Decarbonisierung & co.: Das Handelsblatt stellt die Zukunfts-Herausforderungen der Bauwirtschaft vor - und 7 Start-ups, die zu diesen beitragen.
+    Digitalisierung, Recycling, Decarbonisierung & co. Das Handelsblatt stellt die Zukunfts-Herausforderungen der Bauwirtschaft vor - und 7 Start-ups, die zu diesen beitragen.
 featuredImage:
   addTitleSuffix: true
   socialImage: /images/handelsblatt.webp
