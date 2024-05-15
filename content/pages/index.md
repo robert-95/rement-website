@@ -12,7 +12,7 @@ sections:
           fontWeight: 500
           textAlign: left
     subtitle: >-
-      Mit dem Rement-Verfahren Emissionen reduzieren, hochwertige Upcycling-Produkte gewinnen und neue Märkte erschließen.
+      Emissionen reduzieren, hochwertige Upcycling-Produkte gewinnen und neue Märkte erschließen.
     actions:
       - label: Zur Technologie
         altText: Zur Technologie
@@ -115,18 +115,6 @@ sections:
               - pb-2
               - pr-2
       - type: ImageBlock
-        altText: Futury logo
-        elementId: ''
-        styles:
-          self:
-            borderRadius: none
-            padding:
-              - pt-2
-              - pl-1
-              - pb-2
-              - pr-2
-        url: /images/futury-logo-40.svg
-      - type: ImageBlock
         altText: Helmholtz logo
         elementId: ''
         url: /images/helmholtz-logo-28.svg
@@ -138,6 +126,18 @@ sections:
               - pl-1
               - pb-2
               - pr-0
+      - type: ImageBlock
+        altText: Futury logo
+        elementId: ''
+        styles:
+          self:
+            borderRadius: none
+            padding:
+              - pt-2
+              - pl-1
+              - pb-2
+              - pr-2
+        url: /images/futury-logo-40.svg
     badge: null
     elementId: ''
     motion: static
