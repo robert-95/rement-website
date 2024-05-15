@@ -68,7 +68,7 @@
             "altText": "YouTube",
             "url": "https://www.youtube.com/@rement-concrete-upcycling",
             "showIcon": true,
-            "icon": "Youtube",
+            "icon": "youtube",
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
