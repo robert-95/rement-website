@@ -12,7 +12,7 @@ sections:
           fontWeight: 500
           textAlign: left
     subtitle: >-
-      Emissionen reduzieren, hochwertige Upcycling-Produkte gewinnen und neue Märkte erschließen.
+      Emissionen reduzieren, Upcycling-Produkte gewinnen und neue Märkte erschließen.
     actions:
       - label: Zur Technologie
         altText: Zur Technologie
