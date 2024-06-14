@@ -250,8 +250,6 @@ styles:
     borderRadius: small
 author: content/data/person-hghxpf3a8.json
 ---
-# Rement gewinnt NEULAND Gründerpitch
-
 ## Rement auf der Ausstellung des NEULAND Innovationstags
 
 ![](/images/neuland-gruppe.webp)
