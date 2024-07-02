@@ -41,7 +41,7 @@ seo:
     nachhaltigeren Wertschöpfungsketten im Bereich Bau und Mineralik in Zukunft
     eng mit dem KIT Innovation HUB - Prävention im Bauwesen zusammenarbeitet. 
   addTitleSuffix: true
-  socialImage: /images/rement-kit-kollaboration-146b33ce.webp
+  socialImage: /images/GdM_Rement.dt_-1080x850.webp
   metaTags: []
 colors: bg-light-fg-dark
 styles:
