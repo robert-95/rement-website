@@ -10,7 +10,7 @@ excerpt: >-
   Innovation HUB - Prävention im Bauwesen zusammenarbeitet. 
 featuredImage:
   type: ImageBlock
-  url: /images/rement-kit-kollaboration-7be0058d.webp
+  url: /images/GdM_Rement.dt_-1080x850.webp
   altText: Logos von Rement und KIT Innovation HUB
   elementId: ''
   styles:
