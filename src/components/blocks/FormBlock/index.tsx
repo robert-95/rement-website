@@ -22,31 +22,6 @@ export default class FormBlock extends React.Component<any> {
         });
     }
 
-    handleSubmit(event, formAction) {
-        event.preventDefault();
-
-        const data = new FormData(this.formRef.current);
-        const value = Object.fromEntries(data.entries());
-
-        this.setState({
-            submitted: false,
-            error: false
-        });
-
-        this.formHandler(value, formAction)
-            .then(() => {
-                this.setState({
-                    submitted: true
-                });
-                this.formRef.current.reset();
-            })
-            .catch(() => {
-                this.setState({
-                    error: true
-                });
-            });
-    }
-
     componentDidUpdate(prevProps, prevState) {
         if (!prevState.submitted && this.state.submitted) {
             setTimeout(() => {
@@ -83,10 +58,11 @@ export default class FormBlock extends React.Component<any> {
                 )}
                 name={elementId}
                 id={elementId}
-                onSubmit={(e) => this.handleSubmit(e, action)}
                 data-netlify="true"
                 ref={this.formRef}
-                // data-netlify-honeypot={formHoneypotName}
+                action="/erfolg"
+                // netlify-honeypot="bot-field"
+                // data-netlify-recaptcha="true"
                 data-sb-field-path={annotation}
             >
                 <div

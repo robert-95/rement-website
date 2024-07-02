@@ -1,10 +1,10 @@
 ---
-title: Beton-Upcycling zum Indudstriemineral
+title: Aus Beton und CO2 Mehrwert schaffen
 slug: /
 sections:
   - type: GenericSection
     title:
-      text: Beton-Upcycling zum Industriemineral
+      text: Aus Beton und CO2 Mehrwert schaffen
       color: text-dark
       type: TitleBlock
       styles:
@@ -12,11 +12,10 @@ sections:
           fontWeight: 500
           textAlign: left
     subtitle: >-
-      Wir entwickeln und lizenzieren Verfahren für die lokale
-      Kreislaufwirtschaft.
+      Emissionen reduzieren, Upcycling-Produkte gewinnen und neue Märkte erschließen.
     actions:
-      - label: Das Rement Verfahren
-        altText: Link zum Rement Verfahren
+      - label: Zur Technologie
+        altText: Zur Technologie
         url: '/#3'
         showIcon: false
         icon: arrowRight
@@ -24,9 +23,9 @@ sections:
         style: primary
         elementId: ''
         type: Button
-      - label: Kontakt
-        altText: Link zum Kontaktformular
-        url: '/#7'
+      - label: Rement im Video
+        altText: Rement im Video
+        url: 'https://youtu.be/Kn1CMVhxS3c?feature=shared'
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -104,8 +103,8 @@ sections:
               - pl-0
               - pb-2
               - pr-2
-      - url: /images/pioniergarage-logo-50.svg
-        altText: Pioniergarage Logo
+      - url: /images/remove-50.svg
+        altText: Remove Logo
         elementId: ''
         type: ImageBlock
         styles:
@@ -115,18 +114,6 @@ sections:
               - pl-2
               - pb-2
               - pr-2
-      - type: ImageBlock
-        altText: Futury logo
-        elementId: ''
-        styles:
-          self:
-            borderRadius: none
-            padding:
-              - pt-2
-              - pl-1
-              - pb-2
-              - pr-2
-        url: /images/futury-logo-40.svg
       - type: ImageBlock
         altText: Helmholtz logo
         elementId: ''
@@ -139,6 +126,18 @@ sections:
               - pl-1
               - pb-2
               - pr-0
+      - type: ImageBlock
+        altText: Futury logo
+        elementId: ''
+        styles:
+          self:
+            borderRadius: none
+            padding:
+              - pt-2
+              - pl-4
+              - pb-2
+              - pr-2
+        url: /images/futury-logo-40.svg
     badge: null
     elementId: ''
     motion: static
@@ -385,9 +384,9 @@ sections:
         type: FeaturedItem
         elementId: benefit3
     actions:
-      - label: Gespräch vereinbaren
-        altText: Kontakt aufnehmen
-        url: '/#7'
+      - label: Mehr im Video
+        altText: Video Link
+        url: 'https://youtu.be/Kn1CMVhxS3c?feature=shared'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -428,6 +427,7 @@ sections:
       - content/data/person-f6up4hjar.json
       - content/data/team/Tiya-Greenwood.json
       - content/data/team/Faizah-Chan.json
+      - content/data/team/shabnam.json
     actions: []
     badge: null
     elementId: '4'
@@ -576,8 +576,8 @@ sections:
           - pr-8
     elementId: '7'
 seo:
-  metaTitle: Beton-Upcycling zum Industriemineral
-  metaDescription: Wir entwickeln und lizenzieren Verfahren für die lokale Kreislaufwirtschaft.
+  metaTitle: Aus Beton und CO2 Mehrwert schaffen
+  metaDescription: Mit dem Rement Verfahren Emissionen reduzieren, hochwertige Upcycling-Produkte gewinnen und neue Märkte erschließen.
   socialImage: /images/Rement Kreislaufschluss.webp
   type: Seo
   metaTags: []
