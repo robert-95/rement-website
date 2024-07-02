@@ -56,9 +56,12 @@ styles:
     borderWidth: 1
     borderRadius: small
 ---
-![](/images/rement-kit-kollaboration-9193f623.webp)
-Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu nachhaltigeren Wertschöpfungsketten im Bereich Bau und Mineralik in Zukunft eng mit dem [**KIT Innovation HUB - Prävention im Bauwesen**](https://www.hub-bau.kit.edu/) zusammenarbeitet. Der am **Institut für Funktionale Grenzflächen (IFG) des Karlsruher Instituts für Technologie (KIT)** beheimatete Innovation Hub hat es sich zum Ziel gemacht, im Dialog mit Industrie, Wissenschaft, Verwaltung und Forschung, innovative Technologien für ein nachhaltigeres Bauwesen zu entwickeln. 
+Wie kam es zur Gründungsidee? Wie hat sich das Team zusammengefunden? Was waren bisher unsere größten Hürden?
 
-Im Rahmen der Kooperation unterstützen uns HUB und IFG mit **Forschungsinfrastruktur** und **Arbeitsplätzen**. Des Weiteren bietet der KIT Innovation HUB Zugang zu Mentoren für den Bereich Unternehmertum und bietet über das im Rahmen des BMBF-Projekts „TRANSFORM“ entwickelte Format „Young Innovators HUB“ Workshops zu Entrepreneurship-Kompetenzen.
+Im Gespräch mit [Daniela Musial-Lemberg](https://www.linkedin.com/in/daniela-musial-lemberg/) von der [KIT Gründerschmiede](https://www.linkedin.com/in/kgsad/) berichten [Felix Baur](https://www.linkedin.com/in/felix-baur-6a702b258/) und [Robert Schleinhege](https://www.linkedin.com/in/robert-schleinhege/) über den bisherigen Weg von Rement, unseren Motivationstreibern und Zielen.
 
-Prof. Dr. Gerdes, Leiter des KIT Innovation HUBs, wird Rement als Mentor zur Seite stehen. Herr Gerdes verfügt über langjährige Erfahrungen im Bereich Baustoffe, Werkstoffchemie und Ausgründungen aus dem universtitären Forschungsumfeld. Wir danken Professor Gerdes und seinem Team herzlich für die uns schon entgegengebrachte und zukünftige Unterstützung.
+🔊 Zum Podcast: <https://lnkd.in/esMwjgVy>
+
+📰 Zum Interview als Artikel: [https://lnkd.in/effTuqGF](https://lnkd.in/effTuqGFVielen)
+
+Vielen Dank an die KIT Gründerschmiede für das tolle Interview!
