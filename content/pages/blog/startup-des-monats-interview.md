@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Kooperation mit dem KIT Innovation HUB
+title: Rement im Startup des Monats Interview & Podcast
 slug: startup-des-monats-interview
 date: '2023-09-08'
 author: content/data/person-hghxpf3a8.json
