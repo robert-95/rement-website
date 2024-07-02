@@ -2,7 +2,7 @@
 type: PostLayout
 title: Rement im Startup des Monats Interview & Podcast
 slug: startup-des-monats-interview
-date: '2023-09-02'
+date: '2023-07-02'
 author: content/data/person-hghxpf3a8.json
 excerpt: >-
   Wir freuen uns verkünden zu können, dass Rement auf dem Weg zu nachhaltigeren
