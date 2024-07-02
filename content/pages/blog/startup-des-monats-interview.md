@@ -11,7 +11,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/GdM_Rement.dt_-1080x850.webp
-  altText: Logos von Rement und KIT Innovation HUB
+  altText: Gründung des Monats Cover
   elementId: ''
   styles:
     self:
