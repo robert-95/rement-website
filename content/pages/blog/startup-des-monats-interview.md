@@ -56,6 +56,8 @@ styles:
     borderWidth: 1
     borderRadius: small
 ---
+![](/images/GdM_Rement.dt_-1080x850.webp)
+
 Wie kam es zur Gründungsidee? Wie hat sich das Team zusammengefunden? Was waren bisher unsere größten Hürden?
 
 Im Gespräch mit [Daniela Musial-Lemberg](https://www.linkedin.com/in/daniela-musial-lemberg/) von der [KIT Gründerschmiede](https://www.linkedin.com/in/kgsad/) berichten [Felix Baur](https://www.linkedin.com/in/felix-baur-6a702b258/) und [Robert Schleinhege](https://www.linkedin.com/in/robert-schleinhege/) über den bisherigen Weg von Rement, unseren Motivationstreibern und Zielen.
