@@ -2,7 +2,7 @@
 type: PostLayout
 title: Rement im Startup des Monats Interview & Podcast
 slug: startup-des-monats-interview
-date: '2023-07-02'
+date: '0002-07-02'
 author: content/data/person-hghxpf3a8.json
 excerpt: >-
   Im Interview mit der KIT Gründerschmiede berichten Robert und Felix, wie die
@@ -10,7 +10,7 @@ excerpt: >-
   Rement gesetzt hat.
 featuredImage:
   type: ImageBlock
-  url: /images/GdM_Rement.dt_-1080x850.webp
+  url: /images/rement-podcast.png
   altText: Gründung des Monats Cover
   elementId: ''
   styles:
