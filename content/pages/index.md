@@ -90,7 +90,7 @@ sections:
           self:
             padding:
               - pt-2
-              - pl-2
+              - pl-3
               - pb-2
               - pr-1
       - url: /images/gruenderschmiede-logo-40.svg
