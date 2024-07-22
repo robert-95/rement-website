@@ -126,7 +126,7 @@ sections:
               - pt-2
               - pl-1
               - pb-2
-              - pr-0
+              - pr-1
       - type: ImageBlock
         altText: Futury logo
         elementId: ''
