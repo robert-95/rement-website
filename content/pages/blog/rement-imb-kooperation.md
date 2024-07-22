@@ -12,7 +12,7 @@ excerpt: >-
   Pilotstadium geschlossen.
 featuredImage:
   type: ImageBlock
-  url: /images/HelmholtzEnterpriseFSF.webp
+  url: /images/rement-imb-kooperation.webp
   altText: Logos von Helmholtz und Rement
   elementId: ''
   styles:
