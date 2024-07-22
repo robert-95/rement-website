@@ -445,7 +445,7 @@ sections:
         textAlign: center
   - type: GenericSection
     text: |
-      *Du möchtest uns unterstützen?*
+      *Du möchtest Teil unseres Teams werden?*
     actions:
       - label: Schreib uns eine Nachricht
         altText: Link zu Kontaktformular
