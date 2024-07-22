@@ -144,7 +144,7 @@ sections:
         elementId: ''
         styles:
           self:
-            borderRadius: x-large
+            borderRadius: none
         url: /images/IMB-logo.svg
     badge: null
     elementId: ''
