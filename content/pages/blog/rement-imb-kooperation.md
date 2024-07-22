@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Draft Announcement
+title: Rement
 slug: rement-imb-kooperation
 date: '2024-07-22'
 author: content/data/person-hghxpf3a8.json
