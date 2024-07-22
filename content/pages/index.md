@@ -444,9 +444,8 @@ sections:
       subtitle:
         textAlign: center
   - type: GenericSection
-    text: |+
-      \<div style="text-align: center">*Du möchtest uns unterstützen?*\</div>
-
+    text: |
+      *Du möchtest Teil unseres Teams werden?*
     actions:
       - label: Schreib uns eine Nachricht
         altText: Link zu Kontaktformular
@@ -474,6 +473,8 @@ sections:
           - pr-16
         justifyContent: center
       subtitle:
+        textAlign: center
+      text:
         textAlign: center
   - type: RecentPostsSection
     title:
