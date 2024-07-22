@@ -147,7 +147,7 @@ sections:
             borderRadius: none
             padding:
               - pl-3
-              - pr-2
+              - pr-3
               - pt-1
               - pb-1
         url: /images/IMB-logo.svg
