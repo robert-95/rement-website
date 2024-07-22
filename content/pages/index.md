@@ -152,6 +152,7 @@ sections:
         styles:
           self:
             borderRadius: x-large
+        url: /images/IMB-logo.svg
     badge: null
     elementId: ''
     motion: static
