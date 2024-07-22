@@ -445,7 +445,7 @@ sections:
         textAlign: center
   - type: GenericSection
     text: |
-      \<div style="text-align: center"> *Du möchtest uns unterstützen?* \</div>
+      *Du möchtest uns unterstützen?*
     actions:
       - label: Schreib uns eine Nachricht
         altText: Link zu Kontaktformular
