@@ -13,7 +13,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/rement-imb-kooperation.webp
-  altText: Logos von Helmholtz und Rement
+  altText: Logos von Rement und IMB
   elementId: ''
   styles:
     self:
