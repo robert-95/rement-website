@@ -62,11 +62,11 @@ styles:
 
 Wir freuen euch verkünden zu dürfen, dass Rement in Zukunft eng mit dem [Institut für Massivbau und Baustofftechnologie (IMB) ](https://www.imb.kit.edu/)am KIT zusammenarbeiten wird. Beide Parteien eint die Vision einer nachhaltigen Kreislaufwirtschaft im Bau. Das IMB unterstrich dies nicht zuletzt durch die Gründung der neuen Arbeitsgruppe "Ressourceneffizienz und Zirkularität", mit der wir gemeinsam neue Forschungsfelder rund um die Rement-Technologie öffnen werden.
 
-Institutsleiter [Prof. Dr.-Ing. Frank Deh](https://www.imb.kit.edu/bt/196_211.php)n, einer der führenden Baustoff-Experten Deutschlands, wird Rement im Zuge der Kooperation als Mentor zur Verfügung stehen. Wir sind überzeugt davon, dass die Verfahrenstechnische Kompetenz Rements und die Baustofftechnologische Kompetenz des IMBs sich hervorragend ergänzen werden. Mit umfangreichen Laboren und einer angeschlossenen Materialprüfanstalt bietet das IMB Rement zudem eine hervorangende Infrastruktur für Laborforschung, Prototyp-Entwicklung und auch Pilotierung.
+Institutsleiter [Prof. Dr.-Ing. Frank Deh](https://www.imb.kit.edu/bt/196_211.php)n, einer der führenden Baustoff-Experten Deutschlands, wird Rement im Zuge der Kooperation als Mentor zur Verfügung stehen. Wir sind überzeugt davon, dass sich die verfahrenstechnische Kompetenz Rements und die baustofftechnologische Kompetenz des IMBs hervorragend ergänzen werden. Mit umfangreichen Laboren und einer angeschlossenen Materialprüfanstalt bietet das IMB Rement zudem eine hervorrangende Infrastruktur für Laborforschung, Prototyp-Entwicklung und auch Pilotierung.
 
 ## Pilotierung der Rement-Technologie für 2025 geplant
 
-Gemäß des aktuellen Zeitplans ist eine Pilotierung der Rement-Technologie für das Jahr 2025 angesetzt. In diesem Schritt wird im Vergleich zum Prototyp-Stadium die Skalierung, Automatisierungsgrad und Robustheit ausgebaut. Gleichzeitig gehen wir hiermit den Schritt von einer Labor- in eine semi-reale Umgebung. Die Pilotanlage wird eine operative Erprobung und eine weitere Validierung der Einsatzmöglichkeiten erzeugter Produkte ermöglichen.
+Gemäß des aktuellen Zeitplans ist eine Pilotierung der Rement-Technologie für das Jahr 2025 angesetzt. In diesem Schritt wird im Vergleich zum Prototyp-Stadium die Skalierung, Automatisierungsgrad und Robustheit ausgebaut. Gleichzeitig gehen wir hiermit den Schritt von einer Labor- in eine semi-reale Umgebung. Die Pilotanlage wird eine operative Erprobung und eine weitere Konkretisierung der Einsatzmöglichkeiten erzeugter Produkte ermöglichen.
 
 ## Unterstütztung durch den EXIST Forschungstransfer
 
