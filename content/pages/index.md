@@ -116,12 +116,6 @@ sections:
               - pb-2
               - pr-2
       - type: ImageBlock
-        altText: Lightning bolt symbol on red background
-        elementId: ''
-        styles:
-          self:
-            borderRadius: x-large
-      - type: ImageBlock
         altText: Helmholtz logo
         elementId: ''
         url: /images/helmholtz-logo-28.svg
