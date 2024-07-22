@@ -58,21 +58,19 @@ styles:
 ---
 ![](/images/HelmholtzEnterpriseFSF.webp)
 
-## Über Helmholtz Enterprise und die Field Study Fellowship
+## Rement und IMB arbeiten gemeinsam an Pilotierung
 
-Das Helmholtz Enterprise Programm ist eine Initiative des Helmholtz-Verbandes, die darauf abzielt, vielversprechende Forschungsergebnisse aus den Helmholtz-Zentren in marktfähige Produkte und Dienstleistungen zu überführen. 
-Es bietet Startups finanzielle Unterstützung sowie Zugang zu Expertise und Infrastruktur, um Innovationen zu beschleunigen und den Technologietransfer voranzutreiben. 
-Die Field Study Fellowship ist ein Teil dieses Programms und bietet Gründern die Möglichkeit, ihre Forschungsergebnisse in realen Marktbedingungen zu validieren. 
+Das Helmholtz Enterprise Programm ist eine Initiative des Helmholtz-Verbandes, die darauf abzielt, vielversprechende Forschungsergebnisse aus den Helmholtz-Zentren in marktfähige Produkte und Dienstleistungen zu überführen.
+Es bietet Startups finanzielle Unterstützung sowie Zugang zu Expertise und Infrastruktur, um Innovationen zu beschleunigen und den Technologietransfer voranzutreiben.
+Die Field Study Fellowship ist ein Teil dieses Programms und bietet Gründern die Möglichkeit, ihre Forschungsergebnisse in realen Marktbedingungen zu validieren.
 Dabei werden sie von einem erfahrenen Coach begleitet und erhalten Unterstützung bei der Durchführung von Feldstudien, um ihre Produkte und Dienstleistungen optimal zu positionieren.
 
-## Ziele der nächsten Wochen
+## Unterstütztung durch den EXIST Forschungstransfer
 
 Gemeinsam mit unserem Coach Dr. Susanne Perner, bei dem wir uns an diesr Stelle herzlich bedanken möchten, machen wir im ersten Schritt alles sichtbar, was wir bereits
 über unseren Markt wissen. Es entstehen Arbeitshypothesen, die während der Field Study durch Expert'innen-Interviews weiter validiert werden. Im Ergebnis entsteht
 ein fundierter Blick auf die "Jobs to get done" im Betonrecycling und wie Rement bei der Erledigung dieser Nutzen stiftet.
 
-Sie sehen sich als potentieller Anwender unseres Verfahrens und hätten Lust, mit uns über Betonrecycling zu sprechen? Melden Sie sich gerne bei uns unter robert.schleinhege@rement.tech.
+Sie sehen sich als potentieller Anwender unseres Verfahrens und hätten Lust, mit uns über Betonrecycling zu sprechen? Melden Sie sich gerne bei uns unter <robert.schleinhege@rement.tech>.
 
 Wir können jedem Forschenden das Programm bisher herzlich empfehlen. Vielen Dank an Julian Alexandrakis und Andre Schafft von Helmholtz für die freundliche und strukturierte Organisation!
- 
-
