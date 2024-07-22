@@ -45,7 +45,7 @@ seo:
     eine Partnerschaft zur Weiterentwicklung der Rement-Technologie bis ins
     Pilotstadium geschlossen.
   addTitleSuffix: true
-  socialImage: /images/HelmholtzEnterpriseFSF.webp
+  socialImage: /images/rement-imb-kooperation.webp
   metaTags: []
 colors: bg-light-fg-dark
 styles:
