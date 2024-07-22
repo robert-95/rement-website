@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Helmholtz unterstützt Rement mit der Field Study Fellowship
+title: Draft Announcement
 slug: rement-imb-kooperation
 date: '2024-02-19'
 author: content/data/person-hghxpf3a8.json
