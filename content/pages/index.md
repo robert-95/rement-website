@@ -124,7 +124,7 @@ sections:
             borderRadius: none
             padding:
               - pt-2
-              - pl-1
+              - pl-2
               - pb-2
               - pr-1
       - type: ImageBlock
