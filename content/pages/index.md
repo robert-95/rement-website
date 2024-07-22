@@ -149,6 +149,7 @@ sections:
               - pl-1
               - pr-1
               - pt-1
+              - pb-1
         url: /images/IMB-logo.svg
     badge: null
     elementId: ''
