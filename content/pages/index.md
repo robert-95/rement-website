@@ -444,9 +444,8 @@ sections:
       subtitle:
         textAlign: center
   - type: GenericSection
-    text: |+
-      \<div style="text-align: center">*Du möchtest uns unterstützen?*\</div>
-
+    text: |
+      \<div style="text-align: center"> *Du möchtest uns unterstützen?* \</div>
     actions:
       - label: Schreib uns eine Nachricht
         altText: Link zu Kontaktformular
