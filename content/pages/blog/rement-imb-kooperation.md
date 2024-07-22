@@ -7,9 +7,8 @@ slug: rement-imb-kooperation
 date: '2024-07-22'
 author: content/data/person-hghxpf3a8.json
 excerpt: >-
-  Das Ausgründungsprogramm Helmholtz Enterprise (HE) fördert den Transfer
-  forschungsintensiver Innovationen in die Praxis. Ziel der Field Study ist eine
-  Marktvalidierung unseres Verfahrens.
+  Rement und IMB arbeiten gemeinsam an Pilotierung im Zuge des EXIST
+  Forschungstransfers
 featuredImage:
   type: ImageBlock
   url: /images/HelmholtzEnterpriseFSF.webp
