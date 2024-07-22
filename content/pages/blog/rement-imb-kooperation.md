@@ -2,7 +2,7 @@
 type: PostLayout
 title: Draft Announcement
 slug: rement-imb-kooperation
-date: '2024-02-22'
+date: '2024-07-22'
 author: content/data/person-hghxpf3a8.json
 excerpt: >-
   Das Ausgründungsprogramm Helmholtz Enterprise (HE) fördert den Transfer
