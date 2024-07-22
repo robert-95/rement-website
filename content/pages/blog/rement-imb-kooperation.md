@@ -58,7 +58,7 @@ styles:
     borderWidth: 1
     borderRadius: small
 ---
-![](/images/Rement%20IMB%20Blog.webp)
+![](/images/rement-imb-kooperation.webp)
 
 Wir freuen euch verkünden zu dürfen, dass Rement in Zukunft eng mit dem [Institut für Massivbau und Baustofftechnologie (IMB) ](https://www.imb.kit.edu/)am KIT zusammenarbeiten wird. Beide Parteien eint die Vision einer nachhaltigen Kreislaufwirtschaft im Bau. Das IMB unterstrich dies nicht zuletzt durch die Gründung der neuen Arbeitsgruppe "Ressourceneffizienz und Zirkularität", mit der wir gemeinsam neue Forschungsfelder rund um die Rement-Technologie öffnen werden.
 
