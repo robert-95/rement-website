@@ -90,9 +90,9 @@ sections:
           self:
             padding:
               - pt-2
-              - pl-1
+              - pl-3
               - pb-2
-              - pr-0
+              - pr-2
       - url: /images/gruenderschmiede-logo-40.svg
         altText: KIT Gründerschmiede Logo
         elementId: ''
@@ -101,7 +101,7 @@ sections:
           self:
             padding:
               - pt-2
-              - pl-0
+              - pl-1
               - pb-2
               - pr-2
       - url: /images/remove-50.svg
@@ -124,9 +124,9 @@ sections:
             borderRadius: none
             padding:
               - pt-2
-              - pl-1
+              - pl-2
               - pb-2
-              - pr-0
+              - pr-3
       - type: ImageBlock
         altText: Futury logo
         elementId: ''
@@ -139,6 +139,18 @@ sections:
               - pb-2
               - pr-2
         url: /images/futury-logo-40.svg
+      - type: ImageBlock
+        altText: Logo of IMB
+        elementId: ''
+        styles:
+          self:
+            borderRadius: none
+            padding:
+              - pl-3
+              - pr-3
+              - pt-1
+              - pb-1
+        url: /images/IMB-logo.svg
     badge: null
     elementId: ''
     motion: static
