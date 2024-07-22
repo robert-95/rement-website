@@ -67,7 +67,7 @@ styles:
 Wir freuen euch verkünden zu dürfen, dass Rement in Zukunft eng mit dem [Institut für Massivbau und Baustofftechnologie (IMB)](https://www.imb.kit.edu/) am KIT zusammenarbeiten wird. Beide Parteien eint die Vision einer nachhaltigen Kreislaufwirtschaft im Bau. Das IMB unterstrich dies nicht zuletzt durch die Gründung der neuen Arbeitsgruppe "Ressourceneffizienz und Zirkularität", mit der wir gemeinsam neue Forschungsfelder rund um die Rement-Technologie öffnen werden.
 
 Institutsleiter [Prof. Dr.-Ing. Frank Dehn](https://www.imb.kit.edu/bt/196_211.php), einer der führenden Baustoff-Experten Deutschlands, wird Rement im Zuge der Kooperation als Mentor zur Verfügung stehen. Wir sind überzeugt davon, dass sich die verfahrenstechnische Kompetenz Rements und die baustofftechnologische Kompetenz des IMBs hervorragend ergänzen werden. Mit umfangreichen Laboren und einer angeschlossenen Materialprüfanstalt bietet das IMB Rement zudem eine hervorrangende Infrastruktur für Laborforschung, Prototyp-Entwicklung und auch Pilotierung.
-![](/images/dehn-zitat.webp)
+![](/images/dehn-zitat-kreislaufwirtschaft.webp)
 
 ### Pilotierung der Rement-Technologie für 2025 geplant
 
