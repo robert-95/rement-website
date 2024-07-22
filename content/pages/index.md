@@ -146,7 +146,7 @@ sections:
           self:
             borderRadius: none
             padding:
-              - pl-2
+              - pl-3
               - pr-2
               - pt-1
               - pb-1
