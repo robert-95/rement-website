@@ -37,7 +37,9 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Helmholtz unterstützt Rement mit der Field Study Fellowship
+  metaTitle: >-
+    Rement und IMB arbeiten gemeinsam an Pilotierung im Zuge des EXIST
+    Forschungstransfers
   metaDescription: >-
     Das Ausgründungsprogramm Helmholtz Enterprise (HE) fördert den Transfer
     forschungsintensiver Innovationen in die Praxis. Ziel der Field Study ist
