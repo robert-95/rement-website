@@ -7,8 +7,9 @@ slug: rement-imb-kooperation
 date: '2024-07-22'
 author: content/data/person-hghxpf3a8.json
 excerpt: >-
-  Rement und IMB arbeiten gemeinsam an Pilotierung im Zuge des EXIST
-  Forschungstransfers
+  Rement und das Institut für Massivbau und Baustofftechnologie am KIT haben
+  eine Partnerschaft zur Weiterentwicklung der Rement-Technologie bis ins
+  Pilotstadium geschlossen.
 featuredImage:
   type: ImageBlock
   url: /images/HelmholtzEnterpriseFSF.webp
