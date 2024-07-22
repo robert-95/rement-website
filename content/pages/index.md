@@ -12,7 +12,8 @@ sections:
           fontWeight: 500
           textAlign: left
     subtitle: >-
-      Emissionen reduzieren, Upcycling-Produkte gewinnen und neue Märkte erschließen.
+      Emissionen reduzieren, Upcycling-Produkte gewinnen und neue Märkte
+      erschließen.
     actions:
       - label: Zur Technologie
         altText: Zur Technologie
@@ -443,9 +444,8 @@ sections:
       subtitle:
         textAlign: center
   - type: GenericSection
-    text: >+
-      <div style="text-align: center">*Du möchtest uns im Engineering oder
-      Business Development unterstützen?*</div>
+    text: |+
+      \<div style="text-align: center">*Du möchtest uns unterstützen?*\</div>
 
     actions:
       - label: Schreib uns eine Nachricht
@@ -577,7 +577,9 @@ sections:
     elementId: '7'
 seo:
   metaTitle: Aus Beton und CO2 Mehrwert schaffen
-  metaDescription: Mit dem Rement Verfahren Emissionen reduzieren, hochwertige Upcycling-Produkte gewinnen und neue Märkte erschließen.
+  metaDescription: >-
+    Mit dem Rement Verfahren Emissionen reduzieren, hochwertige
+    Upcycling-Produkte gewinnen und neue Märkte erschließen.
   socialImage: /images/Rement Kreislaufschluss.webp
   type: Seo
   metaTags: []
