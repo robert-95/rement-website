@@ -140,7 +140,7 @@ sections:
               - pr-2
         url: /images/futury-logo-40.svg
       - type: ImageBlock
-        url: /images/IMB-logo.svg
+        url: /images/Logos-supporter-rement.png
         altText: Lightning bolt symbol on red background
         elementId: ''
         styles:
