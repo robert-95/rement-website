@@ -41,9 +41,9 @@ seo:
     Rement und IMB arbeiten gemeinsam an Pilotierung im Zuge des EXIST
     Forschungstransfers
   metaDescription: >-
-    Das Ausgründungsprogramm Helmholtz Enterprise (HE) fördert den Transfer
-    forschungsintensiver Innovationen in die Praxis. Ziel der Field Study ist
-    eine Marktvalidierung unseres Verfahrens.
+    Rement und das Institut für Massivbau und Baustofftechnologie am KIT haben
+    eine Partnerschaft zur Weiterentwicklung der Rement-Technologie bis ins
+    Pilotstadium geschlossen.
   addTitleSuffix: true
   socialImage: /images/HelmholtzEnterpriseFSF.webp
   metaTags: []
