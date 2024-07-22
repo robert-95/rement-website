@@ -101,7 +101,7 @@ sections:
           self:
             padding:
               - pt-2
-              - pl-0
+              - pl-1
               - pb-2
               - pr-2
       - url: /images/remove-50.svg
