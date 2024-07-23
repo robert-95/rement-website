@@ -548,7 +548,7 @@ sections:
           placeholder: Ihre Emailadresse
           isRequired: true
           width: full
-          type: EmailFormControl
+          type: TextFormControl
         - name: message
           label: Message
           hideLabel: true
@@ -561,7 +561,6 @@ sections:
         iconPosition: right
         style: primary
         type: SubmitButtonFormControl
-      action: /.netlify/functions/submission_created
       elementId: contact-form
       styles:
         self:
