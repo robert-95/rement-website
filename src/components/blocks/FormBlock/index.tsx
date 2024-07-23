@@ -33,7 +33,7 @@ export default class FormBlock extends React.Component<any> {
     }
 
     render() {
-        const { fields = [], elementId, action, destination, submitButton, className, styles = {}, 'data-sb-field-path': annotation } = this.props;
+        const { fields = [], elementId, action, submitButton, className, styles = {}, 'data-sb-field-path': annotation } = this.props;
         if (fields.length === 0) {
             return null;
         }
@@ -70,7 +70,7 @@ export default class FormBlock extends React.Component<any> {
                     data-sb-field-path=".fields"
                 >
                     <input type="hidden" name="form-name" value={elementId} />
-                    <input type="hidden" name="form-destination" value={destination || ''} />
+            
                     {fields.map((field, index) => {
                         const modelName = field.__metadata.modelName;
                         if (!modelName) {
