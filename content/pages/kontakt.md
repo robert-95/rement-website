@@ -4,27 +4,6 @@ title: Kontakt
 slug: kontakt
 sections:
   - type: GenericSection
-    subtitle: Wir werden uns in Kürze bei Ihnen melden
-    actions: []
-    media:
-      type: ImageBlock
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-    badge:
-      type: Badge
-      color: text-primary
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-  - type: GenericSection
     title:
       type: TitleBlock
       text: Melden Sie sich gerne
