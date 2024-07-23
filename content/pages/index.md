@@ -428,7 +428,7 @@ sections:
         textAlign: center
   - type: FeaturedPeopleSection
     title:
-      text: Die Köpfe hinter dem Projekt
+      text: Team Rement
       color: text-dark
       styles:
         self:
