@@ -574,7 +574,6 @@ sections:
           borderWidth: 1
           borderRadius: large
       type: FormBlock
-      destination: robert.schleinhege@rement.tech
     badge:
       color: text-primary
       type: Badge
