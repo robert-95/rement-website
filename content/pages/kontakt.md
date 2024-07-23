@@ -12,42 +12,34 @@ sections:
       Sie möchten mehr über das Rement Verfahren erfahren, uns genauer
       kennenlernen oder sind an einer Zusammenarbeit interessiert? Schreiben Sie
       uns gerne eine Nachricht und wir melden uns zeitnah zurück.
-
-
-      Bei fachspezifischen Anfragen können Sie auch gerne das entsprechende
-      [Team-Mitglied über LinkedIn](./#4) kontaktieren.
-    actions: []
     media:
-      type: FormBlock
       fields:
-        - type: TextFormControl
-          name: name
+        - name: name
           label: Name
           hideLabel: true
           placeholder: Ihr Name
           isRequired: true
           width: full
-        - type: EmailFormControl
-          name: email
+          type: TextFormControl
+        - name: email
           label: Email
           hideLabel: true
           placeholder: Ihre Emailadresse
           isRequired: true
           width: full
-        - type: TextareaFormControl
-          name: message
+          type: EmailFormControl
+        - name: message
           label: Message
           hideLabel: true
           placeholder: Ihre Nachricht
           width: full
+          type: TextareaFormControl
       submitButton:
-        type: SubmitButtonFormControl
         label: Absenden
         icon: arrowRight
         iconPosition: right
         style: primary
-      action: /.netlify/functions/submission_created
-      destination: robert.schleinhege@rement.tech
+        type: SubmitButtonFormControl
       elementId: contact-form-seperate-page
       styles:
         self:
@@ -60,6 +52,7 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
+      type: FormBlock
     badge:
       type: Badge
       color: text-primary
