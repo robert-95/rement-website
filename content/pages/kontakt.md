@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Nachricht gesendet
+title: Kontakt
 slug: kontakt
 sections:
   - type: GenericSection
