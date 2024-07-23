@@ -61,6 +61,7 @@ export default class FormBlock extends React.Component<any> {
                 data-netlify="true"
                 ref={this.formRef}
                 action="/erfolg"
+                method="post"
                 // netlify-honeypot="bot-field"
                 // data-netlify-recaptcha="true"
                 data-sb-field-path={annotation}
