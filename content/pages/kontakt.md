@@ -40,7 +40,7 @@ sections:
         iconPosition: right
         style: primary
         type: SubmitButtonFormControl
-      elementId: contact-form-seperate-page
+      elementId: new-contact-form
       styles:
         self:
           padding:
@@ -53,6 +53,7 @@ sections:
           borderWidth: 1
           borderRadius: large
       type: FormBlock
+      destination:
     badge:
       type: Badge
       color: text-primary
