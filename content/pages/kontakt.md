@@ -12,6 +12,10 @@ sections:
       Sie möchten mehr über das Rement Verfahren erfahren, uns genauer
       kennenlernen oder sind an einer Zusammenarbeit interessiert? Schreiben Sie
       uns gerne eine Nachricht und wir melden uns zeitnah zurück.
+
+
+      Bei fachspezifischen Anfragen können Sie auch gerne das entsprechende
+      [Team-Mitglied über LinkedIn](rement.tech/#4) kontaktieren.
     actions: []
     media:
       type: FormBlock
