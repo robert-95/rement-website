@@ -112,7 +112,7 @@ sections:
         elementId: ''
       action: /.netlify/functions/submission_created
       destination: ''
-      elementId: contact-form
+      elementId: contact-form-new
       styles:
         self:
           padding:
