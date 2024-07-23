@@ -68,7 +68,7 @@ sections:
           - pl-8
           - pb-1
           - pr-8
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: Kontakt
