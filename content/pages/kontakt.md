@@ -12,7 +12,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/rement-kreislauf.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
