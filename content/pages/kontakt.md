@@ -40,7 +40,8 @@ sections:
         iconPosition: right
         style: primary
         type: SubmitButtonFormControl
-      elementId: new-contact-form
+      action: /.netlify/functions/submission_created
+      elementId: contact
       styles:
         self:
           padding:
@@ -74,18 +75,3 @@ seo:
   addTitleSuffix: false
   metaTags: []
 ---
-
-<form name="contact" method="POST" data-netlify="true" class="sb-component sb-component-block sb-component-form-block pt-6 pb-6 pl-6 pr-6 border border-solid border-dark rounded-xl">
-  <p>
-    <label>Ihr Name: <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Ihre E-Mail-Adresse: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Ihre Nachricht: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>
