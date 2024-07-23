@@ -37,7 +37,6 @@ export default class FormBlock extends React.Component<any> {
         if (fields.length === 0) {
             return null;
         }
-        const formHoneypotName = `${elementId}-bot-field`;
         return (
             <form
                 className={classNames(
@@ -56,9 +55,9 @@ export default class FormBlock extends React.Component<any> {
                         : undefined,
                     styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
                 )}
+                data-netlify="true"
                 name={elementId}
                 id={elementId}
-                data-netlify="true"
                 ref={this.formRef}
                 action="/erfolg"
                 // netlify-honeypot="bot-field"
