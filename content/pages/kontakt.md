@@ -15,7 +15,7 @@ sections:
 
 
       Bei fachspezifischen Anfragen können Sie auch gerne das entsprechende
-      [Team-Mitglied über LinkedIn](rement.tech/#4) kontaktieren.
+      [Team-Mitglied über LinkedIn](./#4) kontaktieren.
     actions: []
     media:
       type: FormBlock
