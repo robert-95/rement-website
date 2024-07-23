@@ -69,7 +69,7 @@ sections:
         style: primary
       action: /.netlify/functions/submission_created
       destination: robert.schleinhege@rement.tech
-      elementId: contact-form
+      elementId: contact-form-seperate-page
       styles:
         self:
           padding:
