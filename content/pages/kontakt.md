@@ -6,7 +6,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ihre Nachricht wurde gesendet
+      text: Kontakt
       color: text-dark
     subtitle: Wir werden uns in Kürze bei Ihnen melden
     actions: []
