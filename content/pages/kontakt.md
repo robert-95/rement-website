@@ -21,21 +21,21 @@ sections:
       type: FormBlock
       fields:
         - type: TextFormControl
-          name: name
+          name: name-s
           label: Name
           hideLabel: true
           placeholder: Ihr Name
           isRequired: true
           width: full
         - type: TextFormControl
-          name: email
+          name: email-s
           label: Email
           hideLabel: true
           placeholder: Ihre Emailadresse
           isRequired: true
           width: full
         - type: TextareaFormControl
-          name: message
+          name: message-s
           label: Message
           hideLabel: true
           placeholder: Ihre Nachricht
