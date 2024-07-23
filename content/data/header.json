@@ -45,7 +45,7 @@
         {
             "label": "Kontakt",
             "altText": "Link zum Kontaktformular",
-            "url": "/#7",
+            "url": "/kontakt",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
