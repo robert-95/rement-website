@@ -4,10 +4,6 @@ title: Kontakt
 slug: kontakt
 sections:
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Kontakt
-      color: text-dark
     subtitle: Wir werden uns in Kürze bei Ihnen melden
     actions: []
     media:
