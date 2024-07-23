@@ -40,7 +40,8 @@ sections:
         iconPosition: right
         style: primary
         type: SubmitButtonFormControl
-      elementId: new-contact-form
+      action: /.netlify/functions/submission_created
+      elementId: contact
       styles:
         self:
           padding:
