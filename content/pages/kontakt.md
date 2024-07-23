@@ -66,6 +66,7 @@ sections:
           - pl-8
           - pb-1
           - pr-8
+    
 <form name="contact" method="POST" data-netlify="true" class="sb-component sb-component-block sb-component-form-block pt-6 pb-6 pl-6 pr-6 border border-solid border-dark rounded-xl">
   <p>
     <label>Ihr Name: <input type="text" name="name" /></label>
@@ -80,6 +81,7 @@ sections:
     <button type="submit">Send</button>
   </p>
 </form>
+
 isDraft: false
 seo:
   type: Seo
