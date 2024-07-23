@@ -46,8 +46,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-      action: /.netlify/functions/submission_created
-      destination: robert.schleinhege@rement.tech
       elementId: contact-form-seperate-page
       styles:
         self:
