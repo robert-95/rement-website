@@ -71,7 +71,7 @@ sections:
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Nachricht gesendet
+  metaTitle: Kontakt
   metaDescription: Vielen Dank für Ihre Anfrage.
   addTitleSuffix: false
   metaTags: []
