@@ -70,7 +70,7 @@ Wir freuen uns euch verkünden zu dürfen, dass Rement in Zukunft eng mit dem [I
 
 Institutsleiter [Prof. Dr.-Ing. Frank Dehn](https://www.imb.kit.edu/bt/196_211.php), einer der führenden Baustoff-Experten Deutschlands, wird Rement im Zuge der Kooperation als Mentor zur Verfügung stehen. Wir sind überzeugt davon, dass sich die verfahrenstechnische Kompetenz Rements und die baustofftechnologische Kompetenz des IMBs hervorragend ergänzen werden. Mit umfangreichen Laboren und einer angeschlossenen Materialprüfanstalt bietet das IMB Rement zudem eine hervorrangende Infrastruktur für Laborforschung, Prototyp-Entwicklung und auch Pilotierung.![](/images/dehn-zitat-rement.webp)
 
-###Pilotierung der Rement-Technologie für 2025 geplant
+### Pilotierung der Rement-Technologie für 2025 geplant
 
 Gemäß des aktuellen Zeitplans ist eine Pilotierung der Rement-Technologie für das Jahr 2025 angesetzt. In diesem Schritt wird im Vergleich zum Prototyp-Stadium die Skalierung, Automatisierungsgrad und Robustheit ausgebaut. Gleichzeitig gehen wir hiermit den Schritt von einer Labor- in eine semi-reale Umgebung. Die Pilotanlage wird eine operative Erprobung und eine weitere Konkretisierung der Einsatzmöglichkeiten erzeugter Produkte ermöglichen.
 
