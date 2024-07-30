@@ -1,8 +1,8 @@
 ---
 type: PostLayout
 title: >-
-  Rement und IMB in Vorbereitung von Pilotierung im Zuge des EXIST
-  Forschungstransfers
+  Rement und IMB schließen Kooperation für die Pilotierung einer
+  Betonupcycling-Anlage
 slug: rement-imb-kooperation
 date: '2024-07-22'
 author: content/data/person-hghxpf3a8.json
