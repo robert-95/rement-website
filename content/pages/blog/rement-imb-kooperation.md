@@ -8,9 +8,9 @@ date: '2024-07-22'
 author: content/data/person-hghxpf3a8.json
 excerpt: >-
   Rement und das Institut für Massivbau und Baustofftechnologie am KIT haben
-  eine Partnerschaft zur Weiterentwicklung der Rement-Technologie bis ins
-  Pilotstadium geschlossen. Eine gemeinsame Bewerbung auf den EXIST
-  Forschungstransfer wurde von der Jury positiv votiert.
+  eine Partnerschaft zur Weiterentwicklung der Rement-Technologie. Eine
+  gemeinsame Bewerbung auf den EXIST Forschungstransfer wurde von der Jury
+  positiv votiert.
 featuredImage:
   type: ImageBlock
   url: /images/rement-imb-kooperation.webp
