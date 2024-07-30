@@ -50,6 +50,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
+isFeatured: true
 ---
 ![](/images/rement-gewinnt-grow.webp)
 
