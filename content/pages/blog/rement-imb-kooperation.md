@@ -35,7 +35,7 @@ bottomSections:
       self:
         justifyContent: center
 isFeatured: true
-isDraft: true
+isDraft: false
 seo:
   type: Seo
   metaTitle: >-
