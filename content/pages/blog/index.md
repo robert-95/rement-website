@@ -25,7 +25,7 @@ topSections:
     text: >
       Hier berichten wir über aktuelle Entwicklungen bei Rement und in der
       Betonindustrie. Sie sind interessiert an einem Presse-Kit? Melden Sie sich
-      gerne unter info@rement.tech.
+      gerne unter über das [Kontaktformular](https://www.rement.tech/kontakt/).
     actions: []
     badge:
       label: Neuigkeiten
