@@ -43,8 +43,9 @@ seo:
     Forschungstransfers
   metaDescription: >-
     Rement und das Institut für Massivbau und Baustofftechnologie am KIT haben
-    eine Partnerschaft zur Weiterentwicklung der Rement-Technologie bis ins
-    Pilotstadium geschlossen.
+    eine Partnerschaft zur Weiterentwicklung der Rement-Technologie. Eine
+    gemeinsame Bewerbung auf den EXIST Forschungstransfer wurde von der Jury
+    positiv votiert.
   addTitleSuffix: true
   socialImage: /images/rement-imb-kooperation.webp
   metaTags: []
