@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: >-
-  Rement und IMB arbeiten gemeinsam an Pilotierung im Zuge des EXIST
+  Rement und IMB in Vorbereitung von Pilotierung im Zuge des EXIST
   Forschungstransfers
 slug: rement-imb-kooperation
 date: '2024-07-22'
