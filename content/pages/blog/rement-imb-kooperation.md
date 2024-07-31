@@ -34,7 +34,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-isFeatured: true
+isFeatured: false
 isDraft: false
 seo:
   type: Seo
