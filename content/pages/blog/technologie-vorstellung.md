@@ -10,7 +10,7 @@ excerpt: >-
   die Vorstellung unserer Beton-Upcycling-Technologie.
 featuredImage:
   type: ImageBlock
-  url: /images/handelsblatt.webp
+  url: /images/rement-vorstellung-1.webp
   altText: Trendreport
   elementId: ''
   styles:
