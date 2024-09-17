@@ -68,7 +68,7 @@ Das KIT-IMB, der Gastgeber der Veranstaltung, verfolgt schon seit längerem vers
 
 Forschungsarbeiten zur Verwertung der Feinfraktion umfassen einerseits den Einsatz als Substitut für feine, primäre Gesteinskörnung (Sand) und andererseits den Einsatz als Zementhauptbestandteil nach vorangegangener thermisch-mechanischer Aktivierung. Da diese Aktivierung weniger energieintensiv ist als die Produktion des stückweise substituierten Zements, können so CO2-Emissionen reduziert werden. Beide Verwertungsszenarien für Betonbrechsände schließen sich jedoch nicht aus, im Gegenteil. Im Idealfall würde man die Gesteinskörnung nach Möglichkeit von Zementanhaftungen befreien wollen und umgekehrt nur aus dem Zementstein, nicht aber aus der Gesteinskörnung, Zementhauptbestandteile bzw. Betonzusatzstoffe gewinnen wollen.
 
-> "Am Besten wäre es, wenn die Gesteinskörnung vom Zementstein separiert und letzterer weiter in calciumhaltige Bestandteile und Feinmaterial aufgetrennt werden könnte." - Jan P. Höffgen
+> "Am Besten wäre es, wenn die Gesteinskörnung vom Zementstein separiert und letzterer weiter in calciumhaltige Bestandteile und Feinmaterial aufgetrennt werden könnte." - Jan P. Höffgen, KIT-IMB
 
 ## Rement stellt eigenes Zielbild vor
 
