@@ -82,6 +82,8 @@ Im Zuge des Umzugs Rements an das KIT-IMB konnte das Portfolio an Analyse-Mögli
 
 ## Fortschritte in der verfahrenstechnischen Konkretisierung
 
+![](/images/rement-vorstellung-2.webp)
+
 In den letzten Monaten konnten große Fortschritte in der verfahrenstechnischen Entwicklung erzielt werden, von denen unser Engineering Manager Dr. Achim Stammer im Anschluss berichtete. Neben der Einreichung eines verfahrenstechnischen Patents und der Erstellung eines Prozesskonzepts konnten mehrere zentrale Prozessbestandteile bereits in Hardware-Apperaturen überführt werden, welche während der Veranstaltung als Anschauungsobjekt dienten. Rements Prozesskonzept basiert auf einem kontinuierlichen System. Das bedeutet, dass Material nicht Charge für Charge sondern laufend befüllt, zwischen den einzelnen Reaktoren bewegt und entnommen wird. Herr Stammer ging im Detail darauf ein, wie Calcium aus dem Beton extrahiert und umgesetzt wird, wie eine stufenweise Fest-Flüssig-Trennung der einzelnen Feststoffe gelingt, der Wasserverbrauch minimiert wird und ein Entweichen von CO2 vermieden werden kann. Zudem wurde anhand des Beispiels des CO2-Drucks skizziert, wie Rement durch Berechnungen ökonomisch ideale Prozessparameter definiert. 
 
 ## Daten als Grundlage für Prozessoptimierung und Automatisierung
