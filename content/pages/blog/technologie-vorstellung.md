@@ -66,7 +66,9 @@ styles:
 
 Das KIT-IMB, der Gastgeber der Veranstaltung, verfolgt schon seit längerem verschiedene Forschungsansätze zum Recycling von Abbruchbeton. Nach einem Grußwort durch den Institutsleiter Prof. Frank Dehn stellte Jan P. Höffgen, Leiter der Arbeitsgruppe Ressourceneffizienz und Zirkularität, die verschiedenen am KIT-IMB verfolgten Betonrecycling-Ansätze vor. Beim Brechen von Abbruchbeton fällt eine Grobfraktion (55-80 m%) und eine Feinfraktion (20-45 m%), die sogenannten Betonbrechsände, an. Verwertungsmöglichkeiten der Grobfraktion umfassen vor allem der Einsatz als RC-Gesteinskörnung in ressourcenschonendem Beton. Gesteinskörnungen machen den größten Volumenanteil an Beton aus. Eine Substitution von Splitt, Kies und Schotter durch Recyclingmaterial schont natürliche Ressourcen.
 
-Forschungsarbeiten zur Verwertung der Feinfraktion umfassen einerseits den Einsatz als Substitut für feine, primäre Gesteinskörnung (Sand) und andererseits den Einsatz als Zementhauptbestandteil nach vorangegangener thermisch-mechanischer Aktivierung. Da diese Aktivierung weniger energieintensiv ist als die Produktion des stückweise substituierten Zements, können so CO2-Emissionen reduziert werden. Beide Verwertungsszenarien für Betonbrechsände schließen sich jedoch nicht aus. Herr Höffgen betonte abschließend den großen Mehrwert einer gezielten Separierung von Gesteinskörnung und Bestandteilen des Zementsteins. 
+Forschungsarbeiten zur Verwertung der Feinfraktion umfassen einerseits den Einsatz als Substitut für feine, primäre Gesteinskörnung (Sand) und andererseits den Einsatz als Zementhauptbestandteil nach vorangegangener thermisch-mechanischer Aktivierung. Da diese Aktivierung weniger energieintensiv ist als die Produktion des stückweise substituierten Zements, können so CO2-Emissionen reduziert werden. Beide Verwertungsszenarien für Betonbrechsände schließen sich jedoch nicht aus.
+
+> "Am Besten wäre es, wenn die Gesteinskörnung vom Zementstein separiert und letzterer weiter in calciumhaltige Bestandteile und Feinmaterial aufgetrennt werden könnte."
 
 ## Rement stellt eigenes Zielbild vor
 
@@ -98,7 +100,7 @@ Beispielhaft beschrieb Herr Gottwald die aktuelle Umsetzung der Überwachung der
 
 ## Pilotierung für das Jahr 2025 geplant
 
-Für das Jahr 2025 planen wir die Errichtung und Inbetriebnahme einer Pilotanlage in Containergröße. Diese wird nicht mehr in einer kontrollierten Laborumgebung, sondern auf dem Außengelände des KIT-IMB betrieben. Ziele für die Pilotierung sind eine Steigerung des Anteils kontinuierlicher und automatisierter Prozessschritte und eine weitere Skalierung des Stoffumsatzes. Angestrebt wird eine portable Pilotanlage, welche in dieser Form in der Realumgebung potentieller Anwender erprobt werden kann. Abschließend möchten wir noch einen Teilnehmer der Veranstaltung zitieren: 
+Für das Jahr 2025 planen wir die Errichtung und Inbetriebnahme einer Pilotanlage in Containergröße. Diese wird nicht mehr in einer kontrollierten Laborumgebung, sondern auf dem Außengelände des KIT-IMB betrieben. Ziele für die Pilotierung sind eine Steigerung des Anteils kontinuierlicher und automatisierter Prozessschritte und eine weitere Skalierung des Stoffumsatzes. Angestrebt wird eine portable Pilotanlage, welche in dieser Form in der Realumgebung potentieller Anwender erprobt werden kann. Abschließend möchten wir noch einen Teilnehmer der Veranstaltung zitieren:
 
 > „Das Herzstück wurde jetzt entwickelt. Nun geht es an die praktische Umsetzung“
 
