@@ -68,7 +68,7 @@ Das KIT-IMB, der Gastgeber der Veranstaltung, verfolgt schon seit längerem vers
 
 Forschungsarbeiten zur Verwertung der Feinfraktion umfassen einerseits den Einsatz als Substitut für feine, primäre Gesteinskörnung (Sand) und andererseits den Einsatz als Zementhauptbestandteil nach vorangegangener thermisch-mechanischer Aktivierung. Da diese Aktivierung weniger energieintensiv ist als die Produktion des stückweise substituierten Zements, können so CO2-Emissionen reduziert werden. Beide Verwertungsszenarien für Betonbrechsände schließen sich jedoch nicht aus, im Gegenteil. Im Idealfall würde man die Gesteinskörnung nach Möglichkeit von Zementanhaftungen befreien wollen und umgekehrt nur aus dem Zementstein, nicht aber aus der Gesteinskörnung, Zementhauptbestandteile bzw. Betonzusatzstoffe gewinnen wollen.
 
-> "Am Besten wäre es, wenn die Gesteinskörnung vom Zementstein separiert und letzterer weiter in calciumhaltige Bestandteile und Feinmaterial aufgetrennt werden könnte." - Jan P. Höffgen, KIT-IMB
+> "Am Besten wäre es, wenn die Gesteinskörnung vom Zementstein separiert und letzterer weiter in calciumhaltige Bestandteile und Feinmaterial aufgetrennt werden könnte." - Jan P. Höffgen
 
 ## Rement stellt eigenes Zielbild vor
 
@@ -78,7 +78,7 @@ Genau dieser Ansatz ist Teil des Zielbilds von Rement, welches im Anschluss durc
 
 Im Ergebnis entsteht eine Beton-Upcycling-Technologie, mittels der ein Rohstoff-Erlös durch den Verkauf von Sand, Calciumcarbonat, Betonzusatzstoffen und CO2-Äquivalenzen erwirtschaftet werden kann, welcher den Wert des Betons zum Zeitpunkt des Neubaus überschreitet. Natürliche Ressourcen werden geschont, Deponierungen und Downcycling vermieden und dem Klimawandel wird entgegengewirkt. Herr Schleinhege lädt Vertreter der gesamten Wertschöpfungskette ein gemeinsam an diesem Zielbild zu arbeiten.
 
-> "Wir bedanken uns sehr für die bisherige Unterstützung und freuen uns auf den gemeinsamen Weg mit Ihnen." - Robert Schleinhege, Rement
+> "Wir bedanken uns sehr für die bisherige Unterstützung und freuen uns auf den gemeinsamen Weg mit Ihnen." - Robert Schleinhege
 
 ## Technische Machbarkeit bestätigt
 
