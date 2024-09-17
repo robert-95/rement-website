@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Handelsblatt - 11 Trends & 7 Start-ups im Bausektor
+title: Rement präsentiert Beton-Upcycling-Technologie
 slug: technologie-vorstellung
 date: '2024-05-13'
 author: content/data/person-hghxpf3a8.json
