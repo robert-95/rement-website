@@ -5,8 +5,9 @@ slug: technologie-vorstellung
 date: '2024-09-18'
 author: content/data/person-hghxpf3a8.json
 excerpt: >-
-  Das Handelsblatt stellt die Zukunftsfelder der Bauwirtschaft vor - und 7
-  Start-ups, die in diesen aktiv sind.
+  Am 10.09. hat Rement seine Türen für verschiedene Vertreter und Vertreterinnen
+  der Bau-, und Recycling- und Nachhaltigkeitsbranche geöffnet. Im Fokus stand
+  die Vorstellung unserer Beton-Upcycling-Technologie.
 featuredImage:
   type: ImageBlock
   url: /images/handelsblatt.webp
