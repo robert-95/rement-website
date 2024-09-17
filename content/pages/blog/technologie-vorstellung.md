@@ -80,7 +80,7 @@ Zu Beginn seines Vortrags zitierte Vincent Gottwald, zuständig für Mechatronik
 
 Für das Jahr 2025 planen wir die Errichtung und Inbetriebnahme einer Pilotanlage in Containergröße. Diese wird nicht mehr in einer kontrollierten Laborumgebung, sondern auf dem Außengelände des KIT-IMB betrieben. Ziele für die Pilotierung sind eine Steigerung des Anteils kontinuierlicher und automatisierter Prozessschritte und eine weitere Skalierung des Stoffumsatzes. Angestrebt wird eine portable Pilotanlage, welche in dieser Form in der Realumgebung potentieller Anwender erprobt werden kann. Abschließend möchten wir noch einen Teilnehmer zitieren: „Das Herzstück wurde jetzt entwickelt. Nun geht es an die praktische Umsetzung“. Diesem Motto folgend freuen wir uns auf die nächsten Schritte und hoffen Sie zeitnah zur Einweihung der Pilotanlage einladen zu können.
 
-Key Takeaways
+## Key Takeaways
 
 *   Die Verwertungsmöglichkeiten für Betonbrechsande sind vielfältig. Eine detaillierte Verwertungsstrategie wird vom KIT-IMB in einem [Strategiepapier](https://publikationen.bibliothek.kit.edu/1000169796) vorgestellt
 
