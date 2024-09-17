@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Rement präsentiert Beton-Upcycling-Technologie der Öffentlichkeit
+title: Rement präsentiert Beton-Upcycling-Technologie vor Branchenvertretern
 slug: technologie-vorstellung
 date: '2024-09-18'
 author: content/data/person-hghxpf3a8.json
