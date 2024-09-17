@@ -32,7 +32,7 @@ bottomSections:
       self:
         justifyContent: center
 isFeatured: true
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: Handelsblatt - 11 Trends & 7 Start-ups im Bausektor
