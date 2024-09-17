@@ -62,6 +62,8 @@ styles:
 
 ## Die Möglichkeiten der Betonverwertung sind vielfältig
 
+![](/images/rement-vorstellung-3.webp)
+
 Das KIT-IMB, der Gastgeber der Veranstaltung, verfolgt schon seit längerem verschiedene Forschungsansätze zum Recycling von Abbruchbeton. Nach einem Grußwort durch den Institutsleiter Prof. Frank Dehn stellte Jan P. Höffgen, Leiter der Arbeitsgruppe Ressourceneffizienz und Zirkularität, die verschiedenen am KIT-IMB verfolgten Betonrecycling-Ansätze vor. Beim Brechen von Abbruchbeton fällt eine Grobfraktion (55-80 m%) und eine Feinfraktion (20-45 m%), die sogenannten Betonbrechsände, an. Verwertungsmöglichkeiten der Grobfraktion umfassen vor allem der Einsatz als RC-Gesteinskörnung in ressourcenschonendem Beton. Gesteinskörnungen machen den größten Volumenanteil an Beton aus. Eine Substitution von Splitt, Kies und Schotter durch Recyclingmaterial schont natürliche Ressourcen.
 
 Forschungsarbeiten zur Verwertung der Feinfraktion umfassen einerseits den Einsatz als Substitut für feine, primäre Gesteinskörnung (Sand) und andererseits den Einsatz als Zementhauptbestandteil nach vorangegangener thermisch-mechanischer Aktivierung. Da diese Aktivierung weniger energieintensiv ist als die Produktion des stückweise substituierten Zements, können so CO2-Emissionen reduziert werden. Beide Verwertungsszenarien für Betonbrechsände schließen sich jedoch nicht aus. Herr Höffgen betonte abschließend den großen Mehrwert einer gezielten Separierung von Gesteinskörnung und Bestandteilen des Zementsteins. 
