@@ -35,7 +35,7 @@ isFeatured: true
 isDraft: true
 seo:
   type: Seo
-  metaTitle: Handelsblatt - 11 Trends & 7 Start-ups im Bausektor
+  metaTitle: Rement präsentiert Beton-Upcycling-Technologie vor Branchenvertretern
   metaDescription: >-
     Am 10.09. hat Rement seine Türen für verschiedene Vertreter und
     Vertreterinnen der Bau-, und Recycling- und Nachhaltigkeitsbranche geöffnet.
