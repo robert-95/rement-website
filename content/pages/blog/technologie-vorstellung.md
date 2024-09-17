@@ -2,7 +2,7 @@
 type: PostLayout
 title: Rement präsentiert Beton-Upcycling-Technologie
 slug: technologie-vorstellung
-date: '2024-05-01'
+date: '2024-05-19'
 author: content/data/person-hghxpf3a8.json
 excerpt: >-
   Das Handelsblatt stellt die Zukunftsfelder der Bauwirtschaft vor - und 7
