@@ -41,7 +41,7 @@ seo:
     Vertreterinnen der Bau-, und Recycling- und Nachhaltigkeitsbranche geöffnet.
     Im Fokus stand die Vorstellung unserer Beton-Upcycling-Technologie.
   addTitleSuffix: true
-  socialImage: /images/handelsblatt.webp
+  socialImage: /images/rement-vorstellung-1.webp
   metaTags: []
 colors: bg-light-fg-dark
 styles:
