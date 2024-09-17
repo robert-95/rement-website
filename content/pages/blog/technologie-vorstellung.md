@@ -68,8 +68,6 @@ Das KIT-IMB, der Gastgeber der Veranstaltung, verfolgt schon seit längerem vers
 
 Forschungsarbeiten zur Verwertung der Feinfraktion umfassen einerseits den Einsatz als Substitut für feine, primäre Gesteinskörnung (Sand) und andererseits den Einsatz als Zementhauptbestandteil nach vorangegangener thermisch-mechanischer Aktivierung. Da diese Aktivierung weniger energieintensiv ist als die Produktion des stückweise substituierten Zements, können so CO2-Emissionen reduziert werden. Beide Verwertungsszenarien für Betonbrechsände schließen sich jedoch nicht aus. Herr Höffgen betonte abschließend den großen Mehrwert einer gezielten Separierung von Gesteinskörnung und Bestandteilen des Zementsteins. 
 
-> Dies ist ein Zitat
-
 ## Rement stellt eigenes Zielbild vor
 
 ![](/images/rement-vorstellung-zielbild.webp)
@@ -92,7 +90,9 @@ In den letzten Monaten konnten große Fortschritte in der verfahrenstechnischen 
 
 ## Daten als Grundlage für Prozessoptimierung und Automatisierung
 
-Zu Beginn seines Vortrags zitierte Vincent Gottwald, zuständig für Mechatronik und Data Engineering bei Rement, Tim Berners-Lee, Begründer des World Wide Webs: „Daten sind eine kostbare Sache und halten länger als die Systeme selbst.“ Diesem Motto folgend setzt Rement im Zuge der Evolution von der Prototypen- zur Pilotphase und schließlich zur kommerziellen Anlage auf eine nachhaltige, stetig wachsende Dateninfrastruktur. Im aktuellen Stadium werden durch Sensoren bereits Daten zu Temperatur, Druck, Füllständen und Volumenströmen gemessen und anschließend in digitale Signale gewandelt. Anschließend können Daten durch Skripte verarbeitet und in Datenbanken gespeichert werden. Digitale Interfaces ermöglichen die Analyse von Echtzeit- und historische Daten und bieten somit die Grundlage für die Prozessüberwachung und die technische Optimierung.
+> „Daten sind eine kostbare Sache und halten länger als die Systeme selbst.“
+
+Mit diesem Zitat von Tim Berners-Lee, Begründer des World Wide Webs, begann Vincent Gottwald, zuständig für Mechatronik und Data Engineering bei Rement seinen Vortrag. Diesem Ansatz folgend setzt Rement im Zuge der Evolution von der Prototypen- zur Pilotphase und schließlich zur kommerziellen Anlage auf eine nachhaltige, stetig wachsende Dateninfrastruktur. Im aktuellen Stadium werden durch Sensoren bereits Daten zu Temperatur, Druck, Füllständen und Volumenströmen gemessen und anschließend in digitale Signale gewandelt. Anschließend können Daten durch Skripte verarbeitet und in Datenbanken gespeichert werden. Digitale Interfaces ermöglichen die Analyse von Echtzeit- und historische Daten und bieten somit die Grundlage für die Prozessüberwachung und die technische Optimierung.
 
 Beispielhaft beschrieb Herr Gottwald die aktuelle Umsetzung der Überwachung der Filter, welche für das Abtrennen des Calciumcarbonats verantwortlich sind: Sensoren messen den Druck vor und hinter der Filtermembran. Das Signal wird an ein digitales System übertragen, gespeichert und visualisiert. Sobald eine hohe Druckdifferenz vor und nach dem Filter festgestellt wird, wird eine Benachrichtigung ausgelöst, die uns mitteilt dass der Filterkuchen entnommen werden kann. Im aktuellen Stadium wird dieser Schritt noch manuell ausgeführt. Schrittweise werden mehr und mehr Aktoren wie Pumpen und Dosiersysteme auf Grundlage von Sensordaten gesteuert, wodurch der Automatisierungsgrad der Technologie zunimmt.
 
