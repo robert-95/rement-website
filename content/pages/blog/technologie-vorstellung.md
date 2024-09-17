@@ -56,9 +56,9 @@ styles:
     borderWidth: 1
     borderRadius: small
 ---
-![](/images/rement-vorstellung-1.webp)****
+![](/images/rement-vorstellung-1.webp)
 
-**Am 10.09. öffnete Rement seine Türen für verschiedene Vertreter und Vertreterinnen der Bau-, und Recycling- und Nachhaltigkeitsbranche. Im Fokus stand die Vorstellung unserer Beton-Upcycling-Technologie. In Kurz-Präsentationen stellten unsere Teammitglieder im Baustofflabor des KIT-IMB/MPAs,** [**an welchem Rement beheimatet ist**](https://www.rement.tech/blog/rement-imb-kooperation/)**, Erkenntnisse, Arbeitsweisen und Ziele aus Laborforschung, Verfahrenstechnik und Regelungstechnik vor.**
+**Am 10.09.2024 öffnete Rement seine Türen für verschiedene Vertreter und Vertreterinnen der Bau-, und Recycling- und Nachhaltigkeitsbranche. Im Fokus stand die Vorstellung unserer Beton-Upcycling-Technologie. In Kurz-Präsentationen stellten unsere Teammitglieder im Baustofflabor des KIT-IMB/MPAs,** [**an welchem Rement beheimatet ist**](https://www.rement.tech/blog/rement-imb-kooperation/)**, Erkenntnisse, Arbeitsweisen und Ziele aus Laborforschung, Verfahrenstechnik und Regelungstechnik vor.**
 
 ## Die Möglichkeiten der Betonverwertung sind vielfältig
 
