@@ -37,8 +37,9 @@ seo:
   type: Seo
   metaTitle: Handelsblatt - 11 Trends & 7 Start-ups im Bausektor
   metaDescription: >-
-    Das Handelsblatt stellt die Zukunftsfelder der Bauwirtschaft vor - und 7
-    Start-ups, die in diesen aktiv sind.
+    Am 10.09. hat Rement seine Türen für verschiedene Vertreter und
+    Vertreterinnen der Bau-, und Recycling- und Nachhaltigkeitsbranche geöffnet.
+    Im Fokus stand die Vorstellung unserer Beton-Upcycling-Technologie.
   addTitleSuffix: true
   socialImage: /images/handelsblatt.webp
   metaTags: []
