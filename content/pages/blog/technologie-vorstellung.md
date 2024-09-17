@@ -37,7 +37,7 @@ seo:
   type: Seo
   metaTitle: Rement präsentiert Beton-Upcycling-Technologie vor Branchenvertretern
   metaDescription: >-
-    Am 10.09. hat Rement seine Türen für verschiedene Vertreter und
+    Am 10.09.2024 hat Rement seine Türen für verschiedene Vertreter und
     Vertreterinnen der Bau-, und Recycling- und Nachhaltigkeitsbranche geöffnet.
     Im Fokus stand die Vorstellung unserer Beton-Upcycling-Technologie.
   addTitleSuffix: true
