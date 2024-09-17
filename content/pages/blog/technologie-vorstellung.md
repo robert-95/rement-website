@@ -68,7 +68,7 @@ Das KIT-IMB, der Gastgeber der Veranstaltung, verfolgt schon seit längerem vers
 
 Forschungsarbeiten zur Verwertung der Feinfraktion umfassen einerseits den Einsatz als Substitut für feine, primäre Gesteinskörnung (Sand) und andererseits den Einsatz als Zementhauptbestandteil nach vorangegangener thermisch-mechanischer Aktivierung. Da diese Aktivierung weniger energieintensiv ist als die Produktion des stückweise substituierten Zements, können so CO2-Emissionen reduziert werden. Beide Verwertungsszenarien für Betonbrechsände schließen sich jedoch nicht aus.
 
-> "Am Besten wäre es, wenn die Gesteinskörnung vom Zementstein separiert und letzterer weiter in calciumhaltige Bestandteile und Feinmaterial aufgetrennt werden könnte."
+> "Am Besten wäre es, wenn die Gesteinskörnung vom Zementstein separiert und letzterer weiter in calciumhaltige Bestandteile und Feinmaterial aufgetrennt werden könnte." - Jan P. Höffgen
 
 ## Rement stellt eigenes Zielbild vor
 
@@ -92,7 +92,7 @@ In den letzten Monaten konnten große Fortschritte in der verfahrenstechnischen 
 
 ## Daten als Grundlage für Prozessoptimierung und Automatisierung
 
-> „Daten sind eine kostbare Sache und halten länger als die Systeme selbst.“
+> „Daten sind eine kostbare Sache und halten länger als die Systeme selbst.“ - Tim Berners-Lee
 
 Mit diesem Zitat von Tim Berners-Lee, Begründer des World Wide Webs, begann Vincent Gottwald, zuständig für Mechatronik und Data Engineering bei Rement seinen Vortrag. Diesem Ansatz folgend setzt Rement im Zuge der Evolution von der Prototypen- zur Pilotphase und schließlich zur kommerziellen Anlage auf eine nachhaltige, stetig wachsende Dateninfrastruktur. Im aktuellen Stadium werden durch Sensoren bereits Daten zu Temperatur, Druck, Füllständen und Volumenströmen gemessen und anschließend in digitale Signale gewandelt. Anschließend können Daten durch Skripte verarbeitet und in Datenbanken gespeichert werden. Digitale Interfaces ermöglichen die Analyse von Echtzeit- und historische Daten und bieten somit die Grundlage für die Prozessüberwachung und die technische Optimierung.
 
@@ -102,7 +102,7 @@ Beispielhaft beschrieb Herr Gottwald die aktuelle Umsetzung der Überwachung der
 
 Für das Jahr 2025 planen wir die Errichtung und Inbetriebnahme einer Pilotanlage in Containergröße. Diese wird nicht mehr in einer kontrollierten Laborumgebung, sondern auf dem Außengelände des KIT-IMB betrieben. Ziele für die Pilotierung sind eine Steigerung des Anteils kontinuierlicher und automatisierter Prozessschritte und eine weitere Skalierung des Stoffumsatzes. Angestrebt wird eine portable Pilotanlage, welche in dieser Form in der Realumgebung potentieller Anwender erprobt werden kann. Abschließend möchten wir noch einen Teilnehmer der Veranstaltung zitieren:
 
-> „Das Herzstück wurde jetzt entwickelt. Nun geht es an die praktische Umsetzung“
+> „Das Herzstück wurde jetzt entwickelt. Nun geht es an die praktische Umsetzung“ - Ein Gast der Veranstaltung
 
 ## Key Takeaways
 
