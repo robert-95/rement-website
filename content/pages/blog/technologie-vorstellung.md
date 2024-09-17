@@ -32,7 +32,7 @@ bottomSections:
       self:
         justifyContent: center
 isFeatured: true
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: Rement präsentiert Beton-Upcycling-Technologie vor Branchenvertretern
