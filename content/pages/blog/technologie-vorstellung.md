@@ -78,6 +78,8 @@ Genau dieser Ansatz ist Teil des Zielbilds von Rement, welches im Anschluss durc
 
 Im Ergebnis entsteht eine Beton-Upcycling-Technologie, mittels der ein Rohstoff-Erlös durch den Verkauf von Sand, Calciumcarbonat, Betonzusatzstoffen und CO2-Äquivalenzen erwirtschaftet werden kann, welcher den Wert des Betons zum Zeitpunkt des Neubaus überschreitet. Natürliche Ressourcen werden geschont, Deponierungen und Downcycling vermieden und dem Klimawandel wird entgegengewirkt. Herr Schleinhege lädt Vertreter der gesamten Wertschöpfungskette ein gemeinsam an diesem Zielbild zu arbeiten.
 
+> "Wir bedanken uns sehr für die bisherige Unterstützung und freuen uns auf den gemeinsamen Weg mit Ihnen." - Robert Schleinhege, Rement
+
 ## Technische Machbarkeit bestätigt
 
 Entscheidend für die Erreichung dieses Zielbilds sind aus technischer Sicht Effizienz, Robustheit und Qualität der Produkte. In seinem Vortrag ging unser Laborleiter Adrian Neukirch darauf ein, wie diese Faktoren auf der Grundlage von Laborforschung optimiert werden. Im ersten Schritt lag der Fokus der Forschung auf der Bestätigung der technischen Machbarkeit der Grundidee. Brechsand als Ausgangsmaterial erwies sich als ausreichend calciumhaltig. Innerhalb ökonomisch umsetzbarer Prozessbedingungen konnten Reaktionen beobachtet werden. Die Qualitätseigenschaften des für die Wirtschaftlichkeit am entscheidendsten Calciumcarbonats bildeten auf Anhieb einen guten Ausgangspunkt für weitere Optimierungen.
