@@ -461,7 +461,7 @@ sections:
     actions:
       - label: Schreib uns eine Nachricht
         altText: Link zu Kontaktformular
-        url: '/#7'
+        url: /kontakt
         showIcon: true
         icon: arrowRight
         iconPosition: right
