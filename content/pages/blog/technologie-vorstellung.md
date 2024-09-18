@@ -130,3 +130,5 @@ Für das Jahr 2025 planen wir die Errichtung und Inbetriebnahme einer Pilotanlag
 
 *   Die Inbetriebnahme einer Pilotanlage am KIT ist für 2025 geplant
 
+**Wir bedanken uns herzlich beim KIT-IMB/MPA-Team für die Unterstützung bei der Organisation und die Zurverfügungstellung der Räumlichkeiten.**
+
