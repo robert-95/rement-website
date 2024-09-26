@@ -275,7 +275,7 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: Die Lösung für hochwertiges Betonrecycling
+      text: Die Lösung für Sortenreines Beton-Upcycling
       color: text-dark
       type: TitleBlock
     text: >
