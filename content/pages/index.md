@@ -285,7 +285,7 @@ sections:
       puzzolanisch-reaktives Material gewonnen.
     actions: []
     media:
-      url: /images/Rement-Verfahren-Schaubild.webp
+      url: /images/Rement-Verfahren-Überblick.webp
       altText: Überblick über das Rement Verfahren
       elementId: ''
       type: ImageBlock
