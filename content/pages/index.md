@@ -279,7 +279,7 @@ sections:
       color: text-dark
       type: TitleBlock
     text: >
-      Das Rement Verfahren zersetzt Betonbrechsände aus der
+      Die Rement Technologie zersetzt Betonbrechsände aus der
       Abbruchbetonverwertung unter Bindung von Kohlenstoffdioxid. Neben dem
       Ausgangsstoff Sand wird hochreines Calciumcarbonat und
       puzzolanisch-reaktives Material gewonnen.
