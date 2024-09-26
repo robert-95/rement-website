@@ -280,9 +280,9 @@ sections:
       type: TitleBlock
     text: >
       Die Rement Technologie zersetzt Betonbrechsände aus der
-      Abbruchbetonverwertung unter Bindung von Kohlenstoffdioxid. Neben dem
-      Ausgangsstoff Sand wird hochreines Calciumcarbonat und
-      puzzolanisch-reaktives Material gewonnen.
+      Abbruchbetonverwertung unter Bindung von Kohlenstoffdioxid sortenrein.
+      Neben Sand wird hochreines Calciumcarbonat und puzzolanisch-reaktives
+      Material gewonnen.
     actions: []
     media:
       url: /images/Rement Technologie.webp
