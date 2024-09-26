@@ -370,7 +370,7 @@ sections:
             justifyContent: center
             borderColor: border-neutral
             borderWidth: 1
-      - title: Fällung von PCC
+      - title: Upcycling statt downcycling
         text: >+
           <div style="text-align: center">Im Rement-Verfahren wird hochreines
           Calciumcarbonat (PCC) gewonnen. Recycling-PCC wird  zur nachhaltigen
