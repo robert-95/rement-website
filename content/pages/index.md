@@ -346,8 +346,9 @@ sections:
         text: >+
           <div style="text-align: center">CO<sub>2</sub> wird dem Prozess
           zugeführt und in neuen Rohstoffen eingespeichert. Je nach Verwertung
-          der Rohstoffe ist die Speicherung dauerhaft. Das Klima und Ihre
-          CO<sub>2</sub>-Bilanz profitieren.</div>
+          der Rohstoffe ist die Speicherung temporär oder dauerhaft. Die
+          Technologie ist vollständig emissionsfrei betreibbar. Das Klima und
+          Ihre CO<sub>2</sub>-Bilanz profitieren.</div>
 
         image:
           altText: Featured icon one
