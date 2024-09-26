@@ -374,8 +374,8 @@ sections:
         text: >+
           <div style="text-align: center">Der Wert der Rezyklate übersteigt den
           Neuwert des Betons - es handelt sich somit um echtes Upcycling. Neben
-          den Rohstoff-Erlösen können CO<sub>2</sub>-Credits am EU-ETS- oder
-          Offsetmarkt angeboten werden. </div>
+          den Rohstoff-Erlösen können CO<sub>2</sub>-Credits am EU-ETS- oder am
+          stark wachsenden Offsetmarkt angeboten werden.</div>
 
         image:
           altText: Featured icon three
