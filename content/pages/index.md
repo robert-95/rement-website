@@ -239,9 +239,7 @@ sections:
           hohen Temperaturen im Ofen zu Zement gebrannt. Der Energieverbrauch
           dieses Verfahrens und die damit einhergehenden
           Kohlenstoffdioxid-Emissionen sind hoch. Die Zementproduktion ist für
-          8% der weltweiten Kohlenstoffdioxid-Emissionen verantwortlich. Aktuell
-          existieren keine skalierbaren Ansätze, dieses Kohlenstoffdioxid wieder
-          zu binden.
+          8% der weltweiten Kohlenstoffdioxid-Emissionen verantwortlich.
         actions: []
         colors: bg-light-fg-dark
         styles:
@@ -275,21 +273,22 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: Die Lösung für hochwertiges Betonrecycling
+      text: Die Lösung für hochwertiges BetonRecycling
       color: text-dark
       type: TitleBlock
     text: >
-      Das Rement Verfahren zersetzt Betonbruch unter Bindung von
-      Kohlenstoffdioxid. Neben dem Ausgangsstoff Sand wird hochreines,
-      wertvolles Calciumcarbonat gewonnen.
+      Die Rement Technologie zersetzt Betonbrechsände aus der
+      Abbruchbetonverwertung unter Bindung von Kohlenstoffdioxid sortenrein.
+      Neben Sand wird hochreines Calciumcarbonat und puzzolanisch-reaktives
+      Material gewonnen.
     actions: []
     media:
-      url: /images/rement-verfahren-2fa2ca86.webp
+      url: /images/Rement Technologie.webp
       altText: Überblick über das Rement Verfahren
       elementId: ''
       type: ImageBlock
     badge:
-      label: Das Rement Verfahren
+      label: Die Technologie
       color: text-primary
       type: Badge
     elementId: '3'
@@ -312,14 +311,12 @@ sections:
           textAlign: center
       type: TitleBlock
     items:
-      - title: Bindung von CO2
+      - title: sortenrein
         text: >+
-          <div style="text-align: center">Die Zementproduktion ist für 8% der
-          globalen  CO2-Emissionen verantwortlich. Der stoffliche Anteil der
-          Emissionen kann im Rement Verfahren zurückgewonnen und dauerhaft
-          gebunden werden. 
-
-          </div>
+          <div style="text-align: center">Beton wird in seine Bestandteile
+          zersetzt, welche der bestmöglichen Verwertung zugeführt werden. Sand
+          wird erneut im Bau eingesetzt, puzzolanisch-reaktives Material dient
+          als Betonzusatzstoff und PCC als Füllstoff und Pigment.</div>
 
         image:
           altText: Featured icon two
@@ -343,11 +340,13 @@ sections:
         type: FeaturedItem
         elementId: benefit1
       - type: FeaturedItem
-        title: Rückgewinnung von Sand
+        title: co2-negativ
         text: >+
-          <div style="text-align: center">Die immense Nachfrage nach Beton lässt
-          Sand lokal immer knapper werden. Mit dem Rement Verfahren kann Sand
-          von Zementverbindungen befreit und wieder eingesetzt werden.</div>
+          <div style="text-align: center">CO<sub>2</sub> wird dem Prozess
+          zugeführt und in neuen Rohstoffen eingespeichert. Je nach Verwertung
+          der Rohstoffe ist die Speicherung temporär oder dauerhaft. Die
+          Technologie ist emissionsfrei betreibbar. Das Klima und Ihre
+          CO<sub>2</sub>-Bilanz profitieren.</div>
 
         image:
           altText: Featured icon one
@@ -369,12 +368,12 @@ sections:
             justifyContent: center
             borderColor: border-neutral
             borderWidth: 1
-      - title: Fällung von PCC
+      - title: Echtes upcycling
         text: >+
-          <div style="text-align: center">Die Fällung von hochreinem
-          Calciumcarbonat (PCC) ist zentraler Treiber der Wirtschaftlichkeit des
-          Verfahrens. Recycling-PCC wird  zur nachhaltigen Füllstoff-Alternative
-          für Papier, Kunststoffe, Lacke, Farben und Klebstoffe.</div>
+          <div style="text-align: center">Der Wert der Rezyklate übersteigt den
+          Neuwert des Betons - es handelt sich somit um echtes Upcycling. Neben
+          den Rohstoff-Erlösen können CO<sub>2</sub>-Credits am EU-ETS- oder am
+          stark wachsenden Offsetmarkt angeboten werden.</div>
 
         image:
           altText: Featured icon three
