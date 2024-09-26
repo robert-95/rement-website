@@ -315,12 +315,11 @@ sections:
     items:
       - title: sortenrein
         text: >+
-          <div style="text-align: center">Die Zementproduktion ist für 8% der
-          globalen  CO2-Emissionen verantwortlich. Der stoffliche Anteil der
-          Emissionen kann im Rement Verfahren zurückgewonnen und dauerhaft
-          gebunden werden. 
-
-          </div>
+          <div style="text-align: center">Beton wird in seine Bestandteile
+          zersetzt, welche der bestmöglichen Verwertung zugeführt werden.
+          Rezyklierter Sand wird erneut im Bau eingesetzt,
+          puzzolanisch-reaktives Material dient als Betonzusatzstoff und PCC als
+          Füllstoff und Pigment.</div>
 
         image:
           altText: Featured icon two
