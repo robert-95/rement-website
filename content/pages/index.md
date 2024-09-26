@@ -239,9 +239,7 @@ sections:
           hohen Temperaturen im Ofen zu Zement gebrannt. Der Energieverbrauch
           dieses Verfahrens und die damit einhergehenden
           Kohlenstoffdioxid-Emissionen sind hoch. Die Zementproduktion ist für
-          8% der weltweiten Kohlenstoffdioxid-Emissionen verantwortlich. Aktuell
-          existieren keine skalierbaren Ansätze, dieses Kohlenstoffdioxid wieder
-          zu binden.
+          8% der weltweiten Kohlenstoffdioxid-Emissionen verantwortlich.
         actions: []
         colors: bg-light-fg-dark
         styles:
