@@ -371,10 +371,10 @@ sections:
             borderWidth: 1
       - title: Fällung von PCC
         text: >+
-          <div style="text-align: center">Die Fällung von hochreinem
-          Calciumcarbonat (PCC) ist zentraler Treiber der Wirtschaftlichkeit des
-          Verfahrens. Recycling-PCC wird  zur nachhaltigen Füllstoff-Alternative
-          für Papier, Kunststoffe, Lacke, Farben und Klebstoffe.</div>
+          <div style="text-align: center">Im Rement-Verfahren wird hochreines
+          Calciumcarbonat (PCC) gewonnen. Recycling-PCC wird  zur nachhaltigen
+          Füllstoff-Alternative für Papier, Kunststoffe, Lacke, Farben,
+          bauchemische Produkte und Klebstoffe.</div>
 
         image:
           altText: Featured icon three
