@@ -344,7 +344,7 @@ sections:
         type: FeaturedItem
         elementId: benefit1
       - type: FeaturedItem
-        title: Sortenrein
+        title: co2-negativ
         text: >+
           <div style="text-align: center">Die immense Nachfrage nach Beton lässt
           Sand lokal immer knapper werden. Mit dem Rement Verfahren kann Sand
