@@ -313,7 +313,7 @@ sections:
           textAlign: center
       type: TitleBlock
     items:
-      - title: Bindung von CO2
+      - title: CO2-negativ
         text: >+
           <div style="text-align: center">Die Zementproduktion ist für 8% der
           globalen  CO2-Emissionen verantwortlich. Der stoffliche Anteil der
