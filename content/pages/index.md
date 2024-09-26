@@ -290,7 +290,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Das Rement Verfahren
+      label: Die Technologie
       color: text-primary
       type: Badge
     elementId: '3'
