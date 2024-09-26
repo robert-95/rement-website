@@ -372,10 +372,12 @@ sections:
             borderWidth: 1
       - title: Echtes upcycling
         text: >+
-          <div style="text-align: center">Im Rement-Verfahren wird hochreines
-          Calciumcarbonat (PCC) gewonnen. Recycling-PCC wird  zur nachhaltigen
-          Füllstoff-Alternative für Papier, Kunststoffe, Lacke, Farben,
-          bauchemische Produkte und Klebstoffe.</div>
+          <div style="text-align: center">Der Wert der Rezyklate übersteigt den
+          Neuwert des Betons - es handelt sich somit um echtes Upcycling. Neben
+          den Rohstoff-Erlösen können CO<sub>2</sub>-Credits am EU-ETS- oder
+          Offsetmarkt angeboten werden. Rement macht sortenreines,
+          CO<sub>2</sub>-negatives Beton-Upcycling erstmalig
+          wirtschaftlich.</div>
 
         image:
           altText: Featured icon three
