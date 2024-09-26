@@ -346,9 +346,10 @@ sections:
       - type: FeaturedItem
         title: co2-negativ
         text: >+
-          <div style="text-align: center">Die immense Nachfrage nach Beton lässt
-          Sand lokal immer knapper werden. Mit dem Rement Verfahren kann Sand
-          von Zementverbindungen befreit und wieder eingesetzt werden.</div>
+          <div style="text-align: center">CO<sub>2</sub> wird dem Prozess
+          zugeführt und in neuen Rohstoffen eingespeichert. Je nach Verwertung
+          der Rohstoffe ist die Speicherung dauerhaft. Das Klima und Ihre
+          CO<sub>2</sub>-Bilanz profitieren.</div>
 
         image:
           altText: Featured icon one
