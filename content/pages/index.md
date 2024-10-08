@@ -387,7 +387,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features/benefits/services
+      text: Arbeiten Sie mit uns zusammen
       color: text-dark
       styles:
         self:
