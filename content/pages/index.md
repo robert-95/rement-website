@@ -103,7 +103,7 @@ sections:
       subtitle:
         textAlign: center
   - type: GenericSection
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: ''
     actions: []
     media:
