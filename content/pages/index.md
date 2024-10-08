@@ -115,18 +115,6 @@ sections:
               - pl-2
               - pb-2
               - pr-2
-      - type: ImageBlock
-        altText: Helmholtz logo
-        elementId: ''
-        url: /images/helmholtz-logo-28.svg
-        styles:
-          self:
-            borderRadius: none
-            padding:
-              - pt-2
-              - pl-2
-              - pb-2
-              - pr-3
     badge: null
     elementId: ''
     motion: static
