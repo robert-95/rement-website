@@ -113,7 +113,7 @@ sections:
             - pt-0
             - pl-28
             - pb-0
-            - pr-20
+            - pr-28
     badge:
       type: Badge
       label: This is a badge
