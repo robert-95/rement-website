@@ -107,7 +107,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/supporter-logos-block.webp
+      url: /images/supporter-logos-block-1500.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
