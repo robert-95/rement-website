@@ -395,7 +395,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Baustoffrecycler
+        title: Anwender
         tagline: This is the tagline
         subtitle: Numbers Done
         text: >-
