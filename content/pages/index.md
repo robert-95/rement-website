@@ -397,7 +397,7 @@ sections:
       - type: FeaturedItem
         title: Anwender
         tagline: ''
-        subtitle: Baustoffrecycling & Zement
+        subtitle: Aus Baustoffrecycling & Zement-Produktion
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
