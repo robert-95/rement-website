@@ -110,6 +110,13 @@ sections:
       url: /images/supporter-logos-block-1500.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
+      styles:
+        self:
+          margin:
+            - mt-4
+            - ml-4
+            - mb-4
+            - mr-4
     badge:
       type: Badge
       label: This is a badge
