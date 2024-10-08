@@ -70,17 +70,7 @@ sections:
   - type: ImageGallerySection
     title: null
     subtitle: Unterstützt durch
-    images:
-      - altText: Smartgreen Logo
-        elementId: ''
-        type: ImageBlock
-        styles:
-          self:
-            padding:
-              - pt-2
-              - pl-0
-              - pb-2
-              - pr-2
+    images: []
     badge: null
     elementId: ''
     motion: static
