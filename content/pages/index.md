@@ -113,10 +113,10 @@ sections:
       styles:
         self:
           margin:
-            - mt-8
-            - ml-8
-            - mb-8
-            - mr-8
+            - mt-0
+            - ml-0
+            - mb-0
+            - mr-0
     badge:
       type: Badge
       label: This is a badge
