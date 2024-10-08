@@ -496,7 +496,7 @@ sections:
     badge:
       type: Badge
       label: This is a badge
-      color: text-primary
+      color: text-light
   - type: FeaturedPeopleSection
     title:
       text: Team Rement
