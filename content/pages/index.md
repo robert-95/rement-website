@@ -139,18 +139,6 @@ sections:
               - pb-2
               - pr-2
         url: /images/futury-logo-40.svg
-      - type: ImageBlock
-        altText: Logo of IMB
-        elementId: ''
-        styles:
-          self:
-            borderRadius: none
-            padding:
-              - pl-3
-              - pr-3
-              - pt-1
-              - pb-1
-        url: /images/IMB-logo.svg
     badge: null
     elementId: ''
     motion: static
