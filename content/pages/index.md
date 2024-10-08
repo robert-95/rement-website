@@ -387,7 +387,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Arbeiten Sie mit uns an Kreislaufwirtschaft und Decarbonisierung
+      text: Arbeiten Sie mit uns zusammen
       color: text-light
       styles:
         self:
