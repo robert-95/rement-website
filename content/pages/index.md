@@ -71,8 +71,7 @@ sections:
     title: null
     subtitle: Unterstützt durch
     images:
-      - url: /images/smartgreen-logo-50.svg
-        altText: Smartgreen Logo
+      - altText: Smartgreen Logo
         elementId: ''
         type: ImageBlock
         styles:
