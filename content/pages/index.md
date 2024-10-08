@@ -82,17 +82,6 @@ sections:
               - pl-0
               - pb-2
               - pr-2
-      - url: /images/kit-innovation-hub-50.svg
-        altText: Kit Innovation Hub Logo
-        elementId: ''
-        type: ImageBlock
-        styles:
-          self:
-            padding:
-              - pt-2
-              - pl-3
-              - pb-2
-              - pr-2
     badge: null
     elementId: ''
     motion: static
