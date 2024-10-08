@@ -474,7 +474,7 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: /
+        url: /kontakt
         showIcon: false
         icon: arrowRight
         iconPosition: right
