@@ -93,17 +93,6 @@ sections:
               - pl-3
               - pb-2
               - pr-2
-      - url: /images/remove-50.svg
-        altText: Remove Logo
-        elementId: ''
-        type: ImageBlock
-        styles:
-          self:
-            padding:
-              - pt-2
-              - pl-2
-              - pb-2
-              - pr-2
     badge: null
     elementId: ''
     motion: static
