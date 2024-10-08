@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Sortenreines, CO2-negatives Betom-Upcycling'
+      text: 'Sortenreines, CO2-negatives Beton-Upcycling'
       color: text-dark
       type: TitleBlock
       styles:
