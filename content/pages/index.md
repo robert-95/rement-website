@@ -127,18 +127,6 @@ sections:
               - pl-2
               - pb-2
               - pr-3
-      - type: ImageBlock
-        altText: Futury logo
-        elementId: ''
-        styles:
-          self:
-            borderRadius: none
-            padding:
-              - pt-2
-              - pl-4
-              - pb-2
-              - pr-2
-        url: /images/futury-logo-40.svg
     badge: null
     elementId: ''
     motion: static
