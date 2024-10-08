@@ -392,7 +392,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Wir suchen Partner für mehr Kreislaufwirtschaft und Decarbonisierung
     items:
       - type: FeaturedItem
         title: 500k
