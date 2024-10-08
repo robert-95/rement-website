@@ -1,5 +1,5 @@
 ---
-title: Aus Beton und CO2 Mehrwert schaffen
+title: 'Sortenreines, CO2-negatives Beton-Upcycling'
 slug: /
 sections:
   - type: GenericSection
