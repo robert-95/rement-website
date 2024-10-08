@@ -388,7 +388,7 @@ sections:
     title:
       type: TitleBlock
       text: Arbeiten Sie mit uns zusammen
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
