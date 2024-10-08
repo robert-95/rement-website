@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Aus Beton und CO2 Mehrwert schaffen
+      text: 'Sortenreines, CO2-negatives Beton-Upcycling'
       color: text-dark
       type: TitleBlock
       styles:
@@ -70,87 +70,7 @@ sections:
   - type: ImageGallerySection
     title: null
     subtitle: Unterstützt durch
-    images:
-      - url: /images/smartgreen-logo-50.svg
-        altText: Smartgreen Logo
-        elementId: ''
-        type: ImageBlock
-        styles:
-          self:
-            padding:
-              - pt-2
-              - pl-0
-              - pb-2
-              - pr-2
-      - url: /images/kit-innovation-hub-50.svg
-        altText: Kit Innovation Hub Logo
-        elementId: ''
-        type: ImageBlock
-        styles:
-          self:
-            padding:
-              - pt-2
-              - pl-3
-              - pb-2
-              - pr-2
-      - url: /images/gruenderschmiede-logo-40.svg
-        altText: KIT Gründerschmiede Logo
-        elementId: ''
-        type: ImageBlock
-        styles:
-          self:
-            padding:
-              - pt-2
-              - pl-1
-              - pb-2
-              - pr-2
-      - url: /images/remove-50.svg
-        altText: Remove Logo
-        elementId: ''
-        type: ImageBlock
-        styles:
-          self:
-            padding:
-              - pt-2
-              - pl-2
-              - pb-2
-              - pr-2
-      - type: ImageBlock
-        altText: Helmholtz logo
-        elementId: ''
-        url: /images/helmholtz-logo-28.svg
-        styles:
-          self:
-            borderRadius: none
-            padding:
-              - pt-2
-              - pl-2
-              - pb-2
-              - pr-3
-      - type: ImageBlock
-        altText: Futury logo
-        elementId: ''
-        styles:
-          self:
-            borderRadius: none
-            padding:
-              - pt-2
-              - pl-4
-              - pb-2
-              - pr-2
-        url: /images/futury-logo-40.svg
-      - type: ImageBlock
-        altText: Logo of IMB
-        elementId: ''
-        styles:
-          self:
-            borderRadius: none
-            padding:
-              - pl-3
-              - pr-3
-              - pt-1
-              - pb-1
-        url: /images/IMB-logo.svg
+    images: []
     badge: null
     elementId: ''
     motion: static
@@ -164,13 +84,52 @@ sections:
           - mb-0
           - mr-0
         padding:
-          - pt-11
+          - pt-0
           - pl-3
-          - pb-11
+          - pb-0
           - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/supporter-logos-block-1500.webp
+      altText: >-
+        Logos von Rement-Unterstützern KIT, IMB, KIT Gründerschmiede, Remove,
+        Smart Green, Futury, Helmholtz, BMWK, EU und EXIST
+      elementId: ''
+      styles:
+        self:
+          margin:
+            - mt-0
+            - ml-0
+            - mb-0
+            - mr-0
+          padding:
+            - pt-0
+            - pl-28
+            - pb-0
+            - pr-28
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
   - type: FeaturedItemsSection
     title:
       text: Warum Betonrecycling?
