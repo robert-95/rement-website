@@ -119,7 +119,7 @@ sections:
             - mr-0
           padding:
             - pt-0
-            - pl-10
+            - pl-16
             - pb-0
             - pr-10
     badge:
