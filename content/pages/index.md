@@ -428,7 +428,7 @@ sections:
           zirkuläre, klimafreundliche Produkte für Ihr Portfolio zu entwickeln.
         image:
           type: ImageBlock
-          url: /images/icon-four.svg
+          url: /images/ecological (2).png
           altText: Featured icon two
           elementId: ''
         actions: []
