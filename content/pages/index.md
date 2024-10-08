@@ -423,7 +423,7 @@ sections:
       - type: FeaturedItem
         title: Verwerter
         tagline: ''
-        subtitle: 'Bauchemie, Farbe,'
+        subtitle: 'Aus Bauchemie & Kunststoff-, Farb- und Papierproduktion'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
