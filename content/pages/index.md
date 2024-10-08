@@ -124,7 +124,7 @@ sections:
           - pt-16
           - pl-44
           - pb-16
-          - pr-16
+          - pr-44
         justifyContent: center
   - type: FeaturedItemsSection
     title:
