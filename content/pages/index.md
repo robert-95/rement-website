@@ -453,7 +453,7 @@ sections:
           Sie von unseren Einspeichermöglichkeiten profitieren.
         image:
           type: ImageBlock
-          url: /images/icon-two.svg
+          url: /images/global-warming (1).webp
           altText: Featured icon three
           elementId: ''
         actions: []
