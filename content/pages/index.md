@@ -398,10 +398,9 @@ sections:
         title: Anwender
         tagline: ''
         subtitle: Aus Baustoffrecycling & Zement-Produktion
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Wir beziehen Sie und Ihre Anforderungen frühzeitig in die Entwicklung
+          von Beton-Upcycling-Anlagen ein.
         image:
           type: ImageBlock
           url: /images/icon-one.svg
