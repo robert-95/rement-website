@@ -495,7 +495,7 @@ sections:
         textAlign: center
     badge:
       type: Badge
-      label: Gemeinsam für Kreislaufwirtschaft & Decarbonisierung
+      label: Partner Gesucht
       color: text-light
       styles:
         self:
