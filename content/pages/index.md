@@ -403,7 +403,7 @@ sections:
           von Beton-Upcycling-Anlagen ein.
         image:
           type: ImageBlock
-          url: /images/icon-one.svg
+          url: /images/power-plant.webp
           altText: Featured icon one
           elementId: ''
         actions: []
