@@ -384,6 +384,119 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Arbeiten Sie mit uns zusammen
+      color: text-light
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Anwender
+        tagline: ''
+        subtitle: Aus Baustoffrecycling & Zement-Produktion
+        text: >
+          Wir beziehen Sie und Ihre Anforderungen frühzeitig in die Entwicklung
+          von Beton-Upcycling-Anlagen ein.
+        image:
+          type: ImageBlock
+          url: /images/power-plant.webp
+          altText: Featured icon one
+          elementId: ''
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Verwerter
+        tagline: ''
+        subtitle: 'Aus Bauchemie & Kunststoff-, Farb- und Papierproduktion'
+        text: >
+          Als Lead Customer erhalten Sie Produktproben und Informationen um
+          zirkuläre, klimafreundliche Produkte für Ihr Portfolio zu entwickeln.
+        image:
+          type: ImageBlock
+          url: /images/ecological (2).webp
+          altText: Featured icon two
+          elementId: ''
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: Decarbonisierer
+        tagline: ''
+        subtitle: CO2-Abscheider und Unternehmen mit Klimazielen
+        text: >
+          Wir entwickeln mit Ihnen eine neuartige Wertschöpfungskette, in der
+          Sie von unseren Einspeichermöglichkeiten profitieren.
+        image:
+          type: ImageBlock
+          url: /images/global-warming (1).webp
+          altText: Featured icon three
+          elementId: ''
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions:
+      - type: Button
+        label: Kontakt aufnehmen
+        altText: ''
+        url: /kontakt
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    badge:
+      type: Badge
+      label: Partner Gesucht
+      color: text-light
+      styles:
+        self:
+          textAlign: center
   - type: FeaturedPeopleSection
     title:
       text: Team Rement
@@ -410,7 +523,7 @@ sections:
         padding:
           - pl-8
           - pr-8
-          - pt-6
+          - pt-10
       subtitle:
         textAlign: center
   - type: GenericSection
