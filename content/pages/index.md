@@ -121,7 +121,7 @@ sections:
             - pt-0
             - pl-16
             - pb-0
-            - pr-10
+            - pr-16
     badge:
       type: Badge
       label: This is a badge
