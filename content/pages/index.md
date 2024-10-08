@@ -447,7 +447,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: 200%
+        title: Decarbonisierer
         tagline: This is the tagline
         subtitle: Faster
         text: >-
