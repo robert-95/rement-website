@@ -448,10 +448,9 @@ sections:
         title: Decarbonisierer
         tagline: ''
         subtitle: CO2-Abscheider und Unternehmen mit Klimazielen
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Wir entwickeln mit Ihnen eine neuartige Wertschöpfungskette, in der
+          Sie von unseren Einspeichermöglichkeiten profitieren.
         image:
           type: ImageBlock
           url: /images/icon-two.svg
