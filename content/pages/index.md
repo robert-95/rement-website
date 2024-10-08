@@ -423,10 +423,9 @@ sections:
         title: Verwerter
         tagline: ''
         subtitle: 'Aus Bauchemie & Kunststoff-, Farb- und Papierproduktion'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Als Lead Customer erhalten Sie Produktproben und Informationen um
+          zirkuläre, klimafreundliche Produkte für Ihr Portfolio zu entwickeln.
         image:
           type: ImageBlock
           url: /images/icon-four.svg
