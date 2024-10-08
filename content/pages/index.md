@@ -472,7 +472,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: Kontakt aufnehmen
         altText: ''
         url: /kontakt
         showIcon: false
