@@ -449,7 +449,7 @@ sections:
       - type: FeaturedItem
         title: Decarbonisierer
         tagline: ''
-        subtitle: Faster
+        subtitle: CO2-Abscheider und Projektentwickler
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
