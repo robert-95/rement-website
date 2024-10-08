@@ -449,7 +449,7 @@ sections:
       - type: FeaturedItem
         title: Decarbonisierer
         tagline: ''
-        subtitle: CO2-Abscheider und Projektentwickler
+        subtitle: CO2-Abscheider und Unternehmen mit Klimazielen
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
