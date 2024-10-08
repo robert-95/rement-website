@@ -397,7 +397,7 @@ sections:
       - type: FeaturedItem
         title: Anwender
         tagline: This is the tagline
-        subtitle: Numbers Done
+        subtitle: Baustoffrecycling & Zement
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
