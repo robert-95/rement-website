@@ -495,7 +495,7 @@ sections:
         textAlign: center
     badge:
       type: Badge
-      label: This is a badge
+      label: Gemeinsam für Kreislaufwirtschaft & Decarbonisierung
       color: text-light
       styles:
         self:
