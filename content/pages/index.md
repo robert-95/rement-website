@@ -98,7 +98,9 @@ sections:
     media:
       type: ImageBlock
       url: /images/supporter-logos-block-1500.webp
-      altText: Unblock your team boost your time to production preview
+      altText: >-
+        Logos von Rement-Unterstützern KIT, IMB, KIT Gründerschmiede, Remove,
+        Smart Green, Futury, Helmholtz, BMWK, EU und EXIST
       elementId: ''
       styles:
         self:
