@@ -421,7 +421,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 20x
+        title: Rohstoff-Verwerter
         tagline: This is the tagline
         subtitle: The Job Stuff
         text: >-
