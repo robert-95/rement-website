@@ -448,7 +448,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Decarbonisierer
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
