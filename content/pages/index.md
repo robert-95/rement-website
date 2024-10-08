@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Aus Beton und CO2 Mehrwert schaffen
+      text: 'Sortenreines, CO2-negatives Betom-Upcycling'
       color: text-dark
       type: TitleBlock
       styles:
