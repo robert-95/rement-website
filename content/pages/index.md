@@ -96,7 +96,7 @@ sections:
         padding:
           - pt-11
           - pl-3
-          - pb-11
+          - pb-0
           - pr-3
         justifyContent: center
       subtitle:
