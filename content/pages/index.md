@@ -526,7 +526,7 @@ sections:
         padding:
           - pl-8
           - pr-8
-          - pt-6
+          - pt-10
       subtitle:
         textAlign: center
   - type: GenericSection
