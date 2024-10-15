@@ -14,9 +14,9 @@ sections:
 
       Robert Schleinhege
 
-      Jollystraße 21
+      Buttstädter Str. 6
 
-      76137 Karlsruhe
+      67251 Freinsheim
 
 
       Kontakt:
