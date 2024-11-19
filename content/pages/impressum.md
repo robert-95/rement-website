@@ -22,7 +22,6 @@ sections:
 
 
       Kontakt:
-
       [robert.schleinhege@rement.tech](mailto:robert.schleinhege@rement.tech.com)
 
 
