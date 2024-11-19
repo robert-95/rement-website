@@ -14,14 +14,14 @@ sections:
 
       Robert Schleinhege
 
+
       Buttstädter Str. 6
+
 
       67251 Freinsheim
 
 
       Kontakt:
-
-      E-Mail:
       [robert.schleinhege@rement.tech](mailto:robert.schleinhege@rement.tech.com)
 
 
