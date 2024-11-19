@@ -35,7 +35,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Kooperation mit dem KIT Innovation HUB
+  metaTitle: Rement im Startup des Monats Interview & Podcast
   metaDescription: >-
     Im Interview mit der KIT Gründerschmiede berichten Robert und Felix, wie die
     Idee zu Rement entstand, wie das Team sich gefunden hat und welche Ziele
