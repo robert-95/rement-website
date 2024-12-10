@@ -10,7 +10,7 @@ excerpt: >-
   Rement gesetzt hat.
 featuredImage:
   type: ImageBlock
-  url: /images/GdM_Rement.dt_-1080x850.webp
+  url: /images/rement-podcast (1).webp
   altText: Gründung des Monats Cover
   elementId: ''
   styles:
