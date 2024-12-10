@@ -10,7 +10,7 @@ excerpt: >-
   Rement gesetzt hat.
 featuredImage:
   type: ImageBlock
-  url: /images/rement-podcast.png
+  url: /images/GdM_Rement.dt_-1080x850.webp
   altText: Gründung des Monats Cover
   elementId: ''
   styles:
@@ -35,7 +35,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Kooperation mit dem KIT Innovation HUB
+  metaTitle: Rement im Startup des Monats Interview & Podcast
   metaDescription: >-
     Im Interview mit der KIT Gründerschmiede berichten Robert und Felix, wie die
     Idee zu Rement entstand, wie das Team sich gefunden hat und welche Ziele
