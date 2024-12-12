@@ -200,8 +200,8 @@ slug: stellenanzeige-bauingenieurwesen-bauchemie
 date: '2024-01-08'
 excerpt: >-
   Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für
-  diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n Bauingenieur*in oder Bauchemiker*in
-  als Verstärkung für unser Team in Karlsruhe.
+  diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n Bauingenieur*in
+  oder Bauchemiker*in als Verstärkung für unser Team in Karlsruhe.
 featuredImage:
   type: ImageBlock
   altText: Bild des Rement Teams
@@ -228,13 +228,15 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-isFeatured: false
-isDraft: false
+isFeatured: true
+isDraft: true
 seo:
   metaTitle: Rement sucht Bauingenieur*in / Bauchemiker*in
   metaDescription: >-
     Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für
-    diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n Bauingenieur*in oder Bauchemiker*in als Verstärkung für unser Team in Karlsruhe.
+    diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n
+    Bauingenieur*in oder Bauchemiker*in als Verstärkung für unser Team in
+    Karlsruhe.
   addTitleSuffix: true
   socialImage: /images/rement-sucht-bau-chemiker-in.webp
   metaTags: []
