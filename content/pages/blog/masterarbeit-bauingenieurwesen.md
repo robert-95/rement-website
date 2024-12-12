@@ -231,7 +231,7 @@ bottomSections:
       self:
         justifyContent: center
 isFeatured: true
-isDraft: false
+isDraft: true
 seo:
   metaTitle: >-
     Masterarbeit Bauingenieurwesen - Fokus Materialeigenschaften oder
