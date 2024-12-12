@@ -230,7 +230,7 @@ bottomSections:
       self:
         justifyContent: center
 isFeatured: true
-isDraft: false
+isDraft: true
 seo:
   metaTitle: Greentech Startup sucht Verfahrenstechniker*in / Chemieingenieur*in
   metaDescription: >-
