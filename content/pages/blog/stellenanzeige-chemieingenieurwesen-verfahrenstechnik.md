@@ -200,9 +200,9 @@ slug: stellenanzeige-chemieingenieurwesen-verfahrenstechnik
 date: '2023-10-28'
 excerpt: >-
   Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für
-  diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n Verfahrenstechniker*in oder Chemieingenieur*in
-  als Verstärkung für unser Team in Karlsruhe.
-  
+  diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n
+  Verfahrenstechniker*in oder Chemieingenieur*in als Verstärkung für unser Team
+  in Karlsruhe.
 featuredImage:
   type: ImageBlock
   altText: Bild des Rement Teams
@@ -229,14 +229,15 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-isFeatured: false
-isDraft: false
+isFeatured: true
+isDraft: true
 seo:
   metaTitle: Greentech Startup sucht Verfahrenstechniker*in / Chemieingenieur*in
   metaDescription: >-
     Wir bei Rement möchten gemeinsam die Baubranche nachhaltig verändern. Für
     diese Mission suchen wir zum nächstmöglichen Zeitpunkt eine/n
-    Verfahrenstechniker*in oder Chemieingenieur*in als Verstärkung für unser Team in Karlsruhe.
+    Verfahrenstechniker*in oder Chemieingenieur*in als Verstärkung für unser
+    Team in Karlsruhe.
   addTitleSuffix: true
   socialImage: /images/rement-sucht-bau-chemiker-in.webp
   metaTags: []
