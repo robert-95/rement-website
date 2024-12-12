@@ -195,11 +195,15 @@
   label: Content
   description: Page content
 type: PostLayout
-title: Masterarbeit Bauingenieurwesen - Breites Themenspektrum rund um Betonrecycling - Übernahmemöglichkeit
+title: >-
+  Masterarbeit Bauingenieurwesen - Breites Themenspektrum rund um Betonrecycling
+  - Übernahmemöglichkeit
 slug: masterarbeit-bauingenieurwesen
 date: '2024-02-20'
 excerpt: >-
-  Wir suchen nach einem motivierten Teammitglied für eine Masterarbeit im Bereich Bauingenieurwesen ab März oder April mit anschließender Übernahmemöglichkeit.
+  Wir suchen nach einem motivierten Teammitglied für eine Masterarbeit im
+  Bereich Bauingenieurwesen ab März oder April mit anschließender
+  Übernahmemöglichkeit.
 featuredImage:
   type: ImageBlock
   altText: Dekoratives Bild
@@ -226,12 +230,16 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-isFeatured: false
+isFeatured: true
 isDraft: false
 seo:
-  metaTitle: Masterarbeit Bauingenieurwesen - Fokus Materialeigenschaften oder Stoffströme und Standortfaktoren
+  metaTitle: >-
+    Masterarbeit Bauingenieurwesen - Fokus Materialeigenschaften oder
+    Stoffströme und Standortfaktoren
   metaDescription: >-
-    Wir suchen nach einem motivierten Teammitglied für eine Masterarbeit im Bereich Bauingenieurwesen ab März oder April mit anschließender Übernahmemöglichkeit.
+    Wir suchen nach einem motivierten Teammitglied für eine Masterarbeit im
+    Bereich Bauingenieurwesen ab März oder April mit anschließender
+    Übernahmemöglichkeit.
   addTitleSuffix: true
   socialImage: /images/masterthesis.png
   metaTags: []
