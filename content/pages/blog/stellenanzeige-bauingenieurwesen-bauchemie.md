@@ -229,7 +229,7 @@ bottomSections:
       self:
         justifyContent: center
 isFeatured: true
-isDraft: false
+isDraft: true
 seo:
   metaTitle: Rement sucht Bauingenieur*in / Bauchemiker*in
   metaDescription: >-
