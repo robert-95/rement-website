@@ -7,7 +7,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Sortenreines, CO2-negatives Beton-Upcycling'
+      text: Reclaiming Resources from CO2 and Concrete
       color: text-dark
       styles:
         self:
