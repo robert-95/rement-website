@@ -16,9 +16,6 @@ export default function PageLayout(props) {
                         {title}
                     </h1>
                 )}
-                {secondaryHeader && (  // Hier den secondaryHeader rendern, wenn er vorhanden ist
-                    <SecondaryHeader content={secondaryHeader.content} />
-                )}
                 {sections.length > 0 && (
                     <div data-sb-field-path="sections">
                         {sections.map((section, index) => {
