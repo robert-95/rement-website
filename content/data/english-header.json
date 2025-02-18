@@ -15,7 +15,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Rement Verfahren",
+            "label": "Rement Process",
             "url": "/#3",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -33,7 +33,7 @@
         },
         {
             "type": "Link",
-            "label": "Neuigkeiten",
+            "label": "News",
             "altText": "Link zum Blog",
             "url": "/blog",
             "showIcon": false,
@@ -43,7 +43,7 @@
             "elementId": ""
         },
         {
-            "label": "Kontakt",
+            "label": "Contact",
             "altText": "Link zum Kontaktformular",
             "url": "/kontakt",
             "icon": "arrowRight",
