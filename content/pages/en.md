@@ -7,7 +7,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Reclaiming high-value Resources from CO2 and Concrete
+      text: 'Upcycling Concrete, Storing Carbon'
       color: text-dark
       styles:
         self:
