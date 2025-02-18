@@ -606,4 +606,89 @@ seo:
   metaTags: []
   addTitleSuffix: false
 type: PageLayout
+header:
+  type: Header
+  title: Your Brand
+  logo:
+    type: ImageBlock
+    url: /images/logo-mark-dark.svg
+    altText: Logo dark
+    elementId: ''
+    styles:
+      self:
+        margin:
+          - mr-3
+        opacity: 100
+  primaryLinks:
+    - type: Link
+      label: Pricing
+      altText: ''
+      url: /pricing
+      showIcon: false
+      icon: arrowRight
+      iconPosition: right
+      style: secondary
+      elementId: ''
+    - type: Link
+      label: Blog
+      altText: Blog
+      url: /blog
+      showIcon: false
+      icon: arrowRight
+      iconPosition: right
+      style: secondary
+      elementId: ''
+    - type: SubNav
+      label: Dropdown
+      altText: Dropdown
+      links:
+        - type: Link
+          label: Dropdown item
+          altText: ''
+          url: /
+          showIcon: false
+          icon: arrowRight
+          iconPosition: right
+          style: secondary
+          elementId: ''
+        - type: Link
+          label: Dropdown item
+          altText: ''
+          url: /
+          showIcon: false
+          icon: arrowRight
+          iconPosition: right
+          style: secondary
+          elementId: ''
+        - type: Link
+          label: Dropdown item
+          altText: ''
+          url: /
+          showIcon: false
+          icon: arrowRight
+          iconPosition: right
+          style: secondary
+          elementId: ''
+      labelStyle: secondary
+  secondaryLinks:
+    - type: Button
+      label: Sign up
+      altText: Sign up
+      url: /
+      showIcon: false
+      icon: arrowRight
+      iconPosition: right
+      style: secondary
+      elementId: ''
+    - type: Button
+      label: Log in
+      altText: ''
+      url: /
+      showIcon: false
+      icon: arrowRight
+      iconPosition: right
+      style: primary
+      elementId: ''
+  variant: logo-left-primary-nav-left
+  colors: bg-light-fg-dark
 ---
