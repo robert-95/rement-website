@@ -79,7 +79,6 @@
             "altText": "Switch language",
             "url": "/en",
             "showIcon": true,
-            "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
