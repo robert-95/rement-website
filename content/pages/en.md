@@ -165,13 +165,13 @@ sections:
       - type: FeaturedItem
         title: Use of land
         text: >
-          2,2 Milliarden Tonnen Bauschutt fallen ab 2025 jährlich bei
-          Gebäudeabriss und Straßenbau an. Die Verwertungsquoten von Bauschutt
-          sind zwar hoch, der funktionale Wert des Betons sinkt jedoch im
-          Vergleich zum Ausgangsmaterial erheblich. Der Großteil des
-          Betonschutts wird  zerkleinert und als Füllmaterial im Straßenbau oder
-          in Sand- und Kiesgruben eingesetzt oder als Abdeckung von Deponien
-          verwendet.
+          From 2025, 2.2 billion tons of construction waste will be generated
+          annually from building demolition and road construction. Although the
+          recycling rates for construction waste are high, the functional value
+          of the concrete decreases considerably compared to the original
+          material. The majority of the concrete rubble is crushed and used as
+          filling material in road construction or in sand and gravel pits or as
+          cover for landfill sites.
         actions: []
         elementId: box2
         colors: bg-light-fg-dark
