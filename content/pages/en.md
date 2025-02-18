@@ -13,9 +13,7 @@ sections:
         self:
           fontWeight: 500
           textAlign: left
-    subtitle: >-
-      Emissionen reduzieren, Upcycling-Produkte gewinnen und neue Märkte
-      erschließen.
+    subtitle: Generating the highest possible value from waste concrete.
     actions:
       - type: Button
         label: Zur Technologie
