@@ -25,7 +25,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Video
+        label: Intro video
         altText: Rement im Video
         url: 'https://youtu.be/Kn1CMVhxS3c?feature=shared'
         showIcon: true
