@@ -4,7 +4,6 @@ import classNames from 'classnames';
 import Header from '../../sections/Header';
 import Footer from '../../sections/Footer';
 import { seoGenerateTitle, seoGenerateMetaTags, seoGenerateMetaDescription } from '../../../utils/seo-utils';
-import siteConfig from '../../content/data/site.json';  // site.json importieren
 
 export default function DefaultBaseLayout(props) {
     const { page, site } = props;
