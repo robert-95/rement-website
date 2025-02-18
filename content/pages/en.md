@@ -586,7 +586,7 @@ sections:
           - pr-8
 seo:
   type: Seo
-  metaTitle: 'Sortenreines, CO2-negatives Beton-Upcyclingert schaffen'
+  metaTitle: 'Sortenreines, CO2-negatives Beton-Upcyclingert schaffe'
   metaDescription: >-
     Mit dem Rement Verfahren Emissionen reduzieren, hochwertige
     Upcycling-Produkte gewinnen und neue Märkte erschließen.
