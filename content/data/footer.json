@@ -2,15 +2,6 @@
     "socialLinks": [],
     "legalLinks": [
         {
-            "label": "Impressum",
-            "url": "/impressum",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "altText": "Link zum Impressum"
-        },
-        {
             "label": "Datenschutz",
             "url": "/datenschutz",
             "icon": "arrowRight",
