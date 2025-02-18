@@ -67,7 +67,7 @@ sections:
       subtitle:
         textAlign: left
   - type: ImageGallerySection
-    subtitle: Unterstützt durch
+    subtitle: Supported by
     images: []
     elementId: ''
     motion: static
