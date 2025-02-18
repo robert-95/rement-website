@@ -68,7 +68,7 @@
             "altText": "Switch language",
             "url": "./",
             "showIcon": true,
-            "icon": "youtube",
+            "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
