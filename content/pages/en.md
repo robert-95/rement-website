@@ -13,7 +13,7 @@ sections:
         self:
           fontWeight: 500
           textAlign: left
-    subtitle: Generating the highest possible value from waste concrete.
+    subtitle: We break concrete down into its components.
     actions:
       - type: Button
         label: Zur Technologie
