@@ -10,7 +10,7 @@ import ChevronDownIcon from '../../svgs/chevron-down';
 import CloseIcon from '../../svgs/close';
 import MenuIcon from '../../svgs/menu';
 
-export default function SecondaryHeader(props) {
+export default function secondaryHeader(props) {
     const { colors = 'bg-light-fg-dark', styles = {} } = props;
     return (
         <header
@@ -20,6 +20,7 @@ export default function SecondaryHeader(props) {
                 colors,
                 'relative',
                 'shadow-header',
+
                 styles?.self?.margin ? mapStyles({ padding: styles?.self?.margin }) : undefined,
                 styles?.self?.padding ? mapStyles({ padding: styles?.self?.padding }) : 'p-4',
                 'z-50'
@@ -30,29 +31,29 @@ export default function SecondaryHeader(props) {
                 <Link href="#main" className="sr-only">
                     Skip to main content
                 </Link>
-                <SecondaryHeaderVariants {...props} />
+                <secondaryHeaderVariants {...props} />
             </div>
         </header>
     );
 }
 
-function SecondaryHeaderVariants(props) {
-    const { variant = 'logo-left-secondary-nav-left', ...rest } = props;
+function secondaryHeaderVariants(props) {
+    const { variant = 'logo-left-primary-nav-left', ...rest } = props;
     switch (variant) {
-        case 'logo-left-secondary-nav-centered':
-            return <SecondaryHeaderLogoLeftSecondaryCentered {...rest} />;
-        case 'logo-left-secondary-nav-right':
-            return <SecondaryHeaderLogoLeftSecondaryRight {...rest} />;
-        case 'logo-centered-secondary-nav-left':
-            return <SecondaryHeaderLogoCenteredSecondaryLeft {...rest} />;
-        case 'logo-centered-secondary-nav-centered':
-            return <SecondaryHeaderLogoCenteredSecondaryCentered {...rest} />;
+        case 'logo-left-primary-nav-centered':
+            return <secondaryHeaderLogoLeftPrimaryCentered {...rest} />;
+        case 'logo-left-primary-nav-right':
+            return <secondaryHeaderLogoLeftPrimaryRight {...rest} />;
+        case 'logo-centered-primary-nav-left':
+            return <secondaryHeaderLogoCenteredPrimaryLeft {...rest} />;
+        case 'logo-centered-primary-nav-centered':
+            return <secondaryHeaderLogoCenteredPrimaryCentered {...rest} />;
         default:
-            return <SecondaryHeaderLogoLeftSecondaryLeft {...rest} />;
+            return <secondaryHeaderLogoLeftPrimaryLeft {...rest} />;
     }
 }
 
-function SecondaryHeaderLogoLeftSecondaryLeft(props) {
+function secondaryHeaderLogoLeftPrimaryLeft(props) {
     const { title, logo, primaryLinks = [], secondaryLinks = [], colors = 'bg-light-fg-dark' } = props;
     return (
         <div className="flex items-center relative">
@@ -82,7 +83,7 @@ function SecondaryHeaderLogoLeftSecondaryLeft(props) {
     );
 }
 
-function SecondaryHeaderLogoLeftSecondaryCentered(props) {
+function secondaryHeaderLogoLeftPrimaryCentered(props) {
     const { title, logo, primaryLinks = [], secondaryLinks = [], colors = 'bg-light-fg-dark' } = props;
     return (
         <div className="flex items-center relative">
@@ -112,7 +113,7 @@ function SecondaryHeaderLogoLeftSecondaryCentered(props) {
     );
 }
 
-function SecondaryHeaderLogoLeftSecondaryRight(props) {
+function secondaryHeaderLogoLeftPrimaryRight(props) {
     const { title, logo, primaryLinks = [], secondaryLinks = [], colors = 'bg-light-fg-dark' } = props;
     return (
         <div className="flex items-center relative">
@@ -148,7 +149,7 @@ function SecondaryHeaderLogoLeftSecondaryRight(props) {
     );
 }
 
-function SecondaryHeaderLogoCenteredSecondaryLeft(props) {
+function secondaryHeaderLogoCenteredPrimaryLeft(props) {
     const { title, logo, primaryLinks = [], secondaryLinks = [], colors = 'bg-light-fg-dark' } = props;
     return (
         <div className="flex items-center relative">
@@ -175,7 +176,7 @@ function SecondaryHeaderLogoCenteredSecondaryLeft(props) {
     );
 }
 
-function SecondaryHeaderLogoCenteredSecondaryCentered(props) {
+function secondaryHeaderLogoCenteredPrimaryCentered(props) {
     const { title, logo, primaryLinks = [], secondaryLinks = [], colors = 'bg-light-fg-dark' } = props;
     return (
         <>
@@ -207,4 +208,245 @@ function SecondaryHeaderLogoCenteredSecondaryCentered(props) {
     );
 }
 
-// Rest of the code remains the same (MobileMenu, SiteLogoLink, ListOfLinks, etc.)
+function MobileMenu(props) {
+    const {
+        title,
+        logo,
+        primaryLinks = [],
+        secondaryLinks = [],
+        colors = 'bg-light-fg-dark',
+        styles = {}
+    } = props;
+    const [isMenuOpen, setIsMenuOpen] = useState(false);
+    const router = useRouter();
+
+    const openMobileMenu = () => {
+        setIsMenuOpen(true);
+        document.body.style.overflow = 'hidden';
+    };
+
+    const closeMobileMenu = () => {
+        setIsMenuOpen(false);
+        document.body.style.overflow = 'unset';
+    };
+
+    useEffect(() => {
+        const handleRouteChange = () => {
+            setIsMenuOpen(false);
+            document.body.style.overflow = 'unset';
+        };
+        router.events.on('routeChangeStart', handleRouteChange);
+
+        return () => {
+            router.events.off('routeChangeStart', handleRouteChange);
+        };
+    }, [router.events]);
+
+    return (
+        <div className="ml-auto lg:hidden">
+            <button
+                aria-label="Open Menu"
+                title="Open Menu"
+                className="p-2 -mr-1 focus:outline-none"
+                onClick={openMobileMenu}
+            >
+                <span className="sr-only">Open Menu</span>
+                <MenuIcon className="fill-current h-6 w-6" />
+            </button>
+            <div
+                className={classNames(
+                    colors,
+                    'fixed',
+                    'inset-0',
+                    styles?.self?.padding ?? 'p-4',
+                    'overflow-y-auto',
+                    'z-10',
+                    isMenuOpen ? 'block' : 'hidden'
+                )}
+            >
+                <div className="flex flex-col min-h-full">
+                    <div className="flex items-center justify-between mb-10">
+                        {(title || logo?.url) && <SiteLogoLink title={title} logo={logo} />}
+                        <button
+                            aria-label="Close Menu"
+                            title="Close Menu"
+                            className="p-2 -mr-1 focus:outline-none"
+                            onClick={closeMobileMenu}
+                        >
+                            <CloseIcon className="fill-current h-6 w-6" />
+                        </button>
+                    </div>
+                    {primaryLinks.length > 0 && (
+                        <ul data-sb-field-path=".primaryLinks">
+                            <ListOfLinks links={primaryLinks} inMobileMenu />
+                        </ul>
+                    )}
+                    {secondaryLinks.length > 0 && (
+                        <ul data-sb-field-path=".secondaryLinks">
+                            <ListOfLinks links={secondaryLinks} inMobileMenu />
+                        </ul>
+                    )}
+                </div>
+            </div>
+        </div>
+    );
+}
+
+function SiteLogoLink({ title, logo }) {
+    return (
+        <Link href="/" className="flex items-center">
+            {logo && <ImageBlock {...logo} data-sb-field-path=".logo" />}
+            {title && (
+                <span className="h4" data-sb-field-path=".title">
+                    {title}
+                </span>
+            )}
+        </Link>
+    );
+}
+
+function ListOfLinks(props) {
+    const { links = [], colors, inMobileMenu = false } = props;
+
+    return (
+        <>
+            {links.map((link, index) => {
+                if (link.__metadata.modelName === 'SubNav') {
+                    return (
+                        <LinkWithSubnav
+                            key={index}
+                            link={link}
+                            inMobileMenu={inMobileMenu}
+                            colors={colors}
+                            data-sb-field-path={`.${index}`}
+                        />
+                    );
+                } else {
+                    return (
+                        <li
+                            key={index}
+                            className={classNames(inMobileMenu ? 'border-t' : 'py-2', {
+                                'py-4': inMobileMenu && link.__metadata.modelName === 'Button'
+                            })}
+                        >
+                            <Action
+                                {...link}
+                                className={classNames(
+                                    'whitespace-nowrap',
+                                    inMobileMenu ? 'w-full' : 'text-base',
+                                    {
+                                        'justify-start py-3':
+                                            inMobileMenu && link.__metadata.modelName === 'Link'
+                                    }
+                                )}
+                                data-sb-field-path={`.${index}`}
+                            />
+                        </li>
+                    );
+                }
+            })}
+        </>
+    );
+}
+
+function LinkWithSubnav(props) {
+    const { link, colors, inMobileMenu = false } = props;
+    const [isSubNavOpen, setIsSubNavOpen] = useState(false);
+    const router = useRouter();
+
+    useEffect(() => {
+        const handleRouteChange = () => {
+            setIsSubNavOpen(false);
+            document.body.style.overflow = 'unset';
+        };
+        router.events.on('routeChangeStart', handleRouteChange);
+
+        return () => {
+            router.events.off('routeChangeStart', handleRouteChange);
+        };
+    }, [router.events]);
+
+    return (
+        <li
+            className={classNames('relative', inMobileMenu ? 'border-t py-3' : 'py-2 group')}
+            onMouseLeave={
+                !process.env.stackbitPreview && !inMobileMenu
+                    ? () => {
+                          setIsSubNavOpen(false);
+                      }
+                    : undefined
+            }
+            data-sb-field-path={props['data-sb-field-path']}
+        >
+            <button
+                aria-expanded={isSubNavOpen ? 'true' : 'false'}
+                onMouseOver={
+                    !process.env.stackbitPreview && !inMobileMenu
+                        ? () => {
+                              setIsSubNavOpen(true);
+                          }
+                        : undefined
+                }
+                onClick={() => setIsSubNavOpen((prev) => !prev)}
+                className={classNames(
+                    'sb-component',
+                    'sb-component-block',
+                    'sb-component-link',
+                    link.labelStyle === 'secondary'
+                        ? 'sb-component-link-secondary'
+                        : 'sb-component-link-primary',
+                    'inline-flex',
+                    'items-center',
+                    inMobileMenu ? 'w-full' : 'text-base',
+                    {
+                        'group-hover:no-underline hover:no-underline':
+                            !inMobileMenu && (link.labelStyle ?? 'primary') === 'primary',
+                        'group-hover:text-primary': !inMobileMenu && link.labelStyle === 'secondary'
+                    }
+                )}
+            >
+                <span data-sb-field-path=".label">{link.label}</span>
+                <ChevronDownIcon
+                    className={classNames(
+                        'fill-current',
+                        'shrink-0',
+                        'h-4',
+                        'w-4',
+                        isSubNavOpen && 'rotate-180',
+                        inMobileMenu ? 'ml-auto' : 'ml-1'
+                    )}
+                />
+            </button>
+            {(link.links ?? []).length > 0 && (
+                <ul
+                    className={classNames(
+                        colors,
+                        inMobileMenu
+                            ? 'p-4 space-y-3'
+                            : 'absolute top-full left-0 w-44 border-t border-primary shadow-header z-10 px-6 pt-5 pb-6 space-y-4',
+                        isSubNavOpen ? 'block' : 'hidden'
+                    )}
+                    data-sb-field-path=".links"
+                >
+                    <ListOfSubNavLinks links={link.links} inMobileMenu={inMobileMenu} />
+                </ul>
+            )}
+        </li>
+    );
+}
+
+function ListOfSubNavLinks({ links = [], inMobileMenu = false }) {
+    return (
+        <>
+            {links.map((link, index) => (
+                <li key={index}>
+                    <Action
+                        {...link}
+                        className={classNames(inMobileMenu ? 'w-full justify-start' : 'text-base')}
+                        data-sb-field-path={`.${index}`}
+                    />
+                </li>
+            ))}
+        </>
+    );
+}
