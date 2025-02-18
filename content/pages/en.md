@@ -16,7 +16,7 @@ sections:
     subtitle: We break concrete down into its components.
     actions:
       - type: Button
-        label: Zur Technologie
+        label: Tech facts
         altText: Zur Technologie
         url: '/#3'
         showIcon: false
