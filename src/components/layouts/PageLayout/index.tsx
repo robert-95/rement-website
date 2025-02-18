@@ -1,12 +1,12 @@
 import * as React from 'react';
-
 import { getBaseLayoutComponent } from '../../../utils/base-layout';
 import { getComponent } from '../../components-registry';
+import { SecondaryHeader } from '../../models/secondaryheader';  // Importiere den SecondaryHeader
 
 export default function PageLayout(props) {
     const { page, site } = props;
     const BaseLayout = getBaseLayoutComponent(page.baseLayout, site.baseLayout);
-    const { title, sections = [] } = page;
+    const { title, secondaryHeader, sections = [] } = page; // secondaryHeader hier extrahieren
 
     return (
         <BaseLayout page={page} site={site}>
@@ -15,6 +15,9 @@ export default function PageLayout(props) {
                     <h1 className="sr-only" data-sb-field-path="title">
                         {title}
                     </h1>
+                )}
+                {secondaryHeader && (  // Hier den secondaryHeader rendern, wenn er vorhanden ist
+                    <SecondaryHeader content={secondaryHeader.content} />
                 )}
                 {sections.length > 0 && (
                     <div data-sb-field-path="sections">
