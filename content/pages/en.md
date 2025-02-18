@@ -191,11 +191,11 @@ sections:
       - type: FeaturedItem
         title: Emissions
         text: >
-          Zur Herstellung von Zement wird ein Kalkstein-Ton-Gemisch bei sehr
-          hohen Temperaturen im Ofen zu Zement gebrannt. Der Energieverbrauch
-          dieses Verfahrens und die damit einhergehenden
-          Kohlenstoffdioxid-Emissionen sind hoch. Die Zementproduktion ist für
-          8% der weltweiten Kohlenstoffdioxid-Emissionen verantwortlich.
+          To produce cement, a mixture of limestone and clay is fired at very
+          high temperatures in a kiln to make cement. The energy consumption of
+          this process and the associated carbon dioxide emissions are high.
+          Cement production is responsible for 8% of global carbon dioxide
+          emissions.
         actions: []
         elementId: box3
         colors: bg-light-fg-dark
