@@ -7,7 +7,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Reclaiming Resources from CO2 and Concrete
+      text: Reclaiming high-value Resources from CO2 and Concrete
       color: text-dark
       styles:
         self:
