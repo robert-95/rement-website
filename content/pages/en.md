@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 'Sortenreines, CO2-negatives Beton-Upcycling'
+title: 'Sortenreines, CO2-negatives Beton-Upcyclin'
 slug: /en
 sections:
   - type: GenericSection
