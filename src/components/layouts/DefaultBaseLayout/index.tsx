@@ -4,6 +4,7 @@ import classNames from 'classnames';
 import Header from '../../sections/Header';
 import Footer from '../../sections/Footer';
 import { seoGenerateTitle, seoGenerateMetaTags, seoGenerateMetaDescription } from '../../../utils/seo-utils';
+import siteConfig from '../../content/data/site.json';  // site.json importieren
 
 export default function DefaultBaseLayout(props) {
     const { page, site } = props;
@@ -11,6 +12,11 @@ export default function DefaultBaseLayout(props) {
     let title = seoGenerateTitle(page, site);
     let metaTags = seoGenerateMetaTags(page, site);
     let metaDescription = seoGenerateMetaDescription(page, site);
+
+    // Überprüfen, ob `page.english` true ist und entsprechend den Header auswählen
+    const headerKey = page.english ? 'header-english' : 'header';
+    const headerData = siteConfig[headerKey];  // Dynamisch header-english oder header wählen
+
     return (
         <div className={classNames('sb-page', pageMeta.pageCssClasses)} data-sb-object-id={pageMeta.id}>
             <div className="sb-base sb-default-base-layout">
@@ -19,7 +25,6 @@ export default function DefaultBaseLayout(props) {
                     {metaDescription && <meta name="description" content={metaDescription} />}
                     {metaTags.map((metaTag) => {
                         if (metaTag.format === 'property') {
-                            // OpenGraph meta tags (og:*) should be have the format <meta property="og:…" content="…">
                             return <meta key={metaTag.property} property={metaTag.property} content={metaTag.content} />;
                         }
                         return <meta key={metaTag.property} name={metaTag.property} content={metaTag.content} />;
@@ -28,8 +33,12 @@ export default function DefaultBaseLayout(props) {
                     <meta name="google-site-verification" content="QxO03R5kblCWRLwf0Nz23ZLZtymP2z3y8aVPa9HE_fE" />
                     {site.favicon && <link rel="icon" href={site.favicon} />}
                 </Head>
-                {site.header && <Header {...site.header} data-sb-object-id={site.header?.__metadata?.id} />}
+                
+                {/* Header basierend auf der Bedingung laden */}
+                {headerData && <Header {...headerData} data-sb-object-id={headerData?.__metadata?.id} />}
+                
                 {props.children}
+                
                 {site.footer && <Footer {...site.footer} data-sb-object-id={site.footer?.__metadata?.id} />}
             </div>
         </div>
