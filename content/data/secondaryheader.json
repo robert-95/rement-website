@@ -53,17 +53,6 @@
         },
         {
             "type": "Link",
-            "label": "LinkedIn",
-            "altText": "LinkedIn",
-            "url": "https://www.linkedin.com/company/rement/",
-            "showIcon": true,
-            "icon": "linkedin",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
             "label": "YouTube",
             "altText": "YouTube",
             "url": "https://www.youtube.com/@rement-concrete-upcycling",
