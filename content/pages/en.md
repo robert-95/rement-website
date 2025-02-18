@@ -136,7 +136,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Rohstoffknappheit
+        title: Raw material shortage
         text: >
           Beton besteht aus einer Vielzahl natürlicher, fossiler Rohstoffe wie
           Sand, Kies, Kalkstein und Ton. Der weltweite Bedarf von 14 Milliarden
