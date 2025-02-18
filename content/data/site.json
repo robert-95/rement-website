@@ -1,10 +1,10 @@
 {
     "favicon": "/images/rement-logo-64.png",
     "header": "content/data/header.json",
-    "header-english": "content/data/header-english.json",
     "footer": "content/data/footer.json",
     "titleSuffix": "Rement",
     "defaultSocialImage": "/images/rement-kreislauf.webp",
     "type": "Config",
-    "defaultMetaTags": []
+    "defaultMetaTags": [],
+    "header-english": "content/data/header-english.json"
 }
