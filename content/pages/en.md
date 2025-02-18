@@ -549,40 +549,6 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: Neuigkeiten
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 3
-    showThumbnail: true
-    showExcerpt: false
-    showDate: true
-    showAuthor: false
-    actions:
-      - type: Button
-        label: Weitere Neuigkeiten
-        altText: Link zum Blog
-        url: /blog
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-    elementId: '5'
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pt-32
-          - pb-24
-          - pl-8
-          - pr-8
 seo:
   type: Seo
   metaTitle: 'Sortenreines, CO2-negatives Beton-Upcyclingert schaffe'
