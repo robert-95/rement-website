@@ -189,7 +189,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
       - type: FeaturedItem
-        title: Emissionen
+        title: Emissions
         text: >
           Zur Herstellung von Zement wird ein Kalkstein-Ton-Gemisch bei sehr
           hohen Temperaturen im Ofen zu Zement gebrannt. Der Energieverbrauch
