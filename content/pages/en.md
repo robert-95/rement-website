@@ -2,6 +2,7 @@
 type: PageLayout
 title: 'Sortenreines, CO2-negatives Beton-Upcyclin'
 slug: /en
+english: true
 sections:
   - type: GenericSection
     title:
