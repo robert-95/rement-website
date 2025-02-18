@@ -47,6 +47,28 @@ export const PageLayout: Model = {
       }
     },
     {
+      type: 'model',
+      name: 'header',
+      label: 'Header',
+      required: false,
+      hidden: false,
+      localized: false,
+      models: [
+        'Header'
+      ]
+    },
+    {
+      type: 'model',
+      name: 'secondaryHeader',
+      label: 'Secondary Header',
+      required: false,
+      hidden: false,
+      localized: false,
+      models: [
+        'SecondaryHeader'
+      ]
+    },
+    {
       type: 'boolean',
       name: 'isDraft',
       label: 'Draft',
