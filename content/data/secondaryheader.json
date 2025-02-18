@@ -1,0 +1,81 @@
+{
+    "logo": {
+        "url": "/images/logo-rement.png",
+        "altText": "Logo dark",
+        "styles": {
+            "self": {
+                "margin": [
+                    "mr-3"
+                ],
+                "opacity": 100
+            }
+        },
+        "type": "ImageBlock",
+        "elementId": "logo"
+    },
+    "primaryLinks": [
+        {
+            "label": "Rement Verfahren",
+            "url": "/#3",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Team",
+            "altText": "Blog",
+            "url": "/#4",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Neuigkeiten",
+            "altText": "Link zum Blog",
+            "url": "/blog",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "label": "Kontakt",
+            "altText": "Link zum Kontaktformular",
+            "url": "/kontakt",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "LinkedIn",
+            "altText": "LinkedIn",
+            "url": "https://www.linkedin.com/company/rement/",
+            "showIcon": true,
+            "icon": "linkedin",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "YouTube",
+            "altText": "YouTube",
+            "url": "https://www.youtube.com/@rement-concrete-upcycling",
+            "showIcon": true,
+            "icon": "youtube",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        }
+    ],
+    "secondaryLinks": [],
+    "variant": "logo-left-primary-nav-left",
+    "colors": "bg-light-fg-dark",
+    "type": "Header"
+}
