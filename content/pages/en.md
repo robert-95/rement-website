@@ -129,7 +129,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Warum Betonrecycling?
+      text: Why concrete recycling?
       color: text-dark
       styles:
         self:
