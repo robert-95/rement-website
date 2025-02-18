@@ -2,7 +2,6 @@
 type: PageLayout
 title: Datenschutzerklärung
 slug: /datenschutz
-english: true
 sections:
   - type: GenericSection
     title:
