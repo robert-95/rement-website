@@ -138,14 +138,14 @@ sections:
       - type: FeaturedItem
         title: Raw material shortage
         text: >
-          Beton besteht aus einer Vielzahl natürlicher, fossiler Rohstoffe wie
-          Sand, Kies, Kalkstein und Ton. Der weltweite Bedarf von 14 Milliarden
-          Kubikmeter Beton im Jahr - Tendenz steigend - lässt diese Rohstoffe
-          immer knapper werden. Naturräume und ihre Ökosysteme sind durch den
-          vermehrten Abbau dieser Rohstoffe gefährdet. Für Sand, der nach Wasser
-          am zweitmeisten verwendete Rohstoff, werden Küsten- und
-          Flusslandschaften ausgebaggert. Die Vereinten Nationen warnen vor
-          einer drohenden globalen Krise.
+          Concrete consists of a variety of natural, fossil-based raw materials
+          such as sand, gravel, limestone and clay. The global demand of 14
+          billion cubic meters of concrete per year - and rising - means that
+          these raw materials are becoming increasingly scarce. Natural areas
+          and their ecosystems are endangered by the increased extraction of
+          these raw materials. Coastal and river landscapes are being dredged
+          for sand, the second most used raw material after water. The United
+          Nations is warning of an impending global crisis.
         actions: []
         elementId: box1
         colors: bg-light-fg-dark
