@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { getBaseLayoutComponent } from '../../../utils/base-layout';
 import { getComponent } from '../../components-registry';
-import { SecondaryHeader } from '../../../sources/local/models/secondaryHeader';  // Importiere den SecondaryHeader
+import { SecondaryHeader } from '../../../../sources/local/models/secondaryHeader';  // Importiere den SecondaryHeader
 
 export default function PageLayout(props) {
     const { page, site } = props;
