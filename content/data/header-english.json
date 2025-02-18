@@ -24,7 +24,7 @@
         },
         {
             "label": "Team",
-            "altText": "Blog",
+            "altText": "Team",
             "url": "/#4",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -32,20 +32,9 @@
             "type": "Link"
         },
         {
-            "type": "Link",
-            "label": "News",
-            "altText": "Link zum Blog",
-            "url": "/blog",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "label": "Contact",
             "altText": "Link zum Kontaktformular",
-            "url": "/kontakt",
+            "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
