@@ -163,7 +163,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
       - type: FeaturedItem
-        title: Flächenverbrauch
+        title: Use of land
         text: >
           2,2 Milliarden Tonnen Bauschutt fallen ab 2025 jährlich bei
           Gebäudeabriss und Straßenbau an. Die Verwertungsquoten von Bauschutt
