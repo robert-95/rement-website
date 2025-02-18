@@ -1,9 +1,9 @@
 import { Model } from '@stackbit/types';
 
-export const Header: Model = {
+export const SecondaryHeader: Model = {
   type: 'data',
-  name: 'Header',
-  label: 'Header',
+  name: 'SecondaryHeader',
+  label: 'Secondary Header',
   labelField: 'title',
   fields: [
     {
@@ -162,5 +162,5 @@ export const Header: Model = {
       icon: 'gear'
     }
   ],
-  file: 'header.json'
+  file: 'secondaryHeader.json'
 };
