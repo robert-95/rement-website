@@ -36,7 +36,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Rement Kreislaufschluss.webp
-      altText: Te
+      altText: Rement value chain overview
       elementId: ''
       styles:
         self:
