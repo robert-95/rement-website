@@ -263,7 +263,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: sortenrein
+        title: DECOMPOSING
         text: >+
           <div style="text-align: center">Beton wird in seine Bestandteile
           zersetzt, welche der bestmöglichen Verwertung zugeführt werden. Sand
