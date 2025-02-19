@@ -33,8 +33,8 @@
         },
         {
             "label": "Contact",
-            "altText": "Link zum Kontaktformular",
-            "url": "/contact",
+            "altText": "Link to contact form",
+            "URL": "/en/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
