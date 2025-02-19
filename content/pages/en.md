@@ -414,7 +414,7 @@ sections:
       - type: FeaturedItem
         title: Material users
         tagline: ''
-        subtitle: 'Aus Bauchemie & Kunststoff-, Farb- und Papierproduktion'
+        subtitle: 'From construction chemicals & plastics, paint and paper production'
         text: >
           Als Lead Customer erhalten Sie Produktproben und Informationen um
           zirkuläre, klimafreundliche Produkte für Ihr Portfolio zu entwickeln.
