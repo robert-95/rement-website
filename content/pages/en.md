@@ -524,7 +524,7 @@ sections:
       - type: Link
         label: Drop us a message
         altText: Link zu Kontaktformular
-        url: /kontakt
+        url: /en/contact
         showIcon: true
         icon: arrowRight
         iconPosition: right
