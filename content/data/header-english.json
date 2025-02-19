@@ -34,7 +34,7 @@
         {
             "label": "Contact",
             "altText": "Link to contact form",
-            "URL": "/en/contact",
+            "url": "/en/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
