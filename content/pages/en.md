@@ -17,7 +17,7 @@ sections:
     actions:
       - type: Button
         label: About the technology
-        altText: Zur Technologie
+        altText: About the technology
         url: '/en/#3'
         showIcon: false
         icon: arrowRight
