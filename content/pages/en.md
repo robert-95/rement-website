@@ -441,8 +441,8 @@ sections:
         tagline: ''
         subtitle: CO2 producers and companies with climate targets
         text: >
-          Wir entwickeln mit Ihnen eine neuartige Wertschöpfungskette, in der
-          Sie von unseren Einspeichermöglichkeiten profitieren.
+          We work with you to develop a new type of value chain in which you
+          benefit from our storage options.
         image:
           type: ImageBlock
           url: /images/global-warming (1).webp
