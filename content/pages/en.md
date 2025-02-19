@@ -416,8 +416,8 @@ sections:
         tagline: ''
         subtitle: 'From construction chemicals & plastics, paint and paper production'
         text: >
-          Als Lead Customer erhalten Sie Produktproben und Informationen um
-          zirkuläre, klimafreundliche Produkte für Ihr Portfolio zu entwickeln.
+          Receive product samples and information to develop circular,
+          climate-friendly products for your portfolio.
         image:
           type: ImageBlock
           url: /images/ecological (2).webp
