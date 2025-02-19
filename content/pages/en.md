@@ -391,8 +391,8 @@ sections:
         tagline: ''
         subtitle: From the C&D Waste Recycling & Cement Industry
         text: >
-          Wir beziehen Sie und Ihre Anforderungen frühzeitig in die Entwicklung
-          von Beton-Upcycling-Anlagen ein.
+          We involve you and your requirements in the development of concrete
+          upcycling systems at an early stage.
         image:
           type: ImageBlock
           url: /images/power-plant.webp
