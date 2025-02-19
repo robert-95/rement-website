@@ -522,7 +522,7 @@ sections:
       *Interesting in joining our team?*
     actions:
       - type: Link
-        label: Schreib uns eine Nachricht
+        label: Drop us a message
         altText: Link zu Kontaktformular
         url: /kontakt
         showIcon: true
