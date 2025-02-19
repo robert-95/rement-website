@@ -553,8 +553,8 @@ seo:
   type: Seo
   metaTitle: 'Upcycling Concrete, Storing Carbon'
   metaDescription: >-
-    Mit dem Rement Verfahren Emissionen reduzieren, hochwertige
-    Upcycling-Produkte gewinnen und neue Märkteerschießen.
+    We break concrete down into its components. Sand, concrete additives and
+    high-value minerals are reclaimed from waste concrete.
   addTitleSuffix: false
   socialImage: /images/Rement Kreislaufschluss.webp
   metaTags: []
