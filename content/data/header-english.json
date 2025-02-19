@@ -16,7 +16,7 @@
     "primaryLinks": [
         {
             "label": "Rement Process",
-            "url": "/#3",
+            "url": "/en/#3",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -25,7 +25,7 @@
         {
             "label": "Team",
             "altText": "Team",
-            "url": "/#4",
+            "url": "/en/#4",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
