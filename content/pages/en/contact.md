@@ -39,7 +39,7 @@ sections:
           width: full
       submitButton:
         type: SubmitButtonFormControl
-        label: Absenden
+        label: Send
         icon: arrowRight
         iconPosition: right
         style: primary
