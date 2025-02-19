@@ -320,7 +320,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
       - type: FeaturedItem
-        title: Echtes upcycling
+        title: Genuine Upcycling
         text: >+
           <div style="text-align: center">Der Wert der Rezyklate übersteigt den
           Neuwert des Betons - es handelt sich somit um echtes Upcycling. Neben
