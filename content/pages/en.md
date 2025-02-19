@@ -389,7 +389,7 @@ sections:
       - type: FeaturedItem
         title: Plant Users
         tagline: ''
-        subtitle: From C&D Waste Recycling & Cement Production
+        subtitle: From C&D waste recycling & cement production
         text: >
           We involve you and your requirements in the development of concrete
           upcycling systems at an early stage.
