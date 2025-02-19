@@ -387,7 +387,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Anwender
+        title: Users
         tagline: ''
         subtitle: Aus Baustoffrecycling & Zement-Produktion
         text: >
