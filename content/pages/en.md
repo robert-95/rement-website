@@ -322,10 +322,11 @@ sections:
       - type: FeaturedItem
         title: Genuine Upcycling
         text: >+
-          <div style="text-align: center">Der Wert der Rezyklate übersteigt den
-          Neuwert des Betons - es handelt sich somit um echtes Upcycling. Neben
-          den Rohstoff-Erlösen können CO<sub>2</sub>-Credits am EU-ETS- oder am
-          stark wachsenden Offsetmarkt angeboten werden.</div>
+          <div style="text-align: center">The value of the recycled materials
+          exceeds the value of the former fresh concrete - it is therefore
+          genuine upcycling. In addition to earnings from raw material sales,
+          CO<sub>2</sub> credits can be offered on the EU ETS or the rapidly
+          growing offset market.</div>
 
         image:
           type: ImageBlock
