@@ -389,7 +389,7 @@ sections:
       - type: FeaturedItem
         title: Users
         tagline: ''
-        subtitle: Aus Baustoffrecycling & Zement-Produktion
+        subtitle: From the C&D Waste Recycling & Cement Industry
         text: >
           Wir beziehen Sie und Ihre Anforderungen frühzeitig in die Entwicklung
           von Beton-Upcycling-Anlagen ein.
