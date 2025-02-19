@@ -349,7 +349,7 @@ sections:
             textAlign: center
     actions:
       - type: Button
-        label: Mehr im Video
+        label: Learn more in our video
         altText: Video Link
         url: 'https://youtu.be/Kn1CMVhxS3c?feature=shared'
         showIcon: false
