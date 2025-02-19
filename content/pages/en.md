@@ -227,7 +227,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Die Lösung für hochwertiges BetonRecycling
+      text: The solution for high-quality concrete recycling
       color: text-dark
     text: >
       Die Rement Technologie zersetzt Betonbrechsände aus der
