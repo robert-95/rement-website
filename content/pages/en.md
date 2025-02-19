@@ -16,7 +16,7 @@ sections:
     subtitle: We break concrete down into its components.
     actions:
       - type: Button
-        label: About the technology
+        label: Technology
         altText: About the technology
         url: '/en/#3'
         showIcon: false
