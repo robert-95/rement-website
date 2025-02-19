@@ -291,7 +291,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
       - type: FeaturedItem
-        title: co2-negativ
+        title: co2-negative
         text: >+
           <div style="text-align: center">CO<sub>2</sub> wird dem Prozess
           zugeführt und in neuen Rohstoffen eingespeichert. Je nach Verwertung
