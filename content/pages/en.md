@@ -18,7 +18,7 @@ sections:
       - type: Button
         label: Tech facts
         altText: Zur Technologie
-        url: '/#3'
+        url: '/en/#3'
         showIcon: false
         icon: arrowRight
         iconPosition: right
