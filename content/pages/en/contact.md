@@ -74,5 +74,6 @@ seo:
   metaTitle: Contact
   metaDescription: We look forward to hearing from you.
   addTitleSuffix: false
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
