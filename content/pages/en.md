@@ -439,7 +439,7 @@ sections:
       - type: FeaturedItem
         title: Decarbonizer
         tagline: ''
-        subtitle: CO2-Abscheider und Unternehmen mit Klimazielen
+        subtitle: CO2 producers and companies with climate targets
         text: >
           Wir entwickeln mit Ihnen eine neuartige Wertschöpfungskette, in der
           Sie von unseren Einspeichermöglichkeiten profitieren.
