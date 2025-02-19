@@ -73,5 +73,6 @@ seo:
   metaTitle: Kontakt
   metaDescription: Wir freuen uns über Ihre Anfrage
   addTitleSuffix: false
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
