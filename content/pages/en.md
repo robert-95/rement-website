@@ -412,7 +412,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Verwerter
+        title: Material users
         tagline: ''
         subtitle: 'Aus Bauchemie & Kunststoff-, Farb- und Papierproduktion'
         text: >
