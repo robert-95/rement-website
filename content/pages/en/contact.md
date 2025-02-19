@@ -71,7 +71,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Contact
-  metaDescription: Wir freuen uns über Ihre Anfrage
+  metaDescription: ''
   addTitleSuffix: false
   metaTags: []
 ---
