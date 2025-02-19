@@ -461,7 +461,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Kontakt aufnehmen
+        label: Contact us
         altText: ''
         url: /kontakt
         showIcon: false
