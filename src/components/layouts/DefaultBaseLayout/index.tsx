@@ -16,7 +16,7 @@ export default function DefaultBaseLayout(props) {
     const lang = isEnglish ? "en" : "de";
 
     return (
-        // <html lang={lang}>
+        <html>
             <head>
                 <title>{title}</title>
                 {metaDescription && <meta name="description" content={metaDescription} />}
