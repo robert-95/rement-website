@@ -471,7 +471,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: Partner Gesucht
+      label: PARTNERS WANTED
       color: text-light
       styles:
         self:
