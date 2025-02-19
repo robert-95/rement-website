@@ -242,7 +242,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: Die Technologie
+      label: TECHNOLOGY
       color: text-primary
     elementId: '3'
     colors: bg-light-fg-dark
