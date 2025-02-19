@@ -379,7 +379,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Arbeiten Sie mit uns zusammen
+      text: Let's collaborate
       color: text-light
       styles:
         self:
