@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 'Sortenreines, CO2-negatives Beton-Upcyclin'
+title: 'Upcycling Concrete, Storing Carbon'
 slug: /en
 english: true
 sections:
