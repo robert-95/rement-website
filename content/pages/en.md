@@ -519,7 +519,7 @@ sections:
         textAlign: center
   - type: GenericSection
     text: |
-      *Du möchtest Teil unseres Teams werden?*
+      *Interesting in joining our team?*
     actions:
       - type: Link
         label: Schreib uns eine Nachricht
