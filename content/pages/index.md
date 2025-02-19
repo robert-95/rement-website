@@ -605,6 +605,9 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
+      content: >-
+        <link rel="alternate" href="https://rement.tech" hreflang="de" /><link
+        rel="alternate" href="https://rement.tech/en" hreflang="en" />
   addTitleSuffix: false
 type: PageLayout
 ---
