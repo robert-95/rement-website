@@ -231,8 +231,8 @@ sections:
       color: text-dark
     text: >
       The Rement technology dissolves fine waste concrete from demolition
-      material while storing CO2. In addition to sand, concrete addives and
-      high-purity calcium carbonate are obtained.
+      material while storing CO<sub>2</sub>. In addition to sand, concrete
+      addives and high-purity calcium carbonate are obtained.
     actions: []
     media:
       type: ImageBlock
