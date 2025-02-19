@@ -6,7 +6,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Melden Sie sich gerne
+      text: Send us a message
       color: text-dark
     text: >
       Would you like to find out more about the Rement process, get to know us
