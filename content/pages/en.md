@@ -230,10 +230,9 @@ sections:
       text: The solution for high-quality concrete recycling
       color: text-dark
     text: >
-      Die Rement Technologie zersetzt Betonbrechsände aus der
-      Abbruchbetonverwertung unter Bindung von Kohlenstoffdioxid sortenrein.
-      Neben Sand wird hochreines Calciumcarbonat und puzzolanisch-reaktives
-      Material gewonnen.
+      The Rement technology dissolves fine waste concrete from demolition
+      material while storing CO2. In addition to sand, concrete addives and
+      high-purity calcium carbonate are obtained.
     actions: []
     media:
       type: ImageBlock
