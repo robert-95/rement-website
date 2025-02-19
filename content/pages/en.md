@@ -463,7 +463,7 @@ sections:
       - type: Button
         label: Contact us
         altText: ''
-        url: /kontakt
+        url: /en/contact
         showIcon: false
         icon: arrowRight
         iconPosition: right
