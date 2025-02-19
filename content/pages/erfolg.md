@@ -5,7 +5,7 @@ slug: /erfolg
 sections:
   - type: GenericSection
     title:
-      text: Ihre Nachricht wurde gesendet
+      text: Vielen Dank / Thank you
       color: text-dark
       type: TitleBlock
     subtitle: Wir werden uns in Kürze bei Ihnen melden
