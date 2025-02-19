@@ -551,7 +551,7 @@ sections:
         textAlign: center
 seo:
   type: Seo
-  metaTitle: 'Sortenreines, CO2-negatives Beton-Upcyclingert schaffe'
+  metaTitle: 'Upcycling Concrete, Storing Carbon'
   metaDescription: >-
     Mit dem Rement Verfahren Emissionen reduzieren, hochwertige
     Upcycling-Produkte gewinnen und neue Märkteerschießen.
