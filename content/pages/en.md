@@ -437,7 +437,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Decarbonisierer
+        title: Decarbonizer
         tagline: ''
         subtitle: CO2-Abscheider und Unternehmen mit Klimazielen
         text: >
