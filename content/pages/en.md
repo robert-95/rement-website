@@ -387,7 +387,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Users
+        title: Technology Users
         tagline: ''
         subtitle: From the C&D Waste Recycling & Cement Industry
         text: >
