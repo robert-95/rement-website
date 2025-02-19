@@ -2,6 +2,7 @@
 type: PageLayout
 title: Contact
 slug: /en/contact
+english: true
 sections:
   - type: GenericSection
     title:
