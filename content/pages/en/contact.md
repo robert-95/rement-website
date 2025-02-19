@@ -9,9 +9,9 @@ sections:
       text: Melden Sie sich gerne
       color: text-dark
     text: >
-      Sie möchten mehr über das Rement Verfahren erfahren, uns genauer
-      kennenlernen oder sind an einer Zusammenarbeit interessiert? Schreiben Sie
-      uns gerne eine Nachricht und wir melden uns zeitnah zurück.
+      Would you like to find out more about the Rement process, get to know us
+      better or are you interested in working with us? Please send us a message
+      and we will get back to you as soon as possible.
     actions: []
     media:
       type: FormBlock
