@@ -95,7 +95,7 @@ sections:
       type: ImageBlock
       url: /images/supporter-logos-block-1500.webp
       altText: >-
-        Logos von Rement-Unterstützern KIT, IMB, KIT Gründerschmiede, Remove,
+        Logos of Rement-supportorters KIT, IMB, KIT Gründerschmiede, Remove,
         Smart Green, Futury, Helmholtz, BMWK, EU und EXIST
       elementId: ''
       styles:
