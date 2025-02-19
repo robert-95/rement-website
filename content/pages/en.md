@@ -237,7 +237,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Rement-Process.webp
-      altText: Überblick über das Rement Verfahren
+      altText: Overview of Rement process
       elementId: ''
     badge:
       type: Badge
