@@ -265,10 +265,10 @@ sections:
       - type: FeaturedItem
         title: DECOMPOSING
         text: >+
-          <div style="text-align: center">Beton wird in seine Bestandteile
-          zersetzt, welche der bestmöglichen Verwertung zugeführt werden. Sand
-          wird erneut im Bau eingesetzt, puzzolanisch-reaktives Material dient
-          als Betonzusatzstoff und PCC als Füllstoff und Pigment.</div>
+          <div style="text-align: center">Concrete is broken down into its
+          components, which are recycled in the best possible way. Sand is
+          reused in construction, pozzolanic-reactive material is used as a
+          concrete additive and PCC as a filler and pigment.</div>
 
         image:
           type: ImageBlock
