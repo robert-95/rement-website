@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Kontakt
+title: Contact
 slug: /en/contact
 sections:
   - type: GenericSection
