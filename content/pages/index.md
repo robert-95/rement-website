@@ -2,7 +2,7 @@
 title: 'Sortenreines, CO2-negatives Beton-Upcycling'
 slug: /
 sections:
-  - type: GenericSection
+  - type: HeadlineSection
     title:
       text: 'Sortenreines, CO2-negatives Beton-Upcycling'
       color: text-dark
