@@ -1,5 +1,5 @@
 ---
-title: 'Rement - Sortenreines, CO2-negatives Beton-Upcycling'
+title: Rement - Wir entwickeln hochwertiges Betonrecycling
 slug: /
 sections:
   - type: GenericSection
