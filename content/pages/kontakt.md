@@ -73,10 +73,5 @@ seo:
   metaTitle: Kontakt
   metaDescription: Wir freuen uns über Ihre Anfrage
   addTitleSuffix: false
-  metaTags:
-    - type: MetaTag
-      content: >-
-        <link rel="alternate" href="https://rement.tech/kontakt" hreflang="de"
-        /><link rel="alternate" href="https://rement.tech/en/contact"
-        hreflang="en" />
+  metaTags: []
 ---
