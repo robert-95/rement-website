@@ -1,0 +1,80 @@
+{
+    "logo": {
+        "url": "/images/logo-rement.webp",
+        "altText": "Logo dark",
+        "styles": {
+            "self": {
+                "margin": [
+                    "mr-3"
+                ],
+                "opacity": 100
+            }
+        },
+        "type": "ImageBlock",
+        "elementId": "logo"
+    },
+    "primaryLinks": [
+        {
+            "label": "Rement Process",
+            "url": "/en/#3",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Team",
+            "altText": "Team",
+            "url": "/en/#4",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Contact",
+            "altText": "Link to contact form",
+            "url": "/en/contact",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "LinkedIn",
+            "altText": "LinkedIn",
+            "url": "https://www.linkedin.com/company/rement/",
+            "showIcon": true,
+            "icon": "linkedin",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "YouTube",
+            "altText": "YouTube",
+            "url": "https://www.youtube.com/@rement-concrete-upcycling",
+            "showIcon": true,
+            "icon": "youtube",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "DE/ENG",
+            "altText": "Switch language",
+            "url": "/",
+            "showIcon": true,
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        }
+    ],
+    "secondaryLinks": [],
+    "variant": "logo-left-primary-nav-left",
+    "colors": "bg-light-fg-dark",
+    "type": "Header"
+}

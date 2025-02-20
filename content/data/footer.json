@@ -1,26 +1,7 @@
 {
     "socialLinks": [],
-    "legalLinks": [
-        {
-            "label": "Impressum",
-            "url": "/impressum",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "altText": "Link zum Impressum"
-        },
-        {
-            "label": "Datenschutz",
-            "url": "/datenschutz",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "altText": "Link zur Datenschutzerklärung"
-        }
-    ],
-    "copyrightText": "Rement wird im Rahmen des EXIST Forschungstransfers durch das Bundesministerium für Wirtschaft und Klimaschutz und die Europäische Union unterstützt.\n\nCopyright Rement - 2024. \n",
+    "legalLinks": [],
+    "copyrightText": "Rement is supported by the Federal Ministry for Economic Affairs and Climate Protection and the European Union as part of the EXIST research transfer program.\n\nCopyright Rement - 2024.\n",
     "colors": "bg-light-fg-dark",
     "type": "Footer"
 }
