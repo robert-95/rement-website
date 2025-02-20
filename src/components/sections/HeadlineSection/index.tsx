@@ -6,7 +6,7 @@ import { getComponent } from '../../components-registry';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import { getDataAttrs } from '../../../utils/get-data-attrs';
 import Section from '../Section';
-import TitleBlock from '../../blocks/TitleBlock';
+import PrimaryTitleBlock from '../../blocks/PrimaryTitleBlock';
 import { Action, Badge } from '../../atoms';
 
 export default function GenericSection(props) {
@@ -46,7 +46,7 @@ export default function GenericSection(props) {
                         })}
                     >
                         {badge && <Badge {...badge} data-sb-field-path=".badge" />}
-                        {title && <TitleBlock {...title} className={classNames({ 'mt-4': badge?.label })} data-sb-field-path=".title" />}
+                        {title && <PrimaryTitleBlock {...title} className={classNames({ 'mt-4': badge?.label })} data-sb-field-path=".title" />}
                         {subtitle && (
                             <p
                                 className={classNames('text-lg', 'sm:text-2xl', styles?.subtitle ? mapStyles(styles?.subtitle) : undefined, {
