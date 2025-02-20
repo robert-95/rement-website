@@ -597,7 +597,7 @@ sections:
           - pl-8
           - pr-8
 seo:
-  metaTitle: 'Rement - Sortenreines, CO2-negatives Beton-Upcycling'
+  metaTitle: Rement - Recycling-Rohstoffe aus Abbruchbeton
   metaDescription: >-
     Mit dem Rement Verfahren Emissionen reduzieren, hochwertige
     Upcycling-Produkte gewinnen und neue Märkte erschließen.
