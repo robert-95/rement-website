@@ -1,5 +1,5 @@
 ---
-title: Rement - Wir entwickeln hochwertiges Betonrecycling
+title: Rement - Recycling-Rohstoffe aus Abbruchbeton
 slug: /
 sections:
   - type: GenericSection
