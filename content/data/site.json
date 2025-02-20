@@ -5,5 +5,6 @@
     "titleSuffix": "Rement",
     "defaultSocialImage": "/images/rement-kreislauf.webp",
     "type": "Config",
-    "defaultMetaTags": []
+    "defaultMetaTags": [],
+    "header-english": "content/data/header-english.json"
 }

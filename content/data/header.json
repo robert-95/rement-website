@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/logo-rement.png",
+        "url": "/images/logo-rement.webp",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -71,6 +71,16 @@
             "icon": "youtube",
             "iconPosition": "right",
             "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "DE/ENG",
+            "altText": "Switch language",
+            "url": "/en",
+            "showIcon": true,
+            "iconPosition": "right",
+            "style": "secondary",
             "elementId": ""
         }
     ],

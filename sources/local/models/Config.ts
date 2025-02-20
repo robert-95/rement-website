@@ -68,7 +68,19 @@ export const Config: Model = {
           'MetaTag'
         ]
       }
+    },
+    {
+      type: 'reference',
+      name: 'header-english',
+      label: 'Header configuration',
+      required: false,
+      hidden: false,
+      localized: false,
+      models: [
+        'Header'
+      ]
     }
+    
   ],
   singleInstance: true,
   readOnly: true,
