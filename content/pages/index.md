@@ -606,6 +606,7 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:locale'
+      content: de
   addTitleSuffix: false
 type: PageLayout
 ---
