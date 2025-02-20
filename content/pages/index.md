@@ -603,11 +603,7 @@ seo:
     Upcycling-Produkte gewinnen und neue Märkte erschließen.
   socialImage: /images/Rement Kreislaufschluss.webp
   type: Seo
-  metaTags:
-    - type: MetaTag
-      content: >-
-        <link rel="alternate" href="https://rement.tech" hreflang="de" /><link
-        rel="alternate" href="https://rement.tech/en" hreflang="en" />
+  metaTags: []
   addTitleSuffix: false
 type: PageLayout
 ---
