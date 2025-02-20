@@ -55,5 +55,6 @@ seo:
   socialImage: /images/Rement LinkedIn Cover Texture.png
   metaTags:
     - type: MetaTag
+      property: 'og:locale'
 type: PostFeedLayout
 ---
