@@ -605,6 +605,10 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
+      content: >-
+        <link rel="alternate" href="https://www.example.com/de" hreflang="de"
+        />    <link rel="alternate" href="https://www.example.com/en"
+        hreflang="en" />
   addTitleSuffix: false
 type: PageLayout
 ---
