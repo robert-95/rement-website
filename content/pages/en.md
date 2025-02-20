@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Rement - Concrete Recycling
+title: Rement - Reclaiming Recycling Materials from Waste Concrete
 slug: /en
 english: true
 sections:
