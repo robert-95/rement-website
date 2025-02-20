@@ -70,8 +70,8 @@ sections:
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Kontakt
-  metaDescription: Wir freuen uns über Ihre Anfrage
+  metaTitle: Kontaktanfrage
+  metaDescription: Wir freuen uns über Ihre Nachricht
   addTitleSuffix: false
   metaTags: []
 ---
