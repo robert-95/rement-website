@@ -73,5 +73,6 @@ seo:
   metaTitle: Kontaktanfrage
   metaDescription: Wir freuen uns über Ihre Nachricht
   addTitleSuffix: false
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---
