@@ -71,7 +71,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Kontaktanfrage
-  metaDescription: Wir freuen uns über Ihre Anfrage
+  metaDescription: Wir freuen uns über Ihre Nachricht
   addTitleSuffix: false
   metaTags: []
 ---
