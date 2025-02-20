@@ -13,11 +13,10 @@ export default function DefaultBaseLayout(props) {
     let metaDescription = seoGenerateMetaDescription(page, site);
     const isEnglish = page?.english === true;
     const headerData = isEnglish ? site['header-english'] : site.header;
-    const lang = isEnglish ? "en" : "de";
 
     return (
-        <html lang={lang}>
-            <head>
+        <>
+            <Head>
                 <title>{title}</title>
                 {metaDescription && <meta name="description" content={metaDescription} />}
                 {metaTags.map((metaTag) => {
@@ -29,14 +28,14 @@ export default function DefaultBaseLayout(props) {
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <meta name="google-site-verification" content="QxO03R5kblCWRLwf0Nz23ZLZtymP2z3y8aVPa9HE_fE" />
                 {site.favicon && <link rel="icon" href={site.favicon} />}
-            </head>
-            <body className={classNames('sb-page', pageMeta.pageCssClasses)} data-sb-object-id={pageMeta.id}>
+            </Head>
+            <div className={classNames('sb-page', pageMeta.pageCssClasses)} data-sb-object-id={pageMeta.id}>
                 <div className="sb-base sb-default-base-layout">
                     {headerData && <Header {...headerData} data-sb-object-id={headerData?.__metadata?.id} />}
                     {props.children}
                     {site.footer && <Footer {...site.footer} data-sb-object-id={site.footer?.__metadata?.id} />}
                 </div>
-            </body>
-        </html>
+            </div>
+        </>
     );
 }
