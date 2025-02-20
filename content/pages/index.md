@@ -606,6 +606,7 @@ seo:
   metaTags:
     - type: MetaTag
     - type: MetaTag
+    - type: MetaTag
   addTitleSuffix: false
 type: PageLayout
 ---
