@@ -76,6 +76,6 @@ seo:
   addTitleSuffix: false
   metaTags:
     - type: MetaTag
-      content: ''
+      content: en
       property: 'og:locale'
 ---
