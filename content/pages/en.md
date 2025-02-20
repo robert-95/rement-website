@@ -557,9 +557,5 @@ seo:
     high-value minerals are reclaimed from waste concrete.
   addTitleSuffix: false
   socialImage: /images/Rement Kreislaufschluss.webp
-  metaTags:
-    - type: MetaTag
-      content: >-
-        <link rel="alternate" href="https://rement.tech" hreflang="de" /><link
-        rel="alternate" href="https://rement.tech/en" hreflang="en" />
+  metaTags: []
 ---
