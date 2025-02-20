@@ -559,4 +559,5 @@ seo:
   socialImage: /images/Rement Kreislaufschluss.webp
   metaTags:
     - type: MetaTag
+      property: 'og:locale'
 ---
