@@ -76,4 +76,5 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:locale'
+      content: de
 ---
