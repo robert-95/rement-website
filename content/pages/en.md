@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 'Rement - We develop '
+title: Rement - Concrete Recycling
 slug: /en
 english: true
 sections:
