@@ -1,6 +1,6 @@
 import { Model } from '@stackbit/types';
 
-export const GenericSection: Model = {
+export const HeadlineSection: Model = {
   type: 'object',
   name: 'GenericSection',
   label: 'Section',
