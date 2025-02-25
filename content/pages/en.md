@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 'Upcycling Concrete, Storing Carbon'
+title: Rement - Reclaiming Recycling Materials from Waste Concrete
 slug: /en
 english: true
 sections:
@@ -519,7 +519,7 @@ sections:
         textAlign: center
   - type: GenericSection
     text: |
-      *Interesting in joining our team?*
+      *Interested in joining our team?*
     actions:
       - type: Link
         label: Drop us a message
@@ -551,7 +551,7 @@ sections:
         textAlign: center
 seo:
   type: Seo
-  metaTitle: 'Upcycling Concrete, Storing Carbon'
+  metaTitle: Rement - Reclaiming Recycling Materials from Waste Concrete
   metaDescription: >-
     We break concrete down into its components. Sand, concrete additives and
     high-value minerals are reclaimed from waste concrete.
