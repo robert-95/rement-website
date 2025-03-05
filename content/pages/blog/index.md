@@ -1,5 +1,5 @@
 ---
-title: Neuigkeiten
+title: Blog - Neuigkeiten über Rement
 slug: /blog
 postFeed:
   showThumbnail: true
