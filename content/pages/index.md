@@ -526,6 +526,7 @@ sections:
           - pt-10
       subtitle:
         textAlign: center
+    subtitle: ''
   - type: GenericSection
     text: |
       *Du möchtest Teil unseres Teams werden?*
