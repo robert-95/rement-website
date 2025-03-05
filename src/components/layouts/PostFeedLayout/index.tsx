@@ -18,11 +18,6 @@ export default function PostFeedLayout(props) {
     return (
         <BaseLayout page={page} site={site}>
             <main id="main" className="sb-layout sb-page-layout">
-                {title && (
-                    <h1 className="sr-only" data-sb-field-path="title">
-                        {title}
-                    </h1>
-                )}
                 {renderSections(topSections, 'topSections')}
                 <PostFeedSection {...postFeed} posts={items} pageLinks={pageLinks} searchBox={searchBox} data-sb-field-path="postFeed" />
                 {renderSections(bottomSections, 'bottomSections')}
