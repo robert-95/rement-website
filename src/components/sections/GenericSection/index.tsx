@@ -48,14 +48,14 @@ export default function GenericSection(props) {
                         {badge && <Badge {...badge} data-sb-field-path=".badge" />}
                         {title && <TitleBlock {...title} className={classNames({ 'mt-4': badge?.label })} data-sb-field-path=".title" />}
                         {subtitle && (
-                            <h2
+                            <p
                                 className={classNames('text-lg', 'sm:text-2xl', styles?.subtitle ? mapStyles(styles?.subtitle) : undefined, {
                                     'mt-4': badge?.label || title?.text
                                 })}
                                 data-sb-field-path=".subtitle"
                             >
                                 {subtitle}
-                            </h2>
+                            </p>
                         )}
                         {text && (
                             <Markdown
