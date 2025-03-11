@@ -362,6 +362,11 @@ sections:
     styles:
       self:
         justifyContent: center
+        margin:
+          - mt-1
+          - ml-1
+          - mb-1
+          - mr-1
       subtitle:
         textAlign: center
   - type: RecentPostsSection
