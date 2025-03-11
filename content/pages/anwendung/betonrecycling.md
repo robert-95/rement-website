@@ -141,15 +141,15 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      Der Betonbrechsand wird Rückstandslos in neue Rohstoffe zersetzt, welche
-      Ihnen neue Erlöslinien öffnen. Die größte Massenfraktion entfällt auf die
-      Gesteinskörnung, welche von Zementanhaftungen befreit wieder im Neubau
-      eingesetzt werden kann. Aus den Calciumbestandteilen des Zements und dem
-      CO2 entsteht hochreines, feines und weißes Calciumcarbonat (siehe Foto),
-      welches in dieser Qualität als weißes Farbpigment und Füllstoff in der
-      (bau-)chemischen Industrie eingesetzt werden kann. Als drittes Produkt
-      wird ein puzzolanisch reaktives Feinmaterial gewonnen, was als
-      Betonzusatzstoff eingesetzt werden kann.
+      Der Betonbrechsand wird rückstandslos in drei neue Recycling-Rohstoffe
+      zersetzt, welche Ihnen neue Erlöslinien öffnen. Die größte Massenfraktion
+      entfällt auf die Gesteinskörnung, welche von Zementanhaftungen befreit
+      wieder im Neubau eingesetzt werden kann. Feines, puzzolanisch reaktives
+      Material wird gesondert separiert und kann als Betonzusatzstoff eingesetzt
+      werden. Aus den Calciumbestandteilen des Zements des Abbruchbetons und dem
+      CO<sub>2</sub> entsteht hochreines, feines und weißes Calciumcarbonat
+      (siehe Foto), welches in dieser Qualität als weißes Farbpigment und
+      Füllstoff in der (bau-)chemischen Industrie eingesetzt werden kann.
     actions: []
     media:
       type: ImageBlock
