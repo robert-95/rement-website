@@ -72,6 +72,13 @@ sections:
       url: /images/betonrecycling-wertschöpfungskette.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
+      styles:
+        self:
+          padding:
+            - pt-11
+            - pl-11
+            - pb-11
+            - pr-11
     elementId: ''
     colors: bg-light-fg-dark
     styles:
