@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: ''
+title: Betonrecycling
 slug: /anwendung/betonrecycling
 sections:
   - type: GenericSection
