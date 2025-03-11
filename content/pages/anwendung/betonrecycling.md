@@ -47,7 +47,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ein neuer Schritt in der Recycling-Wertschöpfungskette
+      text: Eine erweiterte Recycling-Wertschöpfungskette
       color: text-dark
       styles:
         self:
