@@ -8,6 +8,9 @@ sections:
       type: TitleBlock
       text: Betonrecycling der neusten Generation
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: >-
       Hochwertige Rezyklate und CO2-Speicherung - unsere
       Betonrecycling-Technologie eröffnet Baustoffrecycling-Unternehmen völlig
