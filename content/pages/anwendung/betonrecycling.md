@@ -88,45 +88,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/supporter-logos-block-1500.webp
-      altText: >-
-        Logos von Rement-Unterstützern KIT, IMB, KIT Gründerschmiede, Remove,
-        Smart Green, Futury, Helmholtz, BMWK, EU und EXIST
-      elementId: ''
-      styles:
-        self:
-          margin:
-            - mt-0
-            - ml-0
-            - mb-0
-            - mr-0
-          padding:
-            - pt-0
-            - pl-28
-            - pb-0
-            - pr-28
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-        justifyContent: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
