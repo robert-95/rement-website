@@ -48,7 +48,7 @@ sections:
       color: text-dark
       styles:
         self:
-          fontWeight: 400
+          fontWeight: 700
     subtitle: ''
     text: >
       A Stackbit website is a git repo that you own. Every code commit is
