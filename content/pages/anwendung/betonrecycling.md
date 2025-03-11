@@ -54,15 +54,23 @@ sections:
           fontWeight: 400
     subtitle: ''
     text: >
-      A Stackbit website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work. A Stackbit website
-      is a git repo that you own. Every code commit is instantly reflected in
-      the visual editor and since every visual edit is a git commit, git
-      workflows and collaboration just work. A Stackbit website is a git repo
-      that you own. Every code commit is instantly reflected in the visual
-      editor and since every visual edit is a git commit, git workflows and
-      collaboration just work. A Stackbit website is a git repo that you own. 
+      Rement-Anlagen werden sich nahtlos in existierende
+      Betonrecycling-Wertschöpfungsketten einfügen. Wie gewohnt wird das
+      Abbruchmaterial vorsortiert und entweder vor Ort auf der Baustelle oder
+      stationär auf dem Betriebshof gebrochen. Im Anschluss sollte das Material
+      zur Unterteilung in verschiedene Korngrößen gesiebt werden, bevor es in
+      der Rement-Anlage verarbeitet wird. Je nach Größe der Anlage sollte eine
+      Belieferung von mehreren regionalen Recycling-Standorten angestrebt
+      werden.
+
+
+      Rement-Anlagen arbeiten langsamer als Brecher und Siebmaschinen, dafür
+      aber dauerhaft und kontinuierlich. Vor der Anlage sollte entsprechend ein
+      Eingangslager für den gebrochen Recycling-Beton eingerichtet werden. Die
+      Betonrecycling-Anlagen verwenden zur Zersetzung des Abbruchbetons
+      CO<sub>2</sub>, welches im Prozess dauerhaft gespeichert wird. Das
+      CO<sub>2</sub> kann entweder direkt aus einer fossilen Punktquelle in
+      Standortnähe entnommen, oder verflüssigt angeliefert werden.
     actions:
       - type: Link
         label: Mehr zur Technologie
