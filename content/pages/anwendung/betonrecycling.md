@@ -339,7 +339,7 @@ sections:
               - pl-12
               - pr-12
             textAlign: left
-            borderRadius: none
+            borderRadius: large
             flexDirection: row
             justifyContent: flex-start
     elementId: ''
