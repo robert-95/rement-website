@@ -107,7 +107,7 @@ sections:
       - type: FeaturedItem
         title: Nachhaltigkeit ✓
         text: |+
-          <div style="text-align: center">Kurzer Text.</div>
+          <div style="text-align: left">Kurzer Text.</div>
 
         image:
           type: ImageBlock
