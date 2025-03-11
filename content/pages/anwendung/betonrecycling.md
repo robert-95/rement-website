@@ -9,8 +9,9 @@ sections:
       text: Betonrecycling der neusten Generation
       color: text-dark
     subtitle: >-
-      Brechen, Sieben, Rement. Unsere Betonrecycling-Technologie gewinnt den
-      maximalen Mehrwert aus Ihrem Abbruchbeton.
+      Hochwertige Rezyklate und CO2-Speicherung - unsere
+      Betonrecycling-Technologie eröffnet Baustoffrecyclern völlig neue
+      Möglichkeiten.
     text: >
       Zugeschnitten auf Unternehmen aus dem Baustoffrecycling entwickeln wir das
       Betonrecycling der Zukunft - vom Prototyp-Stadium, bis zum Piloten und zur
