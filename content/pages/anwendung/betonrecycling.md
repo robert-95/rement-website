@@ -10,7 +10,7 @@ sections:
       color: text-dark
       styles:
         self:
-          fontWeight: 500
+          fontWeight: 400
     subtitle: >-
       Hochwertige Rezyklate und CO2-Speicherung - unsere
       Betonrecycling-Technologie eröffnet Baustoffrecycling-Unternehmen völlig
