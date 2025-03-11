@@ -54,7 +54,7 @@ sections:
       text: ''
     items:
       - type: FeaturedItem
-        title: Neue Umsatz-Potentiale ✓
+        title: Rohstoff-Sicherheit ✓
         text: |+
           <div style="text-align: center">Kurzer Text.</div>
 
