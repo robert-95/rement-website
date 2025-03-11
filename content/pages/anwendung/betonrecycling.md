@@ -77,7 +77,7 @@ sections:
           padding:
             - pt-11
             - pl-11
-            - pb-11
+            - pb-20
             - pr-0
     elementId: ''
     colors: bg-light-fg-dark
