@@ -308,10 +308,8 @@ sections:
         title: This is what we do best
         tagline: Feature 1
         subtitle: Let us tell you all about this feature
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          fdfd
         image:
           type: ImageBlock
           url: /images/post-image-4.svg
