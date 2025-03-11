@@ -54,7 +54,7 @@ sections:
       text: Vorteile im Überblick
     items:
       - type: FeaturedItem
-        title: "sortenrein\_☑"
+        title: "sortenrein\_✓"
         text: |+
           <div style="text-align: center">Kurzer Text.</div>
 
