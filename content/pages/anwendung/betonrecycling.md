@@ -17,7 +17,7 @@ sections:
       bis zum Piloten und zur vollskalierten Anlage.
     actions:
       - type: Button
-        label: Get started
+        label: Möglichkeiten zur Zusammenarbeit
         altText: ''
         url: /
         showIcon: false
