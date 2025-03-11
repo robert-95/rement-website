@@ -55,8 +55,9 @@ sections:
     items:
       - type: FeaturedItem
         title: Rohstoff-Sicherheit ✓
-        text: |+
-          <div style="text-align: center">Kurzer Text.</div>
+        text: >+
+          <div style="text-align: center">Gesteinskörnung aus Abbruchbeton, auch
+          ohne neue Sandgruben.</div>
 
         image:
           type: ImageBlock
