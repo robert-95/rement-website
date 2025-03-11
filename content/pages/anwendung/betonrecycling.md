@@ -141,9 +141,15 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A Stackbit website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Der Betonbrechsand wird Rückstandslos in neue Rohstoffe zersetzt, welche
+      Ihnen neue Erlöslinien öffnen. Die größte Massenfraktion entfällt auf die
+      Gesteinskörnung, welche von Zementanhaftungen befreit wieder im Neubau
+      eingesetzt werden kann. Aus den Calciumbestandteilen des Zements und dem
+      CO2 entsteht hochreines, feines und weißes Calciumcarbonat (siehe Foto),
+      welches in dieser Qualität als weißes Farbpigment und Füllstoff in der
+      (bau-)chemischen Industrie eingesetzt werden kann. Als drittes Produkt
+      wird ein puzzolanisch reaktives Feinmaterial gewonnen, was als
+      Betonzusatzstoff eingesetzt werden kann.
     actions: []
     media:
       type: ImageBlock
