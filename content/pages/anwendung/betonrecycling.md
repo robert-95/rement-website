@@ -101,7 +101,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ausgangsmaterial
+      text: Feiner Abbruchbeton als Ausgangsmaterial
       color: text-dark
     subtitle: Subtitle goes here
     text: >
