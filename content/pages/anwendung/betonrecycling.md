@@ -109,7 +109,7 @@ sections:
         title: Nachhaltigkeit ✓
         text: >+
           <div style="text-align: left">Optimale Ressourceneffizienz und
-          maximale CO<sub>2</sub>-Speicherwirkung.</div>
+          CO<sub>2</sub>-Speicherwirkung.</div>
 
         image:
           type: ImageBlock
