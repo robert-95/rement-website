@@ -347,6 +347,7 @@ sections:
               - ml-1
               - mb-1
               - mr-1
+            borderStyle: solid
     elementId: ''
     variant: tabs-nav
     colors: bg-light-fg-dark
