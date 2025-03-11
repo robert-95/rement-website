@@ -367,6 +367,11 @@ sections:
           - ml-1
           - mb-1
           - mr-1
+        padding:
+          - pt-1
+          - pl-1
+          - pb-1
+          - pr-1
       subtitle:
         textAlign: center
   - type: RecentPostsSection
