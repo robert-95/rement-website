@@ -341,7 +341,7 @@ sections:
             flexDirection: row
             justifyContent: flex-start
             borderColor: border-neutral
-            borderWidth: 8
+            borderWidth: 2
             margin:
               - mt-1
               - ml-1
