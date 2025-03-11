@@ -54,7 +54,7 @@ sections:
       text: ''
     items:
       - type: FeaturedItem
-        title: "sortenrein\_✓"
+        title: Neue Erlöslinien ✓
         text: |+
           <div style="text-align: center">Kurzer Text.</div>
 
