@@ -329,7 +329,7 @@ sections:
       label: This is a badge
       color: text-primary
     elementId: ''
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
