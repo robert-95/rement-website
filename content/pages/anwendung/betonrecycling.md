@@ -302,7 +302,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/post-image-4.svg
+          url: /images/robert (1).webp
           altText: Feature 1
           elementId: ''
           styles:
