@@ -343,6 +343,7 @@ sections:
             flexDirection: row
             justifyContent: flex-start
             borderColor: border-neutral
+            borderWidth: 8
     elementId: ''
     variant: tabs-nav
     colors: bg-light-fg-dark
