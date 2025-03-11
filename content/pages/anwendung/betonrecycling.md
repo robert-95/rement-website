@@ -305,7 +305,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: This is what we do best
+        title: Möchten Sie mehr erfahren?
         tagline: Feature 1
         subtitle: Let us tell you all about this feature
         text: |
