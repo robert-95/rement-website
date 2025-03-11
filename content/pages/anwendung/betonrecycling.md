@@ -307,7 +307,7 @@ sections:
       - type: FeaturedItem
         title: Möchten Sie mehr erfahren?
         tagline: Feature 1
-        subtitle: Let us tell you all about this feature
+        subtitle: Gerne stelle ich Ihnen
         text: |
           fdfd
         image:
