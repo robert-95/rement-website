@@ -46,6 +46,9 @@ sections:
       type: TitleBlock
       text: Ein neuer Schritt in der Recycling-Wertschöpfungskette
       color: text-dark
+      styles:
+        self:
+          fontWeight: 400
     subtitle: ''
     text: >
       A Stackbit website is a git repo that you own. Every code commit is
