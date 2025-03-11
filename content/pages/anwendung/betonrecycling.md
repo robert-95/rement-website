@@ -12,10 +12,9 @@ sections:
       Brechen, Sieben, Rement - unsere Betonrecycling-Technologie gewinnt den
       maximalen Mehrwert aus Ihrem Abbruchbeton.
     text: >
-      Unser Startup entwickelt eine Betonrecycling-Verfahren der neusten
-      Generation - vom Prototyp-Stadium, bis zum Piloten und zur vollskalierten
-      Anlage. Diese Anlage wird auf die Bedürfnisse von im Baustoffrecycling
-      tätigen Unternehmen zugeschnitten.
+      Unser Startup entwickelt ein Betonrecycling-Verfahren der neusten
+      Generation - vom Prototyp-Stadium, bis zum Piloten und zu vollskalierten
+      Anlagen, betrieben durch unternehmen aus dem Baustoffrecycling.
     actions:
       - type: Button
         label: Get started
