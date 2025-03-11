@@ -69,7 +69,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/feature-image-two.svg
+      url: /images/betonrecycling-wertschöpfungskette.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
     elementId: ''
