@@ -342,6 +342,11 @@ sections:
             justifyContent: flex-start
             borderColor: border-neutral
             borderWidth: 8
+            margin:
+              - mt-1
+              - ml-1
+              - mb-1
+              - mr-1
     elementId: ''
     variant: tabs-nav
     colors: bg-light-fg-dark
