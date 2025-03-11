@@ -329,8 +329,9 @@ seo:
   type: Seo
   metaTitle: Betonrecycling der neusten Generation
   metaDescription: >-
-    Mit dem Rement Verfahren Emissionen reduzieren, hochwertige
-    Upcycling-Produkte gewinnen und neue Märkte erschließen.
+    Hochwertige Rezyklate und CO2-Speicherung - unsere
+    Betonrecycling-Technologie eröffnet Baustoffrecycling-Unternehmen völlig
+    neue Möglichkeiten.
   addTitleSuffix: false
   socialImage: /images/Rement Kreislaufschluss.webp
   metaTags:
