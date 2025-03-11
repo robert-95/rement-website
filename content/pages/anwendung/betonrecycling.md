@@ -8,7 +8,9 @@ sections:
       type: TitleBlock
       text: Wir entwickeln die Betonrecycling-Anlage der Zukunft
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Brechen, Sieben, Rement - unsere auf Brechsande spezialisierte Technologie
+      erweitert Ihre Wertschöpfungskette entscheidend.
     text: >
       A Stackbit website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
