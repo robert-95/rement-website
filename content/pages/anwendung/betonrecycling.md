@@ -299,38 +299,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    text: |
-      *Du möchtest Teil unseres Teams werden?*
-    actions:
-      - type: Link
-        label: Schreib uns eine Nachricht
-        altText: Link zu Kontaktformular
-        url: /kontakt
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    badge:
-      type: Badge
-      color: text-primary
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: col
-        padding:
-          - pt-8
-          - pl-16
-          - pb-8
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
   - type: RecentPostsSection
     title:
       type: TitleBlock
