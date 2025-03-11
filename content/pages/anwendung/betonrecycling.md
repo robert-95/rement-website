@@ -6,7 +6,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Betonrecycling - etzt '
+      text: Wir entwickeln die Betonrecycling-Anlage der Zukunft
       color: text-dark
     subtitle: Subtitle goes here
     text: >
