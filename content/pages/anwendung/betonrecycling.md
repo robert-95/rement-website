@@ -259,6 +259,8 @@ sections:
       CO<sub>2</sub> entsteht hochreines, feines und weißes Calciumcarbonat
       (siehe Foto), welches in dieser Qualität als weißes Farbpigment und
       Füllstoff in der (bau-)chemischen Industrie eingesetzt werden kann.
+      Zusätzlich können CO<sub>2</sub>-Äquivalente am Offset-Markt verkauft
+      werden.
     actions: []
     media:
       type: ImageBlock
