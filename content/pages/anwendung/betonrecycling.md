@@ -36,7 +36,6 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/Rement Kreislaufschluss.webp
       altText: Das Rement Verfahren in einer Skizze
       elementId: ''
       styles:
