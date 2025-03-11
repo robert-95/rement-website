@@ -38,10 +38,6 @@ sections:
       type: ImageBlock
       altText: Unblock your team boost your time to production preview
       elementId: ''
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
     styles:
