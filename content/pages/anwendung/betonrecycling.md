@@ -73,7 +73,7 @@ sections:
       - type: Link
         label: Mehr zur Technologie
         altText: ''
-        url: /
+        url: '/#3'
         showIcon: true
         icon: arrowRight
         iconPosition: right
