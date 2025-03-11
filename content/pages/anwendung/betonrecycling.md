@@ -215,14 +215,14 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      Die Rement-Technologie fokussiert sich auf die Recycling-Beton-Fraktionen
-      0/2 bzw. 0/4. Diese Materialfraktion lässt sich in unserem chemischen
-      Verfahren besonders effizient verarbeiten und verspricht eine hohe
-      Rohstoff-Ausbeute. Die verbleibende Grobfraktion 4/45 bzw. 4/32 kann
-      weiterhin an Bestandskunden im Straßen- und Gartenslandschaftsbau
-      eingesetzt werden. Zur effizienten Rückgewinnung möglichst reiner
-      Rezyklate sollte zudem nach Möglichkeit reiner Abbruchbeton (Typ I)
-      eingesetzt werden.
+      Die Betonrecycling-Technologie fokussiert sich auf die
+      Recycling-Beton-Fraktionen 0/2 bzw. 0/4. Diese Materialfraktion lässt sich
+      in unserem chemischen Verfahren besonders effizient verarbeiten und
+      verspricht eine hohe Rohstoff-Ausbeute. Die verbleibende Grobfraktion 4/45
+      bzw. 4/32 kann weiterhin an Bestandskunden im Straßen- und
+      Gartenslandschaftsbau eingesetzt werden. Zur effizienten Rückgewinnung
+      möglichst reiner Rezyklate sollte zudem nach Möglichkeit reiner
+      Abbruchbeton (Typ I) eingesetzt werden.
     actions: []
     media:
       type: ImageBlock
