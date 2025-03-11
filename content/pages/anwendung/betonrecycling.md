@@ -156,6 +156,10 @@ sections:
       url: /images/calciumcarbonat-aus-abbruchbeton.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
+      styles:
+        self:
+          padding:
+            - pl-4
     elementId: ''
     colors: bg-light-fg-dark
     styles:
