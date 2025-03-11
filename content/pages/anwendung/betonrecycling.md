@@ -339,7 +339,7 @@ sections:
               - mr-1
             borderStyle: solid
     elementId: ''
-    variant: dots-nav
+    variant: next-prev-nav
     colors: bg-light-fg-dark
     backgroundImage:
       type: BackgroundImage
