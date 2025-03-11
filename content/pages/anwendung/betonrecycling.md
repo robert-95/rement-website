@@ -205,12 +205,8 @@ sections:
             borderWidth: 1
       - type: FeaturedItem
         title: co2-negativ
-        text: >+
-          <div style="text-align: center">CO<sub>2</sub> wird dem Prozess
-          zugeführt und in neuen Rohstoffen eingespeichert. Je nach Verwertung
-          der Rohstoffe ist die Speicherung temporär oder dauerhaft. Die
-          Technologie ist emissionsfrei betreibbar. Das Klima und Ihre
-          CO<sub>2</sub>-Bilanz profitieren.</div>
+        text: |+
+          <div style="text-align: center">Kurzer Text.</div>
 
         image:
           type: ImageBlock
