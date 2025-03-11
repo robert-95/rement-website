@@ -10,7 +10,7 @@ sections:
       color: text-dark
     subtitle: >-
       Brechen, Sieben, Rement. Unsere Betonrecycling-Technologie gewinnt den
-      maximalen Mehrwert aus Ihrem Abbruchbeton und speichert dabei CO2.
+      maximalen Mehrwert aus Ihrem Abbruchbeton.
     text: >
       Zugeschnitten auf Unternehmen aus dem Baustoffrecycling entwickeln wir die
       Betonrecycling-Technologie der neusten Generation - vom Prototyp-Stadium,
