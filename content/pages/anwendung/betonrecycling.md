@@ -105,7 +105,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
       - type: FeaturedItem
-        title: Optimale Nachhaltigkeit ✓
+        title: Nachhaltigkeit ✓
         text: |+
           <div style="text-align: center">Kurzer Text.</div>
 
