@@ -341,14 +341,6 @@ sections:
     elementId: ''
     variant: tabs-nav
     colors: bg-light-fg-dark
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/bg-section.png
-      altText: Squares pattern
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
     styles:
       self:
         justifyContent: center
