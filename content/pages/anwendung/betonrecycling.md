@@ -67,27 +67,6 @@ sections:
           - mb-10
       subtitle:
         textAlign: left
-  - type: ImageGallerySection
-    subtitle: Unterstützt durch
-    images: []
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-0
-          - pl-3
-          - pb-0
-          - pr-3
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
