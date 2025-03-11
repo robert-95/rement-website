@@ -333,10 +333,10 @@ sections:
             borderColor: border-neutral
             borderWidth: 2
             margin:
-              - mt-1
-              - ml-1
-              - mb-1
-              - mr-1
+              - mt-4
+              - ml-4
+              - mb-4
+              - mr-4
             borderStyle: solid
     elementId: ''
     variant: tabs-nav
