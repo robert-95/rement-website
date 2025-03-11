@@ -78,7 +78,7 @@ sections:
             - pt-11
             - pl-11
             - pb-11
-            - pr-11
+            - pr-0
     elementId: ''
     colors: bg-light-fg-dark
     styles:
