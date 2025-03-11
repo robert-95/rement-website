@@ -321,7 +321,7 @@ sections:
               borderRadius: none
         actions:
           - type: Link
-            label: Learn more
+            label: Kontakt aufnehmen
             altText: ''
             url: /
             showIcon: true
