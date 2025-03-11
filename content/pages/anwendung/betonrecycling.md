@@ -322,7 +322,7 @@ sections:
         styles:
           self:
             padding:
-              - pt-12
+              - pt-32
               - pb-12
               - pl-12
               - pr-12
