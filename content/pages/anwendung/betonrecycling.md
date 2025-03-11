@@ -52,7 +52,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Eingliederung in die Wertschöpfungskette
+      text: Eingliederung in die Recycling-Wertschöpfungskette
       color: text-dark
     subtitle: Subtitle goes here
     text: >
