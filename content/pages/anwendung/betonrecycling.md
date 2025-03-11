@@ -342,44 +342,6 @@ sections:
             borderRadius: none
             flexDirection: row
             justifyContent: flex-start
-      - type: FeaturedItem
-        title: Another great feature
-        tagline: Feature 2
-        subtitle: You are going to love this feature
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/post-image-1.svg
-          altText: Feature 2
-          elementId: ''
-          styles:
-            self:
-              borderRadius: large
-        actions:
-          - type: Link
-            label: Learn more
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-10
-              - pb-10
-              - pl-10
-              - pr-10
-            textAlign: left
-            borderRadius: none
-            flexDirection: row
-            justifyContent: flex-start
     elementId: ''
     variant: tabs-nav
     colors: bg-light-fg-dark
