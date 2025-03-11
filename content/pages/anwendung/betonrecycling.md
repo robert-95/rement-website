@@ -271,7 +271,9 @@ sections:
     media:
       type: ImageBlock
       url: /images/calciumcarbonat-aus-abbruchbeton.webp
-      altText: Unblock your team boost your time to production preview
+      altText: >-
+        Aus Abbruchbeton aus dem Betonrecycling entsteht hochwertiges
+        Calciumcarbonat.
       elementId: ''
       styles:
         self:
