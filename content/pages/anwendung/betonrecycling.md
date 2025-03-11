@@ -139,44 +139,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Erzeugte Recycling-Rohstoffe
-      color: text-dark
-    subtitle: ''
-    text: >
-      Der Betonbrechsand wird rückstandslos in drei neue Recycling-Rohstoffe
-      zersetzt, welche Ihnen neue Erlöslinien öffnen. Die größte Massenfraktion
-      entfällt auf die Gesteinskörnung, welche von Zementanhaftungen befreit
-      wieder im Neubau eingesetzt werden kann. Feines, puzzolanisch reaktives
-      Material wird gesondert separiert und kann als Betonzusatzstoff eingesetzt
-      werden. Aus den Calciumbestandteilen des Zements des Abbruchbetons und dem
-      CO<sub>2</sub> entsteht hochreines, feines und weißes Calciumcarbonat
-      (siehe Foto), welches in dieser Qualität als weißes Farbpigment und
-      Füllstoff in der (bau-)chemischen Industrie eingesetzt werden kann.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/calciumcarbonat-aus-abbruchbeton.webp
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      styles:
-        self:
-          padding:
-            - pl-4
-            - pr-4
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -280,6 +242,44 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Erzeugte Recycling-Rohstoffe
+      color: text-dark
+    subtitle: ''
+    text: >
+      Der Betonbrechsand wird rückstandslos in drei neue Recycling-Rohstoffe
+      zersetzt, welche Ihnen neue Erlöslinien öffnen. Die größte Massenfraktion
+      entfällt auf die Gesteinskörnung, welche von Zementanhaftungen befreit
+      wieder im Neubau eingesetzt werden kann. Feines, puzzolanisch reaktives
+      Material wird gesondert separiert und kann als Betonzusatzstoff eingesetzt
+      werden. Aus den Calciumbestandteilen des Zements des Abbruchbetons und dem
+      CO<sub>2</sub> entsteht hochreines, feines und weißes Calciumcarbonat
+      (siehe Foto), welches in dieser Qualität als weißes Farbpigment und
+      Füllstoff in der (bau-)chemischen Industrie eingesetzt werden kann.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/calciumcarbonat-aus-abbruchbeton.webp
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      styles:
+        self:
+          padding:
+            - pl-4
+            - pr-4
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - type: RecentPostsSection
     title:
       type: TitleBlock
