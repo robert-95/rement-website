@@ -6,7 +6,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Wir entwickeln die Betonrecycling-Anlage der Zukunft
+      text: Betonrecycling der neusten Generation
       color: text-dark
     subtitle: >-
       Brechen, Sieben, Rement - unsere Technologie gewinnt den maximalen
