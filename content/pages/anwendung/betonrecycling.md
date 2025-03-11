@@ -308,8 +308,7 @@ sections:
         title: Möchten Sie mehr erfahren?
         tagline: Feature 1
         subtitle: Gerne stelle ich Ihnen
-        text: |
-          fdfd
+        text: ''
         image:
           type: ImageBlock
           url: /images/post-image-4.svg
