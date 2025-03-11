@@ -54,7 +54,7 @@ sections:
       text: ''
     items:
       - type: FeaturedItem
-        title: Neue Erlöslinien ✓
+        title: Neue Umsatz-Potentiale ✓
         text: |+
           <div style="text-align: center">Kurzer Text.</div>
 
