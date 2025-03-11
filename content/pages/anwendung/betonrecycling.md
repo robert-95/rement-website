@@ -219,16 +219,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
             textAlign: center
-    actions:
-      - type: Button
-        label: Mehr im Video
-        altText: Video Link
-        url: 'https://youtu.be/Kn1CMVhxS3c?feature=shared'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     badge:
       type: Badge
       color: text-primary
