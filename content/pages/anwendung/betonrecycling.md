@@ -350,10 +350,10 @@ sections:
           - mb-1
           - mr-1
         padding:
-          - pt-1
-          - pl-1
-          - pb-1
-          - pr-1
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
       subtitle:
         textAlign: center
   - type: RecentPostsSection
