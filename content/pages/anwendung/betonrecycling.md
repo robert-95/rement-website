@@ -51,7 +51,7 @@ sections:
       styles:
         self:
           textAlign: center
-      text: Vorteile im Überblick
+      text: ''
     items:
       - type: FeaturedItem
         title: "sortenrein\_✓"
