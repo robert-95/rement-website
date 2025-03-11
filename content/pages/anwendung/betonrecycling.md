@@ -44,64 +44,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Eine erweiterte BetonRecycling-Wertschöpfungskette
-      color: text-dark
-      styles:
-        self:
-          fontWeight: 400
-    subtitle: ''
-    text: >+
-      <div style="text-align: left">Rement-Anlagen werden sich nahtlos in
-      existierende Betonrecycling-Wertschöpfungsketten einfügen. Wie bisher wird
-      das Abbruchmaterial noch auf der Baustelle oder stationär auf dem
-      Betriebshof gebrochen. Im Anschluss sollte das Material zur Unterteilung
-      in verschiedene Korngrößen gesiebt werden. Je nach Größe der Anlage ist
-      eine Belieferung der Rement-Anlage von mehreren regionalen
-      Recycling-Standorten vorteilhaft.Rement-Anlagen arbeiten langsamer als
-      Brecher und Siebmaschinen, dafür aber dauerhaft und kontinuierlich. Vor
-      der Anlage sollte entsprechend ein Eingangslager für den gebrochen
-      Recycling-Beton eingerichtet werden. Die Betonrecycling-Anlagen verwenden
-      zur Zersetzung des Abbruchbetons CO<sub>2</sub>, welches im Prozess
-      dauerhaft gespeichert wird. Dieses kann entweder aus lokalen Abgasen
-      bezogen oder angeliefert werden.</div>
-
-    actions:
-      - type: Link
-        label: Mehr zur Technologie
-        altText: ''
-        url: '/#3'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/betonrecycling-wertschöpfungskette.webp
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      styles:
-        self:
-          padding:
-            - pt-0
-            - pl-12
-            - pb-0
-            - pr-12
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: flex-start
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -205,6 +147,64 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Eine erweiterte BetonRecycling-Wertschöpfungskette
+      color: text-dark
+      styles:
+        self:
+          fontWeight: 400
+    subtitle: ''
+    text: >+
+      <div style="text-align: left">Rement-Anlagen werden sich nahtlos in
+      existierende Betonrecycling-Wertschöpfungsketten einfügen. Wie bisher wird
+      das Abbruchmaterial noch auf der Baustelle oder stationär auf dem
+      Betriebshof gebrochen. Im Anschluss sollte das Material zur Unterteilung
+      in verschiedene Korngrößen gesiebt werden. Je nach Größe der Anlage ist
+      eine Belieferung der Rement-Anlage von mehreren regionalen
+      Recycling-Standorten vorteilhaft.Rement-Anlagen arbeiten langsamer als
+      Brecher und Siebmaschinen, dafür aber dauerhaft und kontinuierlich. Vor
+      der Anlage sollte entsprechend ein Eingangslager für den gebrochen
+      Recycling-Beton eingerichtet werden. Die Betonrecycling-Anlagen verwenden
+      zur Zersetzung des Abbruchbetons CO<sub>2</sub>, welches im Prozess
+      dauerhaft gespeichert wird. Dieses kann entweder aus lokalen Abgasen
+      bezogen oder angeliefert werden.</div>
+
+    actions:
+      - type: Link
+        label: Mehr zur Technologie
+        altText: ''
+        url: '/#3'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/betonrecycling-wertschöpfungskette.webp
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      styles:
+        self:
+          padding:
+            - pt-0
+            - pl-12
+            - pb-0
+            - pr-12
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: flex-start
   - type: GenericSection
     title:
       type: TitleBlock
