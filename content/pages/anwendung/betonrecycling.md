@@ -150,7 +150,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Unblock your team boost your time to production
+      text: Erzeugte Recycling-Rohstoffe
       color: text-dark
     subtitle: Subtitle goes here
     text: >
