@@ -89,7 +89,7 @@ sections:
           - pt-16
           - pl-16
           - pb-16
-          - pr-16
+          - pr-0
         justifyContent: flex-start
   - type: GenericSection
     title:
