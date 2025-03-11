@@ -229,7 +229,9 @@ sections:
     media:
       type: ImageBlock
       url: /images/betonrecycling-auf-baustelle.webp
-      altText: Unblock your team boost your time to production preview
+      altText: >-
+        Reines Betonrecycling-Material aus dem Abbruch dient als
+        Ausgangsmaterial.
       elementId: ''
       styles:
         self:
