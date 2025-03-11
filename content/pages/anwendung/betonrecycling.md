@@ -187,7 +187,9 @@ sections:
     media:
       type: ImageBlock
       url: /images/betonrecycling-wertschöpfungskette.webp
-      altText: Unblock your team boost your time to production preview
+      altText: >-
+        Nach dem Abriss, Brechen und Sieben kann die
+        Rement-Betonrecycling-Technologie eingesetzt werden.
       elementId: ''
       styles:
         self:
