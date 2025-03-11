@@ -158,7 +158,7 @@ sections:
       styles:
         self:
           textAlign: center
-      text: Hochwertiges Betonrecycling - Ihre Vorteile im Überblick
+      text: Vorteile im Überblick
     items:
       - type: FeaturedItem
         title: sortenrein
