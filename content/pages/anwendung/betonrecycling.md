@@ -92,10 +92,10 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
         justifyContent: flex-start
   - type: GenericSection
     title:
