@@ -54,7 +54,7 @@ sections:
           fontWeight: 400
     subtitle: ''
     text: >+
-      <div style="text-align: right">Rement-Anlagen werden sich nahtlos in
+      <div style="text-align: left">Rement-Anlagen werden sich nahtlos in
       existierende Betonrecycling-Wertschöpfungsketten einfügen. Wie bisher wird
       das Abbruchmaterial noch auf der Baustelle oder stationär auf dem
       Betriebshof gebrochen. Im Anschluss sollte das Material zur Unterteilung
