@@ -56,8 +56,8 @@ sections:
       - type: FeaturedItem
         title: Rohstoff-Sicherheit ✓
         text: >+
-          <div style="text-align: left">Gewinnung von Gesteinskörnung aus
-          Abbruchbeton, auch ohne neue Sandgruben.</div>
+          <div style="text-align: left">Gewinnung von hochwertiger
+          Gesteinskörnung aus Abbruchbeton, auch ohne neue Sandgruben.</div>
 
         image:
           type: ImageBlock
