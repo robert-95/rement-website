@@ -90,7 +90,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-        justifyContent: flex-start
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
