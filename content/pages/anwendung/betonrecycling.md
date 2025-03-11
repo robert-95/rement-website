@@ -430,35 +430,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: FeaturedPeopleSection
-    title:
-      type: TitleBlock
-      text: Team Rement
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    people:
-      - content/data/team/Drake-Garza.json
-      - content/data/person-z7e0j5wgi.json
-      - content/data/person-f6up4hjar.json
-      - content/data/team/Tiya-Greenwood.json
-      - content/data/team/Faizah-Chan.json
-      - content/data/team/shabnam.json
-    actions: []
-    elementId: '4'
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pl-8
-          - pr-8
-          - pt-10
-      subtitle:
-        textAlign: center
   - type: GenericSection
     text: |
       *Du möchtest Teil unseres Teams werden?*
