@@ -84,7 +84,7 @@ sections:
             - pt-10
             - pl-24
             - pb-10
-            - pr-20
+            - pr-24
     elementId: ''
     colors: bg-light-fg-dark
     styles:
