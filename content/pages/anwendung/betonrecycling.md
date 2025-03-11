@@ -45,7 +45,7 @@ sections:
       type: TitleBlock
       text: Eingliederung in Ihre Recycling-Wertschöpfungskette
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       A Stackbit website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
