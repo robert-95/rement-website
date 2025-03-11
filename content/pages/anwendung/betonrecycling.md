@@ -298,13 +298,7 @@ sections:
         tagline: Feature 1
         subtitle: >-
           Gerne stelle ich Ihnen den aktuellen Entwicklungsstand und weitere
-          Details zu unserer Betonrecycling-Technologie vor.Gerne stelle ich
-          Ihnen den aktuellen Entwicklungsstand und weitere Details zu unserer
-          Betonrecycling-Technologie vor.Gerne stelle ich Ihnen den aktuellen
-          Entwicklungsstand und weitere Details zu unserer
-          Betonrecycling-Technologie vor.Gerne stelle ich Ihnen den aktuellen
-          Entwicklungsstand und weitere Details zu unserer
-          Betonrecycling-Technologie vor.
+          Details zu unserer Betonrecycling-Technologie vor.
         text: ''
         image:
           type: ImageBlock
