@@ -74,10 +74,6 @@ sections:
       url: /images/feature-image-two.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
     styles:
