@@ -323,7 +323,7 @@ sections:
           - type: Link
             label: Kontakt aufnehmen
             altText: ''
-            url: /
+            url: /kontakt
             showIcon: true
             icon: arrowRight
             iconPosition: right
