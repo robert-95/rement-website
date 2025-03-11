@@ -65,7 +65,7 @@ sections:
           elementId: ''
         actions: []
         elementId: benefit1
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
