@@ -47,7 +47,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Eine erweiterte Recycling-Wertschöpfungskette
+      text: Eine erweiterte BetonRecycling-Wertschöpfungskette
       color: text-dark
       styles:
         self:
