@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Hochwertiges Betonrecycling
+title: ''
 slug: /anwendung/betonrecycling
 sections:
   - type: GenericSection
