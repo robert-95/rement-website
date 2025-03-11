@@ -327,7 +327,7 @@ sections:
           - pr-8
 seo:
   type: Seo
-  metaTitle: Rement - Recycling-Rohstoffe aus Abbruchbeton
+  metaTitle: Betonrecycling der neusten Generation
   metaDescription: >-
     Mit dem Rement Verfahren Emissionen reduzieren, hochwertige
     Upcycling-Produkte gewinnen und neue Märkte erschließen.
