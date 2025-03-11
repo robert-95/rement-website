@@ -57,15 +57,6 @@ sections:
       editor and since every visual edit is a git commit, git workflows and
       collaboration just work. A Stackbit website is a git repo that you own. 
     actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
       - type: Link
         label: Mehr zur Technologie
         altText: ''
