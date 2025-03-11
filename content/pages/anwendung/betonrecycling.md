@@ -59,8 +59,8 @@ sections:
       Abbruchmaterial noch auf der Baustelle oder stationär auf dem Betriebshof
       gebrochen. Im Anschluss sollte das Material zur Unterteilung in
       verschiedene Korngrößen gesiebt werden. Je nach Größe der Anlage ist eine
-      Belieferung der Rement-Anlage von mehreren regionalen
-      Recycling-Standortenvorteilhaft.
+      Belieferung der Rement-Anlage von mehreren regionalen Recycling-Standorten
+      vorteilhaft.
 
 
       Rement-Anlagen arbeiten langsamer als Brecher und Siebmaschinen, dafür
