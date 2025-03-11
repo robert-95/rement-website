@@ -76,7 +76,7 @@ sections:
         self:
           padding:
             - pt-10
-            - pl-40
+            - pl-28
             - pb-10
             - pr-0
     elementId: ''
