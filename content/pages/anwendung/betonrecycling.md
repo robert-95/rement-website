@@ -102,43 +102,6 @@ sections:
           - pb-16
           - pr-16
         justifyContent: flex-start
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Feiner Abbruchbeton als Ausgangsmaterial
-      color: text-dark
-    subtitle: ''
-    text: >
-      Die Rement-Technologie fokussiert sich auf die Recycling-Beton-Fraktionen
-      0/2 bzw. 0/4. Diese Materialfraktion lässt sich in unserem chemischen
-      Verfahren besonders effizient verarbeiten und verspricht eine hohe
-      Rohstoff-Ausbeute. Die verbleibende Grobfraktion 4/45 bzw. 4/32 kann
-      weiterhin an Bestandskunden im Straßen- und Gartenslandschaftsbau
-      eingesetzt werden. Zur effizienten Rückgewinnung möglichst reiner
-      Rezyklate sollte zudem nach Möglichkeit reiner Abbruchbeton (Typ I)
-      eingesetzt werden.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/betonrecycling-auf-baustelle.webp
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      styles:
-        self:
-          padding:
-            - pl-4
-            - pr-4
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -242,6 +205,43 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Feiner Abbruchbeton als Ausgangsmaterial
+      color: text-dark
+    subtitle: ''
+    text: >
+      Die Rement-Technologie fokussiert sich auf die Recycling-Beton-Fraktionen
+      0/2 bzw. 0/4. Diese Materialfraktion lässt sich in unserem chemischen
+      Verfahren besonders effizient verarbeiten und verspricht eine hohe
+      Rohstoff-Ausbeute. Die verbleibende Grobfraktion 4/45 bzw. 4/32 kann
+      weiterhin an Bestandskunden im Straßen- und Gartenslandschaftsbau
+      eingesetzt werden. Zur effizienten Rückgewinnung möglichst reiner
+      Rezyklate sollte zudem nach Möglichkeit reiner Abbruchbeton (Typ I)
+      eingesetzt werden.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/betonrecycling-auf-baustelle.webp
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      styles:
+        self:
+          padding:
+            - pl-4
+            - pr-4
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - type: GenericSection
     title:
       type: TitleBlock
