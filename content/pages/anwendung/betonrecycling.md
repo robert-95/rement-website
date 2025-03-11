@@ -120,7 +120,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/feature-image-two.svg
+      url: /images/betonrecycling-auf-baustelle.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
     elementId: ''
