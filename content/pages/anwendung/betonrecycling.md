@@ -301,6 +301,7 @@ sections:
           textAlign: center
     people:
       - content/data/team/Drake-Garza.json
+      - content/data/person-hghxpf3a8.json
     actions:
       - type: Link
         label: Check all team
