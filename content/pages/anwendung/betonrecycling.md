@@ -230,11 +230,8 @@ sections:
             borderWidth: 1
       - type: FeaturedItem
         title: Echtes upcycling
-        text: >+
-          <div style="text-align: center">Der Wert der Rezyklate übersteigt den
-          Neuwert des Betons - es handelt sich somit um echtes Upcycling. Neben
-          den Rohstoff-Erlösen können CO<sub>2</sub>-Credits am EU-ETS- oder am
-          stark wachsenden Offsetmarkt angeboten werden.</div>
+        text: |+
+          <div style="text-align: center">Kurzer Text.</div>
 
         image:
           type: ImageBlock
