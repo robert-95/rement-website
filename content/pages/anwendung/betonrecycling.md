@@ -307,7 +307,9 @@ sections:
       - type: FeaturedItem
         title: Möchten Sie mehr erfahren?
         tagline: Feature 1
-        subtitle: Gerne stelle ich Ihnen
+        subtitle: >-
+          Gerne stelle ich Ihnen den aktuellen Entwicklungsstand und weitere
+          Details zu unserer Betonrecycling-Technologie vor.
         text: ''
         image:
           type: ImageBlock
