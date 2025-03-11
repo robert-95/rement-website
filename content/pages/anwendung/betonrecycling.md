@@ -127,7 +127,7 @@ sections:
             flexDirection: row
             borderColor: border-neutral
             borderWidth: 1
-            textAlign: center
+            textAlign: left
     actions: []
     badge:
       type: Badge
