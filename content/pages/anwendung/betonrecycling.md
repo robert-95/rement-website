@@ -79,7 +79,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
       - type: FeaturedItem
-        title: co2-negativ
+        title: "sortenrein\_✓"
         text: |+
           <div style="text-align: center">Kurzer Text.</div>
 
