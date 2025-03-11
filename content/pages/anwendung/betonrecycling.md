@@ -291,6 +291,44 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: Meet our team
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    people:
+      - content/data/team/Drake-Garza.json
+      - content/data/team/Tiya-Greenwood.json
+      - content/data/team/Faizah-Chan.json
+    actions:
+      - type: Link
+        label: Check all team
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    backgroundImage:
+      type: BackgroundImage
+      url: /images/bg.svg
+      altText: Shapes in the corners
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: RecentPostsSection
     title:
       type: TitleBlock
