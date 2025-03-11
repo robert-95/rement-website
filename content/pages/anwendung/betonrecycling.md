@@ -82,8 +82,8 @@ sections:
       - type: FeaturedItem
         title: Neue Absatzmärkte ✓
         text: >+
-          <div style="text-align: left">Vermarkten Sie hochwertige
-          Industriemineralien an die chemische Industrie.</div>
+          <div style="text-align: left">Hochwertige Industriemineralien für die
+          (bau-)chemische Industrie.</div>
 
         image:
           type: ImageBlock
