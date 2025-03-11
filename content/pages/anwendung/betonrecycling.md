@@ -70,7 +70,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: Mehr zur Technologie
         altText: ''
         url: /
         showIcon: true
