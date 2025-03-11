@@ -14,7 +14,8 @@ sections:
     text: >
       Unser Startup entwickelt eine Betonrecycling-Verfahren der neusten
       Generation - vom Prototyp-Stadium, bis zum Piloten und zur vollskalierten
-      Anlage.
+      Anlage. Diese Anlage wird auf die Bedürfnisse von im Baustoffrecycling
+      tätigen Unternehmen zugeschnitten.
     actions:
       - type: Button
         label: Get started
