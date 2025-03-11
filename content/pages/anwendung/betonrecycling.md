@@ -13,9 +13,9 @@ sections:
       Betonrecycling-Technologie eröffnet Baustoffrecyclern völlig neue
       Möglichkeiten.
     text: >
-      Zugeschnitten auf Unternehmen aus dem Baustoffrecycling entwickeln wir das
-      Betonrecycling der Zukunft - vom Prototyp-Stadium, bis zum Piloten und zur
-      vollskalierten Anlage.
+      Vom Prototyp-Stadium über die Pilotierung bis hin zur vollskalierten
+      Anlage: Wir entwickeln eine neue Betonrecycling-Technologie, mit der Sie
+      den maximalen Mehrwert aus Abbruchbeton gewinnen können.
     actions:
       - type: Button
         label: Gespräch vereinbaren
