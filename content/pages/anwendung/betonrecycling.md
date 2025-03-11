@@ -83,7 +83,7 @@ sections:
           padding:
             - pt-0
             - pl-12
-            - pb-10
+            - pb-0
             - pr-12
     elementId: ''
     colors: bg-light-fg-dark
