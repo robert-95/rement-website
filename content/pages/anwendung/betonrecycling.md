@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Rement - Recycling-Rohstoffe aus Abbruchbeton
+title: 'Hochwertiges '
 slug: /anwendung/betonrecycling
 sections:
   - type: GenericSection
