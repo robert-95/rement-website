@@ -104,7 +104,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
       - type: FeaturedItem
-        title: Echtes upcycling
+        title: "sortenrein\_✓"
         text: |+
           <div style="text-align: center">Kurzer Text.</div>
 
