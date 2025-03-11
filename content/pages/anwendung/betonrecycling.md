@@ -80,7 +80,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
       - type: FeaturedItem
-        title: "sortenrein\_✓"
+        title: Neue Absatzmärkte ✓
         text: |+
           <div style="text-align: center">Kurzer Text.</div>
 
