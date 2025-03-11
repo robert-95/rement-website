@@ -322,10 +322,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-32
-              - pb-12
-              - pl-12
-              - pr-12
+              - pt-10
+              - pb-10
+              - pl-10
+              - pr-10
             textAlign: left
             borderRadius: medium
             flexDirection: row
