@@ -56,8 +56,8 @@ sections:
       - type: FeaturedItem
         title: Rohstoff-Sicherheit ✓
         text: >+
-          <div style="text-align: left">Hochwertige Gesteinskörnung aus
-          Abbruchbeton, auch ohne neue Sandgruben.</div>
+          <div style="text-align: left">Mineralische Rohstoffe aus der urbanen
+          Mine gewinnen - auch ohne neue Sandgruben.</div>
 
         image:
           type: ImageBlock
