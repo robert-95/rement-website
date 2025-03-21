@@ -83,8 +83,8 @@ sections:
       - type: FeaturedItem
         title: Neue Absatzmärkte ✓
         text: >+
-          <div style="text-align: left">Nachhaltige Rohstoffe für die
-          (bau-)chemische Industrie.</div>
+          <div style="text-align: left">Gewinnen Sie hochwertige Rohstoffe für
+          neuen Beton und bauchemische Produkte.</div>
 
         image:
           type: ImageBlock
