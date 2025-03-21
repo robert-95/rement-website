@@ -10,7 +10,7 @@ export default function TitleBlock(props) {
     }
 
     return (
-        <h1
+        <h2
             className={classNames(
                 'sb-component',
                 'sb-component-block',
@@ -22,6 +22,6 @@ export default function TitleBlock(props) {
             data-sb-field-path={props['data-sb-field-path']}
         >
             <span data-sb-field-path=".text">{text}</span>
-        </h1>
+        </h2>
     );
 }
