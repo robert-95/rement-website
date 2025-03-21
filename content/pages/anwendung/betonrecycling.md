@@ -258,7 +258,7 @@ sections:
     subtitle: ''
     text: >
       Der Betonbrechsand wird rückstandslos in drei neue Recycling-Rohstoffe
-      zersetzt, welche Ihnen neue Erlöslinien öffnen. Die größte Massenfraktion
+      zersetzt, welche Ihnen neue Erlöslinien öffnen: Die größte Massenfraktion
       entfällt auf die Gesteinskörnung, welche von Zementanhaftungen befreit
       wieder im Neubau eingesetzt werden kann. Feines, puzzolanisch reaktives
       Material wird separiert und kann als Betonzusatzstoff eingesetzt werden.
