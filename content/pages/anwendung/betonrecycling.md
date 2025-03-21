@@ -24,7 +24,7 @@ sections:
       - type: Button
         label: Gespräch vereinbaren
         altText: ''
-        url: /
+        url: /kontakt
         showIcon: false
         icon: arrowRight
         iconPosition: right
