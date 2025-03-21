@@ -316,7 +316,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Möchten Sie mehr erfahren?
+        title: Möchten Sie mehr Über unsere Betonrecycling-Technologie erfahren?
         tagline: Feature 1
         subtitle: >-
           Gerne stelle ich Ihnen den aktuellen Entwicklungsstand und weitere
