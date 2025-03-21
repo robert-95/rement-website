@@ -263,11 +263,10 @@ sections:
       wieder im Neubau eingesetzt werden kann. Feines, puzzolanisch reaktives
       Material wird separiert und kann als Betonzusatzstoff eingesetzt werden.
       Aus den Calciumbestandteilen des Zements des Abbruchbetons und dem
-      CO<sub>2</sub> entsteht hochreines, feines und weißes Calciumcarbonat
-      (siehe Foto), welches in dieser Qualität als weißes Farbpigment und
-      Füllstoff in der (bau-)chemischen Industrie eingesetzt werden kann.
-      Zusätzlich können CO<sub>2</sub>-Äquivalente am Offset-Markt verkauft
-      werden.
+      CO<sub>2</sub> entsteht hochreines, feines und weißes Calciumcarbonat,
+      welches in dieser Qualität als weißes Farbpigment und Füllstoff in der
+      (bau-)chemischen Industrie eingesetzt werden kann. Zusätzlich können
+      CO<sub>2</sub>-Äquivalente am Offset-Markt verkauft werden.
     actions: []
     media:
       type: ImageBlock
