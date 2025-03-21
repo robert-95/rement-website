@@ -20,11 +20,6 @@ sections:
       Anlage: Wir entwickeln eine neue Betonrecycling-Technologie, mit der Sie
       den maximalen Mehrwert aus Abbruchbeton gewinnen können.
 
-
-
-
-      # Ist das H1?
-
     actions:
       - type: Button
         label: Gespräch vereinbaren
