@@ -16,14 +16,6 @@ sections:
       Betonrecycling-Technologie eröffnet Baustoffrecycling-Unternehmen völlig
       neue Möglichkeiten.
     text: >
-      # Betonrecycling der neusten Generation
-
-
-      #### Hochwertige Rezyklate und CO2-Speicherung - unsere
-      Betonrecycling-Technologie eröffnet Baustoffrecycling-Unternehmen völlig
-      neue Möglichkeiten.
-
-
       Vom Prototyp-Stadium über die Pilotierung bis hin zur vollskalierten
       Anlage: Wir entwickeln eine neue Betonrecycling-Technologie, mit der Sie
       den maximalen Mehrwert aus Abbruchbeton gewinnen können.
