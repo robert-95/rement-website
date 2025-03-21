@@ -5,10 +5,9 @@ slug: /anwendung/betonrecycling
 sections:
   - type: GenericSection
     subtitle: ''
-    text: >
-      A Stackbit website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |+
+      # Betonrecycling der neusten Generation
+
     actions: []
     media:
       type: ImageBlock
