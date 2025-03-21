@@ -27,7 +27,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Betonrecycling der neusten Generation
+      text: ''
       color: text-dark
       styles:
         self:
