@@ -165,12 +165,9 @@ sections:
       existierende Betonrecycling-Wertschöpfungsketten einfügen. Wie bisher wird
       das Abbruchmaterial noch auf der Baustelle oder stationär auf dem
       Betriebshof gebrochen. Im Anschluss sollte das Material zur Unterteilung
-      in verschiedene Korngrößen gesiebt werden. Je nach Größe der Anlage ist
-      eine Belieferung der Rement-Anlage von mehreren regionalen
-      Recycling-Standorten vorteilhaft.Rement-Anlagen arbeiten langsamer als
-      Brecher und Siebmaschinen, dafür aber dauerhaft und kontinuierlich. Vor
-      der Anlage sollte entsprechend ein Eingangslager für den gebrochen
-      Recycling-Beton eingerichtet werden. Die Betonrecycling-Anlagen verwenden
+      in verschiedene Korngrößen gesiebt werden. Von einem oder mehreren
+      RC-Standorten bezogenes Material wird von Rement-Anlagen in einem
+      kontinuierlichen Prozess verarbeitet. Die Betonrecycling-Anlagen verwenden
       zur Zersetzung des Abbruchbetons CO<sub>2</sub>, welches im Prozess
       dauerhaft gespeichert wird. Dieses kann entweder aus lokalen Abgasen
       bezogen oder angeliefert werden.</div>
