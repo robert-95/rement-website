@@ -160,19 +160,19 @@ sections:
         self:
           fontWeight: 400
     subtitle: ''
-    text: >+
+    text: >
       <div style="text-align: left">Rement-Anlagen werden sich nahtlos in
       existierende Betonrecycling-Wertschöpfungsketten einfügen. Wie bisher wird
       das Abbruchmaterial noch auf der Baustelle oder stationär auf dem
       Betriebshof gebrochen. Im Anschluss sollte das Material zur Unterteilung
       in verschiedene Korngrößen gesiebt werden.
 
+
       Von einem oder mehreren RC-Standorten bezogenes Material wird von
       Rement-Anlagen in einem kontinuierlichen Prozess verarbeitet. Die
       Betonrecycling-Anlagen verwenden zur Zersetzung des Abbruchbetons
       CO<sub>2</sub>, welches im Prozess dauerhaft gespeichert wird. Dieses kann
       entweder aus lokalen Abgasen bezogen oder angeliefert werden.</div>
-
     actions:
       - type: Link
         label: Mehr zur Technologie
