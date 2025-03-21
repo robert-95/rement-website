@@ -109,8 +109,8 @@ sections:
       - type: FeaturedItem
         title: Nachhaltigkeit ✓
         text: >+
-          <div style="text-align: left">Optimale Ressourceneffizienz und
-          CO<sub>2</sub>-Speicherwirkung.</div>
+          <div style="text-align: left">Setzen Sie neue Maßstäbe in
+          Kreislaufwirtschaft und CO<sub>2</sub>-Speicherwirkung.</div>
 
         image:
           type: ImageBlock
