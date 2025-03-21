@@ -236,8 +236,10 @@ sections:
       styles:
         self:
           padding:
-            - pl-4
-            - pr-4
+            - pl-12
+            - pr-12
+            - pt-12
+            - pb-12
     elementId: ''
     colors: bg-light-fg-dark
     styles:
