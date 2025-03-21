@@ -16,7 +16,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/feature-image-two.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
