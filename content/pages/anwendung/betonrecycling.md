@@ -4,7 +4,7 @@ title: Betonrecycling
 slug: /anwendung/betonrecycling
 sections:
   - type: GenericSection
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       A Stackbit website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
