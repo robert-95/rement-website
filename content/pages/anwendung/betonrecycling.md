@@ -19,7 +19,7 @@ sections:
       # Betonrecycling der neusten Generation
 
 
-      ## Hochwertige Rezyklate und CO2-Speicherung - unsere
+      #### Hochwertige Rezyklate und CO2-Speicherung - unsere
       Betonrecycling-Technologie eröffnet Baustoffrecycling-Unternehmen völlig
       neue Möglichkeiten.
 
