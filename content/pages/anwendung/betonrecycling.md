@@ -22,7 +22,7 @@ sections:
         padding:
           - pt-16
           - pl-16
-          - pb-16
+          - pb-0
           - pr-16
   - type: GenericSection
     title:
