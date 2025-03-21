@@ -15,10 +15,16 @@ sections:
       Hochwertige Rezyklate und CO2-Speicherung - unsere
       Betonrecycling-Technologie eröffnet Baustoffrecycling-Unternehmen völlig
       neue Möglichkeiten.
-    text: >
+    text: >+
       Vom Prototyp-Stadium über die Pilotierung bis hin zur vollskalierten
       Anlage: Wir entwickeln eine neue Betonrecycling-Technologie, mit der Sie
       den maximalen Mehrwert aus Abbruchbeton gewinnen können.
+
+
+
+
+      # Ist das H1?
+
     actions:
       - type: Button
         label: Gespräch vereinbaren
