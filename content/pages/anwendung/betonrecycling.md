@@ -174,7 +174,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Erweiterung der BetonRecyclingWertschöpfungskette
+      text: Erweiterung der BetonRecycling Supp
       color: text-dark
       styles:
         self:
