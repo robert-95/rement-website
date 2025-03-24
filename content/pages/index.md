@@ -11,9 +11,7 @@ sections:
         self:
           fontWeight: 500
           textAlign: left
-    subtitle: >-
-      Emissionen reduzieren, Upcycling-Produkte gewinnen und neue Märkte
-      erschließen.
+    subtitle: ''
     actions:
       - label: Zur Technologie
         altText: Zur Technologie
