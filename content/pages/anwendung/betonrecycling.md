@@ -38,8 +38,9 @@ sections:
       neue Möglichkeiten.
     text: >
       Vom Prototyp-Stadium über die Pilotierung bis hin zur vollskalierten
-      Anlage: Wir entwickeln eine neue Betonrecycling-Technologie, mit der Sie
-      den maximalen Mehrwert aus Abbruchbeton gewinnen können.
+      Anlage: Wir entwickeln eine Betonrecycling-Technologie der neusten
+      Generation, mit der Sie den maximalen Mehrwert aus Abbruchbeton gewinnen
+      können.
     actions:
       - type: Button
         label: Gespräch vereinbaren
