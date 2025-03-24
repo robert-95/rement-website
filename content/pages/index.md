@@ -67,9 +67,12 @@ sections:
           - mb-10
       subtitle:
         textAlign: left
-    text: |+
+    text: >
       # Sortenreines, CO2-negatives Beton-Upcycling
 
+
+      Emissionen reduzieren, Upcycling-Produkte gewinnen und neue Märkte
+      erschließen.
   - type: ImageGallerySection
     title: null
     subtitle: Unterstützt durch
