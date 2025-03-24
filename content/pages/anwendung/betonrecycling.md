@@ -21,7 +21,7 @@ sections:
         flexDirection: row
         padding:
           - pt-32
-          - pl-16
+          - pl-8
           - pb-0
           - pr-16
   - type: GenericSection
