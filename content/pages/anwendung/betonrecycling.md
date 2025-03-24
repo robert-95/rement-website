@@ -103,8 +103,8 @@ sections:
       - type: FeaturedItem
         title: Neue Absatzmärkte ✓
         text: >+
-          <div style="text-align: left">Gewinnen Sie hochwertige Rohstoffe für
-          neuen Beton und bauchemische Produkte.</div>
+          <div style="text-align: left">Bedienen Sie hochwertige Anwendungen von
+          neuem Beton bis Bauchemie.</div>
 
         image:
           type: ImageBlock
