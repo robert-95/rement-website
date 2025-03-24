@@ -23,7 +23,7 @@ sections:
           - pt-32
           - pl-8
           - pb-0
-          - pr-16
+          - pr-8
   - type: GenericSection
     title:
       type: TitleBlock
