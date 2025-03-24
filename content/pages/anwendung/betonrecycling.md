@@ -62,7 +62,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pt-6
-          - pl-16
+          - pl-8
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
