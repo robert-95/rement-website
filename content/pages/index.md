@@ -67,6 +67,9 @@ sections:
           - mb-10
       subtitle:
         textAlign: left
+    text: |+
+      # Sortenreines, CO2-negatives Beton-Upcycling
+
   - type: ImageGallerySection
     title: null
     subtitle: Unterstützt durch
