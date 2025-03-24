@@ -3,28 +3,6 @@ title: Rement - Recycling-Rohstoffe aus Abbruchbeton
 slug: /
 sections:
   - type: GenericSection
-    subtitle: ''
-    text: >
-      A Stackbit website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
-    actions: []
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-  - type: GenericSection
     title:
       text: 'Sortenreines, CO2-negatives Beton-Upcycling'
       color: text-dark
