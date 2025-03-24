@@ -174,7 +174,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Erweiterung der BetonRecycling Supp
+      text: Erweiterung der Betonrecycling Supply Chain
       color: text-dark
       styles:
         self:
