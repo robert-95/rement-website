@@ -117,7 +117,7 @@ sections:
             - pt-0
             - pl-32
             - pb-0
-            - pr-28
+            - pr-32
     badge:
       type: Badge
       label: This is a badge
