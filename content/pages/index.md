@@ -115,7 +115,7 @@ sections:
             - mr-0
           padding:
             - pt-0
-            - pl-28
+            - pl-32
             - pb-0
             - pr-28
     badge:
