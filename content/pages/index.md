@@ -69,8 +69,8 @@ sections:
       # Sortenreines, CO2-negatives Beton-Upcycling
 
 
-      Emissionen reduzieren, Upcycling-Produkte gewinnen und neue Märkte
-      erschließen.
+      **Emissionen reduzieren, Upcycling-Produkte gewinnen und neue Märkte
+      erschließen.**
   - type: ImageGallerySection
     title: null
     subtitle: Unterstützt durch
