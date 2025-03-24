@@ -269,7 +269,7 @@ sections:
           - pt-16
           - pl-8
           - pb-16
-          - pr-16
+          - pr-9
   - type: GenericSection
     title:
       type: TitleBlock
