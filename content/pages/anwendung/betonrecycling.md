@@ -312,7 +312,7 @@ sections:
           - pt-16
           - pl-8
           - pb-24
-          - pr-16
+          - pr-8
   - type: CarouselSection
     items:
       - type: FeaturedItem
