@@ -400,7 +400,7 @@ sections:
         subtitle: Aus Baustoffrecycling & Zement-Produktion
         text: >
           Wir beziehen Sie und Ihre Anforderungen frühzeitig in die Entwicklung
-          von Beton-Upcycling-Anlagen ein.
+          von [Beton-Recycling-Anlagen](/anwendung/betonrecycling) ein.
         image:
           type: ImageBlock
           url: /images/power-plant.webp
