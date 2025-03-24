@@ -31,11 +31,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/feature-image-two.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
     badge:
       type: Badge
       label: This is a badge
