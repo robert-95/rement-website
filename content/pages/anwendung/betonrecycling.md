@@ -481,7 +481,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Wie funktioniert Betonrecycling mit der Technologie von Rement?
-        subtitle: Engineering
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
