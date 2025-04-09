@@ -419,10 +419,23 @@ sections:
       - type: FeaturedItem
         title: Welche Produkte fallen im Konventionellen Betonrecycling an?
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Im konventionellen Beton-Recycling-Prozess wird Beton aus dem Abbruch
+          in Stücke gebrochen und im Anschluss je nach Bedarf durch Sieben in
+          unterschiedliche Korngrößen unterteilt. Neben der Korngröße ist die
+          Reinheit des Materials, d.h. der Anteil an gebrochenem Bauschutt, bei
+          dem es sich nicht um Beton handelt, entscheidend. Bei der
+          RC-Gesteinskörnung Typ 1 (auch "Betonsplitt") müssen mindestens 90
+          M.-% des Materials aus Beton oder aus Naturstein bestehen. Auf Ziegel
+          oder Kalksandstein dürfen nur 10% entfallen. Bei RC-Gesteinskörnung
+          Typ 2 (auch "Bauwerkssplitt") beträgt die Reinheit 70%.
+
+
+          Basierend auf den enthaltenen Schadstoffmengen und deren potentiellen
+          Umweltauswirkungen wird das Abbruchmaterial zusätzlich in die
+          Qualitätsstufen RC 1, RC 2 und RC 3 unterteilt. Aus Basis dieser
+          Unterteilung sind unterschiedliche Anwendungsbereiche und Verwendungen
+          des Materials zulässig.
         actions: []
         colors: bg-light-fg-dark
         styles:
