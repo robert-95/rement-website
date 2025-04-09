@@ -382,7 +382,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: FAQ's
+      text: FAQ
       color: text-dark
       styles:
         self:
