@@ -6,7 +6,7 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: |+
-      # Betonrecycling-Anlagen für hochwertiges Recycling
+      # Betonrecycling-Anlagen für hochwertiges, sortenreines Recycling
 
     actions: []
     media:
