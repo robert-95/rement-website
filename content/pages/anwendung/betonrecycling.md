@@ -530,7 +530,7 @@ sections:
       - type: FeaturedItem
         title: Für wen eignet sich die Betonrecycling-Technologie von Rement?
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >-
           Vivamus tempus, urna sed dapibus accumsan, urna lorem porttitor
           mauris, vitae tristique sapien nisl ac dui. Fusce molestie placerat
