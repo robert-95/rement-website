@@ -504,12 +504,18 @@ sections:
         title: Welche Rolle spielt CO2 im Betonrecycling-Prozess?
         tagline: ''
         subtitle: ''
-        text: >-
-          Vivamus tempus, urna sed dapibus accumsan, urna lorem porttitor
-          mauris, vitae tristique sapien nisl ac dui. Fusce molestie placerat
-          tincidunt. In elementum nibh eu arcu aliquam, id lacinia augue
-          placerat. Vivamus volutpat est auctor ex pharetra lobortis. Proin
-          euismod ante at massa tempor commodo. 
+        text: >
+          Rement-Betonrecycling-Anlagen wird kontinuierlich CO<sub>2</sub>
+          zugeführt. Dieses kann in Reinform zur Betonrecycling-Anlage geliefert
+          oder aus benachbarten Abgasströmen bezogen werden. Das CO<sub>2
+          </sub>dient im Prozess als Rohstoff. Gemeinsam mit Calciumoxid aus dem
+          Abbruchmaterial bildet es Calciumcarbonat, welches im Prozess in
+          hochreiner Form ausgefällt wird. Es entsteht das Produkt "Precipitated
+          Calcium Carbonate" (PCC). Je nach anschließender Verwertung des PCCs
+          bleibt das CO<sub>2</sub> dauerhaft im Material gespeichert, oder wird
+          am Ende des Lebenszyklusses wieder freigesetzt. In beiden Fällen ist
+          das erzeugte Produkt deutlich weniger emissionsintensiv als über die
+          konventionelle Herstellung von PCC.
         actions: []
         colors: bg-light-fg-dark
         styles:
