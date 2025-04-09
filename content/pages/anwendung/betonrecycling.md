@@ -502,7 +502,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Welche Rolle spielt CO2 im Betonrecycling-Prozess?
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >-
           Vivamus tempus, urna sed dapibus accumsan, urna lorem porttitor
