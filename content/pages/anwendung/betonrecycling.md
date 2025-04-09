@@ -482,10 +482,13 @@ sections:
       - type: FeaturedItem
         title: Wie funktioniert Betonrecycling mit der Technologie von Rement?
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Rements Betonrecycling-Technologie setzt auf ein zweistufiges,
+          chemisches Verfahren. Im ersten Schritt werden die Zementverbindungen,
+          die den Beton zusammenhalten, in wässriger Umgebung aufgetrennt. Die
+          Gesteinskörnung und die reaktiven Feinanteile können jeweils separiert
+          werden. In einem zweiten Schritt wird Calciumcarbonat durch Fällung
+          gewonnen. 
         actions: []
         colors: bg-light-fg-dark
         styles:
