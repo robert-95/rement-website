@@ -558,7 +558,7 @@ sections:
             borderRadius: large
       - type: FeaturedItem
         title: Wie kann ich Betonrecycling gemeinsam mit Rement umsetzen?
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >-
           Vivamus tempus, urna sed dapibus accumsan, urna lorem porttitor
