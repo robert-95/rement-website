@@ -560,12 +560,13 @@ sections:
         title: Wie kann ich Betonrecycling gemeinsam mit Rement umsetzen?
         tagline: ''
         subtitle: ''
-        text: >-
-          Vivamus tempus, urna sed dapibus accumsan, urna lorem porttitor
-          mauris, vitae tristique sapien nisl ac dui. Fusce molestie placerat
-          tincidunt. In elementum nibh eu arcu aliquam, id lacinia augue
-          placerat. Vivamus volutpat est auctor ex pharetra lobortis. Proin
-          euismod ante at massa tempor commodo. 
+        text: >
+          Rement durchläuft aktuell schrittweise die Schritte vom Prototypen-
+          über das Pilot-Stadium bis hin zur ersten kommerziellen Anlage. Auf
+          diesem Weg arbeiten wir gerne mit Anwendern aus der Praxis zusammen.
+          So können wir Materialqualitäten früh validieren, technologische
+          Anpassungen vornehmen und gemeinsam Abläufe in der Praxis erproben.
+          Kontaktieren Sie uns gerne.
         actions: []
         colors: bg-light-fg-dark
         styles:
