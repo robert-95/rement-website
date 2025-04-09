@@ -502,7 +502,7 @@ sections:
           placerat. Vivamus volutpat est auctor ex pharetra lobortis. Proin
           euismod ante at massa tempor commodo. 
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
