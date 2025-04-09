@@ -454,10 +454,18 @@ sections:
           Wie hebt sich die Rement-Technologie von konventionellem
           Betonrecycling ab?
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Während im konventionellen Betonrecycling das Material lediglich
+          zerkleinert wird, dabei aber in seiner Zusammensetzung erhalten
+          bleibt, setzt die Rement-Technologie auf eine Separierung der
+          enthaltenen Rohstoffe. Diese sortenreine Auftrennung ermöglicht
+          gezieltere, höherwertigere Anwendungen für die Recycling-Produkte und
+          damit auch höhere Erlöse. So kann die zementbefreite Gesteinskörnung
+          aus dem Abruchmaterial in Bau und Beton rezykliert werden.
+          Zurückgewonnenes reaktives Material kann Zement in neuem Beton
+          anteilig ersetzen. Zusätzlich wird Calciumcarbonat hochrein separiert
+          und kann in diversen Produkten als Farbpigment und Füllstoff
+          eingesetzt werden.
         actions: []
         colors: bg-light-fg-dark
         styles:
