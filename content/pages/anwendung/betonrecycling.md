@@ -390,9 +390,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: >-
-          Was sind die zentralen Unterschiede zum Konventionellen
-          Betonrecycling?
+        title: Welche Produkte fallen im Konventionellen Betonrecycling an?
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
