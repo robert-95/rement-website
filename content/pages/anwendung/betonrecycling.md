@@ -415,7 +415,7 @@ sections:
           - pr-8
 seo:
   type: Seo
-  metaTitle: Betonrecycling der neusten Generation
+  metaTitle: 'Betonrecycling-Anlagen für hochwertiges, sortenreines Recycling'
   metaDescription: >-
     Hochwertige Rezyklate und CO2-Speicherung - unsere
     Betonrecycling-Technologie eröffnet Baustoffrecycling-Unternehmen völlig
