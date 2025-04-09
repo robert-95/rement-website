@@ -196,7 +196,7 @@ sections:
       lokalen Abgasen bezogen oder angeliefert werden.
     actions:
       - type: Link
-        label: Mehr zur Technologie
+        label: Mehr zur Betonrecycling-Technologie
         altText: ''
         url: '/#3'
         showIcon: true
