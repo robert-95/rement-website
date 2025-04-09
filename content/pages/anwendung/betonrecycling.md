@@ -401,10 +401,10 @@ sections:
           gebrochen. Häufig wird der Beton anschließend durch Sieben in
           unterschiedliche Korngrößen unterteilt. Das gebrochene Material wird
           vor allem im Straßen-, Garten- und Landschaftsbau als Ersatz für
-          Primär-Gesteinskörnung eingesetzt. Die Verwendung der groben
-          Betonrezyklat-Körnung als Ersatz für Kies in neuem Beton wird zudem
-          zunehmend populärer. Neuer Beton mit RC-Gesteinskörnung wird auch als
-          "ressourcenschonender Beton" oder "R-Beton" bezeichnet.
+          Primär-Gesteinskörnung aus Steinbrüchen eingesetzt. Die Verwendung der
+          groben Betonrezyklat-Körnung als Ersatz für Kies in neuem Beton wird
+          zudem zunehmend populärer. Neuer Beton mit RC-Gesteinskörnung wird
+          auch als "ressourcenschonender Beton" oder "R-Beton" bezeichnet.
         actions: []
         colors: bg-light-fg-dark
         styles:
