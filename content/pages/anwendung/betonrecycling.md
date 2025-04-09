@@ -382,7 +382,7 @@ sections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Neuigkeiten
+      text: Neuigkeiten Rund um Unsere Betonrecycling-Technologie
       color: text-dark
       styles:
         self:
