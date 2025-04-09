@@ -418,7 +418,7 @@ sections:
             borderRadius: large
       - type: FeaturedItem
         title: Welche Produkte fallen im Konventionellen Betonrecycling an?
-        subtitle: Sales
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
