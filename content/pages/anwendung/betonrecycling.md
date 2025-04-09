@@ -391,7 +391,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Was ist Betonrecycling?
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >-
           Vivamus tempus, urna sed dapibus accumsan, urna lorem porttitor
