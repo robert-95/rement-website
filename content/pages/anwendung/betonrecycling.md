@@ -6,7 +6,7 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: |+
-      # Betonrecycling der neusten Generation
+      # Betonrecycling-Anlagen der neusten Generation
 
     actions: []
     media:
