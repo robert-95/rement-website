@@ -561,12 +561,12 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Rement durchläuft aktuell schrittweise die Schritte vom Prototypen-
-          über das Pilot-Stadium bis hin zur ersten kommerziellen Anlage. Auf
-          diesem Weg arbeiten wir gerne mit Anwendern aus der Praxis zusammen.
-          So können wir Materialqualitäten früh validieren, technologische
-          Anpassungen vornehmen und gemeinsam Abläufe in der Praxis erproben.
-          Kontaktieren Sie uns gerne.
+          Rement durchläuft aktuell die Schritte vom Prototypen- über das
+          Pilot-Stadium bis hin zur ersten kommerziellen Anlage. Auf diesem Weg
+          arbeiten wir gerne mit Anwendern aus der Praxis zusammen. So können
+          wir Materialqualitäten früh validieren, technologische Anpassungen
+          vornehmen und gemeinsam Abläufe in der Praxis erproben. Kontaktieren
+          Sie uns gerne.
         actions: []
         colors: bg-light-fg-dark
         styles:
