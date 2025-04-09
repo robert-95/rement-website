@@ -390,7 +390,9 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: >-
+          Was sind die zentralen Unterschiede zum Konventionellen
+          Betonrecycling?
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
