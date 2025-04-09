@@ -453,7 +453,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Welche ROlle spielt CO2 im Betonrecycling-Prozess?
+        title: Wie funktioniert Betonrecycling mit der Technologie von Rement?
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
