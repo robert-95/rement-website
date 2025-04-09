@@ -393,12 +393,18 @@ sections:
         title: Was ist Betonrecycling?
         tagline: ''
         subtitle: ''
-        text: >-
-          Vivamus tempus, urna sed dapibus accumsan, urna lorem porttitor
-          mauris, vitae tristique sapien nisl ac dui. Fusce molestie placerat
-          tincidunt. In elementum nibh eu arcu aliquam, id lacinia augue
-          placerat. Vivamus volutpat est auctor ex pharetra lobortis. Proin
-          euismod ante at massa tempor commodo. 
+        text: >
+          Beim Betonrecycling wird alter Beton aus Abbruchmaterial
+          wiederverwertet, um daraus neue Rohstoffe oder Baustoffe zu gewinnen. 
+          Abbruchbeton wird entweder mit mobilen Brechern noch auf der
+          Baustelle, oder mit stationären Brechern auf Baustoffrecycling-Höfen
+          gebrochen. Häufig wird der Beton anschließend durch Sieben in
+          unterschiedliche Korngrößen unterteilt. Das gebrochene Material wird
+          vor allem im Straßen-, Garten- und Landschaftsbau als Ersatz für
+          Primär-Gesteinskörnung eingesetzt. Die Verwendung der groben
+          Betonrezyklat-Körnung als Ersatz für Kies in neuem Beton wird zudem
+          zunehmend populärer. Neuer Beton mit RC-Gesteinskörnung wird auch als
+          "ressourcenschonender Beton" oder "R-Beton" bezeichnet.
         actions: []
         colors: bg-light-fg-dark
         styles:
