@@ -503,7 +503,7 @@ sections:
       - type: FeaturedItem
         title: Welche Rolle spielt CO2 im Betonrecycling-Prozess?
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >-
           Vivamus tempus, urna sed dapibus accumsan, urna lorem porttitor
           mauris, vitae tristique sapien nisl ac dui. Fusce molestie placerat
