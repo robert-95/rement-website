@@ -531,12 +531,20 @@ sections:
         title: Für wen eignet sich die Betonrecycling-Technologie von Rement?
         tagline: This is the tagline
         subtitle: ''
-        text: >-
-          Vivamus tempus, urna sed dapibus accumsan, urna lorem porttitor
-          mauris, vitae tristique sapien nisl ac dui. Fusce molestie placerat
-          tincidunt. In elementum nibh eu arcu aliquam, id lacinia augue
-          placerat. Vivamus volutpat est auctor ex pharetra lobortis. Proin
-          euismod ante at massa tempor commodo. 
+        text: >
+          Rement-Betonrecycling-Anlagen werden idealerweise da betrieben, wo die
+          Ausgangsmaterialien bereits anfallen.
+          **Baustoffrecycling-Unternehmen** bereiten bereits große Mengen
+          Abbruchbeton auf und verfügen bereits über Abnehmer für die erzeugten
+          Recycling-Produkte. **Zement-Produzenten** verfügen mit Zementwerken
+          über große, fossile CO<sub>2</sub>-Punktquellen, welche sich mit
+          Rement-Anlagen koppeln ließen. Auch hier existieren bereits
+          Anwendungsfälle für die erzeugten Produkte, wie beispielsweise für das
+          reaktive Feinmaterial. Alternativ können Betonrecycling-Anlagen auch
+          da betrieben werden, wo ein Großteil der erzeugten Recycling-Produkte
+          unmittelbar eingesetzt werden. Unternehmen aus dem Bereich
+          **Bauchemie** können beispielsweise alle im Rement-Prozess gewonnenen
+          Rezyklate einsetzen.
         actions: []
         colors: bg-light-fg-dark
         styles:
