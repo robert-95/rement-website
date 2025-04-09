@@ -390,6 +390,27 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
+        title: Was ist Betonrecycling?
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: >-
+          Vivamus tempus, urna sed dapibus accumsan, urna lorem porttitor
+          mauris, vitae tristique sapien nisl ac dui. Fusce molestie placerat
+          tincidunt. In elementum nibh eu arcu aliquam, id lacinia augue
+          placerat. Vivamus volutpat est auctor ex pharetra lobortis. Proin
+          euismod ante at massa tempor commodo. 
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-6
+              - pl-6
+              - pr-6
+            textAlign: left
+            borderRadius: large
+      - type: FeaturedItem
         title: Welche Produkte fallen im Konventionellen Betonrecycling an?
         subtitle: Sales
         text: >-
