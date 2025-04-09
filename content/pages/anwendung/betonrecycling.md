@@ -471,7 +471,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: This is the first expand/collapse item
+        title: Welche Rolle spielt CO2 im Betonrecycling-Prozess?
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >-
