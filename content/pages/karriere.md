@@ -71,12 +71,9 @@ sections:
           textAlign: center
       type: TitleBlock
     items:
-      - title: Kreativität
+      - title: Kreativität und Lösungsorientierung
         text: >+
-          <div style="text-align: center">Beton wird in seine Bestandteile
-          zersetzt, welche der bestmöglichen Verwertung zugeführt werden. Sand
-          wird erneut im Bau eingesetzt, puzzolanisch-reaktives Material dient
-          als Betonzusatzstoff und PCC als Füllstoff und Pigment.</div>
+          <div style="text-align: center">Lorem ipsum</div>
 
         image:
           altText: Featured icon two
@@ -99,13 +96,9 @@ sections:
             borderWidth: 1
         type: FeaturedItem
         elementId: benefit1
-      - title: Leidenschaft
+      - title: Leidenschaft für Nachhaltigkeit
         text: >+
-          <div style="text-align: center">CO<sub>2</sub> wird dem Prozess
-          zugeführt und in neuen Rohstoffen eingespeichert. Je nach Verwertung
-          der Rohstoffe ist die Speicherung temporär oder dauerhaft. Die
-          Technologie ist emissionsfrei betreibbar. Das Klima und Ihre
-          CO<sub>2</sub>-Bilanz profitieren.</div>
+          <div style="text-align: center">Lorem ipsum.</div>
 
         image:
           altText: Featured icon one
@@ -127,12 +120,9 @@ sections:
             justifyContent: center
             borderColor: border-neutral
             borderWidth: 1
-      - title: Equality
+      - title: Gleichberechtigung, Diversität und Respekt
         text: >+
-          <div style="text-align: center">Der Wert der Rezyklate übersteigt den
-          Neuwert des Betons - es handelt sich somit um echtes Upcycling. Neben
-          den Rohstoff-Erlösen können CO<sub>2</sub>-Credits am EU-ETS- oder am
-          stark wachsenden Offsetmarkt angeboten werden.</div>
+          <div style="text-align: center">Lorem ipsum</div>
 
         image:
           altText: Featured icon three
@@ -154,16 +144,6 @@ sections:
             textAlign: center
         type: FeaturedItem
         elementId: benefit3
-    actions:
-      - label: Mehr im Video
-        altText: Video Link
-        url: 'https://youtu.be/Kn1CMVhxS3c?feature=shared'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
     badge:
       color: text-primary
       styles:
