@@ -61,85 +61,7 @@ sections:
 
 
       **Wir entwickeln Beton-Upcycling-Anlagen, welche die klimaneutrale Kreislaufwirtschaft zur Wirklichkeit machen. Werde Teil unserer Mission. **
-    
-  - type: FeaturedItemsSection
-    title:
-      text: Offene Stellen bei Rement
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    items:
-      - title: Techniker (m/w/d)
-        text: >
-          Beton besteht aus einer Vielzahl natürlicher, fossiler Rohstoffe wie
-          Sand, Kies, Kalkstein und Ton. Der weltweite Bedarf von 14 Milliarden
-          Kubikmeter Beton im Jahr - Tendenz steigend - lässt diese Rohstoffe
-          immer knapper werden. Naturräume und ihre Ökosysteme sind durch den
-          vermehrten Abbau dieser Rohstoffe gefährdet. Für Sand, der nach Wasser
-          am zweitmeisten verwendete Rohstoff, werden Küsten- und
-          Flusslandschaften ausgebaggert. Die Vereinten Nationen warnen vor
-          einer drohenden globalen Krise.
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-5
-              - pl-5
-              - pb-5
-              - pr-5
-            textAlign: left
-            borderRadius: medium
-            flexDirection: row
-            justifyContent: center
-            borderColor: border-neutral
-            borderWidth: 1
-        type: FeaturedItem
-        elementId: box1
-      - title: Entwicklungs-Ingenieur (m/w/d)
-        text: >
-          2,2 Milliarden Tonnen Bauschutt fallen ab 2025 jährlich bei
-          Gebäudeabriss und Straßenbau an. Die Verwertungsquoten von Bauschutt
-          sind zwar hoch, der funktionale Wert des Betons sinkt jedoch im
-          Vergleich zum Ausgangsmaterial erheblich. Der Großteil des
-          Betonschutts wird  zerkleinert und als Füllmaterial im Straßenbau oder
-          in Sand- und Kiesgruben eingesetzt oder als Abdeckung von Deponien
-          verwendet.
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-5
-              - pl-5
-              - pb-5
-              - pr-5
-            textAlign: left
-            borderRadius: medium
-            flexDirection: row
-            justifyContent: center
-            borderColor: border-neutral
-            borderWidth: 1
-        type: FeaturedItem
-        elementId: box2
-    actions: []
-    badge: null
-    elementId: '2'
-    variant: toggle-list
-    colors: bg-light-fg-dark
-    backgroundImage: null
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-64
-          - pl-8
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
+
   - type: FeaturedItemsSection
     title:
       text: Hierfür stehen wir
@@ -262,6 +184,86 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+
+  - type: FeaturedItemsSection
+    title:
+      text: Offene Stellen bei Rement
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    items:
+      - title: Techniker (m/w/d)
+        text: >
+          Beton besteht aus einer Vielzahl natürlicher, fossiler Rohstoffe wie
+          Sand, Kies, Kalkstein und Ton. Der weltweite Bedarf von 14 Milliarden
+          Kubikmeter Beton im Jahr - Tendenz steigend - lässt diese Rohstoffe
+          immer knapper werden. Naturräume und ihre Ökosysteme sind durch den
+          vermehrten Abbau dieser Rohstoffe gefährdet. Für Sand, der nach Wasser
+          am zweitmeisten verwendete Rohstoff, werden Küsten- und
+          Flusslandschaften ausgebaggert. Die Vereinten Nationen warnen vor
+          einer drohenden globalen Krise.
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
+            textAlign: left
+            borderRadius: medium
+            flexDirection: row
+            justifyContent: center
+            borderColor: border-neutral
+            borderWidth: 1
+        type: FeaturedItem
+        elementId: box1
+      - title: Entwicklungs-Ingenieur (m/w/d)
+        text: >
+          2,2 Milliarden Tonnen Bauschutt fallen ab 2025 jährlich bei
+          Gebäudeabriss und Straßenbau an. Die Verwertungsquoten von Bauschutt
+          sind zwar hoch, der funktionale Wert des Betons sinkt jedoch im
+          Vergleich zum Ausgangsmaterial erheblich. Der Großteil des
+          Betonschutts wird  zerkleinert und als Füllmaterial im Straßenbau oder
+          in Sand- und Kiesgruben eingesetzt oder als Abdeckung von Deponien
+          verwendet.
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
+            textAlign: left
+            borderRadius: medium
+            flexDirection: row
+            justifyContent: center
+            borderColor: border-neutral
+            borderWidth: 1
+        type: FeaturedItem
+        elementId: box2
+    actions: []
+    badge: null
+    elementId: '2'
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    backgroundImage: null
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-64
+          - pl-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+
   - type: RecentPostsSection
     title:
       text: Neuigkeiten
