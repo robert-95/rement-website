@@ -2,7 +2,7 @@
     "name": "content-ops-theme",
     "version": "0.1.0",
     "engines": {
-        "node": ">=16"
+        "node": ">=20"
     },
     "scripts": {
         "dev": "next dev",
