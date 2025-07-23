@@ -134,7 +134,7 @@ sections:
       self:
         padding:
           - pb-16
-          - pt-24
+          - pt-64
           - pl-8
           - pr-8
         justifyContent: center
@@ -142,14 +142,14 @@ sections:
         textAlign: center
   - type: FeaturedItemsSection
     title:
-      text: Die Lösung für hochwertiges BetonRecycling
+      text: Hierfür stehen wir
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
     items:
-      - title: sortenrein
+      - title: Kreativität
         text: >+
           <div style="text-align: center">Beton wird in seine Bestandteile
           zersetzt, welche der bestmöglichen Verwertung zugeführt werden. Sand
@@ -177,8 +177,7 @@ sections:
             borderWidth: 1
         type: FeaturedItem
         elementId: benefit1
-      - type: FeaturedItem
-        title: co2-negativ
+      - title: Leidenschaft
         text: >+
           <div style="text-align: center">CO<sub>2</sub> wird dem Prozess
           zugeführt und in neuen Rohstoffen eingespeichert. Je nach Verwertung
@@ -206,7 +205,7 @@ sections:
             justifyContent: center
             borderColor: border-neutral
             borderWidth: 1
-      - title: Echtes upcycling
+      - title: Equality
         text: >+
           <div style="text-align: center">Der Wert der Rezyklate übersteigt den
           Neuwert des Betons - es handelt sich somit um echtes Upcycling. Neben
