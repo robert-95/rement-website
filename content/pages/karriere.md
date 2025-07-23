@@ -23,8 +23,8 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/Rement Kreislaufschluss.webp
-      altText: Das Rement Verfahren in einer Skizze
+      url: /images/rement-karriere-titelbild.webp
+      altText: Gruppenbilder von Team Rement
       elementId: ''
       type: ImageBlock
       styles:
