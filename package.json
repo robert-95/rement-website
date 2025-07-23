@@ -23,7 +23,7 @@
         "jose": "^3.20.4",
         "markdown-to-jsx": "^7.1.7",
         "marked": "^4.1.1",
-        "next": "^13.5",
+        "next": "^12.3.4",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
         "swiper": "^8.4.4",
@@ -31,7 +31,7 @@
     },
     "devDependencies": {
         "@base2/pretty-print-object": "^1.0.2",
-        "@netlify/plugin-nextjs": "^5.11.5",
+        "@netlify/plugin-nextjs": "^4.29.3",
         "@stackbit/types": "^0.1.8",
         "@types/glob": "^8.0.0",
         "@types/react": "^18.0.21",
