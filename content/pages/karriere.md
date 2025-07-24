@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Zu den Stellen
         altText: Stellenanzeigen
-        url: '/#2'
+        url: '/karriere/#2'
         showIcon: false
         icon: arrowRight
         iconPosition: right
