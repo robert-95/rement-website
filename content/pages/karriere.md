@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/rement-karriere-titelbild.webp
+      url: /images/rement_karriere_titelbild-lightgrey.webp
       altText: Gruppenbilder von Team Rement
       elementId: ''
       type: ImageBlock
@@ -313,7 +313,7 @@ seo:
   metaTitle: Rement - Werde Teil unseres Teams!
   metaDescription: >-
     Wir entwickeln Beton-Upcycling-Anlagen, welche die klimaneutrale Kreislaufwirtschaft zur Wirklichkeit machen. Werde Teil unserer Mission.
-  socialImage: /images/rement-karriere-titelbild.webp
+  socialImage: /images/rement_karriere_titelbild-lightgrey.webp
   type: Seo
   metaTags:
     - type: MetaTag
