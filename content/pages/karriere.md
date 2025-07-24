@@ -175,26 +175,22 @@ sections:
       type: TitleBlock
     items:
       - title: Techniker (m/w/d)
-        text: >
+        text:
           Ab Oktober oder November suchen wir einen Techniker (m/w/d) in Vollzeit für unseren Standort am KIT in Karlsruhe, um unser Technikteam zu    unterstützen.
-        
-          *Über Rement*
-          Rement entwickelt eine Schlüsseltechnologie für die klimaneutrale Kreislaufwirtschaft. Unsere Technologie gewinnt neue Rohstoffe aus Abbruchbeton zurück und speichert dabei CO2. Derzeit arbeiten wir an einer Pilotanlage, bevor wir unsere erste kommerzielle Anlage in Betrieb nehmen. Bei Rement hast du die Möglichkeit, mit und von einem hochmotivierten Technik-Team zu lernen, dich persönlich weiterzuentwickeln und die Dynamik eines Deep-Tech-Startups kennenzulernen.
 
-          *Verantwortlichkeiten*
+          ### Verantwortlichkeiten
           •	Mechanische und elektrische Montage von Pilot- und Industrieanlagen
           •	Mitwirkung bei der Inbetriebnahme vor Ort oder beim Kunden
           •	Durchführung von Funktionstests, Fehleranalysen und Optimierungen
           •	Betreuung des laufenden Anlagenbetriebs
           •	Dokumentation von Umbauten, Messergebnissen und Störungen
-        
-          *Qualifikationen*
+
+          ### Qualifikationen
           •	Abgeschlossene technische Ausbildung, idealerweise mit Weiterbildung zum Techniker oder (FH-)Aufbaustudium (z. B. Mechatronik, Maschinenbau, Elektrotechnik, Verfahrenstechnik)
           •	Erste Erfahrung im Aufbau oder Betrieb technischer Anlagen von Vorteil
           •	Kenntnisse im Lesen von technischen Zeichnungen, P&IDs und Schaltplänen
           •	Grundkenntnisse in Steuerungs- oder Messtechnik sind von Vorteil
-
-
+        
         actions: []
         colors: bg-light-fg-dark
         styles:
@@ -213,13 +209,10 @@ sections:
         type: FeaturedItem
         elementId: box1
       - title: Entwicklungs-Ingenieur (m/w/d)
-        text: >
+        text:
           Ab Oktober oder November suchen wir einen Vollzeit-Entwicklungsingenieur für unseren Standort am KIT in Karlsruhe zur Unterstützung unseres Ingenieurteams.
-        
-          *Über Rement*
-          Rement entwickelt eine Technologie zur Rückgewinnung neuer Rohstoffe aus Abbruchbeton, wobei CO2 gespeichert wird. Derzeit arbeiten wir an einer Pilotanlage, bevor wir unsere erste kommerzielle Anlage in Betrieb nehmen. Bei Rement hast du die Möglichkeit, mit und von einem hochmotivierten Ingenieurteam zu lernen, dich persönlich weiterzuentwickeln und die Dynamik eines Deep-Tech-Startups kennenzulernen.
 
-          *Aufgaben*
+          ### Verantwortlichkeiten
           •    Entwurf und Implementierung von Steuerungs- und Automatisierungssystemen
           •    Mechanischer Entwurf von Komponenten und Baugruppen mit CAD
           •    Entwurf und Optimierung von Inline- und Online-Prozessanalysen
@@ -227,7 +220,7 @@ sections:
           •    Entwicklung maßgeschneiderter Lösungen für unsere technologischen Herausforderungen 
           •    Konzeptioneller Entwurf, Inbetriebnahme und Optimierung von Pilotanlagen/Prozessen
 
-          *Qualifikation*
+          ### Qualifikationen
           •    Abschluss in Maschinenbau, Mechatronik oder Verfahrenstechnik mit Schwerpunkt Automatisierung oder ähnlichem
           •    Breite technische Fähigkeiten und Interessen kombiniert mit einer praxisorientierten Mentalität und Erfahrung in der Problemlösung
           •    Mindestens 3 Jahre einschlägige Berufserfahrung
