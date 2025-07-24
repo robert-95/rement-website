@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Zu den Stellen
         altText: Stellenanzeigen
-        url: '/#3'
+        url: '/#2'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -71,9 +71,9 @@ sections:
           textAlign: center
       type: TitleBlock
     items:
-      - title: Kreativität und Lösungsorientierung
+      - title: Leidenschaft für Nachhaltigkeit
         text: >+
-          <div style="text-align: center">Lorem ipsum</div>
+          <div style="text-align: center">CO<sub>2</sub> und Abbruchbeton sind die größten Abfallströme der Menschheit. Wir möchten dieses Potential nutzen und etwas für unseren Planeten bewegen.</div>
 
         image:
           altText: Featured icon two
@@ -96,9 +96,9 @@ sections:
             borderWidth: 1
         type: FeaturedItem
         elementId: benefit1
-      - title: Leidenschaft für Nachhaltigkeit
+      - title: Kreativität und Lösungsorientierung
         text: >+
-          <div style="text-align: center">Lorem ipsum.</div>
+          <div style="text-align: center">Wir denken gerne breit, probieren Ideen schnell aus und lassen in unsere Lösung einfließen, was sich bewährt.</div>
 
         image:
           altText: Featured icon one
@@ -122,7 +122,7 @@ sections:
             borderWidth: 1
       - title: Gleichberechtigung, Diversität und Respekt
         text: >+
-          <div style="text-align: center">Lorem ipsum</div>
+          <div style="text-align: center">Unternehmen bestehen aus Menschen. Wir setzen auf vielfältige Perspektkiven und respektvollen Umgang.</div>
 
         image:
           altText: Featured icon three
@@ -176,14 +176,25 @@ sections:
     items:
       - title: Techniker (m/w/d)
         text: >
-          Beton besteht aus einer Vielzahl natürlicher, fossiler Rohstoffe wie
-          Sand, Kies, Kalkstein und Ton. Der weltweite Bedarf von 14 Milliarden
-          Kubikmeter Beton im Jahr - Tendenz steigend - lässt diese Rohstoffe
-          immer knapper werden. Naturräume und ihre Ökosysteme sind durch den
-          vermehrten Abbau dieser Rohstoffe gefährdet. Für Sand, der nach Wasser
-          am zweitmeisten verwendete Rohstoff, werden Küsten- und
-          Flusslandschaften ausgebaggert. Die Vereinten Nationen warnen vor
-          einer drohenden globalen Krise.
+          Ab Oktober oder November suchen wir einen Techniker (m/w/d) in Vollzeit für unseren Standort am KIT in Karlsruhe, um unser Technikteam zu    unterstützen.
+        
+          *Über Rement*
+          Rement entwickelt eine Schlüsseltechnologie für die klimaneutrale Kreislaufwirtschaft. Unsere Technologie gewinnt neue Rohstoffe aus Abbruchbeton zurück und speichert dabei CO2. Derzeit arbeiten wir an einer Pilotanlage, bevor wir unsere erste kommerzielle Anlage in Betrieb nehmen. Bei Rement hast du die Möglichkeit, mit und von einem hochmotivierten Technik-Team zu lernen, dich persönlich weiterzuentwickeln und die Dynamik eines Deep-Tech-Startups kennenzulernen.
+
+          *Verantwortlichkeiten*
+          •	Mechanische und elektrische Montage von Pilot- und Industrieanlagen
+          •	Mitwirkung bei der Inbetriebnahme vor Ort oder beim Kunden
+          •	Durchführung von Funktionstests, Fehleranalysen und Optimierungen
+          •	Betreuung des laufenden Anlagenbetriebs
+          •	Dokumentation von Umbauten, Messergebnissen und Störungen
+        
+          *Qualifikationen*
+          •	Abgeschlossene technische Ausbildung, idealerweise mit Weiterbildung zum Techniker oder (FH-)Aufbaustudium (z. B. Mechatronik, Maschinenbau, Elektrotechnik, Verfahrenstechnik)
+          •	Erste Erfahrung im Aufbau oder Betrieb technischer Anlagen von Vorteil
+          •	Kenntnisse im Lesen von technischen Zeichnungen, P&IDs und Schaltplänen
+          •	Grundkenntnisse in Steuerungs- oder Messtechnik sind von Vorteil
+
+
         actions: []
         colors: bg-light-fg-dark
         styles:
@@ -203,13 +214,27 @@ sections:
         elementId: box1
       - title: Entwicklungs-Ingenieur (m/w/d)
         text: >
-          2,2 Milliarden Tonnen Bauschutt fallen ab 2025 jährlich bei
-          Gebäudeabriss und Straßenbau an. Die Verwertungsquoten von Bauschutt
-          sind zwar hoch, der funktionale Wert des Betons sinkt jedoch im
-          Vergleich zum Ausgangsmaterial erheblich. Der Großteil des
-          Betonschutts wird  zerkleinert und als Füllmaterial im Straßenbau oder
-          in Sand- und Kiesgruben eingesetzt oder als Abdeckung von Deponien
-          verwendet.
+          Ab Oktober oder November suchen wir einen Vollzeit-Entwicklungsingenieur für unseren Standort am KIT in Karlsruhe zur Unterstützung unseres Ingenieurteams.
+        
+          *Über Rement*
+          Rement entwickelt eine Technologie zur Rückgewinnung neuer Rohstoffe aus Abbruchbeton, wobei CO2 gespeichert wird. Derzeit arbeiten wir an einer Pilotanlage, bevor wir unsere erste kommerzielle Anlage in Betrieb nehmen. Bei Rement hast du die Möglichkeit, mit und von einem hochmotivierten Ingenieurteam zu lernen, dich persönlich weiterzuentwickeln und die Dynamik eines Deep-Tech-Startups kennenzulernen.
+
+          *Aufgaben*
+          •    Entwurf und Implementierung von Steuerungs- und Automatisierungssystemen
+          •    Mechanischer Entwurf von Komponenten und Baugruppen mit CAD
+          •    Entwurf und Optimierung von Inline- und Online-Prozessanalysen
+          •    Prozessoptimierung auf Basis von Prozessanalysen und Automatisierungskonzepten
+          •    Entwicklung maßgeschneiderter Lösungen für unsere technologischen Herausforderungen 
+          •    Konzeptioneller Entwurf, Inbetriebnahme und Optimierung von Pilotanlagen/Prozessen
+
+          *Qualifikation*
+          •    Abschluss in Maschinenbau, Mechatronik oder Verfahrenstechnik mit Schwerpunkt Automatisierung oder ähnlichem
+          •    Breite technische Fähigkeiten und Interessen kombiniert mit einer praxisorientierten Mentalität und Erfahrung in der Problemlösung
+          •    Mindestens 3 Jahre einschlägige Berufserfahrung
+          •    Programmierkenntnisse und Erfahrung in der Implementierung von Steuerungssystemen
+          •    Teamfähigkeit
+          •    Englischkenntnisse (für die technische Kommunikation)
+
         actions: []
         colors: bg-light-fg-dark
         styles:
@@ -227,7 +252,16 @@ sections:
             borderWidth: 1
         type: FeaturedItem
         elementId: box2
-    actions: []
+    actions:
+      - type: Button
+        label: Jetzt bewerben
+        altText: Link zur Bewerbungs-Mail
+        url: mailto:jobs@rement.tech
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     badge: null
     elementId: '2'
     variant: toggle-list
@@ -243,6 +277,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+
 
   - type: RecentPostsSection
     title:
@@ -284,9 +319,8 @@ sections:
 seo:
   metaTitle: Rement - Werde Teil unseres Teams!
   metaDescription: >-
-    Mit dem Rement Verfahren Emissionen reduzieren, hochwertige
-    Upcycling-Produkte gewinnen und neue Märkte erschließen.
-  socialImage: /images/Rement Kreislaufschluss.webp
+    Wir entwickeln Beton-Upcycling-Anlagen, welche die klimaneutrale Kreislaufwirtschaft zur Wirklichkeit machen. Werde Teil unserer Mission.
+  socialImage: /images/rement-karriere-titelbild.webp
   type: Seo
   metaTags:
     - type: MetaTag
