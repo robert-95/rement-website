@@ -178,18 +178,18 @@ sections:
         text: |-
           Ab Oktober oder November suchen wir einen Techniker (m/w/d) in Vollzeit für unseren Standort am KIT in Karlsruhe, um unser Technikteam zu    unterstützen.
 
-          ### Verantwortlichkeiten
-          •	Mechanische und elektrische Montage von Pilot- und Industrieanlagen
-          •	Mitwirkung bei der Inbetriebnahme vor Ort oder beim Kunden
-          •	Durchführung von Funktionstests, Fehleranalysen und Optimierungen
-          •	Betreuung des laufenden Anlagenbetriebs
-          •	Dokumentation von Umbauten, Messergebnissen und Störungen
+          #### Verantwortlichkeiten
+          -	Mechanische und elektrische Montage von Pilot- und Industrieanlagen
+          -	Mitwirkung bei der Inbetriebnahme vor Ort oder beim Kunden
+          -	Durchführung von Funktionstests, Fehleranalysen und Optimierungen
+          -	Betreuung des laufenden Anlagenbetriebs
+          -	Dokumentation von Umbauten, Messergebnissen und Störungen
 
-          ### Qualifikationen
-          •	Abgeschlossene technische Ausbildung, idealerweise mit Weiterbildung zum Techniker oder (FH-)Aufbaustudium (z. B. Mechatronik, Maschinenbau, Elektrotechnik, Verfahrenstechnik)
-          •	Erste Erfahrung im Aufbau oder Betrieb technischer Anlagen von Vorteil
-          •	Kenntnisse im Lesen von technischen Zeichnungen, P&IDs und Schaltplänen
-          •	Grundkenntnisse in Steuerungs- oder Messtechnik sind von Vorteil
+          #### Qualifikationen
+          -	Abgeschlossene technische Ausbildung, idealerweise mit Weiterbildung zum Techniker oder (FH-)Aufbaustudium (z. B. Mechatronik, Maschinenbau, Elektrotechnik, Verfahrenstechnik)
+          -	Erste Erfahrung im Aufbau oder Betrieb technischer Anlagen von Vorteil
+          -	Kenntnisse im Lesen von technischen Zeichnungen, P&IDs und Schaltplänen
+          -	Grundkenntnisse in Steuerungs- oder Messtechnik sind von Vorteil
         
         actions: []
         colors: bg-light-fg-dark
@@ -213,20 +213,20 @@ sections:
           Ab Oktober oder November suchen wir einen Vollzeit-Entwicklungsingenieur für unseren Standort am KIT in Karlsruhe zur Unterstützung unseres Ingenieurteams.
 
           ### Verantwortlichkeiten
-          •    Entwurf und Implementierung von Steuerungs- und Automatisierungssystemen
-          •    Mechanischer Entwurf von Komponenten und Baugruppen mit CAD
-          •    Entwurf und Optimierung von Inline- und Online-Prozessanalysen
-          •    Prozessoptimierung auf Basis von Prozessanalysen und Automatisierungskonzepten
-          •    Entwicklung maßgeschneiderter Lösungen für unsere technologischen Herausforderungen 
-          •    Konzeptioneller Entwurf, Inbetriebnahme und Optimierung von Pilotanlagen/Prozessen
+          - Entwurf und Implementierung von Steuerungs- und Automatisierungssystemen
+          - Mechanischer Entwurf von Komponenten und Baugruppen mit CAD
+          - Entwurf und Optimierung von Inline- und Online-Prozessanalysen
+          - Prozessoptimierung auf Basis von Prozessanalysen und Automatisierungskonzepten
+          - Entwicklung maßgeschneiderter Lösungen für unsere technologischen Herausforderungen 
+          - Konzeptioneller Entwurf, Inbetriebnahme und Optimierung von Pilotanlagen/Prozessen
 
           ### Qualifikationen
-          •    Abschluss in Maschinenbau, Mechatronik oder Verfahrenstechnik mit Schwerpunkt Automatisierung oder ähnlichem
-          •    Breite technische Fähigkeiten und Interessen kombiniert mit einer praxisorientierten Mentalität und Erfahrung in der Problemlösung
-          •    Mindestens 3 Jahre einschlägige Berufserfahrung
-          •    Programmierkenntnisse und Erfahrung in der Implementierung von Steuerungssystemen
-          •    Teamfähigkeit
-          •    Englischkenntnisse (für die technische Kommunikation)
+          - Abschluss in Maschinenbau, Mechatronik oder Verfahrenstechnik mit Schwerpunkt Automatisierung oder ähnlichem
+          - Breite technische Fähigkeiten und Interessen kombiniert mit einer praxisorientierten Mentalität und Erfahrung in der Problemlösung
+          - Mindestens 3 Jahre relevante Berufserfahrung
+          - Programmierkenntnisse und Erfahrung in der Implementierung von Steuerungssystemen
+          - Teamfähigkeit
+          - Englischkenntnisse (für die technische Kommunikation)
 
         actions: []
         colors: bg-light-fg-dark
