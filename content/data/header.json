@@ -44,6 +44,17 @@
         },
         {
             "type": "Link",
+            "label": "Karriere",
+            "altText": "Link zur Karriere-Website",
+            "url": "/karriere",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
             "label": "LinkedIn",
             "altText": "LinkedIn",
             "url": "https://www.linkedin.com/company/rement/",
