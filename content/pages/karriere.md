@@ -175,7 +175,7 @@ sections:
       type: TitleBlock
     items:
       - title: Techniker (m/w/d)
-        text:
+        text: |-
           Ab Oktober oder November suchen wir einen Techniker (m/w/d) in Vollzeit für unseren Standort am KIT in Karlsruhe, um unser Technikteam zu    unterstützen.
 
           ### Verantwortlichkeiten
@@ -209,7 +209,7 @@ sections:
         type: FeaturedItem
         elementId: box1
       - title: Entwicklungs-Ingenieur (m/w/d)
-        text:
+        text: |-
           Ab Oktober oder November suchen wir einen Vollzeit-Entwicklungsingenieur für unseren Standort am KIT in Karlsruhe zur Unterstützung unseres Ingenieurteams.
 
           ### Verantwortlichkeiten
