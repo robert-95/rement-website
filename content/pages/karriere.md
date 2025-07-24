@@ -122,7 +122,7 @@ sections:
             borderWidth: 1
       - title: Gleichberechtigung, Diversität und Respekt
         text: >+
-          <div style="text-align: center">Unternehmen bestehen aus Menschen. Wir setzen auf vielfältige Perspektkiven und respektvollen Umgang.</div>
+          <div style="text-align: center">Unternehmen bestehen aus Menschen. Wir setzen auf vielfältige Perspektiven und respektvollen Umgang.</div>
 
         image:
           altText: Featured icon three
