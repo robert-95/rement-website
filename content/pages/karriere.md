@@ -208,27 +208,23 @@ sections:
             borderWidth: 1
         type: FeaturedItem
         elementId: box1
-        - title: Verfahrenstechnik-Ingenieur (m/w/d)
+      - title: Techniker (m/w/d)
         text: |-
-          Ab Oktober oder November suchen wir einen Verfahrenstechnik-Ingenieur für unseren Standort am KIT in Karlsruhe zur Unterstützung unseres Ingenieurteams.
+          Ab Oktober oder November suchen wir einen Techniker (m/w/d) in Vollzeit für unseren Standort am KIT in Karlsruhe, um unser Technikteam zu    unterstützen.
 
-          ### Verantwortlichkeiten
-          -   Entwurf, Simulation und Optimierung wichtiger Prozessschritte unserer Recyclingtechnologie – im Pilot- und kommerziellen Maßstab
-          -   Thermodynamische und Massen-/Energiebilanzanalyse der Kernprozesse
-          -   Prozesssimulation und -modellierung (z. B. mit Aspen Plus oder ähnlichen Tools)
-          -   Entwurf von PFDs und P&IDs
-          -   Planung und Unterstützung von Testkampagnen an Pilotanlagen
-          -   Umsetzung von Testergebnissen in Prozessverbesserungen und Scale-up-Strategien
-          -   Entwurf von Rohrleitungen, Auswahl von Fittings und Organisation der Rohrleitungsimplementierung
-          -   Unterstützung bei der Auswahl von Komponenten
+          #### Verantwortlichkeiten
+          -	Mechanische und elektrische Montage von Pilot- und Industrieanlagen
+          -	Mitwirkung bei der Inbetriebnahme vor Ort oder beim Kunden
+          -	Durchführung von Funktionstests, Fehleranalysen und Optimierungen
+          -	Betreuung des laufenden Anlagenbetriebs
+          -	Dokumentation von Umbauten, Messergebnissen und Störungen
 
-          ### Qualifikationen
-          - Abschluss in Verfahrenstechnik oder Maschinenbau
-          - Breite technische Kenntnisse und Interessen in Verbindung mit einer praxisorientierten Mentalität und Erfahrung in der Problemlösung
-          - Erste Berufserfahrung und abgeschlossene Projekte
-          - Teamfähigkeit und Kommunikationsstärke
-          - Englischkenntnisse (für die technische Kommunikation)
-
+          #### Qualifikationen
+          -	Abgeschlossene technische Ausbildung, idealerweise mit Weiterbildung zum Techniker oder (FH-)Aufbaustudium (z. B. Mechatronik, Maschinenbau, Elektrotechnik, Verfahrenstechnik)
+          -	Erste Erfahrung im Aufbau oder Betrieb technischer Anlagen von Vorteil
+          -	Kenntnisse im Lesen von technischen Zeichnungen, P&IDs und Schaltplänen
+          -	Grundkenntnisse in Steuerungs- oder Messtechnik sind von Vorteil
+        
         actions: []
         colors: bg-light-fg-dark
         styles:
@@ -245,9 +241,8 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
         type: FeaturedItem
-        elementId: box2
-
-        - title: Entwicklungs-Ingenieur (m/w/d)
+        elementId: box1
+      - title: Entwicklungs-Ingenieur (m/w/d)
         text: |-
           Ab Oktober oder November suchen wir einen Vollzeit-Entwicklungsingenieur für unseren Standort am KIT in Karlsruhe zur Unterstützung unseres Ingenieurteams.
 
@@ -283,7 +278,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
         type: FeaturedItem
-        elementId: box2  
+        elementId: box2
     actions:
       - type: Button
         label: Jetzt bewerben
