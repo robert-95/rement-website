@@ -208,7 +208,47 @@ sections:
             borderWidth: 1
         type: FeaturedItem
         elementId: box1
-      - title: Entwicklungs-Ingenieur (m/w/d)
+        
+      - title: Verfahrenstechnik-Ingenieur / Prozess-Ingenieur (m/w/d)
+        text: |-
+          Ab Oktober oder November suchen wir einen Verfahrenstechnik-Ingenieur für unseren Standort am KIT in Karlsruhe zur Unterstützung unseres Ingenieurteams.
+
+          ### Verantwortlichkeiten
+          -   Entwurf, Simulation und Optimierung wichtiger Prozessschritte unserer Recyclingtechnologie – im Pilot- und kommerziellen Maßstab
+          -   Thermodynamische und Massen-/Energiebilanzanalyse der Kernprozesse
+          -   Prozesssimulation und -modellierung (z. B. mit Aspen Plus oder ähnlichen Tools)
+          -   Entwurf von PFDs und P&IDs
+          -   Planung und Unterstützung von Testkampagnen an Pilotanlagen
+          -   Umsetzung von Testergebnissen in Prozessverbesserungen und Scale-up-Strategien
+          -   Entwurf von Rohrleitungen, Auswahl von Fittings und Organisation der Rohrleitungsimplementierung
+          -   Unterstützung bei der Auswahl von Komponenten
+
+          ### Qualifikationen
+          - Abschluss in Verfahrenstechnik oder Maschinenbau
+          - Breite technische Kenntnisse und Interessen in Verbindung mit einer praxisorientierten Mentalität und Erfahrung in der Problemlösung
+          - Erste Berufserfahrung und abgeschlossene Projekte
+          - Teamfähigkeit und Kommunikationsstärke
+          - Englischkenntnisse (für die technische Kommunikation)
+
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-5
+              - pl-5
+              - pb-5
+              - pr-5
+            textAlign: left
+            borderRadius: medium
+            flexDirection: row
+            justifyContent: center
+            borderColor: border-neutral
+            borderWidth: 1
+        type: FeaturedItem
+        elementId: box2
+
+        - title: Entwicklungs-Ingenieur (m/w/d)
         text: |-
           Ab Oktober oder November suchen wir einen Vollzeit-Entwicklungsingenieur für unseren Standort am KIT in Karlsruhe zur Unterstützung unseres Ingenieurteams.
 
@@ -244,7 +284,7 @@ sections:
             borderColor: border-neutral
             borderWidth: 1
         type: FeaturedItem
-        elementId: box2
+        elementId: box2  
     actions:
       - type: Button
         label: Jetzt bewerben
