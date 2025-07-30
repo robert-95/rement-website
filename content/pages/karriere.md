@@ -208,7 +208,6 @@ sections:
             borderWidth: 1
         type: FeaturedItem
         elementId: box1
-        
       - title: Verfahrenstechnik-Ingenieur (m/w/d)
         text: |-
           Ab Oktober oder November suchen wir einen Verfahrenstechnik-Ingenieur für unseren Standort am KIT in Karlsruhe zur Unterstützung unseres Ingenieurteams.
