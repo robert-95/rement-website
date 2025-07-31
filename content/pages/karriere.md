@@ -166,8 +166,7 @@ sections:
         textAlign: center
 
   - type: FeaturedItemsSection
-    title: Offene Stellen bei Rement
-      text: An unserem Standort in der Karlsruher Oststadt suchen wir...
+    title: An unserem Standort in der Karlsruher Oststadt suchen wir
       color: text-dark
       styles:
         self:
