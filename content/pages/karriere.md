@@ -166,12 +166,13 @@ sections:
         textAlign: center
 
   - type: FeaturedItemsSection
-    title: An unserem Standort in der Karlsruher Oststadt suchen wir
-    color: text-dark
-    styles:
-      self:
-        textAlign: center
-    type: TitleBlock
+    title:
+      text: Offene Stellen bei Rement am Standort Karlsruhe (Oststadt)
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
     items:
       - title: Techniker (m/w/d)
         text: |-
