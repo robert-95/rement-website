@@ -173,6 +173,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
+    text: An unserem Standort in der Karlsruher Oststadt suchen wir 
     items:
       - title: Techniker (m/w/d)
         text: |-
