@@ -70,8 +70,5 @@ Wir freuen uns sehr, dass wir Fach-Jury und Industriepartner überzeugen konnten
 
 In dem für 2025 und 2026 angesetzen Projekt werden wir unsere Technologie auf die lokalen Gegebenheiten ausrichten, vor Ort betreiben und Betrieb und Rohstoffqualitäten mit lokalen Vertretern aus der Papier-, Recycling- und Baustoffindustrie validieren. Wir bedanken uns bei den Industriepartnern für ihre Offenheit und Innovationsfreude und bei dem Team des Startup Labors für die hervorrangede Organisation. Let's design the industrial transition!
 
-Weitere Informationen:
-[Mehr zur Startup-Challenge](https://startuplabor-schwedt.de/innovationen/startup-challenge/)
-[Zur Berichterstattung des RBB](https://www.rbb24.de/wirtschaft/beitrag/2025/08/schwedt-uckermark-pck-startup-challenge-transformation.html)
-[Video vom Final-Tag](https://www.linkedin.com/posts/startup-labor-schwedt_pitch-day-startup-challenge-schwedt-activity-7358885034092564481-43Tr?utm_source=share&utm_medium=member_desktop&rcm=ACoAABvTZwIBG0OGQKNDKVNNw3l7hH8x_LJomxc)
+Hier finden Sie weitere [Informationen zur Startup-Challenge](https://startuplabor-schwedt.de/innovationen/startup-challenge/), die [Berichterstattung des RBB](https://www.rbb24.de/wirtschaft/beitrag/2025/08/schwedt-uckermark-pck-startup-challenge-transformation.html) und ein [Video vom Final-Tag](https://www.linkedin.com/posts/startup-labor-schwedt_pitch-day-startup-challenge-schwedt-activity-7358885034092564481-43Tr?utm_source=share&utm_medium=member_desktop&rcm=ACoAABvTZwIBG0OGQKNDKVNNw3l7hH8x_LJomxc).
 
