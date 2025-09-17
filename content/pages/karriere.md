@@ -246,43 +246,6 @@ sections:
             borderWidth: 1
         type: FeaturedItem
         elementId: box1
-      - title: Entwicklungs-Ingenieur (m/w/d)
-        text: |-
-          Ab Oktober oder November suchen wir einen Vollzeit-Entwicklungsingenieur für unseren Standort am KIT in Karlsruhe zur Unterstützung unseres Ingenieurteams.
-
-          ### Verantwortlichkeiten
-          - Entwurf und Implementierung von Steuerungs- und Automatisierungssystemen
-          - Mechanischer Entwurf von Komponenten und Baugruppen mit CAD
-          - Entwurf und Optimierung von Inline- und Online-Prozessanalysen
-          - Prozessoptimierung auf Basis von Prozessanalysen und Automatisierungskonzepten
-          - Entwicklung maßgeschneiderter Lösungen für unsere technologischen Herausforderungen 
-          - Konzeptioneller Entwurf, Inbetriebnahme und Optimierung von Pilotanlagen/Prozessen
-
-          ### Qualifikationen
-          - Abschluss in Maschinenbau, Mechatronik oder Verfahrenstechnik mit Schwerpunkt Automatisierung oder ähnlichem
-          - Breite technische Fähigkeiten und Interessen kombiniert mit einer praxisorientierten Mentalität und Erfahrung in der Problemlösung
-          - Mindestens 3 Jahre relevante Berufserfahrung
-          - Programmierkenntnisse und Erfahrung in der Implementierung von Steuerungssystemen
-          - Teamfähigkeit
-          - Englischkenntnisse (für die technische Kommunikation)
-
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-5
-              - pl-5
-              - pb-5
-              - pr-5
-            textAlign: left
-            borderRadius: medium
-            flexDirection: row
-            justifyContent: center
-            borderColor: border-neutral
-            borderWidth: 1
-        type: FeaturedItem
-        elementId: box2
     actions:
       - type: Button
         label: Jetzt bewerben
