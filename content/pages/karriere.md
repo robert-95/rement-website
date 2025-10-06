@@ -13,9 +13,9 @@ sections:
           textAlign: left
     subtitle: ''
     actions:
-      - label: Zu den Stellen
-        altText: Stellenanzeigen
-        url: '/karriere/#2'
+      - label: Initiativ bewerben
+        altText: Initiativ bewerben
+        url: 'mailto:jobs@rement.tech'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -61,6 +61,8 @@ sections:
 
 
       **Wir entwickeln Beton-Upcycling-Anlagen, welche die klimaneutrale Kreislaufwirtschaft zur Wirklichkeit machen. Werde Teil unserer Mission. **
+
+      **Aktuell haben wir keine Stellen ausgeschrieben. Du kannst dich aber jederzeit initiativ bewerben. **
 
   - type: FeaturedItemsSection
     title:
@@ -164,115 +166,114 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-<!--
-  - type: FeaturedItemsSection
-    title:
-      text: Offene Stellen bei Rement am Standort Karlsruhe (Oststadt)
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    items:
-      - title: Techniker (m/w/d)
-        text: |-
-          Ab Oktober oder November suchen wir einen Techniker (m/w/d) in Vollzeit für unseren Standort am KIT in Karlsruhe, um unser Technikteam zu    unterstützen.
 
-          #### Verantwortlichkeiten
-          -	Mechanische und elektrische Montage von Pilot- und Industrieanlagen
-          -	Mitwirkung bei der Inbetriebnahme vor Ort oder beim Kunden
-          -	Durchführung von Funktionstests, Fehleranalysen und Optimierungen
-          -	Betreuung des laufenden Anlagenbetriebs
-          -	Dokumentation von Umbauten, Messergebnissen und Störungen
-
-          #### Qualifikationen
-          -	Abgeschlossene technische Ausbildung, idealerweise mit Weiterbildung zum Techniker oder (FH-)Aufbaustudium (z. B. Mechatronik, Maschinenbau, Elektrotechnik, Verfahrenstechnik)
-          -	Erste Erfahrung im Aufbau oder Betrieb technischer Anlagen von Vorteil
-          -	Kenntnisse im Lesen von technischen Zeichnungen, P&IDs und Schaltplänen
-          -	Grundkenntnisse in Steuerungs- oder Messtechnik sind von Vorteil
+#  - type: FeaturedItemsSection
+#    title:
+#      text: Offene Stellen bei Rement am Standort Karlsruhe (Oststadt)
+#      color: text-dark
+#      styles:
+#        self:
+#          textAlign: center
+#      type: TitleBlock
+#    items:
+#      - title: Techniker (m/w/d)
+#        text: |-
+#          Ab Oktober oder November suchen wir einen Techniker (m/w/d) in Vollzeit für unseren Standort am KIT in Karlsruhe, um unser Technikteam zu    unterstützen.
+#
+#          #### Verantwortlichkeiten
+#          -	Mechanische und elektrische Montage von Pilot- und Industrieanlagen
+#          -	Mitwirkung bei der Inbetriebnahme vor Ort oder beim Kunden
+#          -	Durchführung von Funktionstests, Fehleranalysen und Optimierungen
+#          -	Betreuung des laufenden Anlagenbetriebs
+#          -	Dokumentation von Umbauten, Messergebnissen und Störungen
+#
+#          #### Qualifikationen
+#          -	Abgeschlossene technische Ausbildung, idealerweise mit Weiterbildung zum Techniker oder (FH-)Aufbaustudium (z. B. Mechatronik, Maschinenbau, Elektrotechnik, Verfahrenstechnik)
+#          -	Erste Erfahrung im Aufbau oder Betrieb technischer Anlagen von Vorteil
+#          -	Kenntnisse im Lesen von technischen Zeichnungen, P&IDs und Schaltplänen
+#          -	Grundkenntnisse in Steuerungs- oder Messtechnik sind von Vorteil
+#        
+#        actions: []
+#        colors: bg-light-fg-dark
+#        styles:
+#          self:
+#            padding:
+#              - pt-5
+#              - pl-5
+#              - pb-5
+#              - pr-5
+#            textAlign: left
+#            borderRadius: medium
+#            flexDirection: row
+#            justifyContent: center
+#            borderColor: border-neutral
+#            borderWidth: 1
+#        type: FeaturedItem
+#        elementId: box1
+#      - title: Verfahrenstechnik-Ingenieur (m/w/d)
+#        text: |-
+#          Ab Oktober oder November suchen wir einen Verfahrenstechnik-Ingenieur (m/w/d) in Vollzeit für unseren Standort am KIT in Karlsruhe, um unser Technikteam zu unterstützen.
+#
+#          #### Verantwortlichkeiten
+#          -	Entwurf, Simulation und Optimierung wichtiger Prozessschritte unserer Recyclingtechnologie – im Pilot- und kommerziellen Maßstab
+#          -	Thermodynamische und Massen-/Energiebilanzanalyse der Kernprozesse
+#          -	Prozesssimulation und -modellierung (z. B. mit Aspen Plus oder ähnlichen Tools)
+#          -	Entwurf von PFDs und P&IDs
+#          -	Planung und Unterstützung von Testkampagnen an Pilotanlagen
+#          -	Umsetzung von Testergebnissen in Prozessverbesserungen und Scale-up-Strategien
+#          -	Entwurf von Rohrleitungen, Auswahl von Armaturen und Organisation der Rohrleitungsimplementierung
+#          -	Unterstützung bei der Auswahl von Anlagen und der Prozessintegration über Systeme hinweg
+#
+#          #### Qualifikationen
+#          -	Abschluss in Verfahrenstechnik, Maschinenbau mit Schwerpunkt Verfahrenstechnik, oder vergleichbar
+#          -	Breite technische Kenntnisse und Interessen in Verbindung mit einer praxisorientierten Mentalität und Erfahrung in der Problemlösung
+#          -	Erste Berufserfahrung und abgeschlossene Projekte
+#          -	Teamfähigkeit und Kommunikationsstärke
+#          -	Englischkenntnisse (für die technische Kommunikation)
         
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-5
-              - pl-5
-              - pb-5
-              - pr-5
-            textAlign: left
-            borderRadius: medium
-            flexDirection: row
-            justifyContent: center
-            borderColor: border-neutral
-            borderWidth: 1
-        type: FeaturedItem
-        elementId: box1
-      - title: Verfahrenstechnik-Ingenieur (m/w/d)
-        text: |-
-          Ab Oktober oder November suchen wir einen Verfahrenstechnik-Ingenieur (m/w/d) in Vollzeit für unseren Standort am KIT in Karlsruhe, um unser Technikteam zu unterstützen.
+#        actions: []
+#        colors: bg-light-fg-dark
+#        styles:
+#          self:
+#            padding:
+#              - pt-5
+#              - pl-5
+#              - pb-5
+#              - pr-5
+#            textAlign: left
+#            borderRadius: medium
+#            flexDirection: row
+#            justifyContent: center
+#            borderColor: border-neutral
+#            borderWidth: 1
+#        type: FeaturedItem
+#        elementId: box1
+#    actions:
+#      - type: Button
+#        label: Jetzt bewerben
+#        altText: Link zur Bewerbungs-Mail
+#        url: mailto:jobs@rement.tech
+#        showIcon: false
+#        icon: arrowRight
+#        iconPosition: right
+#        style: primary
+#        elementId: ''
+#    badge: null
+#    elementId: '2'
+#    variant: toggle-list
+#    colors: bg-light-fg-dark
+#    backgroundImage: null
+#    styles:
+#      self:
+#        padding:
+#          - pb-16
+#          - pt-8
+#          - pl-8
+#          - pr-8
+#        justifyContent: center
+#      subtitle:
+#        textAlign: center
 
-          #### Verantwortlichkeiten
-          -	Entwurf, Simulation und Optimierung wichtiger Prozessschritte unserer Recyclingtechnologie – im Pilot- und kommerziellen Maßstab
-          -	Thermodynamische und Massen-/Energiebilanzanalyse der Kernprozesse
-          -	Prozesssimulation und -modellierung (z. B. mit Aspen Plus oder ähnlichen Tools)
-          -	Entwurf von PFDs und P&IDs
-          -	Planung und Unterstützung von Testkampagnen an Pilotanlagen
-          -	Umsetzung von Testergebnissen in Prozessverbesserungen und Scale-up-Strategien
-          -	Entwurf von Rohrleitungen, Auswahl von Armaturen und Organisation der Rohrleitungsimplementierung
-          -	Unterstützung bei der Auswahl von Anlagen und der Prozessintegration über Systeme hinweg
-
-          #### Qualifikationen
-          -	Abschluss in Verfahrenstechnik, Maschinenbau mit Schwerpunkt Verfahrenstechnik, oder vergleichbar
-          -	Breite technische Kenntnisse und Interessen in Verbindung mit einer praxisorientierten Mentalität und Erfahrung in der Problemlösung
-          -	Erste Berufserfahrung und abgeschlossene Projekte
-          -	Teamfähigkeit und Kommunikationsstärke
-          -	Englischkenntnisse (für die technische Kommunikation)
-        
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-5
-              - pl-5
-              - pb-5
-              - pr-5
-            textAlign: left
-            borderRadius: medium
-            flexDirection: row
-            justifyContent: center
-            borderColor: border-neutral
-            borderWidth: 1
-        type: FeaturedItem
-        elementId: box1
-    actions:
-      - type: Button
-        label: Jetzt bewerben
-        altText: Link zur Bewerbungs-Mail
-        url: mailto:jobs@rement.tech
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    badge: null
-    elementId: '2'
-    variant: toggle-list
-    colors: bg-light-fg-dark
-    backgroundImage: null
-    styles:
-      self:
-        padding:
-          - pb-16
-          - pt-8
-          - pl-8
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-
--->
   - type: RecentPostsSection
     title:
       text: Neuigkeiten
