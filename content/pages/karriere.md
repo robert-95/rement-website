@@ -165,7 +165,7 @@ sections:
       subtitle:
         textAlign: center
 
-  - type: FeaturedItemsSection
+<!---  - type: FeaturedItemsSection
     title:
       text: Offene Stellen bei Rement am Standort Karlsruhe (Oststadt)
       color: text-dark
@@ -272,7 +272,7 @@ sections:
       subtitle:
         textAlign: center
 
-
+--->
   - type: RecentPostsSection
     title:
       text: Neuigkeiten
