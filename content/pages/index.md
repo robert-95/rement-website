@@ -514,7 +514,6 @@ sections:
       - content/data/person-z7e0j5wgi.json
       - content/data/person-f6up4hjar.json
       - content/data/team/tim.json
-      - content/data/team/shabnam.json
       - content/data/team/amanda.json
       - content/data/team/Tiya-Greenwood.json
       - content/data/team/Faizah-Chan.json
